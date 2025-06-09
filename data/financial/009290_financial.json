@@ -1,0 +1,23 @@
+{
+  "ticker": "009290",
+  "name": "광동제약",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 377603695587,
+  "operating_profit": 3308594490,
+  "net_income": 4060876881,
+  "total_assets": 1162213276914,
+  "total_debt": 545494593480,
+  "total_equity": 616718683434,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -8.45667099299775,
+  "operating_profit_yoy": -80.57191795214322,
+  "net_income_yoy": -77.88167238026907,
+  "debt_ratio": 88.4511217404001,
+  "operating_margin": 0.8762081856367052,
+  "net_margin": 1.0754335639345916,
+  "roe": 2.6338601310979004,
+  "cached_at": "2025-06-09T15:58:07.193030"
+}

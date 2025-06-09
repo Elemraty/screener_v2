@@ -1,0 +1,21 @@
+{
+  "ticker": "069540",
+  "name": "빛과전자",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 8459555971,
+  "operating_profit": -2260980732,
+  "net_income": -1987384831,
+  "total_assets": 82055089601,
+  "total_debt": 21539303613,
+  "total_equity": 60515785988,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 122.17338102117692,
+  "debt_ratio": 35.59286764823833,
+  "operating_margin": -26.72694334963695,
+  "net_margin": -23.492779500636985,
+  "roe": -13.136306823440014,
+  "cached_at": "2025-06-09T16:16:26.258455"
+}

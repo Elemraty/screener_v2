@@ -1,0 +1,23 @@
+{
+  "ticker": "005180",
+  "name": "빙그레",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 308501582515,
+  "operating_profit": 13452024668,
+  "net_income": 11577536402,
+  "total_assets": 1007222121907,
+  "total_debt": 303074482919,
+  "total_equity": 704147638988,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 2.5378611493325876,
+  "operating_profit_yoy": -36.105633568288056,
+  "net_income_yoy": -36.80443837801663,
+  "debt_ratio": 43.04132629835672,
+  "operating_margin": 4.3604394370800135,
+  "net_margin": 3.7528288534588237,
+  "roe": 6.5767664398558345,
+  "cached_at": "2025-06-09T16:00:37.413169"
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "171090",
+  "name": "선익시스템",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 15893871978,
+  "operating_profit": -1794502313,
+  "net_income": -3428221446,
+  "total_assets": 364299920845,
+  "total_debt": 320790580680,
+  "total_equity": 43509340165,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -8.278502570356105,
+  "debt_ratio": 737.2913021973428,
+  "operating_margin": -11.290529554308204,
+  "net_margin": -21.569454257246313,
+  "roe": -31.51710812436312,
+  "cached_at": "2025-06-09T16:17:43.401181"
+}

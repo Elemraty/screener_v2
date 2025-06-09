@@ -1,0 +1,23 @@
+{
+  "ticker": "066700",
+  "name": "테라젠이텍스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 67186794792,
+  "operating_profit": 4501585550,
+  "net_income": -2472236307,
+  "total_assets": 243971786805,
+  "total_debt": 102686486505,
+  "total_equity": 141285300300,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 10.691547362059751,
+  "operating_profit_yoy": 19.640792929905526,
+  "net_income_yoy": -225.50373266336993,
+  "debt_ratio": 72.68023374474153,
+  "operating_margin": 6.700104632072742,
+  "net_margin": -3.679646148701786,
+  "roe": -6.999273956315469,
+  "cached_at": "2025-06-09T16:37:17.876510"
+}

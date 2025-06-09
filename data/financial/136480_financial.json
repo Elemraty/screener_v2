@@ -1,0 +1,22 @@
+{
+  "ticker": "136480",
+  "name": "하림",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 322478518000,
+  "operating_profit": 6947873000,
+  "net_income": 2856623000,
+  "total_assets": 869042856000,
+  "total_debt": 577202643000,
+  "total_equity": 291840213000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 5.467746142223118,
+  "operating_profit_yoy": -32.92167289910185,
+  "debt_ratio": 197.7803665459907,
+  "operating_margin": 2.1545227394030633,
+  "net_margin": 0.8858335797735215,
+  "roe": 3.915324719146912,
+  "cached_at": "2025-06-09T16:40:08.844695"
+}

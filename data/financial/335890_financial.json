@@ -1,0 +1,13 @@
+{
+  "ticker": "335890",
+  "name": "비올",
+  "market": "KOSDAQ",
+  "bps": 1538,
+  "per": 18.82,
+  "eps": 559,
+  "pbr": 6.84,
+  "roe": 36.34590377113134,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:16:11.544890"
+}

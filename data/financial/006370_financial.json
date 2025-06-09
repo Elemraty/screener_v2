@@ -1,0 +1,21 @@
+{
+  "ticker": "006370",
+  "name": "대구백화점",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 14135858891,
+  "operating_profit": -3818606191,
+  "net_income": -8301653340,
+  "total_assets": 427088141175,
+  "total_debt": 267554037452,
+  "total_equity": 159534103723,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -12.26208857499066,
+  "debt_ratio": 167.70961895179207,
+  "operating_margin": -27.013612829930167,
+  "net_margin": -58.72761891592937,
+  "roe": -20.814742794842687,
+  "cached_at": "2025-06-09T15:58:43.642467"
+}

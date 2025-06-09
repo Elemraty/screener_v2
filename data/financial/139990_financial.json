@@ -1,0 +1,22 @@
+{
+  "ticker": "139990",
+  "name": "아주스틸",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 284682978948,
+  "operating_profit": -6755586949,
+  "net_income": -18083322640,
+  "total_assets": 996848190337,
+  "total_debt": 837104239634,
+  "total_equity": 159743950703,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 14.390420143001847,
+  "operating_profit_yoy": -389.31469864191774,
+  "debt_ratio": 524.0287572393684,
+  "operating_margin": -2.3730210263937033,
+  "net_margin": -6.3520912654574575,
+  "roe": -45.28076978294088,
+  "cached_at": "2025-06-09T16:02:10.291192"
+}

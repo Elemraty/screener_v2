@@ -1,0 +1,21 @@
+{
+  "ticker": "037270",
+  "name": "YG PLUS",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 59009773564,
+  "operating_profit": 8718240221,
+  "net_income": 6958268498,
+  "total_assets": 255911432561,
+  "total_debt": 80034573884,
+  "total_equity": 175876858677,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 42.32821841505219,
+  "debt_ratio": 45.50602875559909,
+  "operating_margin": 14.774230935735572,
+  "net_margin": 11.791722078806654,
+  "roe": 15.825319033651711,
+  "cached_at": "2025-06-09T15:57:55.406544"
+}

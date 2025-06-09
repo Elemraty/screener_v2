@@ -1,0 +1,23 @@
+{
+  "ticker": "030610",
+  "name": "교보증권",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1108266590645,
+  "operating_profit": 67178773455,
+  "net_income": 51710370168,
+  "total_assets": 16203069394633,
+  "total_debt": 14169251364808,
+  "total_equity": 2033818029825,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -2.2051851333170447,
+  "operating_profit_yoy": 67.45703437426478,
+  "net_income_yoy": 61.72858484579502,
+  "debt_ratio": 696.6823558952908,
+  "operating_margin": 6.061607741500412,
+  "net_margin": 4.665878282760927,
+  "roe": 10.170107533651754,
+  "cached_at": "2025-06-09T15:58:09.312506"
+}

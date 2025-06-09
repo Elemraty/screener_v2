@@ -1,0 +1,13 @@
+{
+  "ticker": "336570",
+  "name": "원텍",
+  "market": "KOSDAQ",
+  "bps": 1419,
+  "per": 28.44,
+  "eps": 327,
+  "pbr": 6.55,
+  "roe": 23.044397463002113,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:30:30.781378"
+}

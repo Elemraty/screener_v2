@@ -1,0 +1,23 @@
+{
+  "ticker": "012030",
+  "name": "DB",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 141903846269,
+  "operating_profit": 17356581190,
+  "net_income": 21249730969,
+  "total_assets": 837430009333,
+  "total_debt": 421874601332,
+  "total_equity": 415555408001,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 19.362824565088733,
+  "operating_profit_yoy": 123.75195662397202,
+  "net_income_yoy": 187.23116977747628,
+  "debt_ratio": 101.52066203671805,
+  "operating_margin": 12.231226740040576,
+  "net_margin": 14.974739253168623,
+  "roe": 20.45429375709038,
+  "cached_at": "2025-06-09T15:55:53.237777"
+}

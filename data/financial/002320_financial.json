@@ -1,0 +1,22 @@
+{
+  "ticker": "002320",
+  "name": "한진",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 729112019663,
+  "operating_profit": 27317916728,
+  "net_income": 502903022,
+  "total_assets": 4204467088728,
+  "total_debt": 2691996378559,
+  "total_equity": 1512470710169,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 2.3802168934982104,
+  "operating_profit_yoy": 16.810418275979288,
+  "debt_ratio": 177.9866783838877,
+  "operating_margin": 3.746737948529021,
+  "net_margin": 0.06897472657664384,
+  "roe": 0.13300172191600507,
+  "cached_at": "2025-06-09T16:05:18.427848"
+}

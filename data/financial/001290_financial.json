@@ -1,0 +1,21 @@
+{
+  "ticker": "001290",
+  "name": "상상인증권",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 44637567584,
+  "operating_profit": 20704251,
+  "net_income": 188410570,
+  "total_assets": 1669451030054,
+  "total_debt": 1491249418197,
+  "total_equity": 178201611857,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -48.33919250533463,
+  "debt_ratio": 836.8327326880022,
+  "operating_margin": 0.04638301798376057,
+  "net_margin": 0.42208968856881524,
+  "roe": 0.42291552368492,
+  "cached_at": "2025-06-09T16:01:12.565055"
+}

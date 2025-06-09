@@ -1,0 +1,21 @@
+{
+  "ticker": "271830",
+  "name": "팸텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 3126952639,
+  "operating_profit": -3227053186,
+  "net_income": -3305694554,
+  "total_assets": 86685004070,
+  "total_debt": 23137852830,
+  "total_equity": 63547151240,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -60.30903497264146,
+  "debt_ratio": 36.410527267563474,
+  "operating_margin": -103.20121724107763,
+  "net_margin": -105.7161695630018,
+  "roe": -20.80782215722185,
+  "cached_at": "2025-06-09T16:38:30.265858"
+}

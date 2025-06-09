@@ -1,0 +1,23 @@
+{
+  "ticker": "054300",
+  "name": "팬스타엔터프라이즈",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 17098628904,
+  "operating_profit": 358695784,
+  "net_income": 317682928,
+  "total_assets": 96808338942,
+  "total_debt": 40212201762,
+  "total_equity": 56596137180,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 26.52892075449902,
+  "operating_profit_yoy": 54.0285370611981,
+  "net_income_yoy": 36.929992940679114,
+  "debt_ratio": 71.05114194297032,
+  "operating_margin": 2.0978043679051237,
+  "net_margin": 1.857943872480221,
+  "roe": 2.245262265794798,
+  "cached_at": "2025-06-09T16:38:27.060437"
+}

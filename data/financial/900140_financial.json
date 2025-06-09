@@ -1,0 +1,23 @@
+{
+  "ticker": "900140",
+  "name": "엘브이엠씨홀딩스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 71528125,
+  "operating_profit": 7529073,
+  "net_income": 2912293,
+  "total_assets": 506566905,
+  "total_debt": 183316110,
+  "total_equity": 323250795,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 30.636895576889156,
+  "operating_profit_yoy": 224.92662357082654,
+  "net_income_yoy": 1634.829512962257,
+  "debt_ratio": 56.71018071278061,
+  "operating_margin": 10.526031543536195,
+  "net_margin": 4.0715354974004985,
+  "roe": 3.6037566435064763,
+  "cached_at": "2025-06-09T16:02:22.917842"
+}

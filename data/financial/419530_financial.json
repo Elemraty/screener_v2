@@ -1,0 +1,13 @@
+{
+  "ticker": "419530",
+  "name": "SAMG엔터",
+  "market": "KOSDAQ",
+  "bps": 3652,
+  "per": 0.0,
+  "eps": 0,
+  "pbr": 20.59,
+  "roe": 0.0,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:07:59.661213"
+}

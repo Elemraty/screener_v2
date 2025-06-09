@@ -1,0 +1,22 @@
+{
+  "ticker": "065370",
+  "name": "위세아이텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 6109788987,
+  "operating_profit": -1073190351,
+  "net_income": -1531612017,
+  "total_assets": 61045776747,
+  "total_debt": 32290306461,
+  "total_equity": 28755470286,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 0.8278835534102802,
+  "net_income_yoy": -685.9551475053804,
+  "debt_ratio": 112.29274339749186,
+  "operating_margin": -17.565096818948454,
+  "net_margin": -25.068165533357394,
+  "roe": -21.305330801641407,
+  "cached_at": "2025-06-09T16:30:55.136624"
+}

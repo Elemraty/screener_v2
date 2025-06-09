@@ -1,0 +1,23 @@
+{
+  "ticker": "095570",
+  "name": "AJ네트웍스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 261122037529,
+  "operating_profit": 15948417838,
+  "net_income": 5183305353,
+  "total_assets": 1758818519349,
+  "total_debt": 1322536792752,
+  "total_equity": 436281726597,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 6.67498241187594,
+  "operating_profit_yoy": -18.091502075029354,
+  "net_income_yoy": -1.8920395247497335,
+  "debt_ratio": 303.1382503841714,
+  "operating_margin": 6.107649124110707,
+  "net_margin": 1.9850126025553652,
+  "roe": 4.752255285528286,
+  "cached_at": "2025-06-09T15:55:41.427877"
+}

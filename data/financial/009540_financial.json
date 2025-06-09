@@ -1,0 +1,23 @@
+{
+  "ticker": "009540",
+  "name": "HD한국조선해양",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 6771705878000,
+  "operating_profit": 859154446000,
+  "net_income": 611625281000,
+  "total_assets": 39488199415000,
+  "total_debt": 25016944532000,
+  "total_equity": 14471254883000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 22.773115539073775,
+  "operating_profit_yoy": 436.42647586586907,
+  "net_income_yoy": 216.33769544087676,
+  "debt_ratio": 172.87335987280875,
+  "operating_margin": 12.687415275835168,
+  "net_margin": 9.032070973239632,
+  "roe": 16.90593624243333,
+  "cached_at": "2025-06-09T15:56:15.269061"
+}

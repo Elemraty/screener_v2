@@ -1,0 +1,23 @@
+{
+  "ticker": "142280",
+  "name": "녹십자엠에스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 26481930784,
+  "operating_profit": 495477577,
+  "net_income": -727253745,
+  "total_assets": 95386045928,
+  "total_debt": 52684549153,
+  "total_equity": 42701496775,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 11.74512791072333,
+  "operating_profit_yoy": 539.5442420846075,
+  "net_income_yoy": -157.92394573238963,
+  "debt_ratio": 123.37869426592249,
+  "operating_margin": 1.8710024621745494,
+  "net_margin": -2.746226288905627,
+  "roe": -6.8124426535397475,
+  "cached_at": "2025-06-09T16:10:27.970119"
+}

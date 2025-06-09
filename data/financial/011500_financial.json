@@ -1,0 +1,23 @@
+{
+  "ticker": "011500",
+  "name": "한농화성",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 62404216036,
+  "operating_profit": 632347594,
+  "net_income": 3084352787,
+  "total_assets": 237903191028,
+  "total_debt": 70858375947,
+  "total_equity": 167044815081,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -4.714365550072874,
+  "operating_profit_yoy": -59.70945581917244,
+  "net_income_yoy": 137.55021186254268,
+  "debt_ratio": 42.41878199729862,
+  "operating_margin": 1.0133090905832527,
+  "net_margin": 4.942539115018584,
+  "roe": 7.385689368459351,
+  "cached_at": "2025-06-09T16:05:01.152218"
+}

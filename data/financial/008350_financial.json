@@ -1,0 +1,23 @@
+{
+  "ticker": "008350",
+  "name": "남선알미늄",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 63682672691,
+  "operating_profit": 542446140,
+  "net_income": 6564560284,
+  "total_assets": 418553223208,
+  "total_debt": 114590232222,
+  "total_equity": 303962990986,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -12.984418428091915,
+  "operating_profit_yoy": -74.47769059628277,
+  "net_income_yoy": 3083.700547635114,
+  "debt_ratio": 37.698744788071195,
+  "operating_margin": 0.851795499589108,
+  "net_margin": 10.308236144315817,
+  "roe": 8.63863098952379,
+  "cached_at": "2025-06-09T15:58:24.782727"
+}

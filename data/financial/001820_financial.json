@@ -1,0 +1,23 @@
+{
+  "ticker": "001820",
+  "name": "삼화콘덴서",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 72425939422,
+  "operating_profit": 4814702373,
+  "net_income": 4050833409,
+  "total_assets": 336600207608,
+  "total_debt": 67550910443,
+  "total_equity": 269049297165,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -1.63532110672433,
+  "operating_profit_yoy": -32.381587695590866,
+  "net_income_yoy": -46.279252260496065,
+  "debt_ratio": 25.10726144048353,
+  "operating_margin": 6.647759644436856,
+  "net_margin": 5.593069888120119,
+  "roe": 6.022440425132563,
+  "cached_at": "2025-06-09T16:01:11.522941"
+}

@@ -1,0 +1,13 @@
+{
+  "ticker": "437730",
+  "name": "삼현",
+  "market": "KOSDAQ",
+  "bps": 3627,
+  "per": 48.28,
+  "eps": 274,
+  "pbr": 3.65,
+  "roe": 7.554452715743039,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:16:59.873427"
+}

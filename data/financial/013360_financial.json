@@ -1,0 +1,23 @@
+{
+  "ticker": "013360",
+  "name": "일성건설",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 114090329753,
+  "operating_profit": 3002955119,
+  "net_income": 727551058,
+  "total_assets": 400836601146,
+  "total_debt": 334707354301,
+  "total_equity": 66129246845,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -22.670244938070873,
+  "operating_profit_yoy": 39.182460708145015,
+  "net_income_yoy": -63.61597847577326,
+  "debt_ratio": 506.14118604060144,
+  "operating_margin": 2.632085581224326,
+  "net_margin": 0.6376973925617645,
+  "roe": 4.400782363091497,
+  "cached_at": "2025-06-09T16:03:14.012837"
+}

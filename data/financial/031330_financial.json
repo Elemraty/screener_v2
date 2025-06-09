@@ -1,0 +1,23 @@
+{
+  "ticker": "031330",
+  "name": "에스에이엠티",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 764364570949,
+  "operating_profit": 19538257149,
+  "net_income": 11909007621,
+  "total_assets": 981250480319,
+  "total_debt": 558640502729,
+  "total_equity": 422609977590,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 10.791322971089246,
+  "operating_profit_yoy": -9.094757356136151,
+  "net_income_yoy": -25.388003743962795,
+  "debt_ratio": 132.18819534615238,
+  "operating_margin": 2.5561437423430284,
+  "net_margin": 1.558027160549098,
+  "roe": 11.27186602541946,
+  "cached_at": "2025-06-09T16:22:33.169506"
+}

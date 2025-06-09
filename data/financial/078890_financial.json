@@ -1,0 +1,21 @@
+{
+  "ticker": "078890",
+  "name": "가온그룹",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 127278741953,
+  "operating_profit": 443361621,
+  "net_income": 3259616971,
+  "total_assets": 392556936111,
+  "total_debt": 278732715061,
+  "total_equity": 113824221050,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 9.377241084496092,
+  "debt_ratio": 244.8799671016945,
+  "operating_margin": 0.34833909747766,
+  "net_margin": 2.561006591504238,
+  "roe": 11.454915099548577,
+  "cached_at": "2025-06-09T16:08:27.952348"
+}

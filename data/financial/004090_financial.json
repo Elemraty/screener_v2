@@ -1,0 +1,23 @@
+{
+  "ticker": "004090",
+  "name": "한국석유",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 158696352850,
+  "operating_profit": 589289864,
+  "net_income": -562932848,
+  "total_assets": 381217682268,
+  "total_debt": 182920600801,
+  "total_equity": 198297081467,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -4.3461238859983435,
+  "operating_profit_yoy": -71.51681540033022,
+  "net_income_yoy": -169.6538942072984,
+  "debt_ratio": 92.24573526133368,
+  "operating_margin": 0.37133169944806327,
+  "net_margin": -0.35472324214790546,
+  "roe": -1.1355343080905234,
+  "cached_at": "2025-06-09T16:04:49.911612"
+}

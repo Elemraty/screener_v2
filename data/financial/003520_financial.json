@@ -1,0 +1,23 @@
+{
+  "ticker": "003520",
+  "name": "영진약품",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 64074269836,
+  "operating_profit": 2615413296,
+  "net_income": 976292654,
+  "total_assets": 237480879990,
+  "total_debt": 146645878852,
+  "total_equity": 90835001138,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -1.341921003578661,
+  "operating_profit_yoy": -43.16625863841287,
+  "net_income_yoy": -76.14530580157306,
+  "debt_ratio": 161.4420399788513,
+  "operating_margin": 4.081846430235145,
+  "net_margin": 1.5236890822148268,
+  "roe": 4.2991914648265555,
+  "cached_at": "2025-06-09T16:02:26.472527"
+}

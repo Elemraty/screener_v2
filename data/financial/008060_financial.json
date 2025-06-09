@@ -1,0 +1,23 @@
+{
+  "ticker": "008060",
+  "name": "대덕",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 300768507587,
+  "operating_profit": -17590554092,
+  "net_income": -11154406942,
+  "total_assets": 1815028619703,
+  "total_debt": 349839662269,
+  "total_equity": 1465188957434,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -7.637884338708744,
+  "operating_profit_yoy": -736.0189516801424,
+  "net_income_yoy": -207.88919998191417,
+  "debt_ratio": 23.876760775052364,
+  "operating_margin": -5.848535883336049,
+  "net_margin": -3.7086352662016946,
+  "roe": -3.0451790904935083,
+  "cached_at": "2025-06-09T15:58:44.691106"
+}

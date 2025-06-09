@@ -1,0 +1,23 @@
+{
+  "ticker": "197140",
+  "name": "디지캡",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 15260296047,
+  "operating_profit": -1099957621,
+  "net_income": -748270141,
+  "total_assets": 75064459101,
+  "total_debt": 18604600637,
+  "total_equity": 56459858464,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 82.16389204967085,
+  "operating_profit_yoy": -203.67735912703972,
+  "net_income_yoy": -181.13969327152276,
+  "debt_ratio": 32.951908033674385,
+  "operating_margin": -7.207970393315136,
+  "net_margin": -4.903378929841281,
+  "roe": -5.301254104114433,
+  "cached_at": "2025-06-09T16:12:51.194336"
+}

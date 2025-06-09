@@ -1,0 +1,13 @@
+{
+  "ticker": "310870",
+  "name": "디와이씨",
+  "market": "KOSDAQ",
+  "bps": 2453,
+  "per": 50.87,
+  "eps": 31,
+  "pbr": 0.64,
+  "roe": 1.2637586628618018,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:12:45.922520"
+}

@@ -1,0 +1,13 @@
+{
+  "ticker": "452450",
+  "name": "피아이이",
+  "market": "KOSDAQ",
+  "bps": 1619,
+  "per": 26.07,
+  "eps": 326,
+  "pbr": 5.25,
+  "roe": 20.13588634959852,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:39:25.789803"
+}

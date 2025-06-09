@@ -1,0 +1,22 @@
+{
+  "ticker": "047920",
+  "name": "HLB제약",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 34646336115,
+  "operating_profit": 1986491626,
+  "net_income": 1568367252,
+  "total_assets": 144595615379,
+  "total_debt": 35493008791,
+  "total_equity": 109102606588,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 3.571432932842744,
+  "operating_profit_yoy": 63.40754699814377,
+  "debt_ratio": 32.53176977249581,
+  "operating_margin": 5.733626838365619,
+  "net_margin": 4.5267910776891105,
+  "roe": 5.750063361630085,
+  "cached_at": "2025-06-09T16:06:50.507554"
+}

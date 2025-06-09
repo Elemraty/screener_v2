@@ -1,0 +1,21 @@
+{
+  "ticker": "139050",
+  "name": "BF랩스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 3942872880,
+  "operating_profit": -695250665,
+  "net_income": -1324419661,
+  "total_assets": 38009303953,
+  "total_debt": 19047211823,
+  "total_equity": 18962092130,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -23.546791568082792,
+  "debt_ratio": 100.44889399553824,
+  "operating_margin": -17.63309866079172,
+  "net_margin": -33.590219652224754,
+  "roe": -27.938260228250456,
+  "cached_at": "2025-06-09T16:06:11.146943"
+}

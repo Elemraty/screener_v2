@@ -1,0 +1,23 @@
+{
+  "ticker": "005680",
+  "name": "삼영전자",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 40378152270,
+  "operating_profit": 3323865262,
+  "net_income": 4599776596,
+  "total_assets": 564407831813,
+  "total_debt": 34800083406,
+  "total_equity": 529607748407,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -2.184189833483041,
+  "operating_profit_yoy": 246.89160654993555,
+  "net_income_yoy": 31.968107753121622,
+  "debt_ratio": 6.570916590755083,
+  "operating_margin": 8.23184092172923,
+  "net_margin": 11.391746123602402,
+  "roe": 3.474100679104946,
+  "cached_at": "2025-06-09T16:01:04.157544"
+}

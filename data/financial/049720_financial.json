@@ -1,0 +1,23 @@
+{
+  "ticker": "049720",
+  "name": "고려신용정보",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 42646512366,
+  "operating_profit": 3325381006,
+  "net_income": 2744151120,
+  "total_assets": 101127108352,
+  "total_debt": 48832160849,
+  "total_equity": 52294947503,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 2.74770137958511,
+  "operating_profit_yoy": 5.269100696355777,
+  "net_income_yoy": 5.889866399487498,
+  "debt_ratio": 93.37835332218022,
+  "operating_margin": 7.797545031258325,
+  "net_margin": 6.434643697119248,
+  "roe": 20.989799214102483,
+  "cached_at": "2025-06-09T16:08:39.992275"
+}

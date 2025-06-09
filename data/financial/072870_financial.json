@@ -1,0 +1,23 @@
+{
+  "ticker": "072870",
+  "name": "메가스터디",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 28807828799,
+  "operating_profit": 1666308188,
+  "net_income": 2954274190,
+  "total_assets": 534873752080,
+  "total_debt": 187893739800,
+  "total_equity": 346980012280,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -0.22195690744540864,
+  "operating_profit_yoy": -68.10418194382723,
+  "net_income_yoy": -49.88159353047914,
+  "debt_ratio": 54.151171004160524,
+  "operating_margin": 5.784219975848518,
+  "net_margin": 10.255108812999302,
+  "roe": 3.4056995624474307,
+  "cached_at": "2025-06-09T16:14:00.900800"
+}

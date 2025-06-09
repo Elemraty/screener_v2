@@ -1,0 +1,23 @@
+{
+  "ticker": "115500",
+  "name": "케이씨에스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 4005469299,
+  "operating_profit": 229427971,
+  "net_income": 199074302,
+  "total_assets": 25333876849,
+  "total_debt": 8577724396,
+  "total_equity": 16756152453,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -5.6288595849601215,
+  "operating_profit_yoy": 36.03711491514798,
+  "net_income_yoy": 46.02329334773783,
+  "debt_ratio": 51.19149172257773,
+  "operating_margin": 5.727867420111762,
+  "net_margin": 4.970061861407866,
+  "roe": 4.7522676236896615,
+  "cached_at": "2025-06-09T16:35:24.567523"
+}

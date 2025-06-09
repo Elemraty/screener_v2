@@ -1,0 +1,23 @@
+{
+  "ticker": "014790",
+  "name": "HL D&I",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 324899889998,
+  "operating_profit": 14171897383,
+  "net_income": 3374187632,
+  "total_assets": 1800285577915,
+  "total_debt": 1323996914032,
+  "total_equity": 476288663883,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -18.474039331792326,
+  "operating_profit_yoy": -22.68235555984396,
+  "net_income_yoy": -71.67436800892699,
+  "debt_ratio": 277.9820336763755,
+  "operating_margin": 4.361927418038596,
+  "net_margin": 1.0385314787335787,
+  "roe": 2.8337333116362955,
+  "cached_at": "2025-06-09T15:56:21.388138"
+}

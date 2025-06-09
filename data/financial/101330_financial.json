@@ -1,0 +1,23 @@
+{
+  "ticker": "101330",
+  "name": "모베이스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 350246147469,
+  "operating_profit": 8345941914,
+  "net_income": 6388001094,
+  "total_assets": 1089234879449,
+  "total_debt": 631436311445,
+  "total_equity": 457798568004,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 8.94459670552974,
+  "operating_profit_yoy": -47.96479024161879,
+  "net_income_yoy": -62.01337401750469,
+  "debt_ratio": 137.92885246410006,
+  "operating_margin": 2.382879005039932,
+  "net_margin": 1.823860487877428,
+  "roe": 5.581495042111347,
+  "cached_at": "2025-06-09T16:14:24.125641"
+}

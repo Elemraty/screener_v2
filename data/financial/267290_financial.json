@@ -1,0 +1,23 @@
+{
+  "ticker": "267290",
+  "name": "경동도시가스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 687460569219,
+  "operating_profit": 17887532858,
+  "net_income": 15704635263,
+  "total_assets": 1037420899896,
+  "total_debt": 577984559975,
+  "total_equity": 459436339921,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 10.149039639683322,
+  "operating_profit_yoy": 7.70680342961918,
+  "net_income_yoy": 1.3615075133956989,
+  "debt_ratio": 125.8029698030383,
+  "operating_margin": 2.601972194321109,
+  "net_margin": 2.2844416052605734,
+  "roe": 13.672958709100294,
+  "cached_at": "2025-06-09T15:57:59.975371"
+}

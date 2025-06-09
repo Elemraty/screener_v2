@@ -1,0 +1,23 @@
+{
+  "ticker": "078020",
+  "name": "LS증권",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 369220064011,
+  "operating_profit": 16778772376,
+  "net_income": 12504457871,
+  "total_assets": 9203357555867,
+  "total_debt": 8335053685666,
+  "total_equity": 868303870201,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -2.5733624561521506,
+  "operating_profit_yoy": -18.163896683821555,
+  "net_income_yoy": -21.76799295029699,
+  "debt_ratio": 959.9235903136714,
+  "operating_margin": 4.544382608497711,
+  "net_margin": 3.386722198993893,
+  "roe": 5.76040637391396,
+  "cached_at": "2025-06-09T16:07:42.851967"
+}

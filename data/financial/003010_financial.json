@@ -1,0 +1,23 @@
+{
+  "ticker": "003010",
+  "name": "혜인",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 66745619762,
+  "operating_profit": 1093634498,
+  "net_income": 323440765,
+  "total_assets": 268472652011,
+  "total_debt": 147880142848,
+  "total_equity": 120592509163,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 51.760753138121984,
+  "operating_profit_yoy": -74.71963576371704,
+  "net_income_yoy": -80.93553430065204,
+  "debt_ratio": 122.62796742052726,
+  "operating_margin": 1.638511263959578,
+  "net_margin": 0.48458725254678536,
+  "roe": 1.07283866052681,
+  "cached_at": "2025-06-09T16:05:51.218687"
+}

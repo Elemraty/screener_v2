@@ -1,0 +1,20 @@
+{
+  "ticker": "263700",
+  "name": "케어랩스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 0,
+  "operating_profit": 841404810,
+  "net_income": 25453974948,
+  "total_assets": 107122555721,
+  "total_debt": 27114838525,
+  "total_equity": 80007717196,
+  "data_source": "f_data_financial",
+  "operating_profit_yoy": 163.3861298883434,
+  "net_income_yoy": 852.6287085661793,
+  "debt_ratio": 33.89027893218732,
+  "roe": 127.25759884209057,
+  "cached_at": "2025-06-09T16:35:18.410374"
+}

@@ -1,0 +1,13 @@
+{
+  "ticker": "356680",
+  "name": "엑스게이트",
+  "market": "KOSDAQ",
+  "bps": 1556,
+  "per": 58.07,
+  "eps": 140,
+  "pbr": 5.22,
+  "roe": 8.997429305912597,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:24:03.995764"
+}

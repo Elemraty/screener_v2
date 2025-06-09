@@ -1,0 +1,23 @@
+{
+  "ticker": "054930",
+  "name": "유신",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 88631265984,
+  "operating_profit": 1615089220,
+  "net_income": 2479524059,
+  "total_assets": 300805834270,
+  "total_debt": 153134239552,
+  "total_equity": 147671594718,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 6.637224058845548,
+  "operating_profit_yoy": 68.21104674698259,
+  "net_income_yoy": 45.81895551505504,
+  "debt_ratio": 103.69918456181888,
+  "operating_margin": 1.8222567420977165,
+  "net_margin": 2.79757265280134,
+  "roe": 6.716319583966043,
+  "cached_at": "2025-06-09T16:31:22.375003"
+}

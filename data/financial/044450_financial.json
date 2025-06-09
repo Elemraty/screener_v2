@@ -1,0 +1,23 @@
+{
+  "ticker": "044450",
+  "name": "KSS해운",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 137666965156,
+  "operating_profit": 29727966973,
+  "net_income": 11577772634,
+  "total_assets": 1894533989241,
+  "total_debt": 1363676587664,
+  "total_equity": 530857401577,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 22.111090678893007,
+  "operating_profit_yoy": 42.12356625897944,
+  "net_income_yoy": -2.076226686889604,
+  "debt_ratio": 256.88190154511784,
+  "operating_margin": 21.594118050988612,
+  "net_margin": 8.409986100064327,
+  "roe": 8.723828734124309,
+  "cached_at": "2025-06-09T15:56:47.796931"
+}

@@ -1,0 +1,13 @@
+{
+  "ticker": "323350",
+  "name": "다원넥스뷰",
+  "market": "KOSDAQ",
+  "bps": 1913,
+  "per": 0.0,
+  "eps": 0,
+  "pbr": 3.6,
+  "roe": 0.0,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:10:48.402506"
+}

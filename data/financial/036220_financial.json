@@ -1,0 +1,22 @@
+{
+  "ticker": "036220",
+  "name": "오상헬스케어",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 32128593072,
+  "operating_profit": 4070386903,
+  "net_income": 3945457163,
+  "total_assets": 331304018588,
+  "total_debt": 47922434007,
+  "total_equity": 283381584581,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 55.32886012890486,
+  "net_income_yoy": 199.4507845250597,
+  "debt_ratio": 16.910920333040256,
+  "operating_margin": 12.669048077761405,
+  "net_margin": 12.280205218318313,
+  "roe": 5.569108760307966,
+  "cached_at": "2025-06-09T16:25:55.353731"
+}

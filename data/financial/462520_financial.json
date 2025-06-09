@@ -1,0 +1,13 @@
+{
+  "ticker": "462520",
+  "name": "조선내화",
+  "market": "KOSPI",
+  "bps": 18725,
+  "per": 26.59,
+  "eps": 492,
+  "pbr": 0.7,
+  "roe": 2.6275033377837116,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:03:34.628201"
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "009160",
+  "name": "SIMPAC",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 230243187000,
+  "operating_profit": 7604658000,
+  "net_income": 3860806000,
+  "total_assets": 1146995947000,
+  "total_debt": 548756414000,
+  "total_equity": 598239533000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 69.16998186368748,
+  "debt_ratio": 91.7285441248163,
+  "operating_margin": 3.302880792733294,
+  "net_margin": 1.6768383248621381,
+  "roe": 2.5814449143065907,
+  "cached_at": "2025-06-09T15:57:27.645637"
+}

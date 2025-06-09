@@ -1,0 +1,23 @@
+{
+  "ticker": "052260",
+  "name": "현대바이오랜드",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 33698953043,
+  "operating_profit": 4970720715,
+  "net_income": -7016556590,
+  "total_assets": 158558001777,
+  "total_debt": 30382918126,
+  "total_equity": 128175083651,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 12.35455761434503,
+  "operating_profit_yoy": 23.93020640878425,
+  "net_income_yoy": -319.394271201357,
+  "debt_ratio": 23.704231166119435,
+  "operating_margin": 14.75037135028302,
+  "net_margin": -20.821289554743274,
+  "roe": -21.89678801881635,
+  "cached_at": "2025-06-09T16:41:37.690590"
+}

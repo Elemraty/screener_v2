@@ -1,0 +1,20 @@
+{
+  "ticker": "226590",
+  "name": "엠디바이스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 20084265140,
+  "operating_profit": 2125218049,
+  "net_income": 1599862529,
+  "total_assets": 49146197862,
+  "total_debt": 11475607618,
+  "total_equity": 37670590244,
+  "data_source": "f_data_financial",
+  "debt_ratio": 30.463041708850795,
+  "operating_margin": 10.581507633890956,
+  "net_margin": 7.965750889305379,
+  "roe": 16.98792101357975,
+  "cached_at": "2025-06-09T16:24:46.307548"
+}

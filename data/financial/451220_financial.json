@@ -1,0 +1,13 @@
+{
+  "ticker": "451220",
+  "name": "아이엠티",
+  "market": "KOSDAQ",
+  "bps": 3660,
+  "per": 0.0,
+  "eps": 0,
+  "pbr": 2.57,
+  "roe": 0.0,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:21:17.766744"
+}

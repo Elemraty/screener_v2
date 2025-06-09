@@ -1,0 +1,21 @@
+{
+  "ticker": "175250",
+  "name": "아이큐어",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 22130866530,
+  "operating_profit": -2444297854,
+  "net_income": -2481258061,
+  "total_assets": 123733071826,
+  "total_debt": 65508829205,
+  "total_equity": 58224242621,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 38.85640453351189,
+  "debt_ratio": 112.51126035493098,
+  "operating_margin": -11.04474535909643,
+  "net_margin": -11.21175285945751,
+  "roe": -17.04621957662064,
+  "cached_at": "2025-06-09T16:21:25.419566"
+}

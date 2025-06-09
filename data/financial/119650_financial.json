@@ -1,0 +1,23 @@
+{
+  "ticker": "119650",
+  "name": "KC코트렐",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 52214759653,
+  "operating_profit": -249230518,
+  "net_income": -3907395830,
+  "total_assets": 285259366106,
+  "total_debt": 204091352240,
+  "total_equity": 81168013866,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -47.95271278077418,
+  "operating_profit_yoy": -107.67475553003625,
+  "net_income_yoy": -229.92662142989562,
+  "debt_ratio": 251.4430777829968,
+  "operating_margin": -0.47731813697179487,
+  "net_margin": -7.483316701957662,
+  "roe": -19.255840540588842,
+  "cached_at": "2025-06-09T15:56:42.547295"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "005860",
+  "name": "한일사료",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 108360406669,
+  "operating_profit": 423427268,
+  "net_income": 642252243,
+  "total_assets": 200739376642,
+  "total_debt": 45090154485,
+  "total_equity": 155649222157,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -1.8735019975983591,
+  "operating_profit_yoy": -71.74559191539514,
+  "net_income_yoy": -17.312503157257673,
+  "debt_ratio": 28.96908436813037,
+  "operating_margin": 0.39075828618234143,
+  "net_margin": 0.5927001039797103,
+  "roe": 1.650511924440391,
+  "cached_at": "2025-06-09T16:41:11.678370"
+}

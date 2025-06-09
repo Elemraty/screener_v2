@@ -1,0 +1,21 @@
+{
+  "ticker": "011300",
+  "name": "성안머티리얼스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 4341877736,
+  "operating_profit": 1164467912,
+  "net_income": -622213578,
+  "total_assets": 117901251947,
+  "total_debt": 79563461579,
+  "total_equity": 38337790368,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -48.78152322942961,
+  "debt_ratio": 207.53272636549883,
+  "operating_margin": 26.81945422702709,
+  "net_margin": -14.3305181728406,
+  "roe": -6.491908605346778,
+  "cached_at": "2025-06-09T16:01:23.572960"
+}

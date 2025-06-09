@@ -1,0 +1,23 @@
+{
+  "ticker": "058850",
+  "name": "KTcs",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 235234833647,
+  "operating_profit": 6630828632,
+  "net_income": 5295152522,
+  "total_assets": 436046237914,
+  "total_debt": 233928977258,
+  "total_equity": 202117260656,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -11.384416258345686,
+  "operating_profit_yoy": -15.374216656605654,
+  "net_income_yoy": -15.448434303796876,
+  "debt_ratio": 115.73923795461634,
+  "operating_margin": 2.8188123881135767,
+  "net_margin": 2.251006978815924,
+  "roe": 10.479367283751696,
+  "cached_at": "2025-06-09T15:56:48.869306"
+}

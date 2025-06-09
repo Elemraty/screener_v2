@@ -1,0 +1,23 @@
+{
+  "ticker": "296640",
+  "name": "이노룰스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 5735942135,
+  "operating_profit": 464693624,
+  "net_income": 697094527,
+  "total_assets": 45636016392,
+  "total_debt": 13431582001,
+  "total_equity": 32204434391,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 19.518030980951817,
+  "operating_profit_yoy": 32.096706611085146,
+  "net_income_yoy": 21.22214560023621,
+  "debt_ratio": 41.707243909098594,
+  "operating_margin": 8.101435005149332,
+  "net_margin": 12.15309552630276,
+  "roe": 8.658366963213156,
+  "cached_at": "2025-06-09T16:31:58.503362"
+}

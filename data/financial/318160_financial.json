@@ -1,0 +1,13 @@
+{
+  "ticker": "318160",
+  "name": "셀바이오휴먼텍",
+  "market": "KOSDAQ",
+  "bps": 5436,
+  "per": 12.3,
+  "eps": 491,
+  "pbr": 1.11,
+  "roe": 9.032376747608534,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:18:24.525556"
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "069920",
+  "name": "엑시온그룹",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1108009475,
+  "operating_profit": -1930598432,
+  "net_income": -2789067749,
+  "total_assets": 58862488099,
+  "total_debt": 14677172085,
+  "total_equity": 44185316014,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 6.471964990364665,
+  "debt_ratio": 33.21730703555357,
+  "operating_margin": -174.2402457343607,
+  "net_margin": -251.71876341580926,
+  "roe": -25.248820201863364,
+  "cached_at": "2025-06-09T16:24:08.056974"
+}

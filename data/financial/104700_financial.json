@@ -1,0 +1,23 @@
+{
+  "ticker": "104700",
+  "name": "한국철강",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 116187024747,
+  "operating_profit": -10603470652,
+  "net_income": -3759896480,
+  "total_assets": 893453427455,
+  "total_debt": 113400389830,
+  "total_equity": 780053037625,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -21.495592071470448,
+  "operating_profit_yoy": -1105.46603725409,
+  "net_income_yoy": -162.468399278369,
+  "debt_ratio": 14.537523009366923,
+  "operating_margin": -9.126208950689037,
+  "net_margin": -3.2360726063751644,
+  "roe": -1.9280209414721976,
+  "cached_at": "2025-06-09T16:04:55.892334"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "004360",
+  "name": "세방",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 325443384490,
+  "operating_profit": 10665419485,
+  "net_income": 27993124224,
+  "total_assets": 1463742193168,
+  "total_debt": 306595049408,
+  "total_equity": 1157147143760,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -2.7849704055213587,
+  "operating_profit_yoy": -0.9854750590774786,
+  "net_income_yoy": -27.612294073680754,
+  "debt_ratio": 26.49577031420214,
+  "operating_margin": 3.2771965857329386,
+  "net_margin": 8.601534263130842,
+  "roe": 9.676599687413983,
+  "cached_at": "2025-06-09T16:01:25.674658"
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "040300",
+  "name": "YTN",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 25813319260,
+  "operating_profit": -9773019845,
+  "net_income": -6876969315,
+  "total_assets": 341666329128,
+  "total_debt": 125955210542,
+  "total_equity": 215711118586,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 2.4938012036852975,
+  "debt_ratio": 58.39068999671614,
+  "operating_margin": -37.860376445830234,
+  "net_margin": -26.641166313146204,
+  "roe": -12.752183309008766,
+  "cached_at": "2025-06-09T16:08:23.846497"
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "010400",
+  "name": "우진아이엔에스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 30161935666,
+  "operating_profit": -4006884839,
+  "net_income": -3080481647,
+  "total_assets": 89313006574,
+  "total_debt": 19510213630,
+  "total_equity": 69802792944,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 20.737492763337627,
+  "debt_ratio": 27.950477061358086,
+  "operating_margin": -13.284574582249888,
+  "net_margin": -10.213143085748534,
+  "roe": -17.652483616071624,
+  "cached_at": "2025-06-09T16:02:36.588906"
+}

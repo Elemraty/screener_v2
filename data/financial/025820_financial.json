@@ -1,0 +1,23 @@
+{
+  "ticker": "025820",
+  "name": "이구산업",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 128932325051,
+  "operating_profit": 7656305937,
+  "net_income": 4193226034,
+  "total_assets": 352759053696,
+  "total_debt": 213836671661,
+  "total_equity": 138922382035,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 21.18960788525297,
+  "operating_profit_yoy": 159.92248565005303,
+  "net_income_yoy": 582.0546903683678,
+  "debt_ratio": 153.92528441322446,
+  "operating_margin": 5.938236151385232,
+  "net_margin": 3.252268996422226,
+  "roe": 12.073579426369358,
+  "cached_at": "2025-06-09T16:02:54.797967"
+}

@@ -1,0 +1,22 @@
+{
+  "ticker": "067170",
+  "name": "오텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 177031435553,
+  "operating_profit": 207586653,
+  "net_income": -1327964827,
+  "total_assets": 562201885105,
+  "total_debt": 435279987797,
+  "total_equity": 126921897308,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -6.852724633496388,
+  "operating_profit_yoy": -60.55948594549419,
+  "debt_ratio": 342.9510565388971,
+  "operating_margin": 0.11725976934636127,
+  "net_margin": -0.7501293896486714,
+  "roe": -4.1851401693986405,
+  "cached_at": "2025-06-09T16:26:03.386166"
+}

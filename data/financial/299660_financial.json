@@ -1,0 +1,21 @@
+{
+  "ticker": "299660",
+  "name": "셀리드",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1572979492,
+  "operating_profit": -2705489039,
+  "net_income": -2681258580,
+  "total_assets": 75108834882,
+  "total_debt": 26745003813,
+  "total_equity": 48363831069,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 399.4018075730093,
+  "debt_ratio": 55.299597285507176,
+  "operating_margin": -171.99773123297655,
+  "net_margin": -170.45731324766692,
+  "roe": -22.17573356564484,
+  "cached_at": "2025-06-09T16:18:20.858630"
+}

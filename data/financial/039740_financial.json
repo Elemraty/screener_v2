@@ -1,0 +1,22 @@
+{
+  "ticker": "039740",
+  "name": "한국정보공학",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 46293530813,
+  "operating_profit": 211600608,
+  "net_income": -362669074,
+  "total_assets": 87838288620,
+  "total_debt": 37455735946,
+  "total_equity": 50382552674,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 67.44301222883877,
+  "operating_profit_yoy": 5.458045712831527,
+  "debt_ratio": 74.34267213167445,
+  "operating_margin": 0.45708461697326186,
+  "net_margin": -0.7834119965162746,
+  "roe": -2.8793227397321295,
+  "cached_at": "2025-06-09T16:40:37.398155"
+}

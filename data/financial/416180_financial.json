@@ -1,0 +1,13 @@
+{
+  "ticker": "416180",
+  "name": "신성에스티",
+  "market": "KOSDAQ",
+  "bps": 11542,
+  "per": 39.11,
+  "eps": 794,
+  "pbr": 2.69,
+  "roe": 6.87922370473055,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:19:27.703485"
+}

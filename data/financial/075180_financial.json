@@ -1,0 +1,22 @@
+{
+  "ticker": "075180",
+  "name": "새론오토모티브",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 31880587243,
+  "operating_profit": 197618426,
+  "net_income": 1777777151,
+  "total_assets": 272122332828,
+  "total_debt": 27789987760,
+  "total_equity": 244332345068,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -6.340740996546501,
+  "net_income_yoy": -60.11092767651025,
+  "debt_ratio": 11.373847270309538,
+  "operating_margin": 0.6198707209930424,
+  "net_margin": 5.576362622963745,
+  "roe": 2.910424570279842,
+  "cached_at": "2025-06-09T16:01:13.611068"
+}

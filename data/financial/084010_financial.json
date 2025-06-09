@@ -1,0 +1,23 @@
+{
+  "ticker": "084010",
+  "name": "대한제강",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 289593743534,
+  "operating_profit": 1867969950,
+  "net_income": 6798268752,
+  "total_assets": 1183738073684,
+  "total_debt": 300885522714,
+  "total_equity": 882852550970,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 3.801535347292706,
+  "operating_profit_yoy": -68.84492672918643,
+  "net_income_yoy": -18.039609034312853,
+  "debt_ratio": 34.08106171108796,
+  "operating_margin": 0.6450311830651443,
+  "net_margin": 2.347519207092899,
+  "roe": 3.0801377849701703,
+  "cached_at": "2025-06-09T15:59:04.094250"
+}

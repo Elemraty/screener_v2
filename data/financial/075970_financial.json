@@ -1,0 +1,23 @@
+{
+  "ticker": "075970",
+  "name": "동국알앤에스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 26936537142,
+  "operating_profit": 411420516,
+  "net_income": -469429056,
+  "total_assets": 127255598460,
+  "total_debt": 46624660077,
+  "total_equity": 80630938383,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -3.423938326034748,
+  "operating_profit_yoy": -7.022224575753899,
+  "net_income_yoy": -319.5471032024337,
+  "debt_ratio": 57.82477670733671,
+  "operating_margin": 1.5273697351338629,
+  "net_margin": -1.742722360804339,
+  "roe": -2.328778830627987,
+  "cached_at": "2025-06-09T16:11:58.736463"
+}

@@ -1,0 +1,22 @@
+{
+  "ticker": "086890",
+  "name": "이수앱지스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 7182567898,
+  "operating_profit": -463306476,
+  "net_income": -8761753830,
+  "total_assets": 156464651946,
+  "total_debt": 59116971253,
+  "total_equity": 97347680693,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -56.49802301503304,
+  "operating_profit_yoy": -114.31278361749003,
+  "debt_ratio": 60.727662777538505,
+  "operating_margin": -6.45042946449568,
+  "net_margin": -121.98636969989143,
+  "roe": -36.00190068269406,
+  "cached_at": "2025-06-09T16:32:20.498403"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "017900",
+  "name": "광전자",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 35456352389,
+  "operating_profit": 1863015251,
+  "net_income": 2349294856,
+  "total_assets": 265479101519,
+  "total_debt": 26398652979,
+  "total_equity": 239080448540,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 15.370351102363955,
+  "operating_profit_yoy": 403.96295614232133,
+  "net_income_yoy": -28.470680462774812,
+  "debt_ratio": 11.041744793524302,
+  "operating_margin": 5.254390611195479,
+  "net_margin": 6.6258785738175545,
+  "roe": 3.930551193703227,
+  "cached_at": "2025-06-09T15:58:08.258280"
+}

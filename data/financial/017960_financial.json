@@ -1,0 +1,23 @@
+{
+  "ticker": "017960",
+  "name": "한국카본",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 224561929478,
+  "operating_profit": 31107392776,
+  "net_income": 21855861863,
+  "total_assets": 921828925164,
+  "total_debt": 433143961032,
+  "total_equity": 488684964132,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 22.879338238102044,
+  "operating_profit_yoy": 1092.7586571908462,
+  "net_income_yoy": 108438.54999208651,
+  "debt_ratio": 88.6345995525662,
+  "operating_margin": 13.85247840019452,
+  "net_margin": 9.732665689952217,
+  "roe": 17.889530857017697,
+  "cached_at": "2025-06-09T16:04:56.416300"
+}

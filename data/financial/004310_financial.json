@@ -1,0 +1,23 @@
+{
+  "ticker": "004310",
+  "name": "현대약품",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 43086566823,
+  "operating_profit": -414664712,
+  "net_income": -985273785,
+  "total_assets": 158287042057,
+  "total_debt": 80572115302,
+  "total_equity": 77714926755,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 0.7356541701342811,
+  "operating_profit_yoy": -135.64680154295925,
+  "net_income_yoy": -418.6698836071672,
+  "debt_ratio": 103.67649905404586,
+  "operating_margin": -0.9623990551473881,
+  "net_margin": -2.2867307786380695,
+  "roe": -5.071220297774313,
+  "cached_at": "2025-06-09T16:05:41.050512"
+}

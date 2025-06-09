@@ -1,0 +1,21 @@
+{
+  "ticker": "006380",
+  "name": "카프로",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2335334226,
+  "operating_profit": -6089165284,
+  "net_income": -8616189203,
+  "total_assets": 228100225935,
+  "total_debt": 148540888188,
+  "total_equity": 79559337747,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -7.654217940146513,
+  "debt_ratio": 186.7045307244292,
+  "operating_margin": -260.7406347325978,
+  "net_margin": -368.94886852054384,
+  "roe": -43.31956221354996,
+  "cached_at": "2025-06-09T16:03:50.374506"
+}

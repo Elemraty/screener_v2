@@ -1,0 +1,13 @@
+{
+  "ticker": "463480",
+  "name": "모티브링크",
+  "market": "KOSDAQ",
+  "bps": 2125,
+  "per": 56.19,
+  "eps": 189,
+  "pbr": 5.0,
+  "roe": 8.894117647058824,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:14:34.559692"
+}

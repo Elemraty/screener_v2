@@ -1,0 +1,13 @@
+{
+  "ticker": "424760",
+  "name": "벨로크",
+  "market": "KOSDAQ",
+  "bps": 1273,
+  "per": 0.0,
+  "eps": 0,
+  "pbr": 0.7,
+  "roe": 0.0,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:15:32.290152"
+}

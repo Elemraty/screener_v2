@@ -1,0 +1,23 @@
+{
+  "ticker": "033250",
+  "name": "체시스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 24434664915,
+  "operating_profit": 2451607241,
+  "net_income": 2393365017,
+  "total_assets": 86958507043,
+  "total_debt": 45883986594,
+  "total_equity": 41074520449,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 12.906564975382096,
+  "operating_profit_yoy": 83.77628669853219,
+  "net_income_yoy": 50.47572204781632,
+  "debt_ratio": 111.70912305834868,
+  "operating_margin": 10.033316395081819,
+  "net_margin": 9.79495739076314,
+  "roe": 23.307539475444017,
+  "cached_at": "2025-06-09T16:03:48.084527"
+}

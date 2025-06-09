@@ -1,0 +1,22 @@
+{
+  "ticker": "122870",
+  "name": "와이지엔터테인먼트",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 100156018280,
+  "operating_profit": 9524641977,
+  "net_income": 10228369021,
+  "total_assets": 754147023879,
+  "total_debt": 143522168342,
+  "total_equity": 610624855537,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 14.668950516915658,
+  "net_income_yoy": 2324.451202733651,
+  "debt_ratio": 23.504147766108,
+  "operating_margin": 9.509804942896738,
+  "net_margin": 10.212435754389896,
+  "roe": 6.700263789298192,
+  "cached_at": "2025-06-09T16:29:57.195986"
+}

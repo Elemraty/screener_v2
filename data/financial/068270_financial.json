@@ -1,0 +1,23 @@
+{
+  "ticker": "068270",
+  "name": "셀트리온",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 841911660218,
+  "operating_profit": 149420804340,
+  "net_income": 108333345392,
+  "total_assets": 20958813606635,
+  "total_debt": 3678136750383,
+  "total_equity": 17280676856252,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 14.237997702377413,
+  "operating_profit_yoy": 867.918136112163,
+  "net_income_yoy": 421.6359754539526,
+  "debt_ratio": 21.28467988250288,
+  "operating_margin": 17.747800796737963,
+  "net_margin": 12.86754305837132,
+  "roe": 2.5076181053129507,
+  "cached_at": "2025-06-09T16:01:33.012608"
+}

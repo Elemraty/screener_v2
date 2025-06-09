@@ -1,0 +1,23 @@
+{
+  "ticker": "023800",
+  "name": "인지컨트롤스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 181308545119,
+  "operating_profit": 9743345336,
+  "net_income": 12827414323,
+  "total_assets": 713427820964,
+  "total_debt": 481835983215,
+  "total_equity": 231591837749,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 15.882847030444825,
+  "operating_profit_yoy": 46.2173524013562,
+  "net_income_yoy": 172.23197710326068,
+  "debt_ratio": 208.0539572975864,
+  "operating_margin": 5.373902994811996,
+  "net_margin": 7.074908860242004,
+  "roe": 22.155209695952056,
+  "cached_at": "2025-06-09T16:03:11.034907"
+}

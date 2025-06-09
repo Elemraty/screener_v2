@@ -1,0 +1,23 @@
+{
+  "ticker": "056700",
+  "name": "신화인터텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 66094238204,
+  "operating_profit": 4419432534,
+  "net_income": 2505703843,
+  "total_assets": 192904826178,
+  "total_debt": 96063949678,
+  "total_equity": 96840876500,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 15.208630817709379,
+  "operating_profit_yoy": 427.09648989347266,
+  "net_income_yoy": 2343.5593634467896,
+  "debt_ratio": 99.1977284282428,
+  "operating_margin": 6.686562481224782,
+  "net_margin": 3.791107834946429,
+  "roe": 10.349777629284468,
+  "cached_at": "2025-06-09T16:19:50.353630"
+}

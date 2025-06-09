@@ -1,0 +1,23 @@
+{
+  "ticker": "034020",
+  "name": "두산에너빌리티",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 3748574000000,
+  "operating_profit": 142475000000,
+  "net_income": -21157000000,
+  "total_assets": 26896993000000,
+  "total_debt": 15153864000000,
+  "total_equity": 11743129000000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -8.523769196822695,
+  "operating_profit_yoy": -60.21039934583467,
+  "net_income_yoy": -108.10450542273573,
+  "debt_ratio": 129.04451615919405,
+  "operating_margin": 3.8007786427585533,
+  "net_margin": -0.5644012896637495,
+  "roe": -0.7206597151406581,
+  "cached_at": "2025-06-09T15:59:36.363262"
+}

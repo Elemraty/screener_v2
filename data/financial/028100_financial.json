@@ -1,0 +1,23 @@
+{
+  "ticker": "028100",
+  "name": "동아지질",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 103883310731,
+  "operating_profit": 3517776551,
+  "net_income": 2864623238,
+  "total_assets": 425630020469,
+  "total_debt": 197694517305,
+  "total_equity": 227935503164,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 13.882137703225172,
+  "operating_profit_yoy": 61.45425022926811,
+  "net_income_yoy": -19.352539977018736,
+  "debt_ratio": 86.73265663346812,
+  "operating_margin": 3.3862768968820074,
+  "net_margin": 2.7575394140236646,
+  "roe": 5.027076867334525,
+  "cached_at": "2025-06-09T15:59:22.984836"
+}

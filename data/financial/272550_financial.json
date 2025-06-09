@@ -1,0 +1,23 @@
+{
+  "ticker": "272550",
+  "name": "삼양패키징",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 92029404087,
+  "operating_profit": -1552915718,
+  "net_income": -3741548377,
+  "total_assets": 650787015378,
+  "total_debt": 282605257264,
+  "total_equity": 368181758114,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -11.644362380164598,
+  "operating_profit_yoy": -148.43641012454813,
+  "net_income_yoy": -759.7496974633139,
+  "debt_ratio": 76.75699597710569,
+  "operating_margin": -1.6874125540701654,
+  "net_margin": -4.065601004503873,
+  "roe": -4.064892727076941,
+  "cached_at": "2025-06-09T16:01:01.027135"
+}

@@ -1,0 +1,22 @@
+{
+  "ticker": "054450",
+  "name": "텔레칩스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 45203612354,
+  "operating_profit": -2599476350,
+  "net_income": -3483550872,
+  "total_assets": 367277603316,
+  "total_debt": 169885261216,
+  "total_equity": 197392342100,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -0.3882828924949733,
+  "operating_profit_yoy": -355.2177212136636,
+  "debt_ratio": 86.06476796852395,
+  "operating_margin": -5.750594288002684,
+  "net_margin": -7.706355068969938,
+  "roe": -7.059140866235255,
+  "cached_at": "2025-06-09T16:37:22.104964"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "018310",
+  "name": "삼목에스폼",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 78306441447,
+  "operating_profit": 6974005903,
+  "net_income": 2209416837,
+  "total_assets": 789451949831,
+  "total_debt": 147598785524,
+  "total_equity": 641853164307,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -30.03577326860625,
+  "operating_profit_yoy": -78.04031833846672,
+  "net_income_yoy": -92.20100758898103,
+  "debt_ratio": 22.9957245257738,
+  "operating_margin": 8.906043709980365,
+  "net_margin": 2.82150075545879,
+  "roe": 1.3768986178547407,
+  "cached_at": "2025-06-09T16:16:37.325818"
+}

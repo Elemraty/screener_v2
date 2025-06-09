@@ -1,0 +1,21 @@
+{
+  "ticker": "036180",
+  "name": "지더블유바이텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2121891175,
+  "operating_profit": -2031764123,
+  "net_income": -1210216242,
+  "total_assets": 50147513718,
+  "total_debt": 18561455240,
+  "total_equity": 31586058478,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -72.67773613392825,
+  "debt_ratio": 58.764708654383824,
+  "operating_margin": -95.7525129911528,
+  "net_margin": -57.03479312505271,
+  "roe": -15.325954554829025,
+  "cached_at": "2025-06-09T16:34:28.958190"
+}

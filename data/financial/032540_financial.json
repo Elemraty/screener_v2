@@ -1,0 +1,23 @@
+{
+  "ticker": "032540",
+  "name": "TJ미디어",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 21380029496,
+  "operating_profit": 662837532,
+  "net_income": 487904772,
+  "total_assets": 125229329098,
+  "total_debt": 43584294837,
+  "total_equity": 81645034261,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -8.740289812321667,
+  "operating_profit_yoy": -37.70839802624503,
+  "net_income_yoy": -33.28705377043691,
+  "debt_ratio": 53.38266464274024,
+  "operating_margin": 3.100264815462535,
+  "net_margin": 2.282058460636279,
+  "roe": 2.390370835978992,
+  "cached_at": "2025-06-09T16:08:17.479242"
+}

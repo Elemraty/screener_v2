@@ -1,0 +1,21 @@
+{
+  "ticker": "222800",
+  "name": "심텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 303597471102,
+  "operating_profit": -16323578724,
+  "net_income": -35799638668,
+  "total_assets": 1433157114012,
+  "total_debt": 1023938899518,
+  "total_equity": 409218214494,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 3.3111148991045836,
+  "debt_ratio": 250.2183097553721,
+  "operating_margin": -5.376717620455985,
+  "net_margin": -11.79181056352487,
+  "roe": -34.99320157316692,
+  "cached_at": "2025-06-09T16:19:54.947983"
+}

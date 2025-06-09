@@ -1,0 +1,23 @@
+{
+  "ticker": "006360",
+  "name": "GS건설",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 3062935006761,
+  "operating_profit": 70376932725,
+  "net_income": 13734568918,
+  "total_assets": 18299601898164,
+  "total_debt": 13159754057085,
+  "total_equity": 5139847841079,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -0.2598174762712402,
+  "operating_profit_yoy": -0.20312950981881128,
+  "net_income_yoy": -90.14504508534247,
+  "debt_ratio": 256.033922870417,
+  "operating_margin": 2.297695921384318,
+  "net_margin": 0.4484120259712616,
+  "roe": 1.0688696897390428,
+  "cached_at": "2025-06-09T15:56:08.451049"
+}

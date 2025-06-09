@@ -1,0 +1,20 @@
+{
+  "ticker": "034310",
+  "name": "NICE",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 0,
+  "operating_profit": 30597508718,
+  "net_income": 15172224151,
+  "total_assets": 3543696837665,
+  "total_debt": 2180780605578,
+  "total_equity": 1362916232087,
+  "data_source": "f_data_financial",
+  "operating_profit_yoy": 19.454708768937113,
+  "net_income_yoy": -4.097895048483946,
+  "debt_ratio": 160.00841095263974,
+  "roe": 4.452870629552089,
+  "cached_at": "2025-06-09T15:57:14.550096"
+}

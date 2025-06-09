@@ -1,0 +1,23 @@
+{
+  "ticker": "011930",
+  "name": "신성이엔지",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 116300790391,
+  "operating_profit": -5238723789,
+  "net_income": -6917610463,
+  "total_assets": 588032103461,
+  "total_debt": 362980068636,
+  "total_equity": 225052034825,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -13.273008348205407,
+  "operating_profit_yoy": -202.59500788154315,
+  "net_income_yoy": -292.33587005776684,
+  "debt_ratio": 161.2871747275036,
+  "operating_margin": -4.504461037098335,
+  "net_margin": -5.948033921130878,
+  "roe": -12.295130712111304,
+  "cached_at": "2025-06-09T16:01:40.854397"
+}

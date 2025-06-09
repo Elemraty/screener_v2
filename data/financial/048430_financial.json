@@ -1,0 +1,23 @@
+{
+  "ticker": "048430",
+  "name": "유라테크",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 49954262784,
+  "operating_profit": 1358686180,
+  "net_income": 2650895788,
+  "total_assets": 172817232215,
+  "total_debt": 28321051359,
+  "total_equity": 144496180856,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -2.4095166697654546,
+  "operating_profit_yoy": -45.64659929809024,
+  "net_income_yoy": -1.7991920601539646,
+  "debt_ratio": 19.599861526598964,
+  "operating_margin": 2.7198603367942757,
+  "net_margin": 5.306645800103897,
+  "roe": 7.338313780463977,
+  "cached_at": "2025-06-09T16:31:14.000254"
+}

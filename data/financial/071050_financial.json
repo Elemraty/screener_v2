@@ -1,0 +1,23 @@
+{
+  "ticker": "071050",
+  "name": "한국금융지주",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 5363814187996,
+  "operating_profit": 529612370103,
+  "net_income": 459329123682,
+  "total_assets": 111893165314398,
+  "total_debt": 101905906842288,
+  "total_equity": 9987258472110,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -19.725241897369717,
+  "operating_profit_yoy": 38.8241484889392,
+  "net_income_yoy": 33.96630359666632,
+  "debt_ratio": 1020.3591618947901,
+  "operating_margin": 9.873801581125818,
+  "net_margin": 8.563479411907297,
+  "roe": 18.39660503289079,
+  "cached_at": "2025-06-09T16:04:46.720272"
+}

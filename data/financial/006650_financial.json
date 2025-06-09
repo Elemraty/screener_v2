@@ -1,0 +1,21 @@
+{
+  "ticker": "006650",
+  "name": "대한유화",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 741633716767,
+  "operating_profit": -9875334345,
+  "net_income": 2971267956,
+  "total_assets": 2220883907634,
+  "total_debt": 416395480954,
+  "total_equity": 1804488426680,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 11.761369579130431,
+  "debt_ratio": 23.07554178776907,
+  "operating_margin": -1.3315649115913302,
+  "net_margin": 0.40063819764730124,
+  "roe": 0.6586394042918207,
+  "cached_at": "2025-06-09T15:59:03.039805"
+}

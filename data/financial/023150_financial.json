@@ -1,0 +1,22 @@
+{
+  "ticker": "023150",
+  "name": "MH에탄올",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 21642079960,
+  "operating_profit": 828524206,
+  "net_income": 5125332272,
+  "total_assets": 395861688420,
+  "total_debt": 315155124592,
+  "total_equity": 80706563828,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 3.7353629248684017,
+  "operating_profit_yoy": -44.84780607946952,
+  "debt_ratio": 390.4950349065182,
+  "operating_margin": 3.8283021203660685,
+  "net_margin": 23.682253653405315,
+  "roe": 25.402306969346345,
+  "cached_at": "2025-06-09T15:57:06.129832"
+}

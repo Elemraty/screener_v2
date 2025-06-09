@@ -1,0 +1,22 @@
+{
+  "ticker": "052790",
+  "name": "액토즈소프트",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 13506395118,
+  "operating_profit": -1898006189,
+  "net_income": 118242700,
+  "total_assets": 351470477462,
+  "total_debt": 124274034226,
+  "total_equity": 227196443236,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 59.40605865994859,
+  "net_income_yoy": -97.31934541127593,
+  "debt_ratio": 54.69893474384655,
+  "operating_margin": -14.052648189378994,
+  "net_margin": 0.8754571369115193,
+  "roe": 0.2081770265693386,
+  "cached_at": "2025-06-09T16:22:05.799075"
+}

@@ -1,0 +1,22 @@
+{
+  "ticker": "007280",
+  "name": "한국특강",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 186256727132,
+  "operating_profit": 2265161119,
+  "net_income": -1699512814,
+  "total_assets": 542291285702,
+  "total_debt": 325807940217,
+  "total_equity": 216483345485,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -1.1160516051984204,
+  "operating_profit_yoy": 61.98424308200099,
+  "debt_ratio": 150.50023339535605,
+  "operating_margin": 1.2161499634827588,
+  "net_margin": -0.9124571445924509,
+  "roe": -3.140219050463183,
+  "cached_at": "2025-06-09T16:04:58.809746"
+}

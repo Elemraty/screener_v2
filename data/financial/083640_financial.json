@@ -1,0 +1,22 @@
+{
+  "ticker": "083640",
+  "name": "인콘",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 13578750381,
+  "operating_profit": 739123085,
+  "net_income": 422703437,
+  "total_assets": 84617980288,
+  "total_debt": 6663032326,
+  "total_equity": 77954947962,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 46.83780221882421,
+  "net_income_yoy": -42.37296457481988,
+  "debt_ratio": 8.547285964770278,
+  "operating_margin": 5.4432334659764745,
+  "net_margin": 3.1129774474053646,
+  "roe": 2.1689627050026457,
+  "cached_at": "2025-06-09T16:32:59.897862"
+}

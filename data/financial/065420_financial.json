@@ -1,0 +1,21 @@
+{
+  "ticker": "065420",
+  "name": "에스아이리소스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1117952045,
+  "operating_profit": -931681720,
+  "net_income": -418677761,
+  "total_assets": 13919253552,
+  "total_debt": 6300540964,
+  "total_equity": 7618712588,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -50.667753679474906,
+  "debt_ratio": 82.69823662758704,
+  "operating_margin": -83.33825445974294,
+  "net_margin": -37.45042221377215,
+  "roe": -21.981549043309307,
+  "cached_at": "2025-06-09T16:22:27.262971"
+}

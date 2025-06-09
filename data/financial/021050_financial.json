@@ -1,0 +1,23 @@
+{
+  "ticker": "021050",
+  "name": "서원",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 439768388199,
+  "operating_profit": 15166432636,
+  "net_income": 3544019792,
+  "total_assets": 1030267505324,
+  "total_debt": 680050271633,
+  "total_equity": 350217233691,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 638.10184915877,
+  "operating_profit_yoy": 3831.222488821109,
+  "net_income_yoy": -87.4683611105829,
+  "debt_ratio": 194.17955663284542,
+  "operating_margin": 3.4487318877356468,
+  "net_margin": 0.8058832528899945,
+  "roe": 4.047795997528691,
+  "cached_at": "2025-06-09T16:01:18.313285"
+}

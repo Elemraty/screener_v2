@@ -1,0 +1,23 @@
+{
+  "ticker": "015360",
+  "name": "INVENI",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 532641146000,
+  "operating_profit": 24200539000,
+  "net_income": 19779698000,
+  "total_assets": 1302300259000,
+  "total_debt": 818699827000,
+  "total_equity": 483600432000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 1.6521443736513097,
+  "operating_profit_yoy": -3.9051558659394026,
+  "net_income_yoy": 16.236637430766756,
+  "debt_ratio": 169.29261696772016,
+  "operating_margin": 4.543497846859919,
+  "net_margin": 3.7135129624401944,
+  "roe": 16.360364210758192,
+  "cached_at": "2025-06-09T15:56:26.824248"
+}

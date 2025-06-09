@@ -1,0 +1,23 @@
+{
+  "ticker": "033540",
+  "name": "파라텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 47672330427,
+  "operating_profit": -1829273848,
+  "net_income": -2424071109,
+  "total_assets": 209189121580,
+  "total_debt": 109689531230,
+  "total_equity": 99499590350,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -31.342608978390007,
+  "operating_profit_yoy": -194.3424089287943,
+  "net_income_yoy": -297.36443672067594,
+  "debt_ratio": 110.2411887769144,
+  "operating_margin": -3.837181508886255,
+  "net_margin": -5.08485968126091,
+  "roe": -9.7450496046188,
+  "cached_at": "2025-06-09T16:38:00.797373"
+}

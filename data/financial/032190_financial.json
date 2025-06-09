@@ -1,0 +1,23 @@
+{
+  "ticker": "032190",
+  "name": "다우데이타",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 3876535890493,
+  "operating_profit": 349834436253,
+  "net_income": 240344123774,
+  "total_assets": 62631870007465,
+  "total_debt": 56080817690060,
+  "total_equity": 6551052317405,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 36.003527267647705,
+  "operating_profit_yoy": -5.056229826097358,
+  "net_income_yoy": -13.085561824757164,
+  "debt_ratio": 856.0581563524241,
+  "operating_margin": 9.02440854761465,
+  "net_margin": 6.199971587092262,
+  "roe": 14.675146045495483,
+  "cached_at": "2025-06-09T16:10:46.422493"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "013120",
+  "name": "동원개발",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 90869022269,
+  "operating_profit": 4509013797,
+  "net_income": 5775616612,
+  "total_assets": 1382720723042,
+  "total_debt": 337841134307,
+  "total_equity": 1044879588735,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -47.39357266902117,
+  "operating_profit_yoy": -81.74353928140462,
+  "net_income_yoy": -73.17969460838202,
+  "debt_ratio": 32.33302075658428,
+  "operating_margin": 4.962102248279887,
+  "net_margin": 6.35597970329472,
+  "roe": 2.2110171063796322,
+  "cached_at": "2025-06-09T16:12:13.440508"
+}

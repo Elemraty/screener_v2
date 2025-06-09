@@ -1,0 +1,23 @@
+{
+  "ticker": "053450",
+  "name": "세코닉스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 118833691323,
+  "operating_profit": 2406802520,
+  "net_income": 3429683489,
+  "total_assets": 294240833007,
+  "total_debt": 153619210429,
+  "total_equity": 140621622578,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -2.590185612517104,
+  "operating_profit_yoy": -42.23375587500574,
+  "net_income_yoy": 50.94922910358879,
+  "debt_ratio": 109.24295112850835,
+  "operating_margin": 2.0253536629255313,
+  "net_margin": 2.8861204687127247,
+  "roe": 9.755778453196621,
+  "cached_at": "2025-06-09T16:18:10.681373"
+}

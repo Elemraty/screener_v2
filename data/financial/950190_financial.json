@@ -1,0 +1,23 @@
+{
+  "ticker": "950190",
+  "name": "고스트스튜디오",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 14254089,
+  "operating_profit": 2815520,
+  "net_income": 3423203,
+  "total_assets": 136611808,
+  "total_debt": 32663711,
+  "total_equity": 103948097,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -18.21604336002933,
+  "operating_profit_yoy": -26.8533851404961,
+  "net_income_yoy": -10.577577645040936,
+  "debt_ratio": 31.423096663328042,
+  "operating_margin": 19.75236719793177,
+  "net_margin": 24.015585983783318,
+  "roe": 13.17273946823673,
+  "cached_at": "2025-06-09T16:08:43.712039"
+}

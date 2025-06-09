@@ -1,0 +1,20 @@
+{
+  "ticker": "055550",
+  "name": "신한지주",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 0,
+  "operating_profit": 1944214000000,
+  "net_income": 1517046000000,
+  "total_assets": 746222327000000,
+  "total_debt": 686874741000000,
+  "total_equity": 59347586000000,
+  "data_source": "f_data_financial",
+  "operating_profit_yoy": -5.996511036458118,
+  "net_income_yoy": 12.554782542889352,
+  "debt_ratio": 1157.3760405351618,
+  "roe": 10.22482026480403,
+  "cached_at": "2025-06-09T16:01:56.590102"
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "140430",
+  "name": "카티스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 7041396243,
+  "operating_profit": -895304740,
+  "net_income": -932260850,
+  "total_assets": 55551412011,
+  "total_debt": 23475629975,
+  "total_equity": 32075782036,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 267.2167353681771,
+  "debt_ratio": 73.18802063392347,
+  "operating_margin": -12.714875134175857,
+  "net_margin": -13.239715786862302,
+  "roe": -11.625728706519883,
+  "cached_at": "2025-06-09T16:35:04.477876"
+}

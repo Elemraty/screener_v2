@@ -1,0 +1,13 @@
+{
+  "ticker": "418470",
+  "name": "KT밀리의서재",
+  "market": "KOSDAQ",
+  "bps": 8287,
+  "per": 13.59,
+  "eps": 1358,
+  "pbr": 2.23,
+  "roe": 16.387112344636176,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:07:32.430974"
+}

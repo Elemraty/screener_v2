@@ -1,0 +1,20 @@
+{
+  "ticker": "023760",
+  "name": "한국캐피탈",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 0,
+  "operating_profit": 29027780608,
+  "net_income": 22066141290,
+  "total_assets": 4525299446527,
+  "total_debt": 3841383969578,
+  "total_equity": 683915476949,
+  "data_source": "f_data_financial",
+  "operating_profit_yoy": 2.4648012585359202,
+  "net_income_yoy": -2.0437503590367,
+  "debt_ratio": 561.6752506778632,
+  "roe": 12.905770981197131,
+  "cached_at": "2025-06-09T16:40:46.478472"
+}

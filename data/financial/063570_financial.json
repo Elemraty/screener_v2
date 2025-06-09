@@ -1,0 +1,23 @@
+{
+  "ticker": "063570",
+  "name": "NICE인프라",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 84090002426,
+  "operating_profit": 4555391352,
+  "net_income": 117425440,
+  "total_assets": 546186284595,
+  "total_debt": 369460060147,
+  "total_equity": 176726224448,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 34.60962234218996,
+  "operating_profit_yoy": 6.338406821948239,
+  "net_income_yoy": -74.06768629837966,
+  "debt_ratio": 209.05785844800303,
+  "operating_margin": 5.417280557232457,
+  "net_margin": 0.13964256940453235,
+  "roe": 0.2657793213582771,
+  "cached_at": "2025-06-09T16:07:51.242322"
+}

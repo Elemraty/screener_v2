@@ -1,0 +1,21 @@
+{
+  "ticker": "048550",
+  "name": "SM C&C",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 17696848615,
+  "operating_profit": -2935013666,
+  "net_income": -1809127116,
+  "total_assets": 200447438849,
+  "total_debt": 118916206699,
+  "total_equity": 81531232150,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -26.103785719110782,
+  "debt_ratio": 145.85356257123607,
+  "operating_margin": -16.584950969814237,
+  "net_margin": -10.222877278085367,
+  "roe": -8.875750155089493,
+  "cached_at": "2025-06-09T16:08:12.824592"
+}

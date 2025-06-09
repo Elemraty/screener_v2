@@ -1,0 +1,21 @@
+{
+  "ticker": "091970",
+  "name": "나노캠텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 8504280286,
+  "operating_profit": -1106172098,
+  "net_income": -1682515021,
+  "total_assets": 71226220705,
+  "total_debt": 44244834770,
+  "total_equity": 26981385935,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -27.41466581185936,
+  "debt_ratio": 163.98280976592093,
+  "operating_margin": -13.007239422964616,
+  "net_margin": -19.78433170611517,
+  "roe": -24.943344645872433,
+  "cached_at": "2025-06-09T16:09:34.327199"
+}

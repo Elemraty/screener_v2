@@ -1,0 +1,23 @@
+{
+  "ticker": "256940",
+  "name": "킵스파마",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 40646237440,
+  "operating_profit": 89335689,
+  "net_income": -1405571340,
+  "total_assets": 181199382775,
+  "total_debt": 111141286670,
+  "total_equity": 70058096105,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 28.187905833930806,
+  "operating_profit_yoy": -97.39735545134732,
+  "net_income_yoy": -146.31392851564885,
+  "debt_ratio": 158.64160296823698,
+  "operating_margin": 0.21978833620669808,
+  "net_margin": -3.458060151508085,
+  "roe": -8.025175779218387,
+  "cached_at": "2025-06-09T16:37:04.195092"
+}

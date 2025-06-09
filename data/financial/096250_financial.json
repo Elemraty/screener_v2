@@ -1,0 +1,21 @@
+{
+  "ticker": "096250",
+  "name": "와이즈넛",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 5394633776,
+  "operating_profit": -4075087896,
+  "net_income": -3580036093,
+  "total_assets": 67947836853,
+  "total_debt": 5841552144,
+  "total_equity": 62106284709,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -25.797233504818827,
+  "debt_ratio": 9.405734333281545,
+  "operating_margin": -75.53965783793365,
+  "net_margin": -66.36291250996683,
+  "roe": -23.05748031635972,
+  "cached_at": "2025-06-09T16:29:54.133681"
+}

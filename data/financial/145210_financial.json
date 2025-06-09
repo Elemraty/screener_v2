@@ -1,0 +1,23 @@
+{
+  "ticker": "145210",
+  "name": "다이나믹디자인",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 19989328028,
+  "operating_profit": -192331492,
+  "net_income": -1665369475,
+  "total_assets": 105241903107,
+  "total_debt": 60037818640,
+  "total_equity": 45204084467,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 5.227160715179013,
+  "operating_profit_yoy": -371.1808760437785,
+  "net_income_yoy": -575.2625489876991,
+  "debt_ratio": 132.81503065022576,
+  "operating_margin": -0.9621708730308101,
+  "net_margin": -8.331292941249641,
+  "roe": -14.736451315285523,
+  "cached_at": "2025-06-09T15:58:41.328257"
+}

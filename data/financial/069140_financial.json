@@ -1,0 +1,23 @@
+{
+  "ticker": "069140",
+  "name": "누리플랜",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 23445418497,
+  "operating_profit": 449389339,
+  "net_income": -354005921,
+  "total_assets": 143288569677,
+  "total_debt": 101047492538,
+  "total_equity": 42241077139,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -25.71365869661242,
+  "operating_profit_yoy": -83.44816661148393,
+  "net_income_yoy": -118.20640442569841,
+  "debt_ratio": 239.21618335036655,
+  "operating_margin": 1.9167469288616128,
+  "net_margin": -1.5099151292406976,
+  "roe": -3.3522433136361127,
+  "cached_at": "2025-06-09T16:10:31.225078"
+}

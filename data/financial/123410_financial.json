@@ -1,0 +1,23 @@
+{
+  "ticker": "123410",
+  "name": "코리아에프티",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 195652040166,
+  "operating_profit": 11538517470,
+  "net_income": 12812920588,
+  "total_assets": 492957246319,
+  "total_debt": 260429587778,
+  "total_equity": 232527658541,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 10.37475957092797,
+  "operating_profit_yoy": 45.473834396051856,
+  "net_income_yoy": 36.53222825799334,
+  "debt_ratio": 111.99940231285659,
+  "operating_margin": 5.897468516152554,
+  "net_margin": 6.548830555065484,
+  "roe": 22.041112301899837,
+  "cached_at": "2025-06-09T16:36:02.300017"
+}

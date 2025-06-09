@@ -1,0 +1,23 @@
+{
+  "ticker": "009150",
+  "name": "삼성전기",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2738649099826,
+  "operating_profit": 200549840807,
+  "net_income": 141602249084,
+  "total_assets": 13292530590805,
+  "total_debt": 4244639395469,
+  "total_equity": 9047891195336,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 4.357771027080215,
+  "operating_profit_yoy": 11.22065759042492,
+  "net_income_yoy": -24.053883725064416,
+  "debt_ratio": 46.913024304017085,
+  "operating_margin": 7.322947683211475,
+  "net_margin": 5.170514509982191,
+  "roe": 6.260121658270737,
+  "cached_at": "2025-06-09T16:00:50.274078"
+}

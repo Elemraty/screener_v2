@@ -1,0 +1,23 @@
+{
+  "ticker": "272290",
+  "name": "이녹스첨단소재",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 113116240941,
+  "operating_profit": 26371113778,
+  "net_income": 20021458011,
+  "total_assets": 848887605028,
+  "total_debt": 367454989031,
+  "total_equity": 481432615997,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 10.682757401561481,
+  "operating_profit_yoy": 67.32809142211028,
+  "net_income_yoy": 34.24711884351439,
+  "debt_ratio": 76.32532089045037,
+  "operating_margin": 23.313286897285458,
+  "net_margin": 17.699896888761483,
+  "roe": 16.634899544176093,
+  "cached_at": "2025-06-09T16:32:06.901655"
+}

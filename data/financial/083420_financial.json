@@ -1,0 +1,23 @@
+{
+  "ticker": "083420",
+  "name": "그린케미칼",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 86077127873,
+  "operating_profit": 1930006702,
+  "net_income": 1279455032,
+  "total_assets": 212507831799,
+  "total_debt": 92633809805,
+  "total_equity": 119874021994,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 5.66608570520899,
+  "operating_profit_yoy": -1.6720157643074995,
+  "net_income_yoy": -34.761192160673595,
+  "debt_ratio": 77.27596710623136,
+  "operating_margin": 2.2421829697286975,
+  "net_margin": 1.4864053478732873,
+  "roe": 4.2693321228982875,
+  "cached_at": "2025-06-09T15:58:11.681071"
+}

@@ -1,0 +1,22 @@
+{
+  "ticker": "009320",
+  "name": "아진전자부품",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 33418239763,
+  "operating_profit": 608379019,
+  "net_income": 587726913,
+  "total_assets": 100655489052,
+  "total_debt": 71143178543,
+  "total_equity": 29512310509,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 13.386205486069702,
+  "operating_profit_yoy": 99.29351060523726,
+  "debt_ratio": 241.06272032243749,
+  "operating_margin": 1.8204998926172795,
+  "net_margin": 1.758700988346847,
+  "roe": 7.9658542874271845,
+  "cached_at": "2025-06-09T16:02:10.296459"
+}

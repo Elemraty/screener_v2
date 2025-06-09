@@ -1,0 +1,13 @@
+{
+  "ticker": "413640",
+  "name": "비아이매트릭스",
+  "market": "KOSDAQ",
+  "bps": 4254,
+  "per": 26.09,
+  "eps": 511,
+  "pbr": 3.13,
+  "roe": 12.012223789374705,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:16:03.764076"
+}

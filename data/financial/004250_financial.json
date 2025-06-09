@@ -1,0 +1,23 @@
+{
+  "ticker": "004250",
+  "name": "NPC",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 99862683580,
+  "operating_profit": 3678940451,
+  "net_income": 2045835145,
+  "total_assets": 597471370818,
+  "total_debt": 160857708766,
+  "total_equity": 436613662052,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -9.054348319386985,
+  "operating_profit_yoy": -40.65769471783517,
+  "net_income_yoy": -60.35609227052671,
+  "debt_ratio": 36.8421152947894,
+  "operating_margin": 3.6839991867961377,
+  "net_margin": 2.0486482754702675,
+  "roe": 1.8742749692118834,
+  "cached_at": "2025-06-09T15:57:17.664524"
+}

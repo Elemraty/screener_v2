@@ -1,0 +1,23 @@
+{
+  "ticker": "218410",
+  "name": "RFHIC",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 31874060282,
+  "operating_profit": 3735378140,
+  "net_income": 4325066875,
+  "total_assets": 484836918542,
+  "total_debt": 128396144701,
+  "total_equity": 356440773841,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 24.68642012693547,
+  "operating_profit_yoy": 829.0143501722592,
+  "net_income_yoy": -80.37958132771878,
+  "debt_ratio": 36.02173323702708,
+  "operating_margin": 11.719178877594869,
+  "net_margin": 13.569237294322564,
+  "roe": 4.85361630028254,
+  "cached_at": "2025-06-09T16:07:55.486352"
+}

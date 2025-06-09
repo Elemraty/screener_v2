@@ -1,0 +1,20 @@
+{
+  "ticker": "000540",
+  "name": "흥국화재",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 0,
+  "operating_profit": 144680000000,
+  "net_income": 119580000000,
+  "total_assets": 13676565000000,
+  "total_debt": 12781881000000,
+  "total_equity": 894684000000,
+  "data_source": "f_data_financial",
+  "operating_profit_yoy": 110.1746128591766,
+  "net_income_yoy": 149.07310976879816,
+  "debt_ratio": 1428.6475448314714,
+  "roe": 53.462451547138436,
+  "cached_at": "2025-06-09T16:06:04.343806"
+}

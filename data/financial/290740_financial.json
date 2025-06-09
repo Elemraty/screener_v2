@@ -1,0 +1,23 @@
+{
+  "ticker": "290740",
+  "name": "액트로",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 53043315737,
+  "operating_profit": -930307260,
+  "net_income": -500918696,
+  "total_assets": 111488163286,
+  "total_debt": 44936078055,
+  "total_equity": 66552085231,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -3.8407898778390015,
+  "operating_profit_yoy": -257.3206082816504,
+  "net_income_yoy": -121.72507661849062,
+  "debt_ratio": 67.5201654448969,
+  "operating_margin": -1.753863322972984,
+  "net_margin": -0.9443578121768652,
+  "roe": -3.010686708080316,
+  "cached_at": "2025-06-09T16:22:06.461821"
+}

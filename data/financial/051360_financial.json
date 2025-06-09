@@ -1,0 +1,23 @@
+{
+  "ticker": "051360",
+  "name": "토비스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 153758066714,
+  "operating_profit": 12064285159,
+  "net_income": 9139874064,
+  "total_assets": 535052369047,
+  "total_debt": 261874746789,
+  "total_equity": 273177622258,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 10.461549249677216,
+  "operating_profit_yoy": 19.234272256466834,
+  "net_income_yoy": -25.213734455741697,
+  "debt_ratio": 95.86244459719137,
+  "operating_margin": 7.84627786810064,
+  "net_margin": 5.94432166020971,
+  "roe": 13.383049443732157,
+  "cached_at": "2025-06-09T16:37:26.735643"
+}

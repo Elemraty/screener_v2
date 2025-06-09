@@ -1,0 +1,21 @@
+{
+  "ticker": "038870",
+  "name": "에코바이오",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 4087498143,
+  "operating_profit": -1178828643,
+  "net_income": -512761783,
+  "total_assets": 121676780580,
+  "total_debt": 39748954554,
+  "total_equity": 81927826026,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 0.6938518032055807,
+  "debt_ratio": 48.51703808347798,
+  "operating_margin": -28.83985757935548,
+  "net_margin": -12.544636475936377,
+  "roe": -2.503480479695745,
+  "cached_at": "2025-06-09T16:23:46.044157"
+}

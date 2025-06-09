@@ -1,0 +1,21 @@
+{
+  "ticker": "012200",
+  "name": "계양전기",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 93877412130,
+  "operating_profit": -2735661492,
+  "net_income": 204936283,
+  "total_assets": 217302972552,
+  "total_debt": 161557443821,
+  "total_equity": 55745528731,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -4.2182080260736,
+  "debt_ratio": 289.8123804701814,
+  "operating_margin": -2.91407850933481,
+  "net_margin": 0.21830201573537988,
+  "roe": 1.470512793870302,
+  "cached_at": "2025-06-09T15:58:04.063881"
+}

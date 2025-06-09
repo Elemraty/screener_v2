@@ -1,0 +1,23 @@
+{
+  "ticker": "256840",
+  "name": "한국비엔씨",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 25420457565,
+  "operating_profit": 3795444499,
+  "net_income": 5089180385,
+  "total_assets": 271110472870,
+  "total_debt": 28529177568,
+  "total_equity": 242581295302,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 47.61040225729671,
+  "operating_profit_yoy": 234.92022887820414,
+  "net_income_yoy": 88.97301046034552,
+  "debt_ratio": 11.76066667979606,
+  "operating_margin": 14.930669478686859,
+  "net_margin": 20.020018805668574,
+  "roe": 8.39171112292769,
+  "cached_at": "2025-06-09T16:40:29.267310"
+}

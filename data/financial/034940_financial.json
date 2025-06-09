@@ -1,0 +1,21 @@
+{
+  "ticker": "034940",
+  "name": "조아제약",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 14374928298,
+  "operating_profit": -2105977354,
+  "net_income": -2203804491,
+  "total_assets": 67398114625,
+  "total_debt": 41041557240,
+  "total_equity": 26356557385,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -5.038973281822767,
+  "debt_ratio": 155.716684241006,
+  "operating_margin": -14.650350320655214,
+  "net_margin": -15.330890320382453,
+  "roe": -33.44601434562506,
+  "cached_at": "2025-06-09T16:34:16.945914"
+}

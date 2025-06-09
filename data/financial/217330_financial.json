@@ -1,0 +1,21 @@
+{
+  "ticker": "217330",
+  "name": "싸이토젠",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 5593490789,
+  "operating_profit": -2365926893,
+  "net_income": -2430259131,
+  "total_assets": 71643785248,
+  "total_debt": 24994265786,
+  "total_equity": 46649519462,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 605.7721128842355,
+  "debt_ratio": 53.57882797991083,
+  "operating_margin": -42.29785982043207,
+  "net_margin": -43.447986645106816,
+  "roe": -20.838449433372215,
+  "cached_at": "2025-06-09T16:20:00.139751"
+}

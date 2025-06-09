@@ -1,0 +1,20 @@
+{
+  "ticker": "175330",
+  "name": "JB금융지주",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 0,
+  "operating_profit": 217472000000,
+  "net_income": 166894000000,
+  "total_assets": 68289472000000,
+  "total_debt": 62510477000000,
+  "total_equity": 5778995000000,
+  "data_source": "f_data_financial",
+  "operating_profit_yoy": -4.60206261542443,
+  "net_income_yoy": -5.195948671048223,
+  "debt_ratio": 1081.6842201801524,
+  "roe": 11.55176635383834,
+  "cached_at": "2025-06-09T15:56:27.091440"
+}

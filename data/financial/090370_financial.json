@@ -1,0 +1,21 @@
+{
+  "ticker": "090370",
+  "name": "메타랩스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 8446234309,
+  "operating_profit": -798209247,
+  "net_income": -72199809,
+  "total_assets": 135717710120,
+  "total_debt": 56329931101,
+  "total_equity": 79387779019,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -1.1850071441070753,
+  "debt_ratio": 70.95541882777508,
+  "operating_margin": -9.45047482461453,
+  "net_margin": -0.8548165532545847,
+  "roe": -0.3637829897355879,
+  "cached_at": "2025-06-09T16:00:05.973538"
+}

@@ -1,0 +1,19 @@
+{
+  "ticker": "217620",
+  "name": "선샤인푸드",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1083855758,
+  "operating_profit": -722524167,
+  "net_income": -739784677,
+  "total_assets": 29119092725,
+  "total_debt": 35774077343,
+  "total_equity": -6654984618,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -90.7267766382386,
+  "operating_margin": -66.6623913437751,
+  "net_margin": -68.25490122090582,
+  "cached_at": "2025-06-09T16:17:41.776791"
+}

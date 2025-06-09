@@ -1,0 +1,18 @@
+{
+  "ticker": "276040",
+  "name": "스코넥",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 0,
+  "operating_profit": -2266001460,
+  "net_income": -2160777051,
+  "total_assets": 17454584191,
+  "total_debt": 1920356610,
+  "total_equity": 15534227581,
+  "data_source": "f_data_financial",
+  "debt_ratio": 12.362099112985822,
+  "roe": -55.639124371857626,
+  "cached_at": "2025-06-09T16:18:57.284708"
+}

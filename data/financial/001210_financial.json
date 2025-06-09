@@ -1,0 +1,21 @@
+{
+  "ticker": "001210",
+  "name": "금호전기",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 11629963399,
+  "operating_profit": 58334569,
+  "net_income": -324712896,
+  "total_assets": 31942672459,
+  "total_debt": 22360050792,
+  "total_equity": 9582621667,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -23.27997335844294,
+  "debt_ratio": 233.33959712718354,
+  "operating_margin": 0.5015885862978372,
+  "net_margin": -2.7920371273732503,
+  "roe": -13.554240469212086,
+  "cached_at": "2025-06-09T15:58:19.301379"
+}

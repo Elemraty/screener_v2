@@ -1,0 +1,23 @@
+{
+  "ticker": "025530",
+  "name": "SJM홀딩스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 54522760029,
+  "operating_profit": 3949733785,
+  "net_income": 6141036715,
+  "total_assets": 373915474033,
+  "total_debt": 69663976307,
+  "total_equity": 304251497726,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 4.486396697389683,
+  "operating_profit_yoy": -14.184076009336287,
+  "net_income_yoy": 0.14364550592964598,
+  "debt_ratio": 22.896839235853932,
+  "operating_margin": 7.244192669078352,
+  "net_margin": 11.2632535692134,
+  "roe": 8.073632190340687,
+  "cached_at": "2025-06-09T15:57:29.031185"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "004450",
+  "name": "삼화왕관",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 41800782780,
+  "operating_profit": 1646935040,
+  "net_income": 1954048975,
+  "total_assets": 207405121265,
+  "total_debt": 95354893430,
+  "total_equity": 112050227835,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 10.75180571818628,
+  "operating_profit_yoy": -28.27326368749654,
+  "net_income_yoy": -9.832812721627082,
+  "debt_ratio": 85.10013346016147,
+  "operating_margin": 3.9399621979997765,
+  "net_margin": 4.67467077179936,
+  "roe": 6.97561803400326,
+  "cached_at": "2025-06-09T16:01:09.395706"
+}

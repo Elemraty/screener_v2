@@ -1,0 +1,23 @@
+{
+  "ticker": "005160",
+  "name": "동국산업",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 204574443197,
+  "operating_profit": 9741726759,
+  "net_income": 5469007393,
+  "total_assets": 972400455373,
+  "total_debt": 485309530501,
+  "total_equity": 487090924872,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 16.017203447236383,
+  "operating_profit_yoy": 161.7209297382868,
+  "net_income_yoy": 852.3421158823295,
+  "debt_ratio": 99.63427888305081,
+  "operating_margin": 4.761947096988535,
+  "net_margin": 2.6733580732435307,
+  "roe": 4.49115934109195,
+  "cached_at": "2025-06-09T16:11:56.641740"
+}

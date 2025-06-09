@@ -1,0 +1,21 @@
+{
+  "ticker": "115530",
+  "name": "씨엔플러스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 10998227643,
+  "operating_profit": -373585555,
+  "net_income": -703047571,
+  "total_assets": 51553257172,
+  "total_debt": 42796980200,
+  "total_equity": 8756276972,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 22.15814172639956,
+  "debt_ratio": 488.75772587884285,
+  "operating_margin": -3.3967796187395214,
+  "net_margin": -6.392371514945556,
+  "roe": -32.116278333732,
+  "cached_at": "2025-06-09T16:20:24.384630"
+}

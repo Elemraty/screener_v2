@@ -1,0 +1,13 @@
+{
+  "ticker": "479960",
+  "name": "위너스",
+  "market": "KOSDAQ",
+  "bps": 4899,
+  "per": 30.58,
+  "eps": 485,
+  "pbr": 3.03,
+  "roe": 9.899979587670952,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:30:44.603536"
+}

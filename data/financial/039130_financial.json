@@ -1,0 +1,23 @@
+{
+  "ticker": "039130",
+  "name": "하나투어",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 168451223004,
+  "operating_profit": 12282301697,
+  "net_income": 14365097367,
+  "total_assets": 665698956204,
+  "total_debt": 508185307150,
+  "total_equity": 157513649054,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -8.118879123484646,
+  "operating_profit_yoy": -43.21506016364931,
+  "net_income_yoy": -40.54480146949329,
+  "debt_ratio": 322.6293785980288,
+  "operating_margin": 7.291310492122902,
+  "net_margin": 8.527748929824563,
+  "roe": 36.47962561536556,
+  "cached_at": "2025-06-09T16:04:39.924759"
+}

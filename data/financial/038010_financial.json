@@ -1,0 +1,23 @@
+{
+  "ticker": "038010",
+  "name": "제일테크노스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 34569567861,
+  "operating_profit": 1960451587,
+  "net_income": 1360417520,
+  "total_assets": 171516493505,
+  "total_debt": 38478028861,
+  "total_equity": 133038464644,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -33.21998710591336,
+  "operating_profit_yoy": -76.76783375468206,
+  "net_income_yoy": -77.77124261889065,
+  "debt_ratio": 28.922484158219987,
+  "operating_margin": 5.671032958475894,
+  "net_margin": 3.935303806718303,
+  "roe": 4.090298316777378,
+  "cached_at": "2025-06-09T16:34:09.617757"
+}

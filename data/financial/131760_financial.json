@@ -1,0 +1,23 @@
+{
+  "ticker": "131760",
+  "name": "파인텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 11076939621,
+  "operating_profit": -606978913,
+  "net_income": -1095159052,
+  "total_assets": 89360837633,
+  "total_debt": 54362397737,
+  "total_equity": 34998439896,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -26.112012771668446,
+  "operating_profit_yoy": -149.24792635517883,
+  "net_income_yoy": -214.55482220759473,
+  "debt_ratio": 155.3280600465083,
+  "operating_margin": -5.479662558142602,
+  "net_margin": -9.886837786167616,
+  "roe": -12.516661374099325,
+  "cached_at": "2025-06-09T16:38:18.664915"
+}

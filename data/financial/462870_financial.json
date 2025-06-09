@@ -1,0 +1,13 @@
+{
+  "ticker": "462870",
+  "name": "시프트업",
+  "market": "KOSPI",
+  "bps": 13104,
+  "per": 18.51,
+  "eps": 2734,
+  "pbr": 3.86,
+  "roe": 20.863858363858366,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:01:38.532656"
+}

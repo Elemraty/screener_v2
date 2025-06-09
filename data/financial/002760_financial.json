@@ -1,0 +1,23 @@
+{
+  "ticker": "002760",
+  "name": "보락",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 13048188186,
+  "operating_profit": 305117128,
+  "net_income": 239963361,
+  "total_assets": 58678438280,
+  "total_debt": 12149250033,
+  "total_equity": 46529188247,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 14.763385312740729,
+  "operating_profit_yoy": -18.15697998430601,
+  "net_income_yoy": -30.487284120755966,
+  "debt_ratio": 26.111029422017328,
+  "operating_margin": 2.3383869365662138,
+  "net_margin": 1.8390550287852816,
+  "roe": 2.062906059965246,
+  "cached_at": "2025-06-09T16:00:30.598432"
+}

@@ -1,0 +1,22 @@
+{
+  "ticker": "101400",
+  "name": "엔시트론",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 8988837005,
+  "operating_profit": -567570442,
+  "net_income": -635673260,
+  "total_assets": 46030912935,
+  "total_debt": 6865601282,
+  "total_equity": 39165311653,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 10.723477468855137,
+  "net_income_yoy": -339.49070342335375,
+  "debt_ratio": 17.529801225197467,
+  "operating_margin": -6.314169916356159,
+  "net_margin": -7.071807617007736,
+  "roe": -6.492206834782671,
+  "cached_at": "2025-06-09T16:24:14.062003"
+}

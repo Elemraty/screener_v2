@@ -1,0 +1,23 @@
+{
+  "ticker": "050960",
+  "name": "수산아이앤티",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 7076239771,
+  "operating_profit": 1732050695,
+  "net_income": 1700494308,
+  "total_assets": 92255254613,
+  "total_debt": 4772156282,
+  "total_equity": 87483098331,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 10.215641167875255,
+  "operating_profit_yoy": 22.018647816340533,
+  "net_income_yoy": 546.3521692350785,
+  "debt_ratio": 5.454946581731853,
+  "operating_margin": 24.476992739821053,
+  "net_margin": 24.031044213185126,
+  "roe": 7.77519013588673,
+  "cached_at": "2025-06-09T16:18:46.028693"
+}

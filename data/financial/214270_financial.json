@@ -1,0 +1,21 @@
+{
+  "ticker": "214270",
+  "name": "FSN",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 86281606949,
+  "operating_profit": 4072259837,
+  "net_income": 3729145568,
+  "total_assets": 340892869283,
+  "total_debt": 238900621013,
+  "total_equity": 101992248270,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 124.84302696750045,
+  "debt_ratio": 234.2340962820703,
+  "operating_margin": 4.719731100287762,
+  "net_margin": 4.322063183413183,
+  "roe": 14.62521174404542,
+  "cached_at": "2025-06-09T16:06:37.356198"
+}

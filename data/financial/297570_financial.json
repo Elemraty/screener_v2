@@ -1,0 +1,23 @@
+{
+  "ticker": "297570",
+  "name": "알로이스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 8206756093,
+  "operating_profit": 1717622181,
+  "net_income": 1259990945,
+  "total_assets": 62692214581,
+  "total_debt": 21057793403,
+  "total_equity": 41634421178,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 24.72841953044609,
+  "operating_profit_yoy": 43.0469528927774,
+  "net_income_yoy": 22.760111793604754,
+  "debt_ratio": 50.577845943795964,
+  "operating_margin": 20.9293679687283,
+  "net_margin": 15.353093606311957,
+  "roe": 12.105281249023733,
+  "cached_at": "2025-06-09T16:21:45.293314"
+}

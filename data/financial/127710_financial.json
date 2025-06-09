@@ -1,0 +1,21 @@
+{
+  "ticker": "127710",
+  "name": "아시아경제",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 14654773474,
+  "operating_profit": -979964655,
+  "net_income": 784428895,
+  "total_assets": 355155323900,
+  "total_debt": 265229383640,
+  "total_equity": 89925940260,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -13.30279390659519,
+  "debt_ratio": 294.94201881364904,
+  "operating_margin": -6.686999677877109,
+  "net_margin": 5.352719346987567,
+  "roe": 3.4892218762773273,
+  "cached_at": "2025-06-09T16:20:51.574252"
+}

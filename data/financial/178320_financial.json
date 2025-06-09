@@ -1,0 +1,22 @@
+{
+  "ticker": "178320",
+  "name": "서진시스템",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 281267404471,
+  "operating_profit": 20864883661,
+  "net_income": 1132441975,
+  "total_assets": 2145629528985,
+  "total_debt": 1271966855176,
+  "total_equity": 873662673809,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -13.633517214341872,
+  "operating_profit_yoy": -51.78038566552896,
+  "debt_ratio": 145.59015662537934,
+  "operating_margin": 7.418166246544672,
+  "net_margin": 0.402621120328488,
+  "roe": 0.5184801910159547,
+  "cached_at": "2025-06-09T16:17:32.317182"
+}

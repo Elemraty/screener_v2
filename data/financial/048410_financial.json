@@ -1,0 +1,23 @@
+{
+  "ticker": "048410",
+  "name": "현대바이오",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 708793387,
+  "operating_profit": -4282780897,
+  "net_income": -6138535708,
+  "total_assets": 142393192927,
+  "total_debt": 24859064141,
+  "total_equity": 117534128786,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -85.9638584947339,
+  "operating_profit_yoy": -450.97971978291105,
+  "net_income_yoy": -617.8747335233206,
+  "debt_ratio": 21.15050700402271,
+  "operating_margin": -604.2354479529025,
+  "net_margin": -866.0543143583251,
+  "roe": -20.891074861078778,
+  "cached_at": "2025-06-09T16:41:36.839593"
+}

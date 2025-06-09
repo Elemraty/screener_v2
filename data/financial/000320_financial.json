@@ -1,0 +1,23 @@
+{
+  "ticker": "000320",
+  "name": "노루홀딩스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 288913668228,
+  "operating_profit": 12261791802,
+  "net_income": 11722902034,
+  "total_assets": 1219757736204,
+  "total_debt": 451316438241,
+  "total_equity": 768441297963,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 3.137170687955848,
+  "operating_profit_yoy": -26.126951798172648,
+  "net_income_yoy": -22.771315215907816,
+  "debt_ratio": 58.7314137641169,
+  "operating_margin": 4.244102356667822,
+  "net_margin": 4.057579589743992,
+  "roe": 6.102171793772828,
+  "cached_at": "2025-06-09T15:58:34.730207"
+}

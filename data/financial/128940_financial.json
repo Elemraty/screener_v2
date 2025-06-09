@@ -1,0 +1,23 @@
+{
+  "ticker": "128940",
+  "name": "한미약품",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 390948100805,
+  "operating_profit": 59019660622,
+  "net_income": 44654114129,
+  "total_assets": 1983990384710,
+  "total_debt": 714642936611,
+  "total_equity": 1269347448099,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -3.1550158502728465,
+  "operating_profit_yoy": -22.996530479017895,
+  "net_income_yoy": -29.340593051627174,
+  "debt_ratio": 56.30002547224272,
+  "operating_margin": 15.096546191290559,
+  "net_margin": 11.422005641427303,
+  "roe": 14.071518147651343,
+  "cached_at": "2025-06-09T16:05:03.254759"
+}

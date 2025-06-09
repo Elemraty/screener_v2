@@ -1,0 +1,23 @@
+{
+  "ticker": "084110",
+  "name": "휴온스글로벌",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 199104868521,
+  "operating_profit": 25551150926,
+  "net_income": 26091478140,
+  "total_assets": 1424312722332,
+  "total_debt": 443021534133,
+  "total_equity": 981291188199,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -1.3751985174067727,
+  "operating_profit_yoy": -1.5373997586135113,
+  "net_income_yoy": 13.149831819949265,
+  "debt_ratio": 45.14679632924186,
+  "operating_margin": 12.833011626385755,
+  "net_margin": 13.10438982924623,
+  "roe": 10.63557013607211,
+  "cached_at": "2025-06-09T16:42:08.905200"
+}

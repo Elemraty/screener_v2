@@ -1,0 +1,13 @@
+{
+  "ticker": "352700",
+  "name": "씨앤투스",
+  "market": "KOSDAQ",
+  "bps": 6395,
+  "per": 34.47,
+  "eps": 76,
+  "pbr": 0.41,
+  "roe": 1.1884284597341672,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:20:19.029138"
+}

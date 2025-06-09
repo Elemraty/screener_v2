@@ -1,0 +1,23 @@
+{
+  "ticker": "265560",
+  "name": "영화테크",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 26770097840,
+  "operating_profit": 3582762130,
+  "net_income": 2882652932,
+  "total_assets": 107926805762,
+  "total_debt": 31326404837,
+  "total_equity": 76600400925,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 44.158710672536515,
+  "operating_profit_yoy": 38.186664732660326,
+  "net_income_yoy": -1.420214188075175,
+  "debt_ratio": 40.89587581620089,
+  "operating_margin": 13.383448022541856,
+  "net_margin": 10.768182280203426,
+  "roe": 15.052939134469682,
+  "cached_at": "2025-06-09T16:25:04.935327"
+}

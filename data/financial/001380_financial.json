@@ -1,0 +1,23 @@
+{
+  "ticker": "001380",
+  "name": "SG글로벌",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 23076835245,
+  "operating_profit": 1915877104,
+  "net_income": 1321429987,
+  "total_assets": 199493342909,
+  "total_debt": 48551650396,
+  "total_equity": 150941692513,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -8.621082249733302,
+  "operating_profit_yoy": -5.886443115428297,
+  "net_income_yoy": -62.70401838193279,
+  "debt_ratio": 32.165831446350346,
+  "operating_margin": 8.302165715791157,
+  "net_margin": 5.726218404606892,
+  "roe": 3.50182899104882,
+  "cached_at": "2025-06-09T15:57:25.524637"
+}

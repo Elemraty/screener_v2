@@ -1,0 +1,23 @@
+{
+  "ticker": "286940",
+  "name": "롯데이노베이트",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 284810819424,
+  "operating_profit": 6958384697,
+  "net_income": 3409673330,
+  "total_assets": 905917315579,
+  "total_debt": 459481928679,
+  "total_equity": 446435386900,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 2.996420667205224,
+  "operating_profit_yoy": -22.2533432858241,
+  "net_income_yoy": -36.320806461503096,
+  "debt_ratio": 102.9223807435145,
+  "operating_margin": 2.443160239162474,
+  "net_margin": 1.197171279130374,
+  "roe": 3.055020663730454,
+  "cached_at": "2025-06-09T15:59:54.531419"
+}

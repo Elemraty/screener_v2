@@ -1,0 +1,23 @@
+{
+  "ticker": "155660",
+  "name": "DSR",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 74084797444,
+  "operating_profit": 5728005822,
+  "net_income": 4200675573,
+  "total_assets": 355732862929,
+  "total_debt": 118075810053,
+  "total_equity": 237657052876,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 8.750628636426704,
+  "operating_profit_yoy": 11.935357189002382,
+  "net_income_yoy": -8.82505040965238,
+  "debt_ratio": 49.683276226860926,
+  "operating_margin": 7.7316885779835545,
+  "net_margin": 5.670091189997855,
+  "roe": 7.070146704531838,
+  "cached_at": "2025-06-09T15:56:00.607329"
+}

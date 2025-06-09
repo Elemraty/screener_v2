@@ -1,0 +1,21 @@
+{
+  "ticker": "101680",
+  "name": "한국정밀기계",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 6889865416,
+  "operating_profit": -2565957421,
+  "net_income": -2546071139,
+  "total_assets": 68902630983,
+  "total_debt": 30151996182,
+  "total_equity": 38750634801,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -26.591675183683215,
+  "debt_ratio": 77.81032836453534,
+  "operating_margin": -37.242489745027555,
+  "net_margin": -36.95385882411262,
+  "roe": -26.281594116587698,
+  "cached_at": "2025-06-09T16:40:35.824933"
+}

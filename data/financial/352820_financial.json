@@ -1,0 +1,13 @@
+{
+  "ticker": "352820",
+  "name": "하이브",
+  "market": "KOSPI",
+  "bps": 77427,
+  "per": 1182.22,
+  "eps": 225,
+  "pbr": 3.44,
+  "roe": 0.29059630361501804,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:04:40.689092"
+}

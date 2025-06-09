@@ -1,0 +1,23 @@
+{
+  "ticker": "050890",
+  "name": "쏠리드",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 55751069759,
+  "operating_profit": 260712124,
+  "net_income": 3051030035,
+  "total_assets": 506441014135,
+  "total_debt": 183673586571,
+  "total_equity": 322767427564,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -25.606257413132983,
+  "operating_profit_yoy": -96.59523983804822,
+  "net_income_yoy": -83.53281765545226,
+  "debt_ratio": 56.905861894809775,
+  "operating_margin": 0.4676360922346477,
+  "net_margin": 5.472594603455957,
+  "roe": 3.781087897284835,
+  "cached_at": "2025-06-09T16:20:08.481814"
+}

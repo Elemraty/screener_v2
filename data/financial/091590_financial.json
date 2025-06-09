@@ -1,0 +1,22 @@
+{
+  "ticker": "091590",
+  "name": "남화토건",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 13749753067,
+  "operating_profit": -120050033,
+  "net_income": 46542691,
+  "total_assets": 190168912000,
+  "total_debt": 23479151349,
+  "total_equity": 166689760651,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -17.140987838381182,
+  "net_income_yoy": -95.7520560153897,
+  "debt_ratio": 14.085539062089442,
+  "operating_margin": -0.8731068290100806,
+  "net_margin": 0.3384983771941655,
+  "roe": 0.11168698261543947,
+  "cached_at": "2025-06-09T16:09:52.934077"
+}

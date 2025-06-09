@@ -1,0 +1,23 @@
+{
+  "ticker": "026940",
+  "name": "부국철강",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 44746979672,
+  "operating_profit": 533568265,
+  "net_income": 855244743,
+  "total_assets": 155294386169,
+  "total_debt": 23997692645,
+  "total_equity": 131296693524,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -5.196848054652037,
+  "operating_profit_yoy": -4.576242625570304,
+  "net_income_yoy": -7.909575991987749,
+  "debt_ratio": 18.27745391060698,
+  "operating_margin": 1.1924117983182567,
+  "net_margin": 1.9112904362909688,
+  "roe": 2.6055332241665874,
+  "cached_at": "2025-06-09T16:00:33.742916"
+}

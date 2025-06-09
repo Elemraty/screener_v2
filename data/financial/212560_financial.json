@@ -1,0 +1,23 @@
+{
+  "ticker": "212560",
+  "name": "네오오토",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 57263048390,
+  "operating_profit": 3399193742,
+  "net_income": 3683944201,
+  "total_assets": 202961264453,
+  "total_debt": 76773460008,
+  "total_equity": 126187804445,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 7.6556598782677066,
+  "operating_profit_yoy": 9.473315393215831,
+  "net_income_yoy": -5.793731868661133,
+  "debt_ratio": 60.840633804245606,
+  "operating_margin": 5.936103364335753,
+  "net_margin": 6.433370741826132,
+  "roe": 11.6776552764437,
+  "cached_at": "2025-06-09T16:09:57.065736"
+}

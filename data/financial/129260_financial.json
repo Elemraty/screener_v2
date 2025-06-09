@@ -1,0 +1,23 @@
+{
+  "ticker": "129260",
+  "name": "인터지스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 173878480078,
+  "operating_profit": 8296949147,
+  "net_income": 6043744954,
+  "total_assets": 490610847755,
+  "total_debt": 198589384069,
+  "total_equity": 292021463686,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 10.679491036679423,
+  "operating_profit_yoy": 128.77393944108198,
+  "net_income_yoy": 119.20912539332784,
+  "debt_ratio": 68.00506427244535,
+  "operating_margin": 4.771694083867123,
+  "net_margin": 3.475844136254723,
+  "roe": 8.2784941595918,
+  "cached_at": "2025-06-09T16:03:12.144558"
+}

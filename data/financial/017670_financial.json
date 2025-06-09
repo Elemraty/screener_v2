@@ -1,0 +1,23 @@
+{
+  "ticker": "017670",
+  "name": "SK텔레콤",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 4453717000000,
+  "operating_profit": 567384000000,
+  "net_income": 361575000000,
+  "total_assets": 29920565000000,
+  "total_debt": 17978708000000,
+  "total_equity": 11941857000000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -0.46694561828950487,
+  "operating_profit_yoy": 13.820766355927617,
+  "net_income_yoy": -0.10084544399624473,
+  "debt_ratio": 150.55202888461986,
+  "operating_margin": 12.739561135114782,
+  "net_margin": 8.118499671173538,
+  "roe": 12.111181703147174,
+  "cached_at": "2025-06-09T15:57:45.275335"
+}

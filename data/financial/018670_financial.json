@@ -1,0 +1,23 @@
+{
+  "ticker": "018670",
+  "name": "SK가스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1827031226222,
+  "operating_profit": 112909682033,
+  "net_income": 87305472709,
+  "total_assets": 7650535675538,
+  "total_debt": 4874860413845,
+  "total_equity": 2775675261693,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 5.85923843526015,
+  "operating_profit_yoy": 51.31032619442715,
+  "net_income_yoy": 330.26529820714296,
+  "debt_ratio": 175.6279086794764,
+  "operating_margin": 6.179953599724655,
+  "net_margin": 4.7785429967463315,
+  "roe": 12.581511088692524,
+  "cached_at": "2025-06-09T15:57:31.285701"
+}

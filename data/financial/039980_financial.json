@@ -1,0 +1,21 @@
+{
+  "ticker": "039980",
+  "name": "폴라리스AI",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 11098706966,
+  "operating_profit": -427690998,
+  "net_income": 104670651,
+  "total_assets": 115568643337,
+  "total_debt": 19445492111,
+  "total_equity": 96123151226,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -10.556726892126056,
+  "debt_ratio": 20.229769689177918,
+  "operating_margin": -3.8535209489735793,
+  "net_margin": 0.9430886978154316,
+  "roe": 0.4355689536390814,
+  "cached_at": "2025-06-09T16:38:46.997568"
+}

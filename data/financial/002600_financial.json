@@ -1,0 +1,23 @@
+{
+  "ticker": "002600",
+  "name": "조흥",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 114966564730,
+  "operating_profit": 3727666721,
+  "net_income": -453171108,
+  "total_assets": 446582741200,
+  "total_debt": 303118661725,
+  "total_equity": 143464079475,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 14.566999096183352,
+  "operating_profit_yoy": -36.139111203303244,
+  "net_income_yoy": -127.85734165369121,
+  "debt_ratio": 211.28540526259144,
+  "operating_margin": 3.2423920204578245,
+  "net_margin": -0.394176436483317,
+  "roe": -1.263511004729151,
+  "cached_at": "2025-06-09T16:03:36.043892"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "037350",
+  "name": "성도이엔지",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 200331459919,
+  "operating_profit": 8015419299,
+  "net_income": 6684082011,
+  "total_assets": 640207062287,
+  "total_debt": 343180252178,
+  "total_equity": 297026810109,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 5.438613232088119,
+  "operating_profit_yoy": 17.121259609418104,
+  "net_income_yoy": 13.810032010762875,
+  "debt_ratio": 115.53847683044607,
+  "operating_margin": 4.001078663451499,
+  "net_margin": 3.336511406497299,
+  "roe": 9.001318108014749,
+  "cached_at": "2025-06-09T16:17:46.247523"
+}

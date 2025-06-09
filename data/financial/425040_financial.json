@@ -1,0 +1,13 @@
+{
+  "ticker": "425040",
+  "name": "티이엠씨",
+  "market": "KOSDAQ",
+  "bps": 8702,
+  "per": 10.21,
+  "eps": 609,
+  "pbr": 0.71,
+  "roe": 6.9983911744426575,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:37:53.449657"
+}

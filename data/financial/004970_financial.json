@@ -1,0 +1,23 @@
+{
+  "ticker": "004970",
+  "name": "신라교역",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 117705587871,
+  "operating_profit": 2369368163,
+  "net_income": 1287978808,
+  "total_assets": 759507860221,
+  "total_debt": 162024387378,
+  "total_equity": 597483472843,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -14.777798190530056,
+  "operating_profit_yoy": -81.70196848290848,
+  "net_income_yoy": -94.53629239976328,
+  "debt_ratio": 27.117802373183792,
+  "operating_margin": 2.012961496438657,
+  "net_margin": 1.0942376069788347,
+  "roe": 0.8622690779187062,
+  "cached_at": "2025-06-09T16:01:40.330440"
+}

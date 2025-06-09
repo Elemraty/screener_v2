@@ -1,0 +1,23 @@
+{
+  "ticker": "115310",
+  "name": "인포바인",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 7120634833,
+  "operating_profit": 2288683448,
+  "net_income": 2503934713,
+  "total_assets": 103945832140,
+  "total_debt": 10666158082,
+  "total_equity": 93279674058,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 13.70651273648258,
+  "operating_profit_yoy": -0.020738802659381328,
+  "net_income_yoy": -3.7378560173639053,
+  "debt_ratio": 11.43460050618094,
+  "operating_margin": 32.14156464523758,
+  "net_margin": 35.16448703977515,
+  "roe": 10.737321879761664,
+  "cached_at": "2025-06-09T16:33:12.471848"
+}

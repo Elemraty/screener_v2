@@ -1,0 +1,23 @@
+{
+  "ticker": "086960",
+  "name": "MDS테크",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 50652778453,
+  "operating_profit": 930318038,
+  "net_income": 164947209,
+  "total_assets": 241692495476,
+  "total_debt": 91570053012,
+  "total_equity": 150122442464,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 19.461801389739254,
+  "operating_profit_yoy": -60.36287786854155,
+  "net_income_yoy": -93.60003569203506,
+  "debt_ratio": 60.99691126059243,
+  "operating_margin": 1.8366574675922842,
+  "net_margin": 0.32564296379724206,
+  "roe": 0.4395004671991133,
+  "cached_at": "2025-06-09T16:07:44.954841"
+}

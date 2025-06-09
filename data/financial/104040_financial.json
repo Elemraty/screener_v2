@@ -1,0 +1,23 @@
+{
+  "ticker": "104040",
+  "name": "대성파인텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 8040300000,
+  "operating_profit": -433202352,
+  "net_income": -482581106,
+  "total_assets": 93049322369,
+  "total_debt": 28750419341,
+  "total_equity": 64298903028,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -0.5687820218926665,
+  "operating_profit_yoy": -826.7459128565249,
+  "net_income_yoy": -3091.275534536329,
+  "debt_ratio": 44.71370114740552,
+  "operating_margin": -5.387887914630051,
+  "net_margin": -6.00202860589779,
+  "roe": -3.0021109740541125,
+  "cached_at": "2025-06-09T16:11:03.234453"
+}

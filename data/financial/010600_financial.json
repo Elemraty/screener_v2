@@ -1,0 +1,21 @@
+{
+  "ticker": "010600",
+  "name": "웰바이오텍",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 21617704872,
+  "operating_profit": 271862585,
+  "net_income": -583762938,
+  "total_assets": 29932360920,
+  "total_debt": 10625697934,
+  "total_equity": 19306662986,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 6.215767329934341,
+  "debt_ratio": 55.03642934931376,
+  "operating_margin": 1.2575922680493516,
+  "net_margin": -2.70039276350798,
+  "roe": -12.094538314017473,
+  "cached_at": "2025-06-09T16:02:38.830489"
+}

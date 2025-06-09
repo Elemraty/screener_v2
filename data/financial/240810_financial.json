@@ -1,0 +1,21 @@
+{
+  "ticker": "240810",
+  "name": "원익IPS",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 124198201773,
+  "operating_profit": -7381274200,
+  "net_income": -4714956861,
+  "total_assets": 1173163778051,
+  "total_debt": 295858451444,
+  "total_equity": 877305326607,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 9.105677750808926,
+  "debt_ratio": 33.723544411640574,
+  "operating_margin": -5.94314095907035,
+  "net_margin": -3.7963165276882496,
+  "roe": -2.14974500575995,
+  "cached_at": "2025-06-09T16:30:21.620239"
+}

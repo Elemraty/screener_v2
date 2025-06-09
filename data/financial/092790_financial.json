@@ -1,0 +1,23 @@
+{
+  "ticker": "092790",
+  "name": "넥스틸",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 156770327126,
+  "operating_profit": 22951649264,
+  "net_income": 20016189951,
+  "total_assets": 686101452619,
+  "total_debt": 207691740513,
+  "total_equity": 478409712106,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 24.534368426543708,
+  "operating_profit_yoy": 2306.7420106851205,
+  "net_income_yoy": 11046.617448305866,
+  "debt_ratio": 43.41294402212769,
+  "operating_margin": 14.640301953030448,
+  "net_margin": 12.767843454783709,
+  "roe": 16.735605021801952,
+  "cached_at": "2025-06-09T15:58:31.879778"
+}

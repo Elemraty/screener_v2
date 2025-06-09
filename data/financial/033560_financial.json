@@ -1,0 +1,22 @@
+{
+  "ticker": "033560",
+  "name": "블루콤",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 581442746,
+  "operating_profit": -1322299634,
+  "net_income": 13464982486,
+  "total_assets": 204682510334,
+  "total_debt": 31561865740,
+  "total_equity": 173120644594,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -87.97171135213651,
+  "net_income_yoy": 1922.5947129686972,
+  "debt_ratio": 18.231139223180705,
+  "operating_margin": -227.41699730483867,
+  "net_margin": 2315.788197312896,
+  "roe": 31.11121153130611,
+  "cached_at": "2025-06-09T16:15:53.853159"
+}

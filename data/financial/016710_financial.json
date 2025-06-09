@@ -1,0 +1,23 @@
+{
+  "ticker": "016710",
+  "name": "대성홀딩스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 494569649797,
+  "operating_profit": 29504639627,
+  "net_income": 24662951924,
+  "total_assets": 1268799702471,
+  "total_debt": 661676042655,
+  "total_equity": 607123659816,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 6.788700994880759,
+  "operating_profit_yoy": 10.493295867805363,
+  "net_income_yoy": -7.964295663073084,
+  "debt_ratio": 108.98538245989839,
+  "operating_margin": 5.965719821082917,
+  "net_margin": 4.986749982358017,
+  "roe": 16.24904681295047,
+  "cached_at": "2025-06-09T15:58:51.875030"
+}

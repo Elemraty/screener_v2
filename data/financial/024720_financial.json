@@ -1,0 +1,23 @@
+{
+  "ticker": "024720",
+  "name": "콜마홀딩스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 152411197209,
+  "operating_profit": 3139460898,
+  "net_income": 1087871307,
+  "total_assets": 1287930043855,
+  "total_debt": 487522567958,
+  "total_equity": 800407475897,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -13.582934940731928,
+  "operating_profit_yoy": -64.4324466973541,
+  "net_income_yoy": -87.16779145621992,
+  "debt_ratio": 60.90929715663182,
+  "operating_margin": 2.0598623693604923,
+  "net_margin": 0.7137738741781633,
+  "roe": 0.5436587437071826,
+  "cached_at": "2025-06-09T16:04:12.660107"
+}

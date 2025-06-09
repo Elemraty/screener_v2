@@ -1,0 +1,20 @@
+{
+  "ticker": "263050",
+  "name": "유틸렉스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2039716963,
+  "operating_profit": -4820845700,
+  "net_income": -4822999218,
+  "total_assets": 61047965244,
+  "total_debt": 23311096786,
+  "total_equity": 37736868458,
+  "data_source": "f_data_financial",
+  "debt_ratio": 61.77273774569967,
+  "operating_margin": -236.34875757024335,
+  "net_margin": -236.4543368265355,
+  "roe": -51.12241068299404,
+  "cached_at": "2025-06-09T16:31:48.607809"
+}

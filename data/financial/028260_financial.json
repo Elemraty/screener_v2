@@ -1,0 +1,23 @@
+{
+  "ticker": "028260",
+  "name": "삼성물산",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 9736780907943,
+  "operating_profit": 724421037260,
+  "net_income": 937242939560,
+  "total_assets": 62457981178402,
+  "total_debt": 24124122266644,
+  "total_equity": 38333858911758,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -9.80945642772143,
+  "operating_profit_yoy": 1.7000592510202361,
+  "net_income_yoy": 14.000636162521008,
+  "debt_ratio": 62.93163003019375,
+  "operating_margin": 7.440046603791167,
+  "net_margin": 9.625798797582299,
+  "roe": 9.779792237640057,
+  "cached_at": "2025-06-09T16:00:47.191272"
+}

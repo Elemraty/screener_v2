@@ -1,0 +1,13 @@
+{
+  "ticker": "471820",
+  "name": "셀로맥스사이언스",
+  "market": "KOSDAQ",
+  "bps": 3921,
+  "per": 14.01,
+  "eps": 367,
+  "pbr": 1.31,
+  "roe": 9.359857179290996,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:18:18.042479"
+}

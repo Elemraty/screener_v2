@@ -1,0 +1,21 @@
+{
+  "ticker": "059270",
+  "name": "해성에어로보틱스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 3065138672,
+  "operating_profit": -377448614,
+  "net_income": -227531562,
+  "total_assets": 42293188660,
+  "total_debt": 3043432637,
+  "total_equity": 39249756023,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -10.337645311456345,
+  "debt_ratio": 7.754016700681085,
+  "operating_margin": -12.314242662101652,
+  "net_margin": -7.423206136756477,
+  "roe": -2.3188074021827663,
+  "cached_at": "2025-06-09T16:41:26.386222"
+}

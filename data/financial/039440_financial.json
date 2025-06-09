@@ -1,0 +1,23 @@
+{
+  "ticker": "039440",
+  "name": "에스티아이",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 84073673043,
+  "operating_profit": 5240500681,
+  "net_income": 3032374947,
+  "total_assets": 345379516795,
+  "total_debt": 84517734429,
+  "total_equity": 260861782366,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 28.356748445782,
+  "operating_profit_yoy": 163.92673345072964,
+  "net_income_yoy": -25.071606669012315,
+  "debt_ratio": 32.39943147763135,
+  "operating_margin": 6.233224374911886,
+  "net_margin": 3.6068067889089046,
+  "roe": 4.649780308171706,
+  "cached_at": "2025-06-09T16:22:56.092321"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "120030",
+  "name": "조선선재",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 11761382851,
+  "operating_profit": 1562918558,
+  "net_income": 2752622785,
+  "total_assets": 169778289242,
+  "total_debt": 10787543201,
+  "total_equity": 158990746041,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 10.393622818633851,
+  "operating_profit_yoy": 41.216963833813544,
+  "net_income_yoy": -13.520923377343873,
+  "debt_ratio": 6.785013259965549,
+  "operating_margin": 13.28856119896747,
+  "net_margin": 23.403904284656125,
+  "roe": 6.925240250876395,
+  "cached_at": "2025-06-09T16:03:34.986983"
+}

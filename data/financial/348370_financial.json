@@ -1,0 +1,13 @@
+{
+  "ticker": "348370",
+  "name": "엔켐",
+  "market": "KOSDAQ",
+  "bps": 21494,
+  "per": 0.0,
+  "eps": 0,
+  "pbr": 3.11,
+  "roe": 0.0,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:24:31.808153"
+}

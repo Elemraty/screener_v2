@@ -1,0 +1,21 @@
+{
+  "ticker": "049080",
+  "name": "기가레인",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 6808981667,
+  "operating_profit": -2974453213,
+  "net_income": -2924817058,
+  "total_assets": 89041332939,
+  "total_debt": 42901277619,
+  "total_equity": 46140055319,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -43.34812958260941,
+  "debt_ratio": 92.98055089529487,
+  "operating_margin": -43.68425938662466,
+  "net_margin": -42.95527879264592,
+  "roe": -25.35599090879798,
+  "cached_at": "2025-06-09T16:09:21.250007"
+}

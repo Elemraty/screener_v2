@@ -1,0 +1,23 @@
+{
+  "ticker": "043150",
+  "name": "바텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 101316249260,
+  "operating_profit": 13205606319,
+  "net_income": 11674240297,
+  "total_assets": 666625370536,
+  "total_debt": 180348066499,
+  "total_equity": 486277304037,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 7.523091571097051,
+  "operating_profit_yoy": -8.166236181906694,
+  "net_income_yoy": -32.29683583293143,
+  "debt_ratio": 37.08749411123609,
+  "operating_margin": 13.03404578777041,
+  "net_margin": 11.522574495470423,
+  "roe": 9.60294893475985,
+  "cached_at": "2025-06-09T16:15:18.652422"
+}

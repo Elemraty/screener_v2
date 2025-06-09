@@ -1,0 +1,23 @@
+{
+  "ticker": "042110",
+  "name": "에스씨디",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 59535253168,
+  "operating_profit": 2776203090,
+  "net_income": 2696281756,
+  "total_assets": 177456273921,
+  "total_debt": 45418284811,
+  "total_equity": 132037989110,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 9.253109012971628,
+  "operating_profit_yoy": -19.213352838443754,
+  "net_income_yoy": -5.560119244706008,
+  "debt_ratio": 34.39789193787428,
+  "operating_margin": 4.6631246904518076,
+  "net_margin": 4.528882657795168,
+  "roe": 8.168199998119466,
+  "cached_at": "2025-06-09T16:22:25.342675"
+}

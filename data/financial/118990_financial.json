@@ -1,0 +1,23 @@
+{
+  "ticker": "118990",
+  "name": "모트렉스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 190093341935,
+  "operating_profit": 19684538550,
+  "net_income": 11085048866,
+  "total_assets": 921242565595,
+  "total_debt": 642550208154,
+  "total_equity": 278692357441,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 72.35710978746562,
+  "operating_profit_yoy": 80.13621488171285,
+  "net_income_yoy": 2.9674296286386292,
+  "debt_ratio": 230.55896259732555,
+  "operating_margin": 10.35519621551547,
+  "net_margin": 5.83137144792288,
+  "roe": 15.910086617063746,
+  "cached_at": "2025-06-09T16:14:32.534148"
+}

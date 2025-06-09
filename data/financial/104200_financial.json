@@ -1,0 +1,21 @@
+{
+  "ticker": "104200",
+  "name": "NHN벅스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 11073372833,
+  "operating_profit": -626342087,
+  "net_income": -523724330,
+  "total_assets": 71177148806,
+  "total_debt": 15083464424,
+  "total_equity": 56093684382,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -14.127584186420606,
+  "debt_ratio": 26.88977304696384,
+  "operating_margin": -5.656290061266828,
+  "net_margin": -4.729582737783719,
+  "roe": -3.734640259558766,
+  "cached_at": "2025-06-09T16:07:49.166527"
+}

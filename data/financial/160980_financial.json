@@ -1,0 +1,23 @@
+{
+  "ticker": "160980",
+  "name": "싸이맥스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 45817748440,
+  "operating_profit": 7393307692,
+  "net_income": 5557553142,
+  "total_assets": 237035296728,
+  "total_debt": 61495869822,
+  "total_equity": 175539426906,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 6.509483831368534,
+  "operating_profit_yoy": 80.84634385967797,
+  "net_income_yoy": 11.430754010279642,
+  "debt_ratio": 35.03251144538062,
+  "operating_margin": 16.136340051021502,
+  "net_margin": 12.129695000787342,
+  "roe": 12.66394277332585,
+  "cached_at": "2025-06-09T16:19:58.050477"
+}

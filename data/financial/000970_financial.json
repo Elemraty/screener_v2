@@ -1,0 +1,23 @@
+{
+  "ticker": "000970",
+  "name": "한국주철관",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 91324731448,
+  "operating_profit": 3745896913,
+  "net_income": 3882425117,
+  "total_assets": 434494858363,
+  "total_debt": 83231803214,
+  "total_equity": 351263055149,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -1.9909878643116996,
+  "operating_profit_yoy": 31.76416813641605,
+  "net_income_yoy": 4.64798343027315,
+  "debt_ratio": 23.69500634750627,
+  "operating_margin": 4.101733291307735,
+  "net_margin": 4.251230806203509,
+  "roe": 4.421102715004445,
+  "cached_at": "2025-06-09T16:04:55.369973"
+}

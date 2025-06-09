@@ -1,0 +1,21 @@
+{
+  "ticker": "036810",
+  "name": "에프에스티",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 68494438290,
+  "operating_profit": 2754422354,
+  "net_income": -234694344,
+  "total_assets": 507658971330,
+  "total_debt": 262822631817,
+  "total_equity": 244836339513,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 38.05452278505841,
+  "debt_ratio": 107.34625110789364,
+  "operating_margin": 4.021381038761125,
+  "net_margin": -0.3426473008017422,
+  "roe": -0.38343057156764676,
+  "cached_at": "2025-06-09T16:23:57.137291"
+}

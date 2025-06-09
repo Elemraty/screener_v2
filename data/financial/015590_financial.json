@@ -1,0 +1,23 @@
+{
+  "ticker": "015590",
+  "name": "DKME",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 37148312991,
+  "operating_profit": 3516616499,
+  "net_income": 3492131782,
+  "total_assets": 201620623394,
+  "total_debt": 71440665541,
+  "total_equity": 130179957853,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 5.6426091384036425,
+  "operating_profit_yoy": 397.4472844115052,
+  "net_income_yoy": 56.80519230327823,
+  "debt_ratio": 54.87839043677617,
+  "operating_margin": 9.466423145115575,
+  "net_margin": 9.40051243469938,
+  "roe": 10.73016719192162,
+  "cached_at": "2025-06-09T15:55:56.399252"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "005290",
+  "name": "동진쎄미켐",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 368107777993,
+  "operating_profit": 58460605946,
+  "net_income": 36113430645,
+  "total_assets": 2010099754117,
+  "total_debt": 966269143442,
+  "total_equity": 1043830610675,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 10.544717450553787,
+  "operating_profit_yoy": 24.226094618646997,
+  "net_income_yoy": -1.2457638960103434,
+  "debt_ratio": 92.56953509124969,
+  "operating_margin": 15.881382964722821,
+  "net_margin": 9.810558973216464,
+  "roe": 13.838808816555787,
+  "cached_at": "2025-06-09T16:12:17.610511"
+}

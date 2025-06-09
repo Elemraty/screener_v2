@@ -1,0 +1,20 @@
+{
+  "ticker": "064400",
+  "name": "LG씨엔에스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1211380726000,
+  "operating_profit": 78895171000,
+  "net_income": 57287868000,
+  "total_assets": 4722082607000,
+  "total_debt": 2091238136000,
+  "total_equity": 2630844471000,
+  "data_source": "f_data_financial",
+  "debt_ratio": 79.48923469448225,
+  "operating_margin": 6.51283030237019,
+  "net_margin": 4.729138145458656,
+  "roe": 8.710186958064387,
+  "cached_at": "2025-06-09T15:56:52.842255"
+}

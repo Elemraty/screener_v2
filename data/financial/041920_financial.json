@@ -1,0 +1,23 @@
+{
+  "ticker": "041920",
+  "name": "메디아나",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 15026979739,
+  "operating_profit": 1256971448,
+  "net_income": 1547685529,
+  "total_assets": 143935499514,
+  "total_debt": 14097047093,
+  "total_equity": 129838452421,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 1.9359187363887864,
+  "operating_profit_yoy": 14.986188998833327,
+  "net_income_yoy": -45.07890494034241,
+  "debt_ratio": 10.857374552871637,
+  "operating_margin": 8.364764376022562,
+  "net_margin": 10.299378556978036,
+  "roe": 4.768034430914637,
+  "cached_at": "2025-06-09T16:14:07.162613"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "078600",
+  "name": "대주전자재료",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 54032929237,
+  "operating_profit": 4778643750,
+  "net_income": 6743207823,
+  "total_assets": 630964255832,
+  "total_debt": 395461565092,
+  "total_equity": 235502690740,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 16.705790218634185,
+  "operating_profit_yoy": -4.7221723443459656,
+  "net_income_yoy": 21.906596106755604,
+  "debt_ratio": 167.92231284040741,
+  "operating_margin": 8.84394723269554,
+  "net_margin": 12.479811696720802,
+  "roe": 11.453300685119807,
+  "cached_at": "2025-06-09T16:11:23.092735"
+}

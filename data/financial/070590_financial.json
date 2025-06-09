@@ -1,0 +1,21 @@
+{
+  "ticker": "070590",
+  "name": "한솔인티큐브",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 16883276374,
+  "operating_profit": 765454322,
+  "net_income": 610667197,
+  "total_assets": 32310417171,
+  "total_debt": 18723688158,
+  "total_equity": 13586729013,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 79.04719700506068,
+  "debt_ratio": 137.8086523995943,
+  "operating_margin": 4.53380200053343,
+  "net_margin": 3.616994613322913,
+  "roe": 17.978343320624234,
+  "cached_at": "2025-06-09T16:41:01.218132"
+}

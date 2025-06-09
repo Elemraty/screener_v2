@@ -1,0 +1,23 @@
+{
+  "ticker": "001270",
+  "name": "부국증권",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 193216191147,
+  "operating_profit": 22337568536,
+  "net_income": 18314853078,
+  "total_assets": 6180723184091,
+  "total_debt": 5407238160420,
+  "total_equity": 773485023671,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 15.223966669362966,
+  "operating_profit_yoy": 12.819491080036949,
+  "net_income_yoy": 6.835152029499958,
+  "debt_ratio": 699.0747066771852,
+  "operating_margin": 11.560919612065765,
+  "net_margin": 9.478943234144364,
+  "roe": 9.47134205188706,
+  "cached_at": "2025-06-09T16:00:32.683470"
+}

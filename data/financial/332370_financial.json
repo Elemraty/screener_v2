@@ -1,0 +1,13 @@
+{
+  "ticker": "332370",
+  "name": "아이디피",
+  "market": "KOSDAQ",
+  "bps": 5012,
+  "per": 5.13,
+  "eps": 894,
+  "pbr": 0.92,
+  "roe": 17.837190742218674,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:20:56.557784"
+}

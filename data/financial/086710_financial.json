@@ -1,0 +1,23 @@
+{
+  "ticker": "086710",
+  "name": "선진뷰티사이언스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 22488145876,
+  "operating_profit": 3734738228,
+  "net_income": 3329637355,
+  "total_assets": 166577833741,
+  "total_debt": 81118872646,
+  "total_equity": 85458961095,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 8.147950243613234,
+  "operating_profit_yoy": -2.1559444878998524,
+  "net_income_yoy": -7.613787414960682,
+  "debt_ratio": 94.9214355131519,
+  "operating_margin": 16.607586274979745,
+  "net_margin": 14.806188884400138,
+  "roe": 15.584731255034221,
+  "cached_at": "2025-06-09T16:17:43.881208"
+}

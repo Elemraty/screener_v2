@@ -1,0 +1,23 @@
+{
+  "ticker": "056190",
+  "name": "에스에프에이",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 398385487593,
+  "operating_profit": 29047767809,
+  "net_income": 21507659664,
+  "total_assets": 2443381732234,
+  "total_debt": 921807982170,
+  "total_equity": 1521573750064,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -30.468110931890934,
+  "operating_profit_yoy": -46.88578731262876,
+  "net_income_yoy": -55.96749935650569,
+  "debt_ratio": 60.582537135070005,
+  "operating_margin": 7.291371978558588,
+  "net_margin": 5.398705608968551,
+  "roe": 5.654056443362105,
+  "cached_at": "2025-06-09T16:22:35.251880"
+}

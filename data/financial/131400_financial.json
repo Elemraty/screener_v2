@@ -1,0 +1,23 @@
+{
+  "ticker": "131400",
+  "name": "이브이첨단소재",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 19333496806,
+  "operating_profit": 865364957,
+  "net_income": -4714327683,
+  "total_assets": 146421969482,
+  "total_debt": 35536108978,
+  "total_equity": 110885860504,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 7.048707739211668,
+  "operating_profit_yoy": -6.223672278293513,
+  "net_income_yoy": -364.46369682128494,
+  "debt_ratio": 32.04746648173245,
+  "operating_margin": 4.475987793017561,
+  "net_margin": -24.384247352175553,
+  "roe": -17.006055277281956,
+  "cached_at": "2025-06-09T16:32:17.459157"
+}

@@ -1,0 +1,22 @@
+{
+  "ticker": "009410",
+  "name": "태영건설",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 635415570429,
+  "operating_profit": 15516196901,
+  "net_income": -38537962359,
+  "total_assets": 4235789356953,
+  "total_debt": 3748572098989,
+  "total_equity": 487217257964,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -11.877845294593747,
+  "operating_profit_yoy": -58.728724935236265,
+  "debt_ratio": 769.3840966663743,
+  "operating_margin": 2.4418974956065775,
+  "net_margin": -6.0650012609828154,
+  "roe": -31.63924243574108,
+  "cached_at": "2025-06-09T16:04:21.811079"
+}

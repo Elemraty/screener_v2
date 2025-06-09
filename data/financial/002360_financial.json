@@ -1,0 +1,21 @@
+{
+  "ticker": "002360",
+  "name": "SH에너지화학",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 26366642868,
+  "operating_profit": -3352593984,
+  "net_income": -2688199013,
+  "total_assets": 107335896403,
+  "total_debt": 30147933759,
+  "total_equity": 77187962644,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -7.611256335142224,
+  "debt_ratio": 39.05781773000776,
+  "operating_margin": -12.71528575247208,
+  "net_margin": -10.195454258086627,
+  "roe": -13.93066442444292,
+  "cached_at": "2025-06-09T15:57:27.097857"
+}

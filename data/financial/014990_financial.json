@@ -1,0 +1,21 @@
+{
+  "ticker": "014990",
+  "name": "인디에프",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 24880208973,
+  "operating_profit": -1068416381,
+  "net_income": -1793744136,
+  "total_assets": 114867767305,
+  "total_debt": 79098424730,
+  "total_equity": 35769342575,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -7.493401034074109,
+  "debt_ratio": 221.13468975324048,
+  "operating_margin": -4.294241990328318,
+  "net_margin": -7.20952198571391,
+  "roe": -20.05901150952311,
+  "cached_at": "2025-06-09T16:03:09.235327"
+}

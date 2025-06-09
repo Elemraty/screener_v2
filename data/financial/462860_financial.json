@@ -1,0 +1,13 @@
+{
+  "ticker": "462860",
+  "name": "더즌",
+  "market": "KOSDAQ",
+  "bps": 653,
+  "per": 15.25,
+  "eps": 162,
+  "pbr": 3.78,
+  "roe": 24.808575803981622,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:11:39.776093"
+}

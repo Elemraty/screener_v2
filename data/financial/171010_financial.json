@@ -1,0 +1,21 @@
+{
+  "ticker": "171010",
+  "name": "램테크놀러지",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 10519327729,
+  "operating_profit": 161449968,
+  "net_income": -205456718,
+  "total_assets": 106135704418,
+  "total_debt": 58317987804,
+  "total_equity": 47817716614,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -9.916920315404587,
+  "debt_ratio": 121.95895566231565,
+  "operating_margin": 1.5347935928919665,
+  "net_margin": -1.9531354407144357,
+  "roe": -1.7186660723138476,
+  "cached_at": "2025-06-09T16:13:13.679661"
+}

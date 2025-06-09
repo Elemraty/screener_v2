@@ -1,0 +1,13 @@
+{
+  "ticker": "417840",
+  "name": "저스템",
+  "market": "KOSDAQ",
+  "bps": 6802,
+  "per": 0.0,
+  "eps": 0,
+  "pbr": 1.47,
+  "roe": 0.0,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:33:30.824507"
+}

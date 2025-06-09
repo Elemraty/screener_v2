@@ -1,0 +1,23 @@
+{
+  "ticker": "003540",
+  "name": "대신증권",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1124733954000,
+  "operating_profit": 38787841000,
+  "net_income": 76866923000,
+  "total_assets": 27956648985000,
+  "total_debt": 24636163862000,
+  "total_equity": 3320485123000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 4.5259021208685635,
+  "operating_profit_yoy": -46.88569337527903,
+  "net_income_yoy": 44.81747463558023,
+  "debt_ratio": 741.9447143838325,
+  "operating_margin": 3.4486236377994155,
+  "net_margin": 6.83423157330947,
+  "roe": 9.25972201683013,
+  "cached_at": "2025-06-09T15:58:52.556866"
+}

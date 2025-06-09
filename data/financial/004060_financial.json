@@ -1,0 +1,21 @@
+{
+  "ticker": "004060",
+  "name": "SG세계물산",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 33744781303,
+  "operating_profit": -820563030,
+  "net_income": 228663247,
+  "total_assets": 302485363280,
+  "total_debt": 40324460923,
+  "total_equity": 262160902357,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -7.503061157170643,
+  "debt_ratio": 15.381569318863498,
+  "operating_margin": -2.431673871678196,
+  "net_margin": 0.6776255117696414,
+  "roe": 0.3488899297250903,
+  "cached_at": "2025-06-09T15:57:25.877779"
+}

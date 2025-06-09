@@ -1,0 +1,23 @@
+{
+  "ticker": "030200",
+  "name": "KT",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 6845117000000,
+  "operating_profit": 688771000000,
+  "net_income": 566799000000,
+  "total_assets": 42185616000000,
+  "total_debt": 23847295000000,
+  "total_equity": 18338321000000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 2.863338810267946,
+  "operating_profit_yoy": 35.986377097729516,
+  "net_income_yoy": 44.22256318654056,
+  "debt_ratio": 130.04077636115105,
+  "operating_margin": 10.06222391815947,
+  "net_margin": 8.28034056978135,
+  "roe": 12.36316018243982,
+  "cached_at": "2025-06-09T15:56:47.795677"
+}

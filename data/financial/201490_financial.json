@@ -1,0 +1,23 @@
+{
+  "ticker": "201490",
+  "name": "미투온",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 23008728542,
+  "operating_profit": 3326410456,
+  "net_income": 4257303534,
+  "total_assets": 297020867814,
+  "total_debt": 59992887809,
+  "total_equity": 237027980005,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -9.475956903997208,
+  "operating_profit_yoy": -24.559910426369647,
+  "net_income_yoy": -3.2734300500578684,
+  "debt_ratio": 25.31046664099929,
+  "operating_margin": 14.45716763500421,
+  "net_margin": 18.50299344541678,
+  "roe": 7.184474227743398,
+  "cached_at": "2025-06-09T16:14:56.618380"
+}

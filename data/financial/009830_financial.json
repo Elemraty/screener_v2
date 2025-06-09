@@ -1,0 +1,21 @@
+{
+  "ticker": "009830",
+  "name": "한화솔루션",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 3094476000000,
+  "operating_profit": 30314000000,
+  "net_income": -30195000000,
+  "total_assets": 30481484000000,
+  "total_debt": 20042189000000,
+  "total_equity": 10439295000000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 29.32141157094732,
+  "debt_ratio": 191.98795512532217,
+  "operating_margin": 0.9796165812887222,
+  "net_margin": -0.9757710190675254,
+  "roe": -1.1569746807614882,
+  "cached_at": "2025-06-09T16:05:26.647449"
+}

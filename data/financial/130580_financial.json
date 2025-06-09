@@ -1,0 +1,23 @@
+{
+  "ticker": "130580",
+  "name": "나이스디앤비",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 17690846309,
+  "operating_profit": 624162982,
+  "net_income": 625400571,
+  "total_assets": 121378604477,
+  "total_debt": 22988225594,
+  "total_equity": 98390378883,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -0.02094537287794518,
+  "operating_profit_yoy": -48.70337497889693,
+  "net_income_yoy": -56.75933628410193,
+  "debt_ratio": 23.364302338276623,
+  "operating_margin": 3.528169150858909,
+  "net_margin": 3.53516479695963,
+  "roe": 2.5425273409860094,
+  "cached_at": "2025-06-09T16:09:46.893398"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "104830",
+  "name": "원익머트리얼즈",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 77995653073,
+  "operating_profit": 14763368112,
+  "net_income": 12140041611,
+  "total_assets": 597160614595,
+  "total_debt": 108187568605,
+  "total_equity": 488973045990,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 3.5818490033069805,
+  "operating_profit_yoy": 30.032224013378084,
+  "net_income_yoy": 31.76260063694334,
+  "debt_ratio": 22.125466729144115,
+  "operating_margin": 18.928449894742506,
+  "net_margin": 15.565023347695458,
+  "roe": 9.931051791552761,
+  "cached_at": "2025-06-09T16:30:23.639665"
+}

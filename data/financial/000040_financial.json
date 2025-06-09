@@ -1,0 +1,21 @@
+{
+  "ticker": "000040",
+  "name": "KR모터스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2943066142,
+  "operating_profit": -773381893,
+  "net_income": -1626239697,
+  "total_assets": 84300128994,
+  "total_debt": 53283552914,
+  "total_equity": 31016576080,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -77.54684507839126,
+  "debt_ratio": 171.79057023111625,
+  "operating_margin": -26.278100990093208,
+  "net_margin": -55.256647949300486,
+  "roe": -20.972523760269286,
+  "cached_at": "2025-06-09T15:56:46.746774"
+}

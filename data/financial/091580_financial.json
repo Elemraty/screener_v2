@@ -1,0 +1,23 @@
+{
+  "ticker": "091580",
+  "name": "상신이디피",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 58315554319,
+  "operating_profit": -3887990958,
+  "net_income": -2944038994,
+  "total_assets": 319576942448,
+  "total_debt": 168488626046,
+  "total_equity": 151088316402,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -22.101819744702844,
+  "operating_profit_yoy": -185.81363359593558,
+  "net_income_yoy": -149.60437647065845,
+  "debt_ratio": 111.51664804954413,
+  "operating_margin": -6.667159394098805,
+  "net_margin": -5.048462675833284,
+  "roe": -7.794220133254537,
+  "cached_at": "2025-06-09T16:17:06.174807"
+}

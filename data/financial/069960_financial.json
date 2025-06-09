@@ -1,0 +1,23 @@
+{
+  "ticker": "069960",
+  "name": "현대백화점",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1098095716000,
+  "operating_profit": 112462644000,
+  "net_income": 88279011000,
+  "total_assets": 11361416637000,
+  "total_debt": 5082672826000,
+  "total_equity": 6278743811000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 15.378824016380953,
+  "operating_profit_yoy": 63.310284074508274,
+  "net_income_yoy": 24.759744706593743,
+  "debt_ratio": 80.95047319967806,
+  "operating_margin": 10.24160666154534,
+  "net_margin": 8.039281978220558,
+  "roe": 5.623991910314303,
+  "cached_at": "2025-06-09T16:05:39.949575"
+}

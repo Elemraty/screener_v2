@@ -1,0 +1,23 @@
+{
+  "ticker": "004380",
+  "name": "삼익THK",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 59373058656,
+  "operating_profit": -6216121919,
+  "net_income": -6830121876,
+  "total_assets": 456267737515,
+  "total_debt": 266288161042,
+  "total_equity": 189979576473,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -28.029948271252593,
+  "operating_profit_yoy": -554.7284743052105,
+  "net_income_yoy": -4843.032353556073,
+  "debt_ratio": 140.16673054318815,
+  "operating_margin": -10.469600286243336,
+  "net_margin": -11.503739289519954,
+  "roe": -14.380749768585153,
+  "cached_at": "2025-06-09T16:01:05.204960"
+}

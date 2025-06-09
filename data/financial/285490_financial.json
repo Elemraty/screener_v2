@@ -1,0 +1,23 @@
+{
+  "ticker": "285490",
+  "name": "노바텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 17117701649,
+  "operating_profit": 3461356607,
+  "net_income": 3806333763,
+  "total_assets": 177392442683,
+  "total_debt": 26987597483,
+  "total_equity": 150404845200,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 9.614092013718967,
+  "operating_profit_yoy": -13.853700401555248,
+  "net_income_yoy": -39.05382034193391,
+  "debt_ratio": 17.943303254036394,
+  "operating_margin": 20.22091912790295,
+  "net_margin": 22.23624316540394,
+  "roe": 10.12290197949022,
+  "cached_at": "2025-06-09T16:10:23.370529"
+}

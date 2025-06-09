@@ -1,0 +1,18 @@
+{
+  "ticker": "047560",
+  "name": "이스트소프트",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 0,
+  "operating_profit": -4371830437,
+  "net_income": -4681290648,
+  "total_assets": 202139852670,
+  "total_debt": 119550439678,
+  "total_equity": 82589412992,
+  "data_source": "f_data_financial",
+  "debt_ratio": 144.75274172196893,
+  "roe": -22.672594360022643,
+  "cached_at": "2025-06-09T16:32:21.641021"
+}

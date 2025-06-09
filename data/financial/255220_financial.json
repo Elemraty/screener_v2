@@ -1,0 +1,21 @@
+{
+  "ticker": "255220",
+  "name": "SG",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 14273735630,
+  "operating_profit": -2430894807,
+  "net_income": 1624204835,
+  "total_assets": 206635406009,
+  "total_debt": 113940878153,
+  "total_equity": 92694527856,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -6.7222032252377995,
+  "debt_ratio": 122.92082476541223,
+  "operating_margin": -17.030543860507244,
+  "net_margin": 11.378975182826753,
+  "roe": 7.008848839591418,
+  "cached_at": "2025-06-09T16:08:06.213328"
+}

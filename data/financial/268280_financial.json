@@ -1,0 +1,23 @@
+{
+  "ticker": "268280",
+  "name": "미원에스씨",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 137865819693,
+  "operating_profit": 17991484215,
+  "net_income": 16400335098,
+  "total_assets": 535845758283,
+  "total_debt": 124680081270,
+  "total_equity": 411165677013,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 10.77122308163374,
+  "operating_profit_yoy": 43.2491188187121,
+  "net_income_yoy": 19.450244857736298,
+  "debt_ratio": 30.32356255409372,
+  "operating_margin": 13.04999618836887,
+  "net_margin": 11.895867398112392,
+  "roe": 15.954965129525112,
+  "cached_at": "2025-06-09T16:00:25.703346"
+}

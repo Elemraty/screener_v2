@@ -1,0 +1,21 @@
+{
+  "ticker": "007110",
+  "name": "일신석재",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 15284036808,
+  "operating_profit": 179726600,
+  "net_income": -413747274,
+  "total_assets": 95501991478,
+  "total_debt": 36892521896,
+  "total_equity": 58609469582,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -2.7643465526684174,
+  "debt_ratio": 62.946350067857196,
+  "operating_margin": 1.1759105415522628,
+  "net_margin": -2.7070549436483664,
+  "roe": -2.8237571638223393,
+  "cached_at": "2025-06-09T16:03:16.047690"
+}

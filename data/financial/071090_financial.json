@@ -1,0 +1,23 @@
+{
+  "ticker": "071090",
+  "name": "하이스틸",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 70523071544,
+  "operating_profit": 421007254,
+  "net_income": 585680024,
+  "total_assets": 278565000949,
+  "total_debt": 129877718339,
+  "total_equity": 148687282610,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 0.4488337654523722,
+  "operating_profit_yoy": 280.4674125199619,
+  "net_income_yoy": 138.38659561442844,
+  "debt_ratio": 87.3495809857951,
+  "operating_margin": 0.5969780453157513,
+  "net_margin": 0.8304800275674163,
+  "roe": 1.5756022000515326,
+  "cached_at": "2025-06-09T16:04:41.213785"
+}

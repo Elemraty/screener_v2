@@ -1,0 +1,23 @@
+{
+  "ticker": "043650",
+  "name": "국순당",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 17204158802,
+  "operating_profit": 101289808,
+  "net_income": 1476476700,
+  "total_assets": 255145435241,
+  "total_debt": 20828984698,
+  "total_equity": 234316450543,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -1.8873014931101828,
+  "operating_profit_yoy": -89.57240356832347,
+  "net_income_yoy": -82.08813051814312,
+  "debt_ratio": 8.889254104750798,
+  "operating_margin": 0.5887518777623988,
+  "net_margin": 8.582091789505908,
+  "roe": 2.5204832124734633,
+  "cached_at": "2025-06-09T16:09:02.049281"
+}

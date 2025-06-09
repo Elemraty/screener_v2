@@ -1,0 +1,23 @@
+{
+  "ticker": "034230",
+  "name": "파라다이스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 283304948532,
+  "operating_profit": 57275580029,
+  "net_income": 43103642952,
+  "total_assets": 3854740831855,
+  "total_debt": 1749151475163,
+  "total_equity": 2105589356692,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 7.000284608488649,
+  "operating_profit_yoy": 18.32806234777451,
+  "net_income_yoy": 16.558052960864433,
+  "debt_ratio": 83.07182355400086,
+  "operating_margin": 20.216935964509133,
+  "net_margin": 15.214574674868885,
+  "roe": 8.188423410292739,
+  "cached_at": "2025-06-09T16:04:28.089607"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "281740",
+  "name": "레이크머티리얼즈",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 31981730965,
+  "operating_profit": 2762729351,
+  "net_income": 1692433377,
+  "total_assets": 357169693511,
+  "total_debt": 227393258391,
+  "total_equity": 129776435120,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 3.730502112505807,
+  "operating_profit_yoy": -43.90146705427394,
+  "net_income_yoy": -59.42586899034112,
+  "debt_ratio": 175.2192207936186,
+  "operating_margin": 8.638460982688715,
+  "net_margin": 5.291875473695143,
+  "roe": 5.216458212725793,
+  "cached_at": "2025-06-09T16:13:24.226980"
+}

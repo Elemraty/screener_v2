@@ -1,0 +1,23 @@
+{
+  "ticker": "090410",
+  "name": "덕신이피씨",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 25100387614,
+  "operating_profit": 2108050447,
+  "net_income": 2232586102,
+  "total_assets": 203362170354,
+  "total_debt": 77028874255,
+  "total_equity": 126333296099,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -38.484588185278,
+  "operating_profit_yoy": -57.20987610124028,
+  "net_income_yoy": -43.682816181358206,
+  "debt_ratio": 60.97274165524581,
+  "operating_margin": 8.398477662648576,
+  "net_margin": 8.894627988751665,
+  "roe": 7.068876284999176,
+  "cached_at": "2025-06-09T16:11:46.124041"
+}

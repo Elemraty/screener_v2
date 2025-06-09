@@ -1,0 +1,21 @@
+{
+  "ticker": "039200",
+  "name": "오스코텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1936460346,
+  "operating_profit": -8322577567,
+  "net_income": -7766528243,
+  "total_assets": 163289510351,
+  "total_debt": 38598695611,
+  "total_equity": 124690814740,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 82.33779500691325,
+  "debt_ratio": 30.95552442373912,
+  "operating_margin": -429.78301023262986,
+  "net_margin": -401.0682820870942,
+  "roe": -24.914515986424295,
+  "cached_at": "2025-06-09T16:25:57.547704"
+}

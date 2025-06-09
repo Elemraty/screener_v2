@@ -1,0 +1,22 @@
+{
+  "ticker": "009440",
+  "name": "KC그린홀딩스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 25829264757,
+  "operating_profit": -1432121730,
+  "net_income": -993891875,
+  "total_assets": 270868736266,
+  "total_debt": 112278975940,
+  "total_equity": 158589760326,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -83.49664242499196,
+  "net_income_yoy": -101.0270649741085,
+  "debt_ratio": 70.79837671057531,
+  "operating_margin": -5.544570251895692,
+  "net_margin": -3.8479294101108508,
+  "roe": -2.506824836501267,
+  "cached_at": "2025-06-09T15:56:41.326220"
+}

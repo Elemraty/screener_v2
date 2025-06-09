@@ -1,0 +1,23 @@
+{
+  "ticker": "139480",
+  "name": "이마트",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 7218926638835,
+  "operating_profit": 159318975212,
+  "net_income": 83612723338,
+  "total_assets": 33654925248490,
+  "total_debt": 20612503648657,
+  "total_equity": 13042421599833,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 0.1694748361168008,
+  "operating_profit_yoy": 238.23048873611222,
+  "net_income_yoy": 184.60707523504954,
+  "debt_ratio": 158.04199772932452,
+  "operating_margin": 2.2069621036862497,
+  "net_margin": 1.1582431505564312,
+  "roe": 2.5643312539159324,
+  "cached_at": "2025-06-09T16:02:55.851975"
+}

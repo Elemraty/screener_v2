@@ -1,0 +1,23 @@
+{
+  "ticker": "105740",
+  "name": "디케이락",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 21083836417,
+  "operating_profit": 1412364374,
+  "net_income": 1316096521,
+  "total_assets": 209772398046,
+  "total_debt": 79052388143,
+  "total_equity": 130720009903,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -11.613568380204686,
+  "operating_profit_yoy": 600.5795159975619,
+  "net_income_yoy": 54.19257298538043,
+  "debt_ratio": 60.474588551255735,
+  "operating_margin": 6.698801613074572,
+  "net_margin": 6.242206090817632,
+  "roe": 4.027222831383203,
+  "cached_at": "2025-06-09T16:12:54.268730"
+}

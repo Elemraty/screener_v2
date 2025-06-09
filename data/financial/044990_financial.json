@@ -1,0 +1,20 @@
+{
+  "ticker": "044990",
+  "name": "에이치엔에스하이텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 20268439935,
+  "operating_profit": 4262914751,
+  "net_income": 3644082838,
+  "total_assets": 112563693914,
+  "total_debt": 9801686423,
+  "total_equity": 102762007491,
+  "data_source": "f_data_financial",
+  "debt_ratio": 9.538239532600063,
+  "operating_margin": 21.03227858025078,
+  "net_margin": 17.979098784545897,
+  "roe": 14.184552937306727,
+  "cached_at": "2025-06-09T16:23:24.100043"
+}

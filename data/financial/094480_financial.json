@@ -1,0 +1,23 @@
+{
+  "ticker": "094480",
+  "name": "갤럭시아머니트리",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 31237201650,
+  "operating_profit": 4570079301,
+  "net_income": 2160978890,
+  "total_assets": 362531328846,
+  "total_debt": 250020460901,
+  "total_equity": 112510867945,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -8.919282506071802,
+  "operating_profit_yoy": 62.65599670432922,
+  "net_income_yoy": 146.12668020700096,
+  "debt_ratio": 222.2189424609367,
+  "operating_margin": 14.630245539295931,
+  "net_margin": 6.917965681474544,
+  "roe": 7.682738314867063,
+  "cached_at": "2025-06-09T16:08:35.356844"
+}

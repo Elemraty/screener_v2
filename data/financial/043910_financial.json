@@ -1,0 +1,23 @@
+{
+  "ticker": "043910",
+  "name": "자연과환경",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 11129445057,
+  "operating_profit": 300140446,
+  "net_income": -99703309,
+  "total_assets": 142453993236,
+  "total_debt": 47657055009,
+  "total_equity": 94796938227,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -43.64321697144986,
+  "operating_profit_yoy": -77.27563197392662,
+  "net_income_yoy": -110.8890037041796,
+  "debt_ratio": 50.27277874194712,
+  "operating_margin": 2.696814122023299,
+  "net_margin": -0.8958515765104603,
+  "roe": -0.4207026550214153,
+  "cached_at": "2025-06-09T16:33:25.070320"
+}

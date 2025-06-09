@@ -1,0 +1,22 @@
+{
+  "ticker": "032940",
+  "name": "원익",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 36591398351,
+  "operating_profit": 2639161319,
+  "net_income": 3268277380,
+  "total_assets": 373108462310,
+  "total_debt": 95883828866,
+  "total_equity": 277224633444,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 7.316306661119443,
+  "operating_profit_yoy": -26.242509385193447,
+  "debt_ratio": 34.58705226690064,
+  "operating_margin": 7.212518345661624,
+  "net_margin": 8.931818753274516,
+  "roe": 4.715709912784788,
+  "cached_at": "2025-06-09T16:30:20.424729"
+}

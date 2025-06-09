@@ -1,0 +1,21 @@
+{
+  "ticker": "044380",
+  "name": "주연테크",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 15929137793,
+  "operating_profit": -359929274,
+  "net_income": -406545766,
+  "total_assets": 43630056907,
+  "total_debt": 7122936655,
+  "total_equity": 36507120252,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 14.101956357419887,
+  "debt_ratio": 19.511088811804537,
+  "operating_margin": -2.259565324107935,
+  "net_margin": -2.5522145095552817,
+  "roe": -4.454427116614084,
+  "cached_at": "2025-06-09T16:03:38.808700"
+}

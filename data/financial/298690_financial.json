@@ -1,0 +1,22 @@
+{
+  "ticker": "298690",
+  "name": "에어부산",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 249576301744,
+  "operating_profit": 40153552802,
+  "net_income": 32186716269,
+  "total_assets": 1372137340692,
+  "total_debt": 1202083642329,
+  "total_equity": 170053698363,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -8.325575021607834,
+  "operating_profit_yoy": -43.397892293156445,
+  "debt_ratio": 706.8847392915903,
+  "operating_margin": 16.08868811718632,
+  "net_margin": 12.896543479522807,
+  "roe": 75.7095354675406,
+  "cached_at": "2025-06-09T16:02:15.989690"
+}

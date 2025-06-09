@@ -1,0 +1,23 @@
+{
+  "ticker": "161390",
+  "name": "한국타이어앤테크놀로지",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 4963667180882,
+  "operating_profit": 354643729430,
+  "net_income": 312207573348,
+  "total_assets": 24154602999839,
+  "total_debt": 12033741941034,
+  "total_equity": 12120861058805,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 133.33619891765883,
+  "operating_profit_yoy": -11.05964089622724,
+  "net_income_yoy": -13.394349567612807,
+  "debt_ratio": 99.28124646138309,
+  "operating_margin": 7.144792680620116,
+  "net_margin": 6.289857115128406,
+  "roe": 10.303148326948339,
+  "cached_at": "2025-06-09T16:04:57.713825"
+}

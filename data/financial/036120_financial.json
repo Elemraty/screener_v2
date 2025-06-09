@@ -1,0 +1,21 @@
+{
+  "ticker": "036120",
+  "name": "서울평가정보",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 8568809975,
+  "operating_profit": 242435578,
+  "net_income": 312131772,
+  "total_assets": 35538283801,
+  "total_debt": 6603749892,
+  "total_equity": 28934533909,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 5.966072529064181,
+  "debt_ratio": 22.82307333088204,
+  "operating_margin": 2.8292794297845307,
+  "net_margin": 3.6426501802544644,
+  "roe": 4.315006738752579,
+  "cached_at": "2025-06-09T16:17:29.183703"
+}

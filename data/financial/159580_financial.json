@@ -1,0 +1,23 @@
+{
+  "ticker": "159580",
+  "name": "제로투세븐",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 18164589104,
+  "operating_profit": 1279223403,
+  "net_income": 999439818,
+  "total_assets": 93920436414,
+  "total_debt": 13125689685,
+  "total_equity": 80794746729,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 13.80346895372524,
+  "operating_profit_yoy": 70.79099726335265,
+  "net_income_yoy": 408.6284705398035,
+  "debt_ratio": 16.24572167919024,
+  "operating_margin": 7.04240209165152,
+  "net_margin": 5.5021328160949965,
+  "roe": 4.9480435719530105,
+  "cached_at": "2025-06-09T16:33:43.880128"
+}

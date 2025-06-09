@@ -1,0 +1,13 @@
+{
+  "ticker": "357550",
+  "name": "석경에이티",
+  "market": "KOSDAQ",
+  "bps": 7332,
+  "per": 62.75,
+  "eps": 796,
+  "pbr": 6.81,
+  "roe": 10.856519367157665,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:17:38.664077"
+}

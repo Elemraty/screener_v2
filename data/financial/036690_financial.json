@@ -1,0 +1,23 @@
+{
+  "ticker": "036690",
+  "name": "코맥스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 23258940453,
+  "operating_profit": -2215799212,
+  "net_income": -2673539404,
+  "total_assets": 100883177224,
+  "total_debt": 77341346583,
+  "total_equity": 23541830641,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -21.290767168908474,
+  "operating_profit_yoy": -279.41304066052595,
+  "net_income_yoy": -648.2638447161511,
+  "debt_ratio": 328.52732551861874,
+  "operating_margin": -9.526655852950517,
+  "net_margin": -11.494674099202829,
+  "roe": -45.42619382103302,
+  "cached_at": "2025-06-09T16:36:02.319563"
+}

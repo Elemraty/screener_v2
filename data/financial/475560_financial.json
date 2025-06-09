@@ -1,0 +1,13 @@
+{
+  "ticker": "475560",
+  "name": "더본코리아",
+  "market": "KOSPI",
+  "bps": 18254,
+  "per": 9.91,
+  "eps": 2593,
+  "pbr": 1.41,
+  "roe": 14.205105730250903,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T15:59:10.381926"
+}

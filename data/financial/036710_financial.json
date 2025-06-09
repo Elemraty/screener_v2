@@ -1,0 +1,21 @@
+{
+  "ticker": "036710",
+  "name": "심텍홀딩스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 324355123000,
+  "operating_profit": -36836188891,
+  "net_income": -54865073717,
+  "total_assets": 1410998354354,
+  "total_debt": 1184254298655,
+  "total_equity": 226744055699,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 7.651256890944902,
+  "debt_ratio": 522.2868114465957,
+  "operating_margin": -11.356746442077933,
+  "net_margin": -16.915124758797166,
+  "roe": -96.78767286377328,
+  "cached_at": "2025-06-09T16:19:55.693858"
+}

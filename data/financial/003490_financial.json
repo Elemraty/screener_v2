@@ -1,0 +1,23 @@
+{
+  "ticker": "003490",
+  "name": "대한항공",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 6491861987200,
+  "operating_profit": 431046202741,
+  "net_income": 349859877409,
+  "total_assets": 47235041911827,
+  "total_debt": 36197884646802,
+  "total_equity": 11037157265025,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 51.27450709084174,
+  "operating_profit_yoy": -19.80943533904014,
+  "net_income_yoy": -13.939687247428678,
+  "debt_ratio": 327.963838673454,
+  "operating_margin": 6.639793076175887,
+  "net_margin": 5.389206950160347,
+  "roe": 12.679347372086486,
+  "cached_at": "2025-06-09T15:59:06.713166"
+}

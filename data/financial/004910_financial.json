@@ -1,0 +1,22 @@
+{
+  "ticker": "004910",
+  "name": "조광페인트",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 49051141528,
+  "operating_profit": -3025771539,
+  "net_income": 1118640191,
+  "total_assets": 397328071915,
+  "total_debt": 207865092591,
+  "total_equity": 189462979324,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -16.2874885892911,
+  "net_income_yoy": -71.38896308865755,
+  "debt_ratio": 109.71277519896412,
+  "operating_margin": -6.168605754613867,
+  "net_margin": 2.280558935333734,
+  "roe": 2.3617071683160162,
+  "cached_at": "2025-06-09T16:03:32.530191"
+}

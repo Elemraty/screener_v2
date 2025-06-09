@@ -1,0 +1,20 @@
+{
+  "ticker": "094850",
+  "name": "참좋은여행",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 0,
+  "operating_profit": 337414114,
+  "net_income": 846772348,
+  "total_assets": 143830817808,
+  "total_debt": 56862614256,
+  "total_equity": 86968203552,
+  "data_source": "f_data_financial",
+  "operating_profit_yoy": -71.61337961063026,
+  "net_income_yoy": -51.73216509015528,
+  "debt_ratio": 65.38322275680987,
+  "roe": 3.8946295929578363,
+  "cached_at": "2025-06-09T16:34:53.631428"
+}

@@ -1,0 +1,13 @@
+{
+  "ticker": "473980",
+  "name": "노머스",
+  "market": "KOSDAQ",
+  "bps": 7982,
+  "per": 30.09,
+  "eps": 1022,
+  "pbr": 3.85,
+  "roe": 12.80380856928088,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:10:21.196517"
+}

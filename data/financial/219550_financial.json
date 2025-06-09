@@ -1,0 +1,22 @@
+{
+  "ticker": "219550",
+  "name": "디와이디",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 8900381433,
+  "operating_profit": -546877424,
+  "net_income": -6122850409,
+  "total_assets": 34311288292,
+  "total_debt": 17220153267,
+  "total_equity": 17091135025,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -5.31872039261494,
+  "operating_profit_yoy": -420.4795533105317,
+  "debt_ratio": 100.7548839899239,
+  "operating_margin": -6.14442682166788,
+  "net_margin": -68.79312370027502,
+  "roe": -143.2988599070529,
+  "cached_at": "2025-06-09T16:12:44.352916"
+}

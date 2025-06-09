@@ -1,0 +1,21 @@
+{
+  "ticker": "101670",
+  "name": "하이드로리튬",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1832756852,
+  "operating_profit": -4463364498,
+  "net_income": -4689243599,
+  "total_assets": 91959727369,
+  "total_debt": 13182913819,
+  "total_equity": 78776813550,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -18.26778042804227,
+  "debt_ratio": 16.734510098752274,
+  "operating_margin": -243.53282286896615,
+  "net_margin": -255.8573764917508,
+  "roe": -23.810273036868725,
+  "cached_at": "2025-06-09T16:40:13.596346"
+}

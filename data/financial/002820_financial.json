@@ -1,0 +1,21 @@
+{
+  "ticker": "002820",
+  "name": "SUN&L",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 70970847807,
+  "operating_profit": -2004504351,
+  "net_income": -3736859856,
+  "total_assets": 498338449392,
+  "total_debt": 276994654569,
+  "total_equity": 221343794823,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -18.620608915094817,
+  "debt_ratio": 125.14227235983815,
+  "operating_margin": -2.8244052493935285,
+  "net_margin": -5.265344816173136,
+  "roe": -6.753041997835487,
+  "cached_at": "2025-06-09T15:57:51.420155"
+}

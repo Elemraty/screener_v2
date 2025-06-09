@@ -1,0 +1,21 @@
+{
+  "ticker": "054220",
+  "name": "비츠로시스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 9192046352,
+  "operating_profit": 53843529,
+  "net_income": -17534856,
+  "total_assets": 52743666083,
+  "total_debt": 35146416807,
+  "total_equity": 17597249276,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 24.35774077194932,
+  "debt_ratio": 199.72676556292478,
+  "operating_margin": 0.5857621571749881,
+  "net_margin": -0.19076117905111278,
+  "roe": -0.3985817493399927,
+  "cached_at": "2025-06-09T16:16:15.299483"
+}

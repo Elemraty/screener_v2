@@ -1,0 +1,22 @@
+{
+  "ticker": "067630",
+  "name": "HLB생명과학",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 27477172576,
+  "operating_profit": -5938848315,
+  "net_income": -57242651451,
+  "total_assets": 506950307217,
+  "total_debt": 165879570491,
+  "total_equity": 341070736726,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 14.99434721836359,
+  "net_income_yoy": -139.3718263394258,
+  "debt_ratio": 48.63494654607668,
+  "operating_margin": -21.613753375000822,
+  "net_margin": -208.32802681087622,
+  "roe": -67.13287923846252,
+  "cached_at": "2025-06-09T16:06:48.326925"
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "013700",
+  "name": "까뮤이앤씨",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 55957142783,
+  "operating_profit": 3650990021,
+  "net_income": 2473716137,
+  "total_assets": 274748367632,
+  "total_debt": 177655944604,
+  "total_equity": 97092423028,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -7.713186218708056,
+  "debt_ratio": 182.97611601758737,
+  "operating_margin": 6.524618376528663,
+  "net_margin": 4.420733464882208,
+  "roe": 10.19118097932984,
+  "cached_at": "2025-06-09T15:58:22.146049"
+}

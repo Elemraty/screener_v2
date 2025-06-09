@@ -1,0 +1,13 @@
+{
+  "ticker": "460850",
+  "name": "동국씨엠",
+  "market": "KOSPI",
+  "bps": 34015,
+  "per": 3.04,
+  "eps": 2137,
+  "pbr": 0.19,
+  "roe": 6.28252241658092,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T15:59:15.210647"
+}

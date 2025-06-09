@@ -1,0 +1,23 @@
+{
+  "ticker": "243840",
+  "name": "신흥에스이씨",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 103499910202,
+  "operating_profit": -4294130953,
+  "net_income": -4823445273,
+  "total_assets": 888751239074,
+  "total_debt": 536681477391,
+  "total_equity": 352069761683,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -30.023614539409348,
+  "operating_profit_yoy": -141.9592994973145,
+  "net_income_yoy": -165.71087833445688,
+  "debt_ratio": 152.4361180084027,
+  "operating_margin": -4.148922394830272,
+  "net_margin": -4.660337640473425,
+  "roe": -5.480101727501359,
+  "cached_at": "2025-06-09T16:19:52.917402"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "011320",
+  "name": "유니크",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 102430261464,
+  "operating_profit": 3281785369,
+  "net_income": 2211558846,
+  "total_assets": 274169662501,
+  "total_debt": 148256764207,
+  "total_equity": 125912898294,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 16.52218103639298,
+  "operating_profit_yoy": 7.760843860706479,
+  "net_income_yoy": 18.10195407228161,
+  "debt_ratio": 117.7454940802238,
+  "operating_margin": 3.2039216947165676,
+  "net_margin": 2.159087377490754,
+  "roe": 7.025678468098244,
+  "cached_at": "2025-06-09T16:31:07.837198"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "038390",
+  "name": "레드캡투어",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 105253280283,
+  "operating_profit": 17858522574,
+  "net_income": 10566371059,
+  "total_assets": 672262960656,
+  "total_debt": 480424793172,
+  "total_equity": 191838167484,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 11.750843562572676,
+  "operating_profit_yoy": 37.057438223380835,
+  "net_income_yoy": 67.81337519925982,
+  "debt_ratio": 250.4323302671608,
+  "operating_margin": 16.967188600662002,
+  "net_margin": 10.038994538307639,
+  "roe": 22.031843188621522,
+  "cached_at": "2025-06-09T16:13:16.330792"
+}

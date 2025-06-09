@@ -1,0 +1,21 @@
+{
+  "ticker": "170790",
+  "name": "파이오링크",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 11993338473,
+  "operating_profit": -1487011918,
+  "net_income": -650108373,
+  "total_assets": 91606397290,
+  "total_debt": 12136293750,
+  "total_equity": 79470103540,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 23.876563928339657,
+  "debt_ratio": 15.271521250618973,
+  "operating_margin": -12.398648811151583,
+  "net_margin": -5.420578886050421,
+  "roe": -3.272216061340745,
+  "cached_at": "2025-06-09T16:38:12.414193"
+}

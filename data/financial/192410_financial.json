@@ -1,0 +1,21 @@
+{
+  "ticker": "192410",
+  "name": "오늘이엔엠",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 3027004359,
+  "operating_profit": -1081082020,
+  "net_income": -6066933488,
+  "total_assets": 56164697450,
+  "total_debt": 28567278951,
+  "total_equity": 27597418499,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -23.116900380928772,
+  "debt_ratio": 103.51431584818394,
+  "operating_margin": -35.71458418240091,
+  "net_margin": -200.4269822064039,
+  "roe": -87.93479706400564,
+  "cached_at": "2025-06-09T16:25:12.880866"
+}

@@ -1,0 +1,22 @@
+{
+  "ticker": "002710",
+  "name": "TCC스틸",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 155650020713,
+  "operating_profit": 1823646011,
+  "net_income": -71592793,
+  "total_assets": 573260928491,
+  "total_debt": 317790574512,
+  "total_equity": 255470353979,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 18.00824872137017,
+  "operating_profit_yoy": 23.443862279965533,
+  "debt_ratio": 124.39430625211519,
+  "operating_margin": 1.1716323599870153,
+  "net_margin": -0.045996006085992455,
+  "roe": -0.1120956571045187,
+  "cached_at": "2025-06-09T15:57:52.556543"
+}

@@ -1,0 +1,13 @@
+{
+  "ticker": "424870",
+  "name": "이뮨온시아",
+  "market": "KOSDAQ",
+  "bps": 305,
+  "per": 0.0,
+  "eps": 0,
+  "pbr": 21.34,
+  "roe": 0.0,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:32:13.659443"
+}

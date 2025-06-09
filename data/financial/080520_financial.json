@@ -1,0 +1,22 @@
+{
+  "ticker": "080520",
+  "name": "오디텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 10026500151,
+  "operating_profit": -571853847,
+  "net_income": 390825082,
+  "total_assets": 137272434921,
+  "total_debt": 12229850209,
+  "total_equity": 125042584712,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 26.523649061288324,
+  "net_income_yoy": -96.81896984166896,
+  "debt_ratio": 9.780548152589759,
+  "operating_margin": -5.703424309458229,
+  "net_margin": 3.897921269776481,
+  "roe": 1.2502143422583731,
+  "cached_at": "2025-06-09T16:25:43.686752"
+}

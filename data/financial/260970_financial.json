@@ -1,0 +1,23 @@
+{
+  "ticker": "260970",
+  "name": "에스앤디",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 35713624590,
+  "operating_profit": 5378577359,
+  "net_income": 4391487988,
+  "total_assets": 97544544000,
+  "total_debt": 27412144513,
+  "total_equity": 70132399487,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 49.924310558061435,
+  "operating_profit_yoy": 53.079149173536535,
+  "net_income_yoy": 54.878500240402836,
+  "debt_ratio": 39.086277830949186,
+  "operating_margin": 15.060295393556972,
+  "net_margin": 12.296393990851435,
+  "roe": 25.046842943475916,
+  "cached_at": "2025-06-09T16:22:29.080036"
+}

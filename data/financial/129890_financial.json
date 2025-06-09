@@ -1,0 +1,23 @@
+{
+  "ticker": "129890",
+  "name": "앱코",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 22997937313,
+  "operating_profit": 2007268337,
+  "net_income": 2129285388,
+  "total_assets": 104176108067,
+  "total_debt": 46340494161,
+  "total_equity": 57835613906,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 4.334789086827251,
+  "operating_profit_yoy": -22.96616304204703,
+  "net_income_yoy": -14.19802352402668,
+  "debt_ratio": 80.12449601782913,
+  "operating_margin": 8.728036387269198,
+  "net_margin": 9.258592886051494,
+  "roe": 14.726465194685886,
+  "cached_at": "2025-06-09T16:22:09.525500"
+}

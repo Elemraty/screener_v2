@@ -1,0 +1,23 @@
+{
+  "ticker": "001250",
+  "name": "GS글로벌",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1021740498000,
+  "operating_profit": 15957433000,
+  "net_income": 8821539000,
+  "total_assets": 1355863333000,
+  "total_debt": 784185933000,
+  "total_equity": 571677399000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 6.185958539862679,
+  "operating_profit_yoy": -6.7549192380775835,
+  "net_income_yoy": -26.044120368989134,
+  "debt_ratio": 137.1728066164113,
+  "operating_margin": 1.5617892244885845,
+  "net_margin": 0.8633835124738297,
+  "roe": 6.172389543774845,
+  "cached_at": "2025-06-09T15:56:09.499216"
+}

@@ -1,0 +1,22 @@
+{
+  "ticker": "027050",
+  "name": "코리아나",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 19070555876,
+  "operating_profit": -933941040,
+  "net_income": -315713400,
+  "total_assets": 109457441770,
+  "total_debt": 24048617877,
+  "total_equity": 85408823893,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -9.757183937302417,
+  "operating_profit_yoy": -727.6728538372569,
+  "debt_ratio": 28.1570647865706,
+  "operating_margin": -4.897293220358356,
+  "net_margin": -1.6555018220382367,
+  "roe": -1.4785985129383123,
+  "cached_at": "2025-06-09T16:36:00.208596"
+}

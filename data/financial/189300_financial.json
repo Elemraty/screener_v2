@@ -1,0 +1,21 @@
+{
+  "ticker": "189300",
+  "name": "인텔리안테크",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 43350439171,
+  "operating_profit": -12038860310,
+  "net_income": -14132098082,
+  "total_assets": 429476801600,
+  "total_debt": 180937814282,
+  "total_equity": 248538987318,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -7.168400693860832,
+  "debt_ratio": 72.80057597180686,
+  "operating_margin": -27.77102271677468,
+  "net_margin": -32.599665314241854,
+  "roe": -22.744275631763642,
+  "cached_at": "2025-06-09T16:33:08.316688"
+}

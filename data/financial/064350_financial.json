@@ -1,0 +1,23 @@
+{
+  "ticker": "064350",
+  "name": "현대로템",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1176141098000,
+  "operating_profit": 202852668000,
+  "net_income": 157146000000,
+  "total_assets": 5244442521000,
+  "total_debt": 3097113499000,
+  "total_equity": 2147329022000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 57.284490290172464,
+  "operating_profit_yoy": 353.9755278965468,
+  "net_income_yoy": 182.47068831401688,
+  "debt_ratio": 144.23097100021405,
+  "operating_margin": 17.24730717640478,
+  "net_margin": 13.361152013752688,
+  "roe": 29.272831203787458,
+  "cached_at": "2025-06-09T16:05:38.123280"
+}

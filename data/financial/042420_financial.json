@@ -1,0 +1,23 @@
+{
+  "ticker": "042420",
+  "name": "네오위즈홀딩스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 89303912108,
+  "operating_profit": 8470781997,
+  "net_income": 3699265393,
+  "total_assets": 819311655951,
+  "total_debt": 141373673938,
+  "total_equity": 677937982013,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -8.373048590436783,
+  "operating_profit_yoy": -32.83830486378364,
+  "net_income_yoy": -72.2008954887654,
+  "debt_ratio": 20.853481835937178,
+  "operating_margin": 9.485342575760656,
+  "net_margin": 4.142332968040952,
+  "roe": 2.182657110914941,
+  "cached_at": "2025-06-09T16:09:59.222451"
+}

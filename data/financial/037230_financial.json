@@ -1,0 +1,23 @@
+{
+  "ticker": "037230",
+  "name": "한국팩키지",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 56057686187,
+  "operating_profit": 2306453859,
+  "net_income": 1079789591,
+  "total_assets": 220757038487,
+  "total_debt": 113236806602,
+  "total_equity": 107520231885,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -1.5872442851099788,
+  "operating_profit_yoy": 28.73948579730836,
+  "net_income_yoy": 133.222359630639,
+  "debt_ratio": 105.31674329266166,
+  "operating_margin": 4.114429288618901,
+  "net_margin": 1.9262114875701157,
+  "roe": 4.0170657078005805,
+  "cached_at": "2025-06-09T16:40:50.795628"
+}

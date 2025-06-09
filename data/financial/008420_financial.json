@@ -1,0 +1,23 @@
+{
+  "ticker": "008420",
+  "name": "문배철강",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 33165195785,
+  "operating_profit": -527765671,
+  "net_income": 441703613,
+  "total_assets": 226045174524,
+  "total_debt": 41108274684,
+  "total_equity": 184936899840,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -7.8856558164644985,
+  "operating_profit_yoy": -850.1566554914293,
+  "net_income_yoy": -90.02514871814785,
+  "debt_ratio": 22.228270680196992,
+  "operating_margin": -1.5913238517310322,
+  "net_margin": 1.3318287516329823,
+  "roe": 0.9553606952039193,
+  "cached_at": "2025-06-09T16:00:13.502378"
+}

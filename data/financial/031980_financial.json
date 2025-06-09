@@ -1,0 +1,23 @@
+{
+  "ticker": "031980",
+  "name": "피에스케이홀딩스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 31151083814,
+  "operating_profit": 9539175189,
+  "net_income": 15628762455,
+  "total_assets": 529703484251,
+  "total_debt": 98005750476,
+  "total_equity": 431697733775,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -18.22670813867794,
+  "operating_profit_yoy": -38.141463779382434,
+  "net_income_yoy": -17.620516964117662,
+  "debt_ratio": 22.702400964439718,
+  "operating_margin": 30.622289888716104,
+  "net_margin": 50.17084653721127,
+  "roe": 14.481208709004417,
+  "cached_at": "2025-06-09T16:39:29.981252"
+}

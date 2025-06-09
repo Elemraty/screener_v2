@@ -1,0 +1,23 @@
+{
+  "ticker": "123890",
+  "name": "한국자산신탁",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 51874300296,
+  "operating_profit": 17700163503,
+  "net_income": 14171510127,
+  "total_assets": 1863167795127,
+  "total_debt": 815480026953,
+  "total_equity": 1047687768174,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -18.067375695595356,
+  "operating_profit_yoy": -39.95870740579892,
+  "net_income_yoy": -36.430895120771154,
+  "debt_ratio": 77.83616948914927,
+  "operating_margin": 34.121257350944646,
+  "net_margin": 27.31894222406072,
+  "roe": 5.410585312721297,
+  "cached_at": "2025-06-09T16:04:52.242440"
+}

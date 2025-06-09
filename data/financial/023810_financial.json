@@ -1,0 +1,23 @@
+{
+  "ticker": "023810",
+  "name": "인팩",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 146079069917,
+  "operating_profit": 7167158295,
+  "net_income": 2287106903,
+  "total_assets": 558324862958,
+  "total_debt": 394299946823,
+  "total_equity": 164024916135,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 6.7688166974251285,
+  "operating_profit_yoy": -11.687715744820782,
+  "net_income_yoy": 39.87271756887098,
+  "debt_ratio": 240.39027491315593,
+  "operating_margin": 4.906355372520016,
+  "net_margin": 1.5656636534580215,
+  "roe": 5.577462148781363,
+  "cached_at": "2025-06-09T16:03:12.607519"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "002380",
+  "name": "KCC",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1599305256419,
+  "operating_profit": 103443840405,
+  "net_income": 44050087099,
+  "total_assets": 15066170684945,
+  "total_debt": 8805934470405,
+  "total_equity": 6260236214540,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 0.688347514965959,
+  "operating_profit_yoy": -3.239449099045144,
+  "net_income_yoy": -90.31676664046503,
+  "debt_ratio": 140.66457188871516,
+  "operating_margin": 6.468048547318654,
+  "net_margin": 2.754326412809549,
+  "roe": 2.814595845229574,
+  "cached_at": "2025-06-09T15:56:40.207867"
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "092040",
+  "name": "아미코젠",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 10820986008,
+  "operating_profit": -4329642270,
+  "net_income": -5797971515,
+  "total_assets": 273836707501,
+  "total_debt": 156337590734,
+  "total_equity": 117499116767,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -68.33969743439613,
+  "debt_ratio": 133.0542688623068,
+  "operating_margin": -40.01153191399635,
+  "net_margin": -53.58080595163449,
+  "roe": -19.73792373774976,
+  "cached_at": "2025-06-09T16:20:41.674331"
+}

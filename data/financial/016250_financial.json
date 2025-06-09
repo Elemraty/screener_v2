@@ -1,0 +1,22 @@
+{
+  "ticker": "016250",
+  "name": "SGC E&C",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 329957715359,
+  "operating_profit": 11571783147,
+  "net_income": 598092323,
+  "total_assets": 1298746645587,
+  "total_debt": 947615236568,
+  "total_equity": 351131409019,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 20.22779209054759,
+  "operating_profit_yoy": 854.4011790166668,
+  "debt_ratio": 269.87481388106863,
+  "operating_margin": 3.5070503304975578,
+  "net_margin": 0.18126332410480678,
+  "roe": 0.6813316127668165,
+  "cached_at": "2025-06-09T16:08:10.952334"
+}

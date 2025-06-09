@@ -1,0 +1,13 @@
+{
+  "ticker": "314130",
+  "name": "지놈앤컴퍼니",
+  "market": "KOSDAQ",
+  "bps": 1472,
+  "per": 0.0,
+  "eps": 0,
+  "pbr": 1.9,
+  "roe": 0.0,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:34:24.776768"
+}

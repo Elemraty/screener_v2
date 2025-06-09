@@ -1,0 +1,23 @@
+{
+  "ticker": "002200",
+  "name": "한국수출포장",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 70952415653,
+  "operating_profit": -829194042,
+  "net_income": -180451380,
+  "total_assets": 346689821673,
+  "total_debt": 57744377149,
+  "total_equity": 288945444524,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -3.4087239736841246,
+  "operating_profit_yoy": -124.83251798734443,
+  "net_income_yoy": -105.67162684320672,
+  "debt_ratio": 19.98452588312176,
+  "operating_margin": -1.1686621722018005,
+  "net_margin": -0.2543273239385052,
+  "roe": -0.24980685235895675,
+  "cached_at": "2025-06-09T16:04:50.405167"
+}

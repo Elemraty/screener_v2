@@ -1,0 +1,13 @@
+{
+  "ticker": "381620",
+  "name": "제닉스",
+  "market": "KOSDAQ",
+  "bps": 4364,
+  "per": 16.46,
+  "eps": 444,
+  "pbr": 1.68,
+  "roe": 10.174152153987167,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:33:43.425648"
+}

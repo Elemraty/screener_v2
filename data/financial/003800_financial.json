@@ -1,0 +1,23 @@
+{
+  "ticker": "003800",
+  "name": "에이스침대",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 81386569761,
+  "operating_profit": 12100807341,
+  "net_income": 9512323814,
+  "total_assets": 792261298103,
+  "total_debt": 90011871293,
+  "total_equity": 702249426810,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -2.7727623789931877,
+  "operating_profit_yoy": -18.00212004669014,
+  "net_income_yoy": -31.36368875902995,
+  "debt_ratio": 12.817649663579367,
+  "operating_margin": 14.86830981639263,
+  "net_margin": 11.687829874061425,
+  "roe": 5.418202394103852,
+  "cached_at": "2025-06-09T16:23:13.651747"
+}

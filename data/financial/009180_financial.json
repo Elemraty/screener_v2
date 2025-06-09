@@ -1,0 +1,23 @@
+{
+  "ticker": "009180",
+  "name": "한솔로지스틱스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 174127373995,
+  "operating_profit": 5694117819,
+  "net_income": 4321674149,
+  "total_assets": 269235835638,
+  "total_debt": 138146882284,
+  "total_equity": 131088953354,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 3.6339094853878873,
+  "operating_profit_yoy": -16.495158792540675,
+  "net_income_yoy": -25.15206287975661,
+  "debt_ratio": 105.3840760410531,
+  "operating_margin": 3.2700876883168895,
+  "net_margin": 2.4819039360945596,
+  "roe": 13.186997190616076,
+  "cached_at": "2025-06-09T16:05:07.937912"
+}

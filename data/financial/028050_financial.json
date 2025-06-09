@@ -1,0 +1,23 @@
+{
+  "ticker": "028050",
+  "name": "삼성E&A",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2097955167196,
+  "operating_profit": 157303530634,
+  "net_income": 157212353869,
+  "total_assets": 10002272939173,
+  "total_debt": 6042997589177,
+  "total_equity": 3959275349996,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -12.025665512102169,
+  "operating_profit_yoy": -24.86083247978119,
+  "net_income_yoy": -4.212127496174112,
+  "debt_ratio": 152.62887915040073,
+  "operating_margin": 7.49794528947167,
+  "net_margin": 7.493599306944225,
+  "roe": 15.882942202457206,
+  "cached_at": "2025-06-09T16:00:41.428491"
+}

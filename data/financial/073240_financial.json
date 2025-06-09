@@ -1,0 +1,23 @@
+{
+  "ticker": "073240",
+  "name": "금호타이어",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1206213099996,
+  "operating_profit": 146551092332,
+  "net_income": 103001404674,
+  "total_assets": 5389060595940,
+  "total_debt": 3391397263922,
+  "total_equity": 1997663332018,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 15.48160415565658,
+  "operating_profit_yoy": 0.632569917273762,
+  "net_income_yoy": 13.208283344632,
+  "debt_ratio": 169.7682091654592,
+  "operating_margin": 12.149685021036994,
+  "net_margin": 8.539237774348626,
+  "roe": 20.624377095603997,
+  "cached_at": "2025-06-09T15:58:20.071165"
+}

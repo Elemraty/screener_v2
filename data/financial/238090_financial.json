@@ -1,0 +1,21 @@
+{
+  "ticker": "238090",
+  "name": "앤디포스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 14849198311,
+  "operating_profit": 2585240205,
+  "net_income": 3885086733,
+  "total_assets": 108469998429,
+  "total_debt": 14334412547,
+  "total_equity": 94135585882,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 26.22453839261265,
+  "debt_ratio": 15.227410986710535,
+  "operating_margin": 17.40996484022241,
+  "net_margin": 26.1636126855549,
+  "roe": 16.508472100529545,
+  "cached_at": "2025-06-09T16:22:07.657040"
+}

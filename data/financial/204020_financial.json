@@ -1,0 +1,23 @@
+{
+  "ticker": "204020",
+  "name": "그리티",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 41049305761,
+  "operating_profit": 1255600039,
+  "net_income": 1000614403,
+  "total_assets": 120030427977,
+  "total_debt": 40483322211,
+  "total_equity": 79547105766,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 0.658998571721936,
+  "operating_profit_yoy": -41.710819663268694,
+  "net_income_yoy": -40.786050258243755,
+  "debt_ratio": 50.89226291914114,
+  "operating_margin": 3.0587607164672606,
+  "net_margin": 2.4375915364460576,
+  "roe": 5.031556551879891,
+  "cached_at": "2025-06-09T16:09:09.376838"
+}

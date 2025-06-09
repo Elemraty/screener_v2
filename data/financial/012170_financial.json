@@ -1,0 +1,21 @@
+{
+  "ticker": "012170",
+  "name": "아센디오",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 594178333,
+  "operating_profit": -1128960400,
+  "net_income": -2181805420,
+  "total_assets": 22560596251,
+  "total_debt": 4320792862,
+  "total_equity": 18239803389,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -75.29692671835909,
+  "debt_ratio": 23.68881270181766,
+  "operating_margin": -190.00362976884247,
+  "net_margin": -367.19706842625646,
+  "roe": -47.84712583724002,
+  "cached_at": "2025-06-09T16:02:06.919275"
+}

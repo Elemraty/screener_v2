@@ -1,0 +1,20 @@
+{
+  "ticker": "062040",
+  "name": "산일전기",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 98829448704,
+  "operating_profit": 37521340907,
+  "net_income": 31245770446,
+  "total_assets": 526832391199,
+  "total_debt": 74648727239,
+  "total_equity": 452183663960,
+  "data_source": "f_data_financial",
+  "debt_ratio": 16.508497141463163,
+  "operating_margin": 37.96574947956921,
+  "net_margin": 31.615850190142126,
+  "roe": 27.639893199471256,
+  "cached_at": "2025-06-09T16:00:40.544884"
+}

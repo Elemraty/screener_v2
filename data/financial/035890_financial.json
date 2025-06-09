@@ -1,0 +1,23 @@
+{
+  "ticker": "035890",
+  "name": "서희건설",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 286978891120,
+  "operating_profit": 50907953768,
+  "net_income": 16599840854,
+  "total_assets": 1526566482652,
+  "total_debt": 549173888632,
+  "total_equity": 977392594020,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -21.329223329879,
+  "operating_profit_yoy": 4.431828043151342,
+  "net_income_yoy": -75.22928914475762,
+  "debt_ratio": 56.187645782464614,
+  "operating_margin": 17.73926771036023,
+  "net_margin": 5.78434211283463,
+  "roe": 6.793520211044417,
+  "cached_at": "2025-06-09T16:17:37.606036"
+}

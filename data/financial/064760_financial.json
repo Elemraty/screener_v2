@@ -1,0 +1,23 @@
+{
+  "ticker": "064760",
+  "name": "티씨케이",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 78362036346,
+  "operating_profit": 23473504141,
+  "net_income": 19518959008,
+  "total_assets": 566423820931,
+  "total_debt": 58280544509,
+  "total_equity": 508143276422,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 32.855781561018915,
+  "operating_profit_yoy": 35.1426493036163,
+  "net_income_yoy": 25.184785800144493,
+  "debt_ratio": 11.469313324260046,
+  "operating_margin": 29.955199271947208,
+  "net_margin": 24.908692931122825,
+  "roe": 15.364925534734422,
+  "cached_at": "2025-06-09T16:37:41.972240"
+}

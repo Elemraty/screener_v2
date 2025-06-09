@@ -1,0 +1,23 @@
+{
+  "ticker": "159010",
+  "name": "아스플로",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 25999940581,
+  "operating_profit": -1451153735,
+  "net_income": -1843560037,
+  "total_assets": 137344905439,
+  "total_debt": 84467748059,
+  "total_equity": 52877157380,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -0.13384663619983028,
+  "operating_profit_yoy": -151.94285037344235,
+  "net_income_yoy": -204.99836542489672,
+  "debt_ratio": 159.74336035497376,
+  "operating_margin": -5.581373274600716,
+  "net_margin": -7.090631731471032,
+  "roe": -13.945984454128762,
+  "cached_at": "2025-06-09T16:20:50.811944"
+}

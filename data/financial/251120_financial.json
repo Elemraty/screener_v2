@@ -1,0 +1,23 @@
+{
+  "ticker": "251120",
+  "name": "바이오에프디엔씨",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 4323464258,
+  "operating_profit": 1439863897,
+  "net_income": 1629557115,
+  "total_assets": 68946409453,
+  "total_debt": 4185434332,
+  "total_equity": 64760975121,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 13.779496214053278,
+  "operating_profit_yoy": 49.13271604795697,
+  "net_income_yoy": 50.86821177587879,
+  "debt_ratio": 6.462895785895589,
+  "operating_margin": 33.303476357777726,
+  "net_margin": 37.69100466101275,
+  "roe": 10.065056074003337,
+  "cached_at": "2025-06-09T16:15:10.289953"
+}

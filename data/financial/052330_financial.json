@@ -1,0 +1,23 @@
+{
+  "ticker": "052330",
+  "name": "코텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 84333614689,
+  "operating_profit": 10672862355,
+  "net_income": 8955851954,
+  "total_assets": 448602594284,
+  "total_debt": 87204809139,
+  "total_equity": 361397785145,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 17.337541328012062,
+  "operating_profit_yoy": 208.98920704121977,
+  "net_income_yoy": 45.76919939730946,
+  "debt_ratio": 24.129868173932415,
+  "operating_margin": 12.655525788096107,
+  "net_margin": 10.619551867931674,
+  "roe": 9.91245914847733,
+  "cached_at": "2025-06-09T16:36:27.628161"
+}

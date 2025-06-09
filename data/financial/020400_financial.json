@@ -1,0 +1,21 @@
+{
+  "ticker": "020400",
+  "name": "대동금속",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 24058882896,
+  "operating_profit": -1064059229,
+  "net_income": -1081343692,
+  "total_assets": 97977635502,
+  "total_debt": 53383734581,
+  "total_equity": 44593900921,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -6.774143622626783,
+  "debt_ratio": 119.71084269028532,
+  "operating_margin": -4.4227291582890125,
+  "net_margin": -4.494571492260694,
+  "roe": -9.699476113701257,
+  "cached_at": "2025-06-09T16:10:50.601770"
+}

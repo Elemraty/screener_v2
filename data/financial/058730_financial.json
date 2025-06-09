@@ -1,0 +1,21 @@
+{
+  "ticker": "058730",
+  "name": "다스코",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 49960090753,
+  "operating_profit": -2646292885,
+  "net_income": -2393492341,
+  "total_assets": 318257192939,
+  "total_debt": 173357575347,
+  "total_equity": 144899617592,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -31.23873941230415,
+  "debt_ratio": 119.63977422986048,
+  "operating_margin": -5.296813606850975,
+  "net_margin": -4.790808633301523,
+  "roe": -6.607311684533103,
+  "cached_at": "2025-06-09T15:58:39.755113"
+}

@@ -1,0 +1,20 @@
+{
+  "ticker": "269620",
+  "name": "시스웍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 3178265446,
+  "operating_profit": -747760645,
+  "net_income": -2016284103,
+  "total_assets": 22699638982,
+  "total_debt": 42108022655,
+  "total_equity": -19408383673,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -41.005053403213495,
+  "operating_profit_yoy": -1047.1343119298592,
+  "operating_margin": -23.527318838050256,
+  "net_margin": -63.43976414989474,
+  "cached_at": "2025-06-09T16:19:14.624139"
+}

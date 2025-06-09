@@ -1,0 +1,23 @@
+{
+  "ticker": "051160",
+  "name": "지어소프트",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 139979138721,
+  "operating_profit": 7789094232,
+  "net_income": 7926975609,
+  "total_assets": 314957047571,
+  "total_debt": 92068609832,
+  "total_equity": 222888437739,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 2.43704153536346,
+  "operating_profit_yoy": 15.141480557847341,
+  "net_income_yoy": 28.242905560736208,
+  "debt_ratio": 41.307037173373416,
+  "operating_margin": 5.564467893694407,
+  "net_margin": 5.662969269156373,
+  "roe": 14.225907255507627,
+  "cached_at": "2025-06-09T16:34:35.265192"
+}

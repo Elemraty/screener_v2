@@ -1,0 +1,21 @@
+{
+  "ticker": "095700",
+  "name": "제넥신",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 319523573,
+  "operating_profit": -8476737750,
+  "net_income": -18923986875,
+  "total_assets": 337548586827,
+  "total_debt": 94722347635,
+  "total_equity": 242826239192,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -84.58804762474641,
+  "debt_ratio": 39.00828343353129,
+  "operating_margin": -2652.930320730984,
+  "net_margin": -5922.563614735242,
+  "roe": -31.172886320636895,
+  "cached_at": "2025-06-09T16:33:37.067315"
+}

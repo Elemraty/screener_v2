@@ -1,0 +1,21 @@
+{
+  "ticker": "083500",
+  "name": "에프엔에스테크",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 13057011023,
+  "operating_profit": 1177446313,
+  "net_income": 1387517485,
+  "total_assets": 125147072023,
+  "total_debt": 47939053144,
+  "total_equity": 77208018879,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 131.61058933207408,
+  "debt_ratio": 62.09076963771059,
+  "operating_margin": 9.01773239622699,
+  "net_margin": 10.626608820011562,
+  "roe": 7.188463090469968,
+  "cached_at": "2025-06-09T16:23:59.209655"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "006840",
+  "name": "AK홀딩스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 950949103097,
+  "operating_profit": -24406443814,
+  "net_income": -5046980067,
+  "total_assets": 5611743327988,
+  "total_debt": 4390185924788,
+  "total_equity": 1221557403200,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -20.315851472956926,
+  "operating_profit_yoy": -125.30313046321156,
+  "net_income_yoy": -111.88539576523458,
+  "debt_ratio": 359.39251919618675,
+  "operating_margin": -2.566535236692942,
+  "net_margin": -0.5307308299217346,
+  "roe": -1.6526378715495142,
+  "cached_at": "2025-06-09T15:55:41.719241"
+}

@@ -1,0 +1,13 @@
+{
+  "ticker": "356890",
+  "name": "싸이버원",
+  "market": "KOSDAQ",
+  "bps": 3474,
+  "per": 4.2,
+  "eps": 826,
+  "pbr": 1.0,
+  "roe": 23.77662636729994,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:19:59.631085"
+}

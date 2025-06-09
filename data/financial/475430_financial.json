@@ -1,0 +1,17 @@
+{
+  "per": 15.73,
+  "pbr": 0.72,
+  "eps": 522.0,
+  "bps": 11457.0,
+  "dividend_yield": 1.29,
+  "dps": 106.0,
+  "market_cap": 0.0,
+  "date": "20250609",
+  "source": "pykrx_fundamental",
+  "roe": 4.556166535742341,
+  "operating_margin": 6.8342498036135115,
+  "debt_ratio": 80,
+  "sales_yoy": 10,
+  "op_income_yoy": 10,
+  "cached_at": "2025-06-09T16:36:57.554978"
+}

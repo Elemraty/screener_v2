@@ -1,0 +1,23 @@
+{
+  "ticker": "029530",
+  "name": "신도리코",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 79041977004,
+  "operating_profit": 3425858003,
+  "net_income": 13042571760,
+  "total_assets": 1146045697408,
+  "total_debt": 81638431320,
+  "total_equity": 1064407266088,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -16.0274043160749,
+  "operating_profit_yoy": -56.59194108768837,
+  "net_income_yoy": -37.75964154003665,
+  "debt_ratio": 7.669849118941522,
+  "operating_margin": 4.334226107257706,
+  "net_margin": 16.500816723422755,
+  "roe": 4.901346383301259,
+  "cached_at": "2025-06-09T16:01:39.584985"
+}

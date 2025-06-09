@@ -1,0 +1,23 @@
+{
+  "ticker": "033920",
+  "name": "무학",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 37390896260,
+  "operating_profit": 3000906807,
+  "net_income": 11164206095,
+  "total_assets": 699158290045,
+  "total_debt": 119868397442,
+  "total_equity": 579289892603,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -2.452425982815565,
+  "operating_profit_yoy": -42.40329268809639,
+  "net_income_yoy": -31.344340083394773,
+  "debt_ratio": 20.69229913599553,
+  "operating_margin": 8.025768588516847,
+  "net_margin": 29.85808635708803,
+  "roe": 7.708890652197914,
+  "cached_at": "2025-06-09T16:00:13.297470"
+}

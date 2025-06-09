@@ -1,0 +1,23 @@
+{
+  "ticker": "019540",
+  "name": "일지테크",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 205366808514,
+  "operating_profit": 11890586202,
+  "net_income": 8403041132,
+  "total_assets": 616311331953,
+  "total_debt": 459192450049,
+  "total_equity": 157118881904,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 8.328192024274061,
+  "operating_profit_yoy": 50.61155617475463,
+  "net_income_yoy": 21.63282037225851,
+  "debt_ratio": 292.25796701479055,
+  "operating_margin": 5.789925980755265,
+  "net_margin": 4.091723094302826,
+  "roe": 21.392823141738692,
+  "cached_at": "2025-06-09T16:33:18.809056"
+}

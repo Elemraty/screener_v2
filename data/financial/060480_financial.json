@@ -1,0 +1,21 @@
+{
+  "ticker": "060480",
+  "name": "국일신동",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 9424999915,
+  "operating_profit": -4238632,
+  "net_income": 109841741,
+  "total_assets": 46680888724,
+  "total_debt": 4241821092,
+  "total_equity": 42439067632,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -1.1738708857305769,
+  "debt_ratio": 9.995085492409764,
+  "operating_margin": -0.04497222321725612,
+  "net_margin": 1.1654296232426014,
+  "roe": 1.0352889177723301,
+  "cached_at": "2025-06-09T16:09:04.150378"
+}

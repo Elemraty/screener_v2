@@ -1,0 +1,23 @@
+{
+  "ticker": "000490",
+  "name": "대동",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 386794678493,
+  "operating_profit": 21716047770,
+  "net_income": 9094641525,
+  "total_assets": 2337834478586,
+  "total_debt": 1666911559691,
+  "total_equity": 670922918895,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 6.719105666044589,
+  "operating_profit_yoy": 87.69261525493015,
+  "net_income_yoy": 738.3098114868337,
+  "debt_ratio": 248.45053175950204,
+  "operating_margin": 5.6143605322101156,
+  "net_margin": 2.351284035352774,
+  "roe": 5.422167744681454,
+  "cached_at": "2025-06-09T15:58:45.739130"
+}

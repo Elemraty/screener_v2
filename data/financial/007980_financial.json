@@ -1,0 +1,23 @@
+{
+  "ticker": "007980",
+  "name": "TP",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 257198709822,
+  "operating_profit": 15246996743,
+  "net_income": 8646290374,
+  "total_assets": 801139018034,
+  "total_debt": 555867694594,
+  "total_equity": 245271323440,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 13.478429996934604,
+  "operating_profit_yoy": 30.969301137487747,
+  "net_income_yoy": 189.93545177519403,
+  "debt_ratio": 226.63378938793076,
+  "operating_margin": 5.928100010125252,
+  "net_margin": 3.3617160754748165,
+  "roe": 14.100776646422942,
+  "cached_at": "2025-06-09T15:57:53.601959"
+}

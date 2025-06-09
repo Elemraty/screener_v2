@@ -1,0 +1,23 @@
+{
+  "ticker": "298040",
+  "name": "효성중공업",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1076134826516,
+  "operating_profit": 102387086448,
+  "net_income": 103629289620,
+  "total_assets": 6689856205749,
+  "total_debt": 4574590851977,
+  "total_equity": 2115265353772,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 9.306868377751144,
+  "operating_profit_yoy": 82.29576177119728,
+  "net_income_yoy": 295.09166400501493,
+  "debt_ratio": 216.2655783975028,
+  "operating_margin": 9.514336301100808,
+  "net_margin": 9.629768228531468,
+  "roe": 19.596461396241445,
+  "cached_at": "2025-06-09T16:06:00.690311"
+}

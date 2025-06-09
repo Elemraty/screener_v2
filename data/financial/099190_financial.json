@@ -1,0 +1,22 @@
+{
+  "ticker": "099190",
+  "name": "아이센스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 76269150537,
+  "operating_profit": 3235089247,
+  "net_income": 2209834207,
+  "total_assets": 583006658722,
+  "total_debt": 242326681608,
+  "total_equity": 340679977114,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 11.498176264657944,
+  "operating_profit_yoy": 299.5246396788224,
+  "debt_ratio": 71.13029760680988,
+  "operating_margin": 4.241674680027517,
+  "net_margin": 2.897415523105841,
+  "roe": 2.5946158922753884,
+  "cached_at": "2025-06-09T16:21:00.286192"
+}

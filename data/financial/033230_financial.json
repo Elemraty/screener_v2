@@ -1,0 +1,21 @@
+{
+  "ticker": "033230",
+  "name": "인성정보",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 60990472937,
+  "operating_profit": -3632806185,
+  "net_income": -3784850489,
+  "total_assets": 216264156590,
+  "total_debt": 130297333170,
+  "total_equity": 85966823420,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -17.378294154637786,
+  "debt_ratio": 151.56699757698223,
+  "operating_margin": -5.956350246295845,
+  "net_margin": -6.205642138419806,
+  "roe": -17.61074953535837,
+  "cached_at": "2025-06-09T16:32:53.648408"
+}

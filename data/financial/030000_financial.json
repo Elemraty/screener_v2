@@ -1,0 +1,22 @@
+{
+  "ticker": "030000",
+  "name": "제일기획",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1039416635719,
+  "operating_profit": 58492131145,
+  "net_income": 28032881261,
+  "total_assets": 3125872954523,
+  "total_debt": 1726690074944,
+  "total_equity": 1399182879579,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 2.1028195982303766,
+  "operating_profit_yoy": 7.239459504895374,
+  "debt_ratio": 123.40703278641772,
+  "operating_margin": 5.627399940981221,
+  "net_margin": 2.6969821626540256,
+  "roe": 8.014072118845482,
+  "cached_at": "2025-06-09T16:03:27.112339"
+}

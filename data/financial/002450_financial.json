@@ -1,0 +1,23 @@
+{
+  "ticker": "002450",
+  "name": "삼익악기",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 75338170805,
+  "operating_profit": 6207647434,
+  "net_income": 4828056882,
+  "total_assets": 526620057782,
+  "total_debt": 255216315525,
+  "total_equity": 271403742257,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -3.5860208816380412,
+  "operating_profit_yoy": -36.858323590000495,
+  "net_income_yoy": -54.820802646179324,
+  "debt_ratio": 94.03566561117213,
+  "operating_margin": 8.239710849985244,
+  "net_margin": 6.408513546866702,
+  "roe": 7.115682107917546,
+  "cached_at": "2025-06-09T16:01:06.246549"
+}

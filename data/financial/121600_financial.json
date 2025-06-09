@@ -1,0 +1,23 @@
+{
+  "ticker": "121600",
+  "name": "나노신소재",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 22344734609,
+  "operating_profit": 293781115,
+  "net_income": 759697734,
+  "total_assets": 445956692020,
+  "total_debt": 201745053706,
+  "total_equity": 244211638314,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -0.09884987258984568,
+  "operating_profit_yoy": -83.24812898852947,
+  "net_income_yoy": -33.76356385362848,
+  "debt_ratio": 82.61074496646317,
+  "operating_margin": 1.3147666335749228,
+  "net_margin": 3.399895981284152,
+  "roe": 1.2443268293760896,
+  "cached_at": "2025-06-09T16:09:28.876174"
+}

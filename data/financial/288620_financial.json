@@ -1,0 +1,23 @@
+{
+  "ticker": "288620",
+  "name": "에스퓨얼셀",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 3740509783,
+  "operating_profit": -1432011696,
+  "net_income": -1848072419,
+  "total_assets": 117952432163,
+  "total_debt": 52348985786,
+  "total_equity": 65603446377,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -64.8957500765874,
+  "operating_profit_yoy": -222.5019712198358,
+  "net_income_yoy": -320.1403986625227,
+  "debt_ratio": 79.79609102419519,
+  "operating_margin": -38.28386447505784,
+  "net_margin": -49.40696659581494,
+  "roe": -11.268142276427222,
+  "cached_at": "2025-06-09T16:23:00.419873"
+}

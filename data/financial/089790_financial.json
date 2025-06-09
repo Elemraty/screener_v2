@@ -1,0 +1,22 @@
+{
+  "ticker": "089790",
+  "name": "제이티",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2867479221,
+  "operating_profit": -1823141153,
+  "net_income": -736177851,
+  "total_assets": 90609292640,
+  "total_debt": 26595093061,
+  "total_equity": 64014199579,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -64.88724453502243,
+  "net_income_yoy": -422.32529883216915,
+  "debt_ratio": 41.54561524772166,
+  "operating_margin": -63.57992551953701,
+  "net_margin": -25.673345620383138,
+  "roe": -4.600090953829592,
+  "cached_at": "2025-06-09T16:34:04.855466"
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "092870",
+  "name": "엑시콘",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1915509550,
+  "operating_profit": -5706704076,
+  "net_income": -1560573360,
+  "total_assets": 189805440001,
+  "total_debt": 15679086075,
+  "total_equity": 174126353926,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -73.19235399880671,
+  "debt_ratio": 9.004430243605329,
+  "operating_margin": -297.9209409840843,
+  "net_margin": -81.47040352787592,
+  "roe": -3.584921695800764,
+  "cached_at": "2025-06-09T16:24:08.937403"
+}

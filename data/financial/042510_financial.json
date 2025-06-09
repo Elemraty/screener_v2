@@ -1,0 +1,21 @@
+{
+  "ticker": "042510",
+  "name": "라온시큐어",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 10887832423,
+  "operating_profit": -3107111914,
+  "net_income": -2840699263,
+  "total_assets": 67962434717,
+  "total_debt": 20313062799,
+  "total_equity": 47649371918,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -3.93679052263628,
+  "debt_ratio": 42.630284474592514,
+  "operating_margin": -28.537470024211448,
+  "net_margin": -26.090585826791063,
+  "roe": -23.84668799318968,
+  "cached_at": "2025-06-09T16:13:05.947603"
+}

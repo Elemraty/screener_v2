@@ -1,0 +1,21 @@
+{
+  "ticker": "064240",
+  "name": "홈캐스트",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 8600119485,
+  "operating_profit": -3142838681,
+  "net_income": -2455198680,
+  "total_assets": 112035421312,
+  "total_debt": 18100673961,
+  "total_equity": 93934747351,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -57.55632893865539,
+  "debt_ratio": 19.26941251394903,
+  "operating_margin": -36.54412809591331,
+  "net_margin": -28.548425219931694,
+  "roe": -10.454911517782936,
+  "cached_at": "2025-06-09T16:41:49.962611"
+}

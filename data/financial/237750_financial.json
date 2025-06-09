@@ -1,0 +1,23 @@
+{
+  "ticker": "237750",
+  "name": "피앤씨테크",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 6405887095,
+  "operating_profit": -518369835,
+  "net_income": -194687240,
+  "total_assets": 86114142206,
+  "total_debt": 19238458341,
+  "total_equity": 66875683865,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -7.9568988642379495,
+  "operating_profit_yoy": -160.43639667252535,
+  "net_income_yoy": -123.67987038217328,
+  "debt_ratio": 28.76749399652663,
+  "operating_margin": -8.09208509785638,
+  "net_margin": -3.039192497662964,
+  "roe": -1.164472518250487,
+  "cached_at": "2025-06-09T16:39:27.417682"
+}

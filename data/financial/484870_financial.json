@@ -1,0 +1,13 @@
+{
+  "ticker": "484870",
+  "name": "엠앤씨솔루션",
+  "market": "KOSPI",
+  "bps": 18067,
+  "per": 38.35,
+  "eps": 3361,
+  "pbr": 7.13,
+  "roe": 18.60297780483755,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:02:24.112183"
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "200230",
+  "name": "텔콘RF제약",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 9984031480,
+  "operating_profit": -1502244335,
+  "net_income": -14603102478,
+  "total_assets": 139788862811,
+  "total_debt": 71269770436,
+  "total_equity": 68519092375,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 24.234520029643548,
+  "debt_ratio": 104.0144694940583,
+  "operating_margin": -15.046470336249381,
+  "net_margin": -146.26458767936498,
+  "roe": -85.24983021128351,
+  "cached_at": "2025-06-09T16:37:23.155679"
+}

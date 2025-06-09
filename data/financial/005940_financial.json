@@ -1,0 +1,20 @@
+{
+  "ticker": "005940",
+  "name": "NH투자증권",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 0,
+  "operating_profit": 289044000000,
+  "net_income": 208172000000,
+  "total_assets": 68070349000000,
+  "total_debt": 60087498000000,
+  "total_equity": 7982851000000,
+  "data_source": "f_data_financial",
+  "operating_profit_yoy": 4.397386489639499,
+  "net_income_yoy": -7.6646026648687915,
+  "debt_ratio": 752.7072470725058,
+  "roe": 10.430960066773137,
+  "cached_at": "2025-06-09T15:57:08.206574"
+}

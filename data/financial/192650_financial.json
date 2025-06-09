@@ -1,0 +1,23 @@
+{
+  "ticker": "192650",
+  "name": "드림텍",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 341185439061,
+  "operating_profit": 9940398071,
+  "net_income": 5570592892,
+  "total_assets": 930427504683,
+  "total_debt": 432282715710,
+  "total_equity": 498144788973,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 20.088970984815013,
+  "operating_profit_yoy": -16.84178192889775,
+  "net_income_yoy": -51.586878190492214,
+  "debt_ratio": 86.77852810650002,
+  "operating_margin": 2.913488365258979,
+  "net_margin": 1.6327170665111654,
+  "roe": 4.47307129598574,
+  "cached_at": "2025-06-09T15:59:39.475271"
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "117670",
+  "name": "알파칩스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 20099868854,
+  "operating_profit": -1374928172,
+  "net_income": -447594406,
+  "total_assets": 64902581161,
+  "total_debt": 24959159066,
+  "total_equity": 39943422095,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -9.730435544448957,
+  "debt_ratio": 62.48628123709089,
+  "operating_margin": -6.840483298608094,
+  "net_margin": -2.2268523702876095,
+  "roe": -4.48228401598098,
+  "cached_at": "2025-06-09T16:21:59.128945"
+}

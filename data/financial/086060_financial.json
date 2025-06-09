@@ -1,0 +1,23 @@
+{
+  "ticker": "086060",
+  "name": "진바이오텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 22846446210,
+  "operating_profit": 748552993,
+  "net_income": 765098481,
+  "total_assets": 72679473092,
+  "total_debt": 20947770166,
+  "total_equity": 51731702926,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 13.370250968069076,
+  "operating_profit_yoy": -30.084454633597513,
+  "net_income_yoy": 9.325217824284593,
+  "debt_ratio": 40.49309993905458,
+  "operating_margin": 3.276452653158611,
+  "net_margin": 3.348873054335745,
+  "roe": 5.9158963476956545,
+  "cached_at": "2025-06-09T16:34:45.257412"
+}

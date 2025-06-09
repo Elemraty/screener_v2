@@ -1,0 +1,23 @@
+{
+  "ticker": "106240",
+  "name": "파인테크닉스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 11390422209,
+  "operating_profit": -804817404,
+  "net_income": -2045739241,
+  "total_assets": 144637593991,
+  "total_debt": 60733781806,
+  "total_equity": 83903812185,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -26.019999739371436,
+  "operating_profit_yoy": -467.05952116780054,
+  "net_income_yoy": -467.47833079853535,
+  "debt_ratio": 72.3850087670483,
+  "operating_margin": -7.065738119558761,
+  "net_margin": -17.960170426198818,
+  "roe": -9.752783277543278,
+  "cached_at": "2025-06-09T16:38:17.745366"
+}

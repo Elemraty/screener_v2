@@ -1,0 +1,23 @@
+{
+  "ticker": "109070",
+  "name": "주성코퍼레이션",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 19798579857,
+  "operating_profit": 977529717,
+  "net_income": 1265661819,
+  "total_assets": 37967913826,
+  "total_debt": 9824936836,
+  "total_equity": 28142976990,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 87.59499417792753,
+  "operating_profit_yoy": 76.52961557529629,
+  "net_income_yoy": 16.593791981928874,
+  "debt_ratio": 34.91079440348858,
+  "operating_margin": 4.937372902806379,
+  "net_margin": 6.392689920901128,
+  "roe": 17.989025389172234,
+  "cached_at": "2025-06-09T16:03:38.297247"
+}

@@ -1,0 +1,20 @@
+{
+  "ticker": "107640",
+  "name": "한중엔시에스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 33103776635,
+  "operating_profit": -627234584,
+  "net_income": -956286858,
+  "total_assets": 160169773449,
+  "total_debt": 80645074013,
+  "total_equity": 79524699436,
+  "data_source": "f_data_financial",
+  "debt_ratio": 101.40883849287812,
+  "operating_margin": -1.8947523447727612,
+  "net_margin": -2.888754562791896,
+  "roe": -4.810011806556286,
+  "cached_at": "2025-06-09T16:41:15.905836"
+}

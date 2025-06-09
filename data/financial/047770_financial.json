@@ -1,0 +1,23 @@
+{
+  "ticker": "047770",
+  "name": "코데즈컴바인",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 8338499489,
+  "operating_profit": 440473798,
+  "net_income": 1562631475,
+  "total_assets": 89376395438,
+  "total_debt": 19979960398,
+  "total_equity": 69396435040,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -8.208413010829085,
+  "operating_profit_yoy": -23.260873891542133,
+  "net_income_yoy": 65.99241599475589,
+  "debt_ratio": 28.791047243973818,
+  "operating_margin": 5.282410805218196,
+  "net_margin": 18.73996007388854,
+  "roe": 9.006984143201603,
+  "cached_at": "2025-06-09T16:35:56.068930"
+}

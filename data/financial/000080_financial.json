@@ -1,0 +1,23 @@
+{
+  "ticker": "000080",
+  "name": "하이트진로",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 612776901672,
+  "operating_profit": 62725468488,
+  "net_income": 37995478105,
+  "total_assets": 3487990860408,
+  "total_debt": 2346520746950,
+  "total_equity": 1141470113458,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -1.347899111662354,
+  "operating_profit_yoy": 29.72682570617664,
+  "net_income_yoy": 45.227435952810914,
+  "debt_ratio": 205.5700556049941,
+  "operating_margin": 10.2362651589591,
+  "net_margin": 6.200540196819914,
+  "roe": 13.314576582262145,
+  "cached_at": "2025-06-09T16:04:41.739732"
+}

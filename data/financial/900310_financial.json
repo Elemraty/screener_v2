@@ -1,0 +1,21 @@
+{
+  "ticker": "900310",
+  "name": "컬러레이",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 60123981,
+  "operating_profit": 4134566,
+  "net_income": 1753837,
+  "total_assets": 1661131562,
+  "total_debt": 286939216,
+  "total_equity": 1374192346,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 47.9087282512058,
+  "debt_ratio": 20.880571547005257,
+  "operating_margin": 6.876733594869575,
+  "net_margin": 2.917034053350526,
+  "roe": 0.5105069912825726,
+  "cached_at": "2025-06-09T16:35:12.502699"
+}

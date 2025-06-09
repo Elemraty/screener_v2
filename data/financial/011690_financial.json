@@ -1,0 +1,23 @@
+{
+  "ticker": "011690",
+  "name": "와이투솔루션",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 38067907154,
+  "operating_profit": 932564530,
+  "net_income": 781827142,
+  "total_assets": 133844080538,
+  "total_debt": 24898018954,
+  "total_equity": 108946061584,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -6.253199650367803,
+  "operating_profit_yoy": 1.6889650756171326,
+  "net_income_yoy": -77.1526738079018,
+  "debt_ratio": 22.85352824324268,
+  "operating_margin": 2.4497394254625067,
+  "net_margin": 2.0537696985473737,
+  "roe": 2.8705108955120613,
+  "cached_at": "2025-06-09T16:02:32.483589"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "004000",
+  "name": "롯데정밀화학",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 445589676645,
+  "operating_profit": 18778918213,
+  "net_income": 28385551325,
+  "total_assets": 2780519548397,
+  "total_debt": 418569951573,
+  "total_equity": 2361949596824,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 11.55243526374421,
+  "operating_profit_yoy": 74.32472987194902,
+  "net_income_yoy": -65.97444281572864,
+  "debt_ratio": 17.721375262868897,
+  "operating_margin": 4.214397055693261,
+  "net_margin": 6.370334146590808,
+  "roe": 4.807139214684121,
+  "cached_at": "2025-06-09T15:59:55.834265"
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "111110",
+  "name": "호전실업",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 104759374703,
+  "operating_profit": 4400144963,
+  "net_income": 967521006,
+  "total_assets": 435602656125,
+  "total_debt": 261538600507,
+  "total_equity": 174064055618,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 30.216064916100493,
+  "debt_ratio": 150.2542265710338,
+  "operating_margin": 4.200239811925865,
+  "net_margin": 0.923565083070597,
+  "roe": 2.2233677195786274,
+  "cached_at": "2025-06-09T16:05:51.745855"
+}

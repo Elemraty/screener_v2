@@ -1,0 +1,21 @@
+{
+  "ticker": "199730",
+  "name": "바이오인프라",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 5441320360,
+  "operating_profit": -2206678460,
+  "net_income": -1739602886,
+  "total_assets": 41080132831,
+  "total_debt": 17197194812,
+  "total_equity": 23882938019,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 8.344820432144239,
+  "debt_ratio": 72.00619454071699,
+  "operating_margin": -40.55409926277525,
+  "net_margin": -31.970234628861295,
+  "roe": -29.135492201437934,
+  "cached_at": "2025-06-09T16:15:12.411345"
+}

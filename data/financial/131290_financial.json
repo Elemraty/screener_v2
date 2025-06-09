@@ -1,0 +1,22 @@
+{
+  "ticker": "131290",
+  "name": "티에스이",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 83031456232,
+  "operating_profit": 3117519357,
+  "net_income": 1791733829,
+  "total_assets": 514933423710,
+  "total_debt": 119512716616,
+  "total_equity": 395420707094,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 42.639151500038544,
+  "net_income_yoy": 1054.2349373187599,
+  "debt_ratio": 30.2241927324229,
+  "operating_margin": 3.754624450147269,
+  "net_margin": 2.1578976333905038,
+  "roe": 1.8124835617918882,
+  "cached_at": "2025-06-09T16:37:47.169632"
+}

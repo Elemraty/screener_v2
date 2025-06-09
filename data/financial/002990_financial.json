@@ -1,0 +1,22 @@
+{
+  "ticker": "002990",
+  "name": "금호건설",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 468047854087,
+  "operating_profit": 5738142313,
+  "net_income": 780425788,
+  "total_assets": 1631470770378,
+  "total_debt": 1413487255696,
+  "total_equity": 217983514682,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -5.347461205408399,
+  "operating_profit_yoy": 280.93927957170683,
+  "debt_ratio": 648.4376847295227,
+  "operating_margin": 1.2259734261987243,
+  "net_margin": 0.16674059739518338,
+  "roe": 1.4320822180310384,
+  "cached_at": "2025-06-09T15:58:15.869462"
+}

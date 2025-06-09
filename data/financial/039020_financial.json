@@ -1,0 +1,21 @@
+{
+  "ticker": "039020",
+  "name": "이건홀딩스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 123379058631,
+  "operating_profit": 4119462675,
+  "net_income": 863006936,
+  "total_assets": 787253839312,
+  "total_debt": 423177114765,
+  "total_equity": 364076724547,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 11.494380786796432,
+  "debt_ratio": 116.23294932998951,
+  "operating_margin": 3.338867001182445,
+  "net_margin": 0.6994760258149372,
+  "roe": 0.948159415654808,
+  "cached_at": "2025-06-09T16:31:54.364073"
+}

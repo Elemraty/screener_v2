@@ -1,0 +1,23 @@
+{
+  "ticker": "034810",
+  "name": "해성산업",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 545503215173,
+  "operating_profit": 6514116718,
+  "net_income": 4520114495,
+  "total_assets": 2608034936840,
+  "total_debt": 1271624849305,
+  "total_equity": 1336410087535,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -2.449611926256212,
+  "operating_profit_yoy": -81.44881680866092,
+  "net_income_yoy": -80.43022797765822,
+  "debt_ratio": 95.15229353367903,
+  "operating_margin": 1.194148180397823,
+  "net_margin": 0.8286137220229762,
+  "roe": 1.3529124142836493,
+  "cached_at": "2025-06-09T16:41:24.781139"
+}

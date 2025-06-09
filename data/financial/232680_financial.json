@@ -1,0 +1,23 @@
+{
+  "ticker": "232680",
+  "name": "라온테크",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 12182829313,
+  "operating_profit": 5673919,
+  "net_income": -78072848,
+  "total_assets": 61584958764,
+  "total_debt": 29823809645,
+  "total_equity": 31761149119,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 43.43445945046547,
+  "operating_profit_yoy": -91.16756454257364,
+  "net_income_yoy": -128.6782855414362,
+  "debt_ratio": 93.90028532424523,
+  "operating_margin": 0.04657308129520865,
+  "net_margin": -0.6408433213185575,
+  "roe": -0.9832496640154074,
+  "cached_at": "2025-06-09T16:13:06.891712"
+}

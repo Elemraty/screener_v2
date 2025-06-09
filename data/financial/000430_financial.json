@@ -1,0 +1,23 @@
+{
+  "ticker": "000430",
+  "name": "대원강업",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 381958890000,
+  "operating_profit": 18385233000,
+  "net_income": 15475017000,
+  "total_assets": 1351741131000,
+  "total_debt": 661849589000,
+  "total_equity": 689891542000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 34.32012078856657,
+  "operating_profit_yoy": 9.197467475298504,
+  "net_income_yoy": 17.190167508084375,
+  "debt_ratio": 95.93530993020929,
+  "operating_margin": 4.813406228089102,
+  "net_margin": 4.051487582865266,
+  "roe": 8.97243468452321,
+  "cached_at": "2025-06-09T15:58:57.799384"
+}

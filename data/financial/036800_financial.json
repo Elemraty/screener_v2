@@ -1,0 +1,23 @@
+{
+  "ticker": "036800",
+  "name": "나이스정보통신",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 257406981809,
+  "operating_profit": 9650346291,
+  "net_income": 8789547207,
+  "total_assets": 1169696910474,
+  "total_debt": 782684726308,
+  "total_equity": 387012184166,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 9.816104290185358,
+  "operating_profit_yoy": 19.139198963594417,
+  "net_income_yoy": -27.272913503225883,
+  "debt_ratio": 202.23774814600807,
+  "operating_margin": 3.749061592338901,
+  "net_margin": 3.414649884486032,
+  "roe": 9.08451730111931,
+  "cached_at": "2025-06-09T16:09:48.449133"
+}

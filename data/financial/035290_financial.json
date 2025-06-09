@@ -1,0 +1,21 @@
+{
+  "ticker": "035290",
+  "name": "골드앤에스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2204847076,
+  "operating_profit": -589557128,
+  "net_income": -464985011,
+  "total_assets": 16042127391,
+  "total_debt": 3535377479,
+  "total_equity": 12506749912,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -23.51672223847211,
+  "debt_ratio": 28.267755443065745,
+  "operating_margin": -26.7391391637721,
+  "net_margin": -21.08921820753069,
+  "roe": -14.871489852175113,
+  "cached_at": "2025-06-09T16:08:45.762311"
+}

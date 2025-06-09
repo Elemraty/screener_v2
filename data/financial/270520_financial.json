@@ -1,0 +1,21 @@
+{
+  "ticker": "270520",
+  "name": "앱트뉴로사이언스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 6568009576,
+  "operating_profit": -2494827575,
+  "net_income": 9373124021,
+  "total_assets": 217975229768,
+  "total_debt": 127549078222,
+  "total_equity": 90426151546,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 34.86850963412811,
+  "debt_ratio": 141.05330818719568,
+  "operating_margin": -37.98453010964368,
+  "net_margin": 142.70874475046594,
+  "roe": 41.46200567313481,
+  "cached_at": "2025-06-09T16:22:11.335275"
+}

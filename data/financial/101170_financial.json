@@ -1,0 +1,23 @@
+{
+  "ticker": "101170",
+  "name": "우림피티에스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 13718238019,
+  "operating_profit": 201755801,
+  "net_income": 635392190,
+  "total_assets": 96079053181,
+  "total_debt": 15396864404,
+  "total_equity": 80682188777,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -34.98501051325253,
+  "operating_profit_yoy": -85.64415118831592,
+  "net_income_yoy": -61.550182634701954,
+  "debt_ratio": 19.0833499157489,
+  "operating_margin": 1.470712206046904,
+  "net_margin": 4.631733238043914,
+  "roe": 3.1500989233506305,
+  "cached_at": "2025-06-09T16:30:07.725434"
+}

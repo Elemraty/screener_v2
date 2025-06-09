@@ -1,0 +1,13 @@
+{
+  "ticker": "310200",
+  "name": "애니플러스",
+  "market": "KOSDAQ",
+  "bps": 2536,
+  "per": 10.07,
+  "eps": 352,
+  "pbr": 1.4,
+  "roe": 13.880126182965299,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:22:02.639066"
+}

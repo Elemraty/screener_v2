@@ -1,0 +1,23 @@
+{
+  "ticker": "023410",
+  "name": "유진기업",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 283416960624,
+  "operating_profit": -8965788536,
+  "net_income": 8204346233,
+  "total_assets": 2367579516128,
+  "total_debt": 1304641132863,
+  "total_equity": 1062938383265,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -15.394286073484986,
+  "operating_profit_yoy": -212.71022510170417,
+  "net_income_yoy": -40.165934256955346,
+  "debt_ratio": 122.7391120128307,
+  "operating_margin": -3.163462241730345,
+  "net_margin": 2.8947971973647824,
+  "roe": 3.0874211947446755,
+  "cached_at": "2025-06-09T16:31:39.157665"
+}

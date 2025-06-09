@@ -1,0 +1,21 @@
+{
+  "ticker": "073540",
+  "name": "에프알텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 9193039440,
+  "operating_profit": 643511764,
+  "net_income": 1528976436,
+  "total_assets": 74727613937,
+  "total_debt": 14342246387,
+  "total_equity": 60385367550,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -99.84172244724998,
+  "debt_ratio": 23.751194981341136,
+  "operating_margin": 6.999989157013776,
+  "net_margin": 16.631892487562308,
+  "roe": 10.12812539219197,
+  "cached_at": "2025-06-09T16:23:54.974207"
+}

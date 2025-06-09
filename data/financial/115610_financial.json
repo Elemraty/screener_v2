@@ -1,0 +1,21 @@
+{
+  "ticker": "115610",
+  "name": "이미지스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 3275805462,
+  "operating_profit": -629500749,
+  "net_income": -93096616,
+  "total_assets": 13913744643,
+  "total_debt": 7984851957,
+  "total_equity": 5928892686,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -25.78866200905535,
+  "debt_ratio": 134.67695200243332,
+  "operating_margin": -19.21667071815878,
+  "net_margin": -2.8419458078307582,
+  "roe": -6.280877116891031,
+  "cached_at": "2025-06-09T16:32:15.291475"
+}

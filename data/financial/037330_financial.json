@@ -1,0 +1,23 @@
+{
+  "ticker": "037330",
+  "name": "인지디스플레",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 193001766141,
+  "operating_profit": 6063500364,
+  "net_income": 3485095098,
+  "total_assets": 517494818081,
+  "total_debt": 293965965551,
+  "total_equity": 223528852530,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 7.950584430188523,
+  "operating_profit_yoy": 150.66311910322437,
+  "net_income_yoy": 47.10897805621028,
+  "debt_ratio": 131.51141887222212,
+  "operating_margin": 3.1416812836677512,
+  "net_margin": 1.8057322312034791,
+  "roe": 6.236501567567905,
+  "cached_at": "2025-06-09T16:32:56.210337"
+}

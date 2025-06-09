@@ -1,0 +1,21 @@
+{
+  "ticker": "183490",
+  "name": "엔지켐생명과학",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 20782908770,
+  "operating_profit": -2560933473,
+  "net_income": -1827683337,
+  "total_assets": 176605835983,
+  "total_debt": 18978412963,
+  "total_equity": 157627423020,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -6.5699516452750295,
+  "debt_ratio": 12.040045189720567,
+  "operating_margin": -12.322305319920817,
+  "net_margin": -8.794165230798923,
+  "roe": -4.6379831681143475,
+  "cached_at": "2025-06-09T16:24:29.774782"
+}

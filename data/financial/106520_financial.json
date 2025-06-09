@@ -1,0 +1,21 @@
+{
+  "ticker": "106520",
+  "name": "노블엠앤비",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 945987592,
+  "operating_profit": -879617854,
+  "net_income": 826913268,
+  "total_assets": 20888187681,
+  "total_debt": 17978926117,
+  "total_equity": 2909261564,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 42.83263114471585,
+  "debt_ratio": 617.9893323954147,
+  "operating_margin": -92.98407943600174,
+  "net_margin": 87.41269705787008,
+  "roe": 113.69390476709987,
+  "cached_at": "2025-06-09T16:10:25.672727"
+}

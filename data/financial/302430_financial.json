@@ -1,0 +1,13 @@
+{
+  "ticker": "302430",
+  "name": "이노메트리",
+  "market": "KOSDAQ",
+  "bps": 6488,
+  "per": 0.0,
+  "eps": 0,
+  "pbr": 1.28,
+  "roe": 0.0,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:31:59.013681"
+}

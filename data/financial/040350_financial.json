@@ -1,0 +1,21 @@
+{
+  "ticker": "040350",
+  "name": "크레오에스지",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2016675592,
+  "operating_profit": -2007198086,
+  "net_income": -3016428475,
+  "total_assets": 88919784647,
+  "total_debt": 41403611057,
+  "total_equity": 47516173590,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 6.586600801414089,
+  "debt_ratio": 87.1358275063495,
+  "operating_margin": -99.53004310472163,
+  "net_margin": -149.57430371875103,
+  "roe": -25.39285676517371,
+  "cached_at": "2025-06-09T16:36:48.570568"
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "260930",
+  "name": "씨티케이",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 19664086051,
+  "operating_profit": 368690906,
+  "net_income": -176591896,
+  "total_assets": 212483916456,
+  "total_debt": 57442911756,
+  "total_equity": 155041004700,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 7.022164858317126,
+  "debt_ratio": 37.05014158489905,
+  "operating_margin": 1.874945548162156,
+  "net_margin": -0.898042734058416,
+  "roe": -0.45560049444132633,
+  "cached_at": "2025-06-09T16:20:32.655699"
+}

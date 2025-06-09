@@ -1,0 +1,21 @@
+{
+  "ticker": "089230",
+  "name": "THE E&M",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 4525368831,
+  "operating_profit": -1741447918,
+  "net_income": -3755461870,
+  "total_assets": 73481574412,
+  "total_debt": 44531547643,
+  "total_equity": 28950026769,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -29.591979678077173,
+  "debt_ratio": 153.82212941745829,
+  "operating_margin": -38.48190021707426,
+  "net_margin": -82.98686825865045,
+  "roe": -51.888889775002056,
+  "cached_at": "2025-06-09T16:08:16.981885"
+}

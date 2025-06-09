@@ -1,0 +1,23 @@
+{
+  "ticker": "036030",
+  "name": "케이티알파",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 96546681906,
+  "operating_profit": 12242308806,
+  "net_income": 10817102974,
+  "total_assets": 450884084338,
+  "total_debt": 179515868765,
+  "total_equity": 271368215573,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -9.31485760784414,
+  "operating_profit_yoy": 41.278533619543126,
+  "net_income_yoy": 31.36090587881959,
+  "debt_ratio": 66.15213516658474,
+  "operating_margin": 12.68019631986875,
+  "net_margin": 11.204013188699506,
+  "roe": 15.944539342840056,
+  "cached_at": "2025-06-09T16:35:43.489469"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "950140",
+  "name": "잉글우드랩",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 29277868,
+  "operating_profit": 3147956,
+  "net_income": 0,
+  "total_assets": 141768960,
+  "total_debt": 43022578,
+  "total_equity": 98746382,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -26.035778502961747,
+  "operating_profit_yoy": -36.86721433318774,
+  "net_income_yoy": -100.0,
+  "debt_ratio": 43.56876386620423,
+  "operating_margin": 10.751998745263828,
+  "net_margin": 0.0,
+  "roe": 0.0,
+  "cached_at": "2025-06-09T16:33:20.900580"
+}

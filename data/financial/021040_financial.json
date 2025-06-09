@@ -1,0 +1,23 @@
+{
+  "ticker": "021040",
+  "name": "대호특수강",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 68334956955,
+  "operating_profit": 635227654,
+  "net_income": -635365227,
+  "total_assets": 175039849682,
+  "total_debt": 134702163385,
+  "total_equity": 40337686297,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -11.04657096588656,
+  "operating_profit_yoy": -71.11732169976361,
+  "net_income_yoy": -350.3246359095041,
+  "debt_ratio": 333.93626593555535,
+  "operating_margin": 0.9295793577777633,
+  "net_margin": -0.9297806793357627,
+  "roe": -6.300462771433208,
+  "cached_at": "2025-06-09T16:11:31.510132"
+}

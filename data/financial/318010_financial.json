@@ -1,0 +1,13 @@
+{
+  "ticker": "318010",
+  "name": "팜스빌",
+  "market": "KOSDAQ",
+  "bps": 8349,
+  "per": 17.85,
+  "eps": 205,
+  "pbr": 0.44,
+  "roe": 2.4553838783087794,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:38:23.966647"
+}

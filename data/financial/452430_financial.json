@@ -1,0 +1,13 @@
+{
+  "ticker": "452430",
+  "name": "사피엔반도체",
+  "market": "KOSDAQ",
+  "bps": 2032,
+  "per": 0.0,
+  "eps": 0,
+  "pbr": 10.53,
+  "roe": 0.0,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:16:32.586156"
+}

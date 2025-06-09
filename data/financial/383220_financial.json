@@ -1,0 +1,13 @@
+{
+  "ticker": "383220",
+  "name": "F&F",
+  "market": "KOSPI",
+  "bps": 41565,
+  "per": 7.94,
+  "eps": 9504,
+  "pbr": 1.82,
+  "roe": 22.865391555395163,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T15:56:03.736792"
+}

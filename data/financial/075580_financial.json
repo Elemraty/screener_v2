@@ -1,0 +1,23 @@
+{
+  "ticker": "075580",
+  "name": "세진중공업",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 98495969479,
+  "operating_profit": 17800868936,
+  "net_income": 13181259716,
+  "total_assets": 630064894235,
+  "total_debt": 378690251264,
+  "total_equity": 251374642971,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 14.426005911427865,
+  "operating_profit_yoy": 317.92482964181124,
+  "net_income_yoy": 406.3226328260291,
+  "debt_ratio": 150.6477530065305,
+  "operating_margin": 18.072687674590853,
+  "net_margin": 13.382537159360956,
+  "roe": 20.974684733846708,
+  "cached_at": "2025-06-09T16:01:33.013365"
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "101390",
+  "name": "아이엠",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 21740163607,
+  "operating_profit": -4407402251,
+  "net_income": -5374158415,
+  "total_assets": 64615669370,
+  "total_debt": 55608022474,
+  "total_equity": 9007646896,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -33.70889253185063,
+  "debt_ratio": 617.3423882622852,
+  "operating_margin": -20.273086857455315,
+  "net_margin": -24.719953870400513,
+  "roe": -238.6487160097933,
+  "cached_at": "2025-06-09T16:21:15.555421"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "263770",
+  "name": "유에스티",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 14199487681,
+  "operating_profit": 830233308,
+  "net_income": 855284647,
+  "total_assets": 88737525796,
+  "total_debt": 7415186767,
+  "total_equity": 81322339029,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -29.20032102829574,
+  "operating_profit_yoy": -42.519274393096296,
+  "net_income_yoy": -29.451912819891334,
+  "debt_ratio": 9.118265479741924,
+  "operating_margin": 5.846924386651749,
+  "net_margin": 6.023348632109004,
+  "roe": 4.206886605634896,
+  "cached_at": "2025-06-09T16:31:34.921018"
+}

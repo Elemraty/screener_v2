@@ -1,0 +1,23 @@
+{
+  "ticker": "102460",
+  "name": "이연제약",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 36757775406,
+  "operating_profit": -3806550201,
+  "net_income": 216092839,
+  "total_assets": 489690949391,
+  "total_debt": 239606533154,
+  "total_equity": 250084416237,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -0.6940424285512004,
+  "operating_profit_yoy": -391.7065710028458,
+  "net_income_yoy": -33.74827266886861,
+  "debt_ratio": 95.81026149463455,
+  "operating_margin": -10.355768701874853,
+  "net_margin": 0.5878833433557761,
+  "roe": 0.3456318346445276,
+  "cached_at": "2025-06-09T16:03:00.368681"
+}

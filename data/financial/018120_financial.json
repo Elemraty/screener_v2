@@ -1,0 +1,23 @@
+{
+  "ticker": "018120",
+  "name": "진로발효",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 26459554830,
+  "operating_profit": 4328853068,
+  "net_income": 4041032241,
+  "total_assets": 107183557307,
+  "total_debt": 21840943640,
+  "total_equity": 85342613667,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 4.721634335599223,
+  "operating_profit_yoy": 62.491192014059706,
+  "net_income_yoy": 60.44082384135876,
+  "debt_ratio": 25.59207259016182,
+  "operating_margin": 16.36026416851096,
+  "net_margin": 15.272487639959284,
+  "roe": 18.940278800308516,
+  "cached_at": "2025-06-09T16:34:43.200889"
+}

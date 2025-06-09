@@ -1,0 +1,21 @@
+{
+  "ticker": "005690",
+  "name": "파미셀",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 27029679934,
+  "operating_profit": 8380213999,
+  "net_income": 8456243327,
+  "total_assets": 106027884448,
+  "total_debt": 12319366901,
+  "total_equity": 93708517547,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 146.322825008446,
+  "debt_ratio": 13.14647507343306,
+  "operating_margin": 31.003748544054073,
+  "net_margin": 31.285029447807446,
+  "roe": 36.095943243403575,
+  "cached_at": "2025-06-09T16:04:28.471090"
+}

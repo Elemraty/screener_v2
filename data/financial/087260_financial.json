@@ -1,0 +1,21 @@
+{
+  "ticker": "087260",
+  "name": "모바일어플라이언스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 8392288867,
+  "operating_profit": -29777008,
+  "net_income": 380609836,
+  "total_assets": 69817719495,
+  "total_debt": 20304663018,
+  "total_equity": 49513056477,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 25.016204131392115,
+  "debt_ratio": 41.00870449682702,
+  "operating_margin": -0.3548139068125811,
+  "net_margin": 4.535232783712043,
+  "roe": 3.074824000629429,
+  "cached_at": "2025-06-09T16:14:22.067100"
+}

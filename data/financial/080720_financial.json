@@ -1,0 +1,21 @@
+{
+  "ticker": "080720",
+  "name": "한국유니온제약",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 12617410208,
+  "operating_profit": -1778708405,
+  "net_income": -2560845553,
+  "total_assets": 70895413064,
+  "total_debt": 65210121462,
+  "total_equity": 5685291602,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -23.682011674445302,
+  "debt_ratio": 1146.9969533147616,
+  "operating_margin": -14.0972543150909,
+  "net_margin": -20.29612662808022,
+  "roe": -180.17338298701392,
+  "cached_at": "2025-06-09T16:40:33.206188"
+}

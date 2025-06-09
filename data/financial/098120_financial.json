@@ -1,0 +1,23 @@
+{
+  "ticker": "098120",
+  "name": "마이크로컨텍솔",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 25319907339,
+  "operating_profit": 4982792319,
+  "net_income": 4454649480,
+  "total_assets": 82154577752,
+  "total_debt": 13306449490,
+  "total_equity": 68848128262,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 76.96676241319014,
+  "operating_profit_yoy": 149.9890254106831,
+  "net_income_yoy": 108.14319531328631,
+  "debt_ratio": 19.327249448761492,
+  "operating_margin": 19.679346580092158,
+  "net_margin": 17.593466754669155,
+  "roe": 25.881020108770024,
+  "cached_at": "2025-06-09T16:13:52.604908"
+}

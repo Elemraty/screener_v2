@@ -1,0 +1,21 @@
+{
+  "ticker": "001140",
+  "name": "국보",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1410656559,
+  "operating_profit": -2022279461,
+  "net_income": -4763895625,
+  "total_assets": 70302398003,
+  "total_debt": 65259178938,
+  "total_equity": 5043219065,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -87.3411609777432,
+  "debt_ratio": 1293.998497723398,
+  "operating_margin": -143.35732167392842,
+  "net_margin": -337.70768615552157,
+  "roe": -377.8456230911318,
+  "cached_at": "2025-06-09T15:58:10.625974"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "126640",
+  "name": "화신정공",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 88329044467,
+  "operating_profit": 1849008699,
+  "net_income": 2071330812,
+  "total_assets": 175948785491,
+  "total_debt": 67337473714,
+  "total_equity": 108611311777,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 11.291397365664402,
+  "operating_profit_yoy": 72.21567477679025,
+  "net_income_yoy": 62.38006057519492,
+  "debt_ratio": 61.99858247938008,
+  "operating_margin": 2.0933190324398847,
+  "net_margin": 2.345016664109681,
+  "roe": 7.628416517987895,
+  "cached_at": "2025-06-09T16:41:52.098374"
+}

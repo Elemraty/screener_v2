@@ -1,0 +1,13 @@
+{
+  "ticker": "464500",
+  "name": "아이언디바이스",
+  "market": "KOSDAQ",
+  "bps": 2232,
+  "per": 0.0,
+  "eps": 0,
+  "pbr": 1.54,
+  "roe": 0.0,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:21:10.902615"
+}

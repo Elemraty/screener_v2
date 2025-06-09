@@ -1,0 +1,21 @@
+{
+  "ticker": "137080",
+  "name": "나래나노텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 8327163307,
+  "operating_profit": -4313910099,
+  "net_income": -4024501980,
+  "total_assets": 161068349568,
+  "total_debt": 88697863225,
+  "total_equity": 72370486343,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 196.93691191491013,
+  "debt_ratio": 122.56082238361144,
+  "operating_margin": -51.80527797952072,
+  "net_margin": -48.32980730204863,
+  "roe": -22.243885226504453,
+  "cached_at": "2025-06-09T16:09:39.537885"
+}

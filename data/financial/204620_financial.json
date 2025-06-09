@@ -1,0 +1,22 @@
+{
+  "ticker": "204620",
+  "name": "글로벌텍스프리",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 34286266580,
+  "operating_profit": 5085250689,
+  "net_income": 5638133818,
+  "total_assets": 176250384913,
+  "total_debt": 44027475991,
+  "total_equity": 132222908922,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 9.39421452772784,
+  "operating_profit_yoy": 108.92682958149962,
+  "debt_ratio": 33.29791815196894,
+  "operating_margin": 14.83174225789386,
+  "net_margin": 16.44429207491742,
+  "roe": 17.05645069819484,
+  "cached_at": "2025-06-09T16:09:15.121463"
+}

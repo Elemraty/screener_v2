@@ -1,0 +1,23 @@
+{
+  "ticker": "001800",
+  "name": "오리온홀딩스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 812997839153,
+  "operating_profit": 116387279224,
+  "net_income": 96730734683,
+  "total_assets": 5920629406149,
+  "total_debt": 1010036489784,
+  "total_equity": 4910592916365,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 0.2523054641454081,
+  "operating_profit_yoy": -10.72775086718104,
+  "net_income_yoy": -13.79682448548768,
+  "debt_ratio": 20.568524147419367,
+  "operating_margin": 14.315816551893295,
+  "net_margin": 11.898030969402862,
+  "roe": 7.879352764969459,
+  "cached_at": "2025-06-09T16:02:31.207062"
+}

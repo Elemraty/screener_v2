@@ -1,0 +1,23 @@
+{
+  "ticker": "001780",
+  "name": "알루코",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 168889295913,
+  "operating_profit": 16123409711,
+  "net_income": 11384811586,
+  "total_assets": 1006605016429,
+  "total_debt": 603769846814,
+  "total_equity": 402835169615,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 12.700974236648133,
+  "operating_profit_yoy": 12.238516397603272,
+  "net_income_yoy": -9.084195485578883,
+  "debt_ratio": 149.88012277851473,
+  "operating_margin": 9.54673274220153,
+  "net_margin": 6.7409906142688065,
+  "roe": 11.304684838596152,
+  "cached_at": "2025-06-09T16:02:11.531289"
+}

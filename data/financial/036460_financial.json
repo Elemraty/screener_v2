@@ -1,0 +1,23 @@
+{
+  "ticker": "036460",
+  "name": "한국가스공사",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 12732709000000,
+  "operating_profit": 833935000000,
+  "net_income": 367174000000,
+  "total_assets": 55481504000000,
+  "total_debt": 44425963000000,
+  "total_equity": 11055541000000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -0.6084497224628782,
+  "operating_profit_yoy": -9.509958728997969,
+  "net_income_yoy": -9.76860683782277,
+  "debt_ratio": 401.84341046720374,
+  "operating_margin": 6.549548882331324,
+  "net_margin": 2.8837068372488526,
+  "roe": 13.284704927601462,
+  "cached_at": "2025-06-09T16:04:45.674220"
+}

@@ -1,0 +1,13 @@
+{
+  "ticker": "355150",
+  "name": "코스텍시스",
+  "market": "KOSDAQ",
+  "bps": 3045,
+  "per": 0.0,
+  "eps": 0,
+  "pbr": 2.67,
+  "roe": 0.0,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:36:12.785252"
+}

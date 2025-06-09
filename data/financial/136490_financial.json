@@ -1,0 +1,22 @@
+{
+  "ticker": "136490",
+  "name": "선진",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 456192713497,
+  "operating_profit": 56152644388,
+  "net_income": 45571034955,
+  "total_assets": 1317385708164,
+  "total_debt": 813260375573,
+  "total_equity": 504125332591,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 6.0092824448361615,
+  "operating_profit_yoy": 68.14556300588363,
+  "debt_ratio": 161.32106898758113,
+  "operating_margin": 12.308974415122758,
+  "net_margin": 9.989426311891252,
+  "roe": 36.15849631740055,
+  "cached_at": "2025-06-09T16:01:20.225062"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "290670",
+  "name": "대보마그네틱",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 13743665256,
+  "operating_profit": -1223716066,
+  "net_income": -534828477,
+  "total_assets": 83977214961,
+  "total_debt": 31430628213,
+  "total_equity": 52546586748,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 22.16572206971632,
+  "operating_profit_yoy": -236.51851962974487,
+  "net_income_yoy": -153.87395423674036,
+  "debt_ratio": 59.81478561820439,
+  "operating_margin": -8.903855290463865,
+  "net_margin": -3.891454477665721,
+  "roe": -4.071270924331589,
+  "cached_at": "2025-06-09T16:10:58.960685"
+}

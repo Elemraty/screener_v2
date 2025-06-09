@@ -1,0 +1,22 @@
+{
+  "ticker": "033160",
+  "name": "엠케이전자",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 283651918475,
+  "operating_profit": -1147762500,
+  "net_income": 5463361447,
+  "total_assets": 2316695666945,
+  "total_debt": 1403019790474,
+  "total_equity": 913675876471,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 4.28250874855356,
+  "operating_profit_yoy": -113.18203221981507,
+  "debt_ratio": 153.55771413086353,
+  "operating_margin": -0.4046376651251733,
+  "net_margin": 1.926079497848177,
+  "roe": 2.391815998514395,
+  "cached_at": "2025-06-09T16:24:58.440694"
+}

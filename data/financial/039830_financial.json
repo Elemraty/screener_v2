@@ -1,0 +1,23 @@
+{
+  "ticker": "039830",
+  "name": "오로라",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 79746830724,
+  "operating_profit": 9726000376,
+  "net_income": 3948110985,
+  "total_assets": 562927568782,
+  "total_debt": 409076759243,
+  "total_equity": 153850809539,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 31.145736888003906,
+  "operating_profit_yoy": 40.2209844395113,
+  "net_income_yoy": 38.1777436902571,
+  "debt_ratio": 265.89184708794284,
+  "operating_margin": 12.196096431294212,
+  "net_margin": 4.9508061312984655,
+  "roe": 10.264777928254407,
+  "cached_at": "2025-06-09T16:25:45.878136"
+}

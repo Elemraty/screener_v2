@@ -1,0 +1,23 @@
+{
+  "ticker": "143160",
+  "name": "아이디스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 80685641677,
+  "operating_profit": 4417175469,
+  "net_income": 4909231929,
+  "total_assets": 447693643377,
+  "total_debt": 111678849208,
+  "total_equity": 336014794169,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 3.8262235722031024,
+  "operating_profit_yoy": -1.4999415404079897,
+  "net_income_yoy": -17.358144092473214,
+  "debt_ratio": 33.23628933785299,
+  "operating_margin": 5.474549594192726,
+  "net_margin": 6.084393489305806,
+  "roe": 5.844066409208021,
+  "cached_at": "2025-06-09T16:20:54.685128"
+}

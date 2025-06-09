@@ -1,0 +1,23 @@
+{
+  "ticker": "033100",
+  "name": "제룡전기",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 50202511817,
+  "operating_profit": 16068417935,
+  "net_income": 14731239283,
+  "total_assets": 252014934986,
+  "total_debt": 56651655408,
+  "total_equity": 195363279578,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -22.71851187710481,
+  "operating_profit_yoy": -37.60170413036794,
+  "net_income_yoy": -32.260351643727994,
+  "debt_ratio": 28.998108308978033,
+  "operating_margin": 32.007199148865645,
+  "net_margin": 29.343629929711174,
+  "roe": 30.161736258360595,
+  "cached_at": "2025-06-09T16:33:45.995554"
+}

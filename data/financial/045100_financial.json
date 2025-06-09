@@ -1,0 +1,23 @@
+{
+  "ticker": "045100",
+  "name": "한양이엔지",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 268998593036,
+  "operating_profit": 11806327073,
+  "net_income": 9155466532,
+  "total_assets": 884858833129,
+  "total_debt": 285491696266,
+  "total_equity": 599367136863,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -12.685183542428202,
+  "operating_profit_yoy": -52.1148331181022,
+  "net_income_yoy": -59.9425579299939,
+  "debt_ratio": 47.632190473475376,
+  "operating_margin": 4.388992128081489,
+  "net_margin": 3.4035369585649566,
+  "roe": 6.110089104930493,
+  "cached_at": "2025-06-09T16:41:06.990048"
+}

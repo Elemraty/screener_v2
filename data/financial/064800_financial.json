@@ -1,0 +1,21 @@
+{
+  "ticker": "064800",
+  "name": "포니링크",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 10650945489,
+  "operating_profit": -3730305992,
+  "net_income": 45249898440,
+  "total_assets": 314506960115,
+  "total_debt": 70252389250,
+  "total_equity": 244254570865,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -46.45769134318027,
+  "debt_ratio": 28.76195479216995,
+  "operating_margin": -35.02323803884412,
+  "net_margin": 424.84395856436254,
+  "roe": 74.10284815510734,
+  "cached_at": "2025-06-09T16:38:35.431928"
+}

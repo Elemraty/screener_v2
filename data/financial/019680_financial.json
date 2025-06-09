@@ -1,0 +1,22 @@
+{
+  "ticker": "019680",
+  "name": "대교",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 165652906776,
+  "operating_profit": 917798424,
+  "net_income": 200132960,
+  "total_assets": 604554185986,
+  "total_debt": 292335266330,
+  "total_equity": 312218919656,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -0.17712637477484972,
+  "net_income_yoy": -98.50851474523604,
+  "debt_ratio": 93.63150274560311,
+  "operating_margin": 0.5540490908747349,
+  "net_margin": 0.12081463820651502,
+  "roe": 0.25640081032950174,
+  "cached_at": "2025-06-09T15:58:42.425560"
+}

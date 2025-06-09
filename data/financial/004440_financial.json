@@ -1,0 +1,23 @@
+{
+  "ticker": "004440",
+  "name": "삼일씨엔에스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 57426966377,
+  "operating_profit": -1294082126,
+  "net_income": -1433839138,
+  "total_assets": 385803365226,
+  "total_debt": 120168659841,
+  "total_equity": 265634705385,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 13.310550564442302,
+  "operating_profit_yoy": -205.32527870504828,
+  "net_income_yoy": -453.9124020911145,
+  "debt_ratio": 45.23831314392165,
+  "operating_margin": -2.2534398169398884,
+  "net_margin": -2.496804599753793,
+  "roe": -2.1591141653299446,
+  "cached_at": "2025-06-09T16:01:06.089912"
+}

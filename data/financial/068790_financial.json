@@ -1,0 +1,23 @@
+{
+  "ticker": "068790",
+  "name": "DMS",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 45721637174,
+  "operating_profit": 12434616759,
+  "net_income": 12280926521,
+  "total_assets": 535596356893,
+  "total_debt": 140045848739,
+  "total_equity": 395550508154,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 22.8605236756505,
+  "operating_profit_yoy": 131.71128099007632,
+  "net_income_yoy": 31.786567534685783,
+  "debt_ratio": 35.40530118203662,
+  "operating_margin": 27.19635062864952,
+  "net_margin": 26.86020728930427,
+  "roe": 12.419072930346136,
+  "cached_at": "2025-06-09T16:06:29.490878"
+}

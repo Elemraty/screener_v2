@@ -1,0 +1,23 @@
+{
+  "ticker": "060260",
+  "name": "뉴보텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 11859838686,
+  "operating_profit": 222467977,
+  "net_income": 78786561,
+  "total_assets": 49501905930,
+  "total_debt": 28492481320,
+  "total_equity": 21009424610,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 4.007521543907666,
+  "operating_profit_yoy": -55.2425286925321,
+  "net_income_yoy": -87.8314528004071,
+  "debt_ratio": 135.61761851601705,
+  "operating_margin": 1.8758094683245001,
+  "net_margin": 0.6643139344973044,
+  "roe": 1.5000232031580611,
+  "cached_at": "2025-06-09T16:10:35.354762"
+}

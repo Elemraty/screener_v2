@@ -1,0 +1,21 @@
+{
+  "ticker": "003060",
+  "name": "에이프로젠바이오로직스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 16847905416,
+  "operating_profit": -15737831227,
+  "net_income": -43055205529,
+  "total_assets": 637520051226,
+  "total_debt": 303046583075,
+  "total_equity": 334473468151,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 7.955716795400658,
+  "debt_ratio": 90.60407234997422,
+  "operating_margin": -93.41120357937318,
+  "net_margin": -255.55227469470262,
+  "roe": -51.49012956634572,
+  "cached_at": "2025-06-09T16:02:19.129324"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "224110",
+  "name": "에이텍모빌리티",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 12786259546,
+  "operating_profit": 883699240,
+  "net_income": 1291979286,
+  "total_assets": 171141433721,
+  "total_debt": 72689952073,
+  "total_equity": 98451481648,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -80.77595254572982,
+  "operating_profit_yoy": -88.04683365571016,
+  "net_income_yoy": -79.779449941687,
+  "debt_ratio": 73.83327386873985,
+  "operating_margin": 6.91131942708337,
+  "net_margin": 10.104435009722428,
+  "roe": 5.249202000308325,
+  "cached_at": "2025-06-09T16:23:37.656554"
+}

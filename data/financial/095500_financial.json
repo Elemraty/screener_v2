@@ -1,0 +1,23 @@
+{
+  "ticker": "095500",
+  "name": "미래나노텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 168430636672,
+  "operating_profit": 11284993205,
+  "net_income": 9488859560,
+  "total_assets": 599556484721,
+  "total_debt": 273714774715,
+  "total_equity": 325841710006,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 10.72472843291572,
+  "operating_profit_yoy": 77.34869311712569,
+  "net_income_yoy": 480.63978399748174,
+  "debt_ratio": 84.00237486783378,
+  "operating_margin": 6.7000834456122575,
+  "net_margin": 5.6336897772811385,
+  "roe": 11.648428385457803,
+  "cached_at": "2025-06-09T16:14:38.837850"
+}

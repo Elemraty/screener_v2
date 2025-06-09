@@ -1,0 +1,23 @@
+{
+  "ticker": "052710",
+  "name": "아모텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 84045971463,
+  "operating_profit": 3906640045,
+  "net_income": 2504190253,
+  "total_assets": 345534556041,
+  "total_debt": 186345191073,
+  "total_equity": 159189364968,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 28.119542746263782,
+  "operating_profit_yoy": 1426.3882754858712,
+  "net_income_yoy": 146.33323631911946,
+  "debt_ratio": 117.05881929390121,
+  "operating_margin": 4.64821808469409,
+  "net_margin": 2.9795482274869447,
+  "roe": 6.292355657058845,
+  "cached_at": "2025-06-09T16:20:39.742222"
+}

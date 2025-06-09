@@ -1,0 +1,23 @@
+{
+  "ticker": "004770",
+  "name": "써니전자",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 3155843780,
+  "operating_profit": 610808300,
+  "net_income": 1331364524,
+  "total_assets": 86366779840,
+  "total_debt": 2910069978,
+  "total_equity": 83456709862,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 5.1321589564265135,
+  "operating_profit_yoy": 33.62736028615259,
+  "net_income_yoy": -2.2140365455008526,
+  "debt_ratio": 3.4869215223221137,
+  "operating_margin": 19.354833210406884,
+  "net_margin": 42.18727594938175,
+  "roe": 6.381102376077276,
+  "cached_at": "2025-06-09T16:01:58.165806"
+}

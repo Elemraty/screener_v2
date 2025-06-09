@@ -1,0 +1,19 @@
+{
+  "ticker": "182400",
+  "name": "엔케이맥스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1423402177,
+  "operating_profit": -526531794,
+  "net_income": -77269700,
+  "total_assets": 23264507155,
+  "total_debt": 46876593408,
+  "total_equity": -23612086253,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -21.503063471995276,
+  "operating_margin": -36.99107690770379,
+  "net_margin": -5.428521977032216,
+  "cached_at": "2025-06-09T16:24:30.958836"
+}

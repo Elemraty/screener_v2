@@ -1,0 +1,21 @@
+{
+  "ticker": "035620",
+  "name": "바른손이앤에이",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 4435068323,
+  "operating_profit": 224635407,
+  "net_income": 518754972,
+  "total_assets": 109078825977,
+  "total_debt": 41809657375,
+  "total_equity": 67269168602,
+  "data_source": "f_data_financial",
+  "operating_profit_yoy": -47.349947058473695,
+  "debt_ratio": 62.15277852230947,
+  "operating_margin": 5.064981881678218,
+  "net_margin": 11.696662468755388,
+  "roe": 3.084652198211213,
+  "cached_at": "2025-06-09T16:15:01.880225"
+}

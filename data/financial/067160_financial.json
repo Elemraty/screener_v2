@@ -1,0 +1,23 @@
+{
+  "ticker": "067160",
+  "name": "SOOP",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 107652122421,
+  "operating_profit": 32744065797,
+  "net_income": 27099863102,
+  "total_assets": 741615015819,
+  "total_debt": 347393670862,
+  "total_equity": 394221344957,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 13.398925057272715,
+  "operating_profit_yoy": 14.750830115549673,
+  "net_income_yoy": 9.54243599679061,
+  "debt_ratio": 88.12147675562628,
+  "operating_margin": 30.416553859427225,
+  "net_margin": 25.17355207918646,
+  "roe": 27.49710379579364,
+  "cached_at": "2025-06-09T16:08:14.878804"
+}

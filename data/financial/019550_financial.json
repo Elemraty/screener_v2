@@ -1,0 +1,23 @@
+{
+  "ticker": "019550",
+  "name": "SBI인베스트먼트",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 3569248472,
+  "operating_profit": 909752328,
+  "net_income": 909762328,
+  "total_assets": 145129609321,
+  "total_debt": 6769222218,
+  "total_equity": 138360387103,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -34.248069691473525,
+  "operating_profit_yoy": -65.40014567895274,
+  "net_income_yoy": -65.40190680877227,
+  "debt_ratio": 4.8924568366238885,
+  "operating_margin": 25.48862414978432,
+  "net_margin": 25.48890432080852,
+  "roe": 2.6301236851057466,
+  "cached_at": "2025-06-09T16:07:59.639249"
+}

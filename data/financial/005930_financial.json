@@ -1,0 +1,23 @@
+{
+  "ticker": "005930",
+  "name": "삼성전자",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 79140503000000,
+  "operating_profit": 6685272000000,
+  "net_income": 8222878000000,
+  "total_assets": 516376748000000,
+  "total_debt": 109762479000000,
+  "total_equity": 406614269000000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 10.046362541001352,
+  "operating_profit_yoy": 1.1998621255284503,
+  "net_income_yoy": 21.735506553355076,
+  "debt_ratio": 26.994251645408934,
+  "operating_margin": 8.447345855256948,
+  "net_margin": 10.390227112910818,
+  "roe": 8.08911897777006,
+  "cached_at": "2025-06-09T15:43:00.312392"
+}

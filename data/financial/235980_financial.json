@@ -1,0 +1,20 @@
+{
+  "ticker": "235980",
+  "name": "메드팩토",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 429943713,
+  "operating_profit": -3794911917,
+  "net_income": -3358651275,
+  "total_assets": 55756130152,
+  "total_debt": 1120318645,
+  "total_equity": 54635811507,
+  "data_source": "f_data_financial",
+  "debt_ratio": 2.0505207374040073,
+  "operating_margin": -882.6531944194287,
+  "net_margin": -781.1839488393682,
+  "roe": -24.589375959536618,
+  "cached_at": "2025-06-09T16:14:05.070281"
+}

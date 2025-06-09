@@ -1,0 +1,21 @@
+{
+  "ticker": "191420",
+  "name": "테고사이언스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1312103004,
+  "operating_profit": -887577519,
+  "net_income": -657701464,
+  "total_assets": 51840433398,
+  "total_debt": 2809698844,
+  "total_equity": 49030734554,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 3.020560714149867,
+  "debt_ratio": 5.73048490820699,
+  "operating_margin": -67.64541474977067,
+  "net_margin": -50.12574942630038,
+  "roe": -5.365626030143526,
+  "cached_at": "2025-06-09T16:37:15.800793"
+}

@@ -1,0 +1,22 @@
+{
+  "ticker": "079160",
+  "name": "CJ CGV",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 533590697727,
+  "operating_profit": 3200890054,
+  "net_income": -38091392748,
+  "total_assets": 3927187629707,
+  "total_debt": 3383477417968,
+  "total_equity": 543710211739,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 35.79253790369936,
+  "operating_profit_yoy": -29.508101147590228,
+  "debt_ratio": 622.2942561895799,
+  "operating_margin": 0.5998774093392583,
+  "net_margin": -7.138691305950882,
+  "roe": -28.02330500739994,
+  "cached_at": "2025-06-09T15:55:46.446470"
+}

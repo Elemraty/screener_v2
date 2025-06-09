@@ -1,0 +1,23 @@
+{
+  "ticker": "065950",
+  "name": "웰크론",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 74325828605,
+  "operating_profit": -964019664,
+  "net_income": -2697035222,
+  "total_assets": 362233222281,
+  "total_debt": 253790562857,
+  "total_equity": 108442659424,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -23.850492225358476,
+  "operating_profit_yoy": -146.10171180968422,
+  "net_income_yoy": -501.163304545351,
+  "debt_ratio": 234.0320351834089,
+  "operating_margin": -1.2970183879458952,
+  "net_margin": -3.6286648566452264,
+  "roe": -9.94824448727271,
+  "cached_at": "2025-06-09T16:30:38.788450"
+}

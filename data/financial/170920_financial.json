@@ -1,0 +1,23 @@
+{
+  "ticker": "170920",
+  "name": "엘티씨",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 75870938401,
+  "operating_profit": 9425177453,
+  "net_income": 6676184514,
+  "total_assets": 328405567989,
+  "total_debt": 131834139023,
+  "total_equity": 196571428966,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 52.71624771105503,
+  "operating_profit_yoy": 461.58484853610105,
+  "net_income_yoy": 766.7885260271717,
+  "debt_ratio": 67.06678570556798,
+  "operating_margin": 12.422645154571823,
+  "net_margin": 8.799396257252575,
+  "roe": 13.585259158195868,
+  "cached_at": "2025-06-09T16:24:44.347741"
+}

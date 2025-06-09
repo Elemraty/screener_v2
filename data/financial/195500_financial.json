@@ -1,0 +1,23 @@
+{
+  "ticker": "195500",
+  "name": "마니커에프앤지",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 25443378863,
+  "operating_profit": -130175018,
+  "net_income": -29578818,
+  "total_assets": 121009694852,
+  "total_debt": 43652829419,
+  "total_equity": 77356865433,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 5.803660279175249,
+  "operating_profit_yoy": -110.6853231307428,
+  "net_income_yoy": -102.88451514100811,
+  "debt_ratio": 56.43045277837479,
+  "operating_margin": -0.5116263005040644,
+  "net_margin": -0.11625349824513204,
+  "roe": -0.15294734518744782,
+  "cached_at": "2025-06-09T16:13:49.855649"
+}

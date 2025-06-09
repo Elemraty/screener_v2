@@ -1,0 +1,13 @@
+{
+  "ticker": "339950",
+  "name": "아이비김영",
+  "market": "KOSDAQ",
+  "bps": 1266,
+  "per": 7.24,
+  "eps": 292,
+  "pbr": 1.67,
+  "roe": 23.06477093206951,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:20:58.116855"
+}

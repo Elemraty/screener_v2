@@ -1,0 +1,23 @@
+{
+  "ticker": "059090",
+  "name": "미코",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 214911197352,
+  "operating_profit": 35298513409,
+  "net_income": 25296513981,
+  "total_assets": 1477881963170,
+  "total_debt": 939715959762,
+  "total_equity": 538166003408,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 74.16241963654198,
+  "operating_profit_yoy": 52.220935565833535,
+  "net_income_yoy": 85.60525531042562,
+  "debt_ratio": 174.61451556046597,
+  "operating_margin": 16.424697197691877,
+  "net_margin": 11.770682166721727,
+  "roe": 18.80201560173391,
+  "cached_at": "2025-06-09T16:14:55.604836"
+}

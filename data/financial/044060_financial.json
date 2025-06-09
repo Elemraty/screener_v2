@@ -1,0 +1,23 @@
+{
+  "ticker": "044060",
+  "name": "조광ILI",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 6310640799,
+  "operating_profit": -870946992,
+  "net_income": -1313841042,
+  "total_assets": 68128825487,
+  "total_debt": 25459388334,
+  "total_equity": 42669437153,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -34.007241247225004,
+  "operating_profit_yoy": -163.31579111890835,
+  "net_income_yoy": -221.46550047712176,
+  "debt_ratio": 59.66656706229837,
+  "operating_margin": -13.801244909043348,
+  "net_margin": -20.819455327075413,
+  "roe": -12.316460020683696,
+  "cached_at": "2025-06-09T16:34:15.921163"
+}

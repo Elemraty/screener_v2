@@ -1,0 +1,23 @@
+{
+  "ticker": "146060",
+  "name": "율촌",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 19820759048,
+  "operating_profit": 2050890618,
+  "net_income": 2083215212,
+  "total_assets": 103121582843,
+  "total_debt": 50682809675,
+  "total_equity": 52438773168,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 3.467599317582537,
+  "operating_profit_yoy": 314.0632016049033,
+  "net_income_yoy": 594.2101318335802,
+  "debt_ratio": 96.65140241291618,
+  "operating_margin": 10.347185054988818,
+  "net_margin": 10.510269596411877,
+  "roe": 15.890647977792522,
+  "cached_at": "2025-06-09T16:31:52.271608"
+}

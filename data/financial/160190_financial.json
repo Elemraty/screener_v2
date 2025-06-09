@@ -1,0 +1,20 @@
+{
+  "ticker": "160190",
+  "name": "하이젠알앤엠",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 18169682248,
+  "operating_profit": -2376449860,
+  "net_income": -2433777634,
+  "total_assets": 115855379783,
+  "total_debt": 49901943566,
+  "total_equity": 65953436217,
+  "data_source": "f_data_financial",
+  "debt_ratio": 75.6623861140648,
+  "operating_margin": -13.079204289670965,
+  "net_margin": -13.394717644376497,
+  "roe": -14.760581243969668,
+  "cached_at": "2025-06-09T16:40:19.794032"
+}

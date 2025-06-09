@@ -1,0 +1,23 @@
+{
+  "ticker": "066310",
+  "name": "큐에스아이",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 5633183725,
+  "operating_profit": -33411254,
+  "net_income": 193314458,
+  "total_assets": 89076439669,
+  "total_debt": 5451899839,
+  "total_equity": 83624539830,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 13.463880674269024,
+  "operating_profit_yoy": -117.03074876248549,
+  "net_income_yoy": -88.28459220760412,
+  "debt_ratio": 6.519497566244485,
+  "operating_margin": -0.5931149351959047,
+  "net_margin": 3.4317087358978338,
+  "roe": 0.9246781310509485,
+  "cached_at": "2025-06-09T16:36:44.314394"
+}

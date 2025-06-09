@@ -1,0 +1,23 @@
+{
+  "ticker": "003220",
+  "name": "대원제약",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 157831742112,
+  "operating_profit": 9406441440,
+  "net_income": 4898620971,
+  "total_assets": 598650803281,
+  "total_debt": 315824411290,
+  "total_equity": 282826391991,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -0.2965657773587371,
+  "operating_profit_yoy": -37.20204134608449,
+  "net_income_yoy": -45.50671502398866,
+  "debt_ratio": 111.66723482441132,
+  "operating_margin": 5.959790669563183,
+  "net_margin": 3.1036982203008683,
+  "roe": 6.928095976496963,
+  "cached_at": "2025-06-09T15:58:59.363751"
+}

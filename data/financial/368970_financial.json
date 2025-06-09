@@ -1,0 +1,13 @@
+{
+  "ticker": "368970",
+  "name": "오에스피",
+  "market": "KOSDAQ",
+  "bps": 3856,
+  "per": 11.75,
+  "eps": 251,
+  "pbr": 0.77,
+  "roe": 6.509336099585063,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:26:01.412165"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "064520",
+  "name": "테크엘",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 4886813964,
+  "operating_profit": -1026410771,
+  "net_income": -600806333,
+  "total_assets": 103576320143,
+  "total_debt": 4765989572,
+  "total_equity": 98810330571,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -41.9458014417504,
+  "operating_profit_yoy": -228.83277319027962,
+  "net_income_yoy": -150.5122457329745,
+  "debt_ratio": 4.8233717511707,
+  "operating_margin": -21.00368007788561,
+  "net_margin": -12.29443840968774,
+  "roe": -2.4321599959360185,
+  "cached_at": "2025-06-09T16:37:19.966434"
+}

@@ -1,0 +1,22 @@
+{
+  "ticker": "025870",
+  "name": "신라에스지",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 16449924821,
+  "operating_profit": -539763585,
+  "net_income": -751936020,
+  "total_assets": 46583886117,
+  "total_debt": 29972408550,
+  "total_equity": 16611477567,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -30.789013087626792,
+  "operating_profit_yoy": -857.0049844245324,
+  "debt_ratio": 180.43192382562364,
+  "operating_margin": -3.2812525946072224,
+  "net_margin": -4.571060525699651,
+  "roe": -18.106421104737358,
+  "cached_at": "2025-06-09T16:19:25.356856"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "003200",
+  "name": "일신방직",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 136430229334,
+  "operating_profit": 2810527924,
+  "net_income": 18955364720,
+  "total_assets": 1132341414348,
+  "total_debt": 210756968171,
+  "total_equity": 921584446177,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 0.43583003635920825,
+  "operating_profit_yoy": -1.325830962522001,
+  "net_income_yoy": 460.67748809518764,
+  "debt_ratio": 22.86898059589451,
+  "operating_margin": 2.060047789789637,
+  "net_margin": 13.893815771279439,
+  "roe": 8.227293678243967,
+  "cached_at": "2025-06-09T16:03:15.237540"
+}

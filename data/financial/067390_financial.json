@@ -1,0 +1,21 @@
+{
+  "ticker": "067390",
+  "name": "아스트",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 64311189146,
+  "operating_profit": 5960717633,
+  "net_income": 1767489123,
+  "total_assets": 578924551106,
+  "total_debt": 264863394073,
+  "total_equity": 314061157033,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 75.61073730979871,
+  "debt_ratio": 84.33497366411646,
+  "operating_margin": 9.268554527063573,
+  "net_margin": 2.748338425196004,
+  "roe": 2.2511400514445423,
+  "cached_at": "2025-06-09T16:20:49.853154"
+}

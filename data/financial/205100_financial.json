@@ -1,0 +1,21 @@
+{
+  "ticker": "205100",
+  "name": "엑셈",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 11665622698,
+  "operating_profit": -2467394433,
+  "net_income": -2418751317,
+  "total_assets": 138408459545,
+  "total_debt": 10149383414,
+  "total_equity": 128259076131,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 27.58613319746337,
+  "debt_ratio": 7.913189241776326,
+  "operating_margin": -21.150987794445125,
+  "net_margin": -20.73400948767767,
+  "roe": -7.54332992241285,
+  "cached_at": "2025-06-09T16:24:03.281839"
+}

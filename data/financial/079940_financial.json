@@ -1,0 +1,23 @@
+{
+  "ticker": "079940",
+  "name": "가비아",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 76962828284,
+  "operating_profit": 5775706353,
+  "net_income": 3816036399,
+  "total_assets": 632097980864,
+  "total_debt": 283921442169,
+  "total_equity": 348176538695,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 24.06412744391533,
+  "operating_profit_yoy": -19.820310521040263,
+  "net_income_yoy": -2.0755997494297573,
+  "debt_ratio": 81.54525380520053,
+  "operating_margin": 7.504540155004577,
+  "net_margin": 4.958285037185055,
+  "roe": 4.384024740211251,
+  "cached_at": "2025-06-09T16:08:27.456517"
+}

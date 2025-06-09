@@ -1,0 +1,23 @@
+{
+  "ticker": "066130",
+  "name": "하츠",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 40860794046,
+  "operating_profit": 1888530047,
+  "net_income": 1560674871,
+  "total_assets": 159101971981,
+  "total_debt": 49261163215,
+  "total_equity": 109840808766,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -0.10488188025321588,
+  "operating_profit_yoy": -24.616278122346646,
+  "net_income_yoy": -19.088635267598853,
+  "debt_ratio": 44.84777904352817,
+  "operating_margin": 4.621863307095655,
+  "net_margin": 3.819492272330865,
+  "roe": 5.683406335161981,
+  "cached_at": "2025-06-09T16:40:23.995638"
+}

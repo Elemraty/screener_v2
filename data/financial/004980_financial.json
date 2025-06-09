@@ -1,0 +1,23 @@
+{
+  "ticker": "004980",
+  "name": "성신양회",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 228602403782,
+  "operating_profit": -6261200297,
+  "net_income": -9422600575,
+  "total_assets": 1328792246315,
+  "total_debt": 772108552994,
+  "total_equity": 556683693321,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -19.14765045222946,
+  "operating_profit_yoy": -138.25468946251226,
+  "net_income_yoy": -233.09565449096348,
+  "debt_ratio": 138.69789294308998,
+  "operating_margin": -2.738903963131906,
+  "net_margin": -4.121829175508402,
+  "roe": -6.7705238634081235,
+  "cached_at": "2025-06-09T16:01:22.512772"
+}

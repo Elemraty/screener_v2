@@ -1,0 +1,23 @@
+{
+  "ticker": "127980",
+  "name": "화인써키트",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 25907232123,
+  "operating_profit": 416968174,
+  "net_income": -2912379181,
+  "total_assets": 102048084501,
+  "total_debt": 53545411876,
+  "total_equity": 48502672625,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 19.773858153489975,
+  "operating_profit_yoy": -56.77537799142216,
+  "net_income_yoy": -512.6207637180111,
+  "debt_ratio": 110.3968275933743,
+  "operating_margin": 1.6094663143494312,
+  "net_margin": -11.241568250799125,
+  "roe": -24.018298566902942,
+  "cached_at": "2025-06-09T16:41:52.128261"
+}

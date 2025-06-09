@@ -1,0 +1,23 @@
+{
+  "ticker": "149980",
+  "name": "하이로닉",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 7493333710,
+  "operating_profit": 2235345007,
+  "net_income": 1716205941,
+  "total_assets": 77173825933,
+  "total_debt": 10226069439,
+  "total_equity": 66947756494,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -5.016685388259424,
+  "operating_profit_yoy": 71.37903749752506,
+  "net_income_yoy": 7.233305012662727,
+  "debt_ratio": 15.274700713707235,
+  "operating_margin": 29.83111514194128,
+  "net_margin": 22.903103043571775,
+  "roe": 10.25400121453695,
+  "cached_at": "2025-06-09T16:40:15.587500"
+}

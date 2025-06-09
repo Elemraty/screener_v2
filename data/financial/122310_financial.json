@@ -1,0 +1,23 @@
+{
+  "ticker": "122310",
+  "name": "제노레이",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 25158415550,
+  "operating_profit": 78288142,
+  "net_income": 93183022,
+  "total_assets": 126511926085,
+  "total_debt": 44557237506,
+  "total_equity": 81954688579,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 0.45113748474161497,
+  "operating_profit_yoy": -96.71604134653663,
+  "net_income_yoy": -95.58455916568111,
+  "debt_ratio": 54.3681371725904,
+  "operating_margin": 0.311180733319273,
+  "net_margin": 0.37038509764181077,
+  "roe": 0.45480264090163175,
+  "cached_at": "2025-06-09T16:33:39.239044"
+}

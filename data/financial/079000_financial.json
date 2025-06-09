@@ -1,0 +1,22 @@
+{
+  "ticker": "079000",
+  "name": "와토스코리아",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 3735144961,
+  "operating_profit": -788597794,
+  "net_income": 207612336,
+  "total_assets": 81988929887,
+  "total_debt": 5678613093,
+  "total_equity": 76310316794,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -15.20515072371479,
+  "net_income_yoy": -56.448733731026046,
+  "debt_ratio": 7.441474929699791,
+  "operating_margin": -21.11291000038914,
+  "net_margin": 5.558347484977304,
+  "roe": 1.0882530421696468,
+  "cached_at": "2025-06-09T16:29:57.408929"
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "187420",
+  "name": "HLB제넥스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 10691751850,
+  "operating_profit": 814691353,
+  "net_income": -1179335708,
+  "total_assets": 139657274159,
+  "total_debt": 112583211430,
+  "total_equity": 27074062729,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 50.32431637345462,
+  "debt_ratio": 415.83419731612014,
+  "operating_margin": 7.619811649481932,
+  "net_margin": -11.030331834721736,
+  "roe": -17.42384539482907,
+  "cached_at": "2025-06-09T16:06:50.503069"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "063440",
+  "name": "SM Life Design",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 7205887659,
+  "operating_profit": 684989178,
+  "net_income": 797666252,
+  "total_assets": 66060300689,
+  "total_debt": 3467285766,
+  "total_equity": 62593014923,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -32.28725333804383,
+  "operating_profit_yoy": -19.366885764464215,
+  "net_income_yoy": -26.96790673278383,
+  "debt_ratio": 5.539413256040388,
+  "operating_margin": 9.505965266395226,
+  "net_margin": 11.069645958242658,
+  "roe": 5.097477748795225,
+  "cached_at": "2025-06-09T16:08:13.317059"
+}

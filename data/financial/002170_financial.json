@@ -1,0 +1,23 @@
+{
+  "ticker": "002170",
+  "name": "삼양통상",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 48405744723,
+  "operating_profit": 5011709828,
+  "net_income": 3208562765,
+  "total_assets": 455960113807,
+  "total_debt": 23658660501,
+  "total_equity": 432301453306,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -1.2389460421625031,
+  "operating_profit_yoy": -6.633999899119392,
+  "net_income_yoy": 60.19269735585535,
+  "debt_ratio": 5.472722869671564,
+  "operating_margin": 10.353543482657514,
+  "net_margin": 6.628475160047379,
+  "roe": 2.968819781162154,
+  "cached_at": "2025-06-09T16:01:01.027091"
+}

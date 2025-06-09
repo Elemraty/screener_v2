@@ -1,0 +1,23 @@
+{
+  "ticker": "267320",
+  "name": "나인테크",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 15891560299,
+  "operating_profit": -1405424849,
+  "net_income": -2492569877,
+  "total_assets": 183920008385,
+  "total_debt": 98315969593,
+  "total_equity": 85604038792,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -64.46106527929953,
+  "operating_profit_yoy": -199.53499607459514,
+  "net_income_yoy": -449.2811754602932,
+  "debt_ratio": 114.84968580966996,
+  "operating_margin": -8.84384429569473,
+  "net_margin": -15.684865614843677,
+  "roe": -11.646973260485646,
+  "cached_at": "2025-06-09T16:09:50.565639"
+}

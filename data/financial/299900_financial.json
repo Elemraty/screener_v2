@@ -1,0 +1,21 @@
+{
+  "ticker": "299900",
+  "name": "위지윅스튜디오",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 20791608024,
+  "operating_profit": -3454313257,
+  "net_income": -6541978796,
+  "total_assets": 264504395576,
+  "total_debt": 97458758062,
+  "total_equity": 167045637514,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 22.014529137415263,
+  "debt_ratio": 58.342593983534606,
+  "operating_margin": -16.61397835613602,
+  "net_margin": -31.464515820269966,
+  "roe": -15.66512934634817,
+  "cached_at": "2025-06-09T16:30:57.222484"
+}

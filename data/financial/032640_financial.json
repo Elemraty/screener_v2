@@ -1,0 +1,23 @@
+{
+  "ticker": "032640",
+  "name": "LG유플러스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 3748090000000,
+  "operating_profit": 255427000000,
+  "net_income": 162472000000,
+  "total_assets": 19651012000000,
+  "total_debt": 10897327000000,
+  "total_equity": 8753685000000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 4.7840544193039625,
+  "operating_profit_yoy": 15.613924709524696,
+  "net_income_yoy": 24.574074926009427,
+  "debt_ratio": 124.48845257740027,
+  "operating_margin": 6.814857700855635,
+  "net_margin": 4.334794522009878,
+  "roe": 7.424164794597932,
+  "cached_at": "2025-06-09T15:56:55.115288"
+}

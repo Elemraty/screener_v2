@@ -1,0 +1,21 @@
+{
+  "ticker": "084990",
+  "name": "헬릭스미스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 930471490,
+  "operating_profit": -2857519001,
+  "net_income": -1535106108,
+  "total_assets": 147200015243,
+  "total_debt": 6704177739,
+  "total_equity": 140495837504,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 13.803970593835913,
+  "debt_ratio": 4.771798124488299,
+  "operating_margin": -307.1044123017676,
+  "net_margin": -164.98153081509247,
+  "roe": -4.3705383313047825,
+  "cached_at": "2025-06-09T16:41:32.699671"
+}

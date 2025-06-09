@@ -1,0 +1,20 @@
+{
+  "ticker": "240550",
+  "name": "동방메디컬",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 27571260334,
+  "operating_profit": 4277072836,
+  "net_income": 3170038126,
+  "total_assets": 172472798366,
+  "total_debt": 56552483470,
+  "total_equity": 115920314896,
+  "data_source": "f_data_financial",
+  "debt_ratio": 48.78565376632826,
+  "operating_margin": 15.512794062321664,
+  "net_margin": 11.497617764287728,
+  "roe": 10.938680174718494,
+  "cached_at": "2025-06-09T16:12:00.795984"
+}

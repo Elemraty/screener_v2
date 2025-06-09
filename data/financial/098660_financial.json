@@ -1,0 +1,21 @@
+{
+  "ticker": "098660",
+  "name": "에스티오",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 15988809083,
+  "operating_profit": -664684632,
+  "net_income": -1092973352,
+  "total_assets": 78915136973,
+  "total_debt": 52916892840,
+  "total_equity": 25998244133,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 0.02203050781888205,
+  "debt_ratio": 203.54025667768738,
+  "operating_margin": -4.157186620651576,
+  "net_margin": -6.835864674637318,
+  "roe": -16.816110294351315,
+  "cached_at": "2025-06-09T16:22:56.745191"
+}

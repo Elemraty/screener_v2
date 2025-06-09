@@ -1,0 +1,21 @@
+{
+  "ticker": "260660",
+  "name": "알리코제약",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 50380481678,
+  "operating_profit": 1008071010,
+  "net_income": 398998026,
+  "total_assets": 171518074246,
+  "total_debt": 92508656336,
+  "total_equity": 79009417910,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 13.58490889342454,
+  "debt_ratio": 117.08560673282904,
+  "operating_margin": 2.0009157840985896,
+  "net_margin": 0.7919694546593294,
+  "roe": 2.0200023569569923,
+  "cached_at": "2025-06-09T16:21:47.127636"
+}

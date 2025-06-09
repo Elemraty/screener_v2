@@ -1,0 +1,23 @@
+{
+  "ticker": "060980",
+  "name": "HL홀딩스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 330349580879,
+  "operating_profit": 17363819408,
+  "net_income": 6673251691,
+  "total_assets": 2370581576365,
+  "total_debt": 1320239606133,
+  "total_equity": 1050341970232,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -8.90777982512394,
+  "operating_profit_yoy": -74.1107712348509,
+  "net_income_yoy": -86.24383747796603,
+  "debt_ratio": 125.69616787201076,
+  "operating_margin": 5.256195379996561,
+  "net_margin": 2.02005756242938,
+  "roe": 2.5413634340541527,
+  "cached_at": "2025-06-09T15:56:22.610806"
+}

@@ -1,0 +1,13 @@
+{
+  "ticker": "443060",
+  "name": "HD현대마린솔루션",
+  "market": "KOSPI",
+  "bps": 17402,
+  "per": 33.9,
+  "eps": 5304,
+  "pbr": 10.33,
+  "roe": 30.47925525801632,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T15:56:16.846651"
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "123330",
+  "name": "제닉",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 17828052046,
+  "operating_profit": 3760987890,
+  "net_income": 3515624295,
+  "total_assets": 41522542719,
+  "total_debt": 15851617930,
+  "total_equity": 25670924789,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 180.1578166363008,
+  "debt_ratio": 61.74930611300932,
+  "operating_margin": 21.09589920590251,
+  "net_margin": 19.7196209991365,
+  "roe": 54.77986202517248,
+  "cached_at": "2025-06-09T16:33:41.775023"
+}

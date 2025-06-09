@@ -1,0 +1,13 @@
+{
+  "ticker": "469750",
+  "name": "아이비젼웍스",
+  "market": "KOSDAQ",
+  "bps": 1060,
+  "per": 0.0,
+  "eps": 0,
+  "pbr": 0.83,
+  "roe": 0.0,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:20:58.255249"
+}

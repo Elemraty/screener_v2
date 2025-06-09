@@ -1,0 +1,23 @@
+{
+  "ticker": "037400",
+  "name": "우리엔터프라이즈",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 303514048463,
+  "operating_profit": 772425455,
+  "net_income": -604702505,
+  "total_assets": 936606932837,
+  "total_debt": 599957253082,
+  "total_equity": 336649679755,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 1.6603568096617893,
+  "operating_profit_yoy": -78.64523839377152,
+  "net_income_yoy": -113.74353117798464,
+  "debt_ratio": 178.21411668017168,
+  "operating_margin": 0.25449413590954845,
+  "net_margin": -0.1992337778307868,
+  "roe": -0.7184946742739551,
+  "cached_at": "2025-06-09T16:30:05.842292"
+}

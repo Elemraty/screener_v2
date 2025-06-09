@@ -1,0 +1,23 @@
+{
+  "ticker": "000220",
+  "name": "유유제약",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 32906593649,
+  "operating_profit": 3916815452,
+  "net_income": 3001399438,
+  "total_assets": 209619118291,
+  "total_debt": 73517772971,
+  "total_equity": 136101345320,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -1.490839334039451,
+  "operating_profit_yoy": -16.041456945344436,
+  "net_income_yoy": -46.19274474874373,
+  "debt_ratio": 54.01693333607086,
+  "operating_margin": 11.902828636044582,
+  "net_margin": 9.120966667089863,
+  "roe": 8.821072064917926,
+  "cached_at": "2025-06-09T16:02:47.282292"
+}

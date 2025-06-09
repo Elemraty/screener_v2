@@ -1,0 +1,21 @@
+{
+  "ticker": "026040",
+  "name": "제이에스티나",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 17522380980,
+  "operating_profit": 646764848,
+  "net_income": 672363997,
+  "total_assets": 50495085396,
+  "total_debt": 9486416296,
+  "total_equity": 41008669100,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -7.164901877945562,
+  "debt_ratio": 23.1327095080001,
+  "operating_margin": 3.691078562543616,
+  "net_margin": 3.8371725724228605,
+  "roe": 6.55826206269152,
+  "cached_at": "2025-06-09T16:33:56.463345"
+}

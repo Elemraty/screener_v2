@@ -1,0 +1,22 @@
+{
+  "ticker": "002020",
+  "name": "코오롱",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1448147822539,
+  "operating_profit": 39652112041,
+  "net_income": -28870634012,
+  "total_assets": 7309116503057,
+  "total_debt": 4927498217309,
+  "total_equity": 2381618285748,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 3.661442039405949,
+  "operating_profit_yoy": 62.88483302035581,
+  "debt_ratio": 206.89706015426438,
+  "operating_margin": 2.7381259995598364,
+  "net_margin": -1.9936247917965906,
+  "roe": -4.848910370694863,
+  "cached_at": "2025-06-09T16:04:05.821404"
+}

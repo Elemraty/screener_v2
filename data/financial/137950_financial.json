@@ -1,0 +1,23 @@
+{
+  "ticker": "137950",
+  "name": "제이씨케미칼",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 78297954799,
+  "operating_profit": 2294481144,
+  "net_income": -2877738760,
+  "total_assets": 357417197802,
+  "total_debt": 205101679848,
+  "total_equity": 152315517954,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -9.047831453827715,
+  "operating_profit_yoy": 61.62993118164335,
+  "net_income_yoy": -1445.8485161524295,
+  "debt_ratio": 134.6558004089522,
+  "operating_margin": 2.9304483749163066,
+  "net_margin": -3.675369002150173,
+  "roe": -7.557309455151091,
+  "cached_at": "2025-06-09T16:33:51.829177"
+}

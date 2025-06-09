@@ -1,0 +1,23 @@
+{
+  "ticker": "015860",
+  "name": "일진홀딩스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 505598441135,
+  "operating_profit": 32357182579,
+  "net_income": 25146012738,
+  "total_assets": 2034922893912,
+  "total_debt": 982150180985,
+  "total_equity": 1052772712927,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 30.958855034489474,
+  "operating_profit_yoy": 76.876798761078,
+  "net_income_yoy": 59.25776909944624,
+  "debt_ratio": 93.2917588882362,
+  "operating_margin": 6.399778944405467,
+  "net_margin": 4.97351468915739,
+  "roe": 9.554203838770523,
+  "cached_at": "2025-06-09T16:03:20.508443"
+}

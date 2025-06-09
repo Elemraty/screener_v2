@@ -1,0 +1,21 @@
+{
+  "ticker": "073190",
+  "name": "듀오백",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 5419249884,
+  "operating_profit": -765360323,
+  "net_income": -656707079,
+  "total_assets": 21810477982,
+  "total_debt": 9433464491,
+  "total_equity": 12377013491,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -19.12754937180393,
+  "debt_ratio": 76.21761499944705,
+  "operating_margin": -14.122993760809571,
+  "net_margin": -12.118043881661317,
+  "roe": -21.223442294137516,
+  "cached_at": "2025-06-09T16:12:21.303668"
+}

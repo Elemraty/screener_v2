@@ -1,0 +1,13 @@
+{
+  "ticker": "448900",
+  "name": "한국피아이엠",
+  "market": "KOSDAQ",
+  "bps": 9409,
+  "per": 22.64,
+  "eps": 713,
+  "pbr": 1.72,
+  "roe": 7.577850993729409,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:40:50.794221"
+}

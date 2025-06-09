@@ -1,0 +1,23 @@
+{
+  "ticker": "043370",
+  "name": "피에이치에이",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 298946874603,
+  "operating_profit": 16348538863,
+  "net_income": 15138047582,
+  "total_assets": 1093894250799,
+  "total_debt": 283603503386,
+  "total_equity": 810290747413,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 3.1781725796564464,
+  "operating_profit_yoy": -0.2561466460210715,
+  "net_income_yoy": -22.577052715029488,
+  "debt_ratio": 35.00021495882257,
+  "operating_margin": 5.468710413751868,
+  "net_margin": 5.063791886803719,
+  "roe": 7.472896675831958,
+  "cached_at": "2025-06-09T16:39:32.207859"
+}

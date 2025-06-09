@@ -1,0 +1,21 @@
+{
+  "ticker": "086390",
+  "name": "유니테스트",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 22397114606,
+  "operating_profit": -3988571770,
+  "net_income": -4701873818,
+  "total_assets": 199255429119,
+  "total_debt": 87192004980,
+  "total_equity": 112063424139,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 148.5834012729277,
+  "debt_ratio": 77.80594395531743,
+  "operating_margin": -17.808417915276888,
+  "net_margin": -20.99321229860746,
+  "roe": -16.782902554067743,
+  "cached_at": "2025-06-09T16:31:09.796176"
+}

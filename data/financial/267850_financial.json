@@ -1,0 +1,23 @@
+{
+  "ticker": "267850",
+  "name": "아시아나IDT",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 57174073536,
+  "operating_profit": 3045099240,
+  "net_income": 2586388558,
+  "total_assets": 228075172794,
+  "total_debt": 62286493192,
+  "total_equity": 165788679602,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 22.34064023193256,
+  "operating_profit_yoy": 70.93653458440772,
+  "net_income_yoy": -34.042810768516105,
+  "debt_ratio": 37.56981076242832,
+  "operating_margin": 5.326014138353523,
+  "net_margin": 4.5237087337698005,
+  "roe": 6.240205457233882,
+  "cached_at": "2025-06-09T16:02:06.920116"
+}

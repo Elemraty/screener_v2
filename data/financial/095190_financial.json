@@ -1,0 +1,22 @@
+{
+  "ticker": "095190",
+  "name": "이엠코리아",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 33164319021,
+  "operating_profit": 176623639,
+  "net_income": -1960400427,
+  "total_assets": 246301489773,
+  "total_debt": 133364091744,
+  "total_equity": 112937398029,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 19.071792886751602,
+  "operating_profit_yoy": -43.45254704000753,
+  "debt_ratio": 118.08674015117194,
+  "operating_margin": 0.5325712820702274,
+  "net_margin": -5.911173468566182,
+  "roe": -6.943317133963401,
+  "cached_at": "2025-06-09T16:32:32.656455"
+}

@@ -1,0 +1,20 @@
+{
+  "ticker": "085620",
+  "name": "미래에셋생명",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 0,
+  "operating_profit": 39353569502,
+  "net_income": 24783078088,
+  "total_assets": 32292184746394,
+  "total_debt": 29814765600620,
+  "total_equity": 2477419145774,
+  "data_source": "f_data_financial",
+  "operating_profit_yoy": -27.62414811690209,
+  "net_income_yoy": -43.19321084018475,
+  "debt_ratio": 1203.460692207786,
+  "roe": 4.001434820631811,
+  "cached_at": "2025-06-09T16:00:22.523830"
+}

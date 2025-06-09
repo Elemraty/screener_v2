@@ -1,0 +1,21 @@
+{
+  "ticker": "239610",
+  "name": "에이치엘사이언스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 5079012497,
+  "operating_profit": -2956015062,
+  "net_income": -2470198679,
+  "total_assets": 95670057069,
+  "total_debt": 3513601632,
+  "total_equity": 92156455437,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -1.0299340461556783,
+  "debt_ratio": 3.8126484089896104,
+  "operating_margin": -58.20058650664903,
+  "net_margin": -48.635412503100994,
+  "roe": -10.721760802480853,
+  "cached_at": "2025-06-09T16:23:24.636997"
+}

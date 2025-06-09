@@ -1,0 +1,22 @@
+{
+  "ticker": "007770",
+  "name": "한일화학",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 32119577614,
+  "operating_profit": -2372085904,
+  "net_income": -1791718492,
+  "total_assets": 143047350552,
+  "total_debt": 37363044295,
+  "total_equity": 105684306257,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 12.562318906040492,
+  "net_income_yoy": -133.24607033500413,
+  "debt_ratio": 35.35344614378377,
+  "operating_margin": -7.38517153776666,
+  "net_margin": -5.5782753855986,
+  "roe": -6.781398508281641,
+  "cached_at": "2025-06-09T16:41:13.250076"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "001130",
+  "name": "대한제분",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 340745755864,
+  "operating_profit": 15661555618,
+  "net_income": 11331847361,
+  "total_assets": 1504411202218,
+  "total_debt": 462484571461,
+  "total_equity": 1041926630757,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 0.3321647289633578,
+  "operating_profit_yoy": -19.52551370762802,
+  "net_income_yoy": -22.547623949244688,
+  "debt_ratio": 44.38744128509193,
+  "operating_margin": 4.59625845618776,
+  "net_margin": 3.3256019087506457,
+  "roe": 4.35034369080939,
+  "cached_at": "2025-06-09T15:59:05.652176"
+}

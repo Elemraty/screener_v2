@@ -1,0 +1,22 @@
+{
+  "ticker": "101000",
+  "name": "KS인더스트리",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 9021131273,
+  "operating_profit": -1756189357,
+  "net_income": -1946075048,
+  "total_assets": 68563322177,
+  "total_debt": 28685019024,
+  "total_equity": 39878303153,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -41.29847024847432,
+  "operating_profit_yoy": -169.10040501180305,
+  "debt_ratio": 71.931393153678,
+  "operating_margin": -19.46750694401518,
+  "net_margin": -21.572405822588454,
+  "roe": -19.52013896412339,
+  "cached_at": "2025-06-09T16:07:30.268547"
+}

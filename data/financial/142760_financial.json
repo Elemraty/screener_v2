@@ -1,0 +1,21 @@
+{
+  "ticker": "142760",
+  "name": "모아라이프플러스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 3095235568,
+  "operating_profit": -1075080592,
+  "net_income": -1349897843,
+  "total_assets": 60215077213,
+  "total_debt": 21062109168,
+  "total_equity": 39152968045,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -37.32093159729575,
+  "debt_ratio": 53.79441258142298,
+  "operating_margin": -34.7334013318627,
+  "net_margin": -43.61211976742185,
+  "roe": -13.791014172396954,
+  "cached_at": "2025-06-09T16:14:30.389145"
+}

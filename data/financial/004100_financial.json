@@ -1,0 +1,23 @@
+{
+  "ticker": "004100",
+  "name": "태양금속",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 154515542676,
+  "operating_profit": 7576919041,
+  "net_income": 3450160438,
+  "total_assets": 543286970514,
+  "total_debt": 429943043307,
+  "total_equity": 113343927207,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -4.239656140211978,
+  "operating_profit_yoy": 34.10196973713098,
+  "net_income_yoy": -37.60260724565122,
+  "debt_ratio": 379.32605116266626,
+  "operating_margin": 4.903661411517586,
+  "net_margin": 2.2328889238246794,
+  "roe": 12.175898693536434,
+  "cached_at": "2025-06-09T16:04:20.764235"
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "034220",
+  "name": "LG디스플레이",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 6065298000000,
+  "operating_profit": 33464000000,
+  "net_income": -237032000000,
+  "total_assets": 31987808000000,
+  "total_debt": 24153761000000,
+  "total_equity": 7834047000000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 15.464056082505628,
+  "debt_ratio": 308.31779538723725,
+  "operating_margin": 0.5517288680622122,
+  "net_margin": -3.9080025416723134,
+  "roe": -12.102659072635127,
+  "cached_at": "2025-06-09T15:56:50.939537"
+}

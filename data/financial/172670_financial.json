@@ -1,0 +1,21 @@
+{
+  "ticker": "172670",
+  "name": "에이엘티",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 10074081999,
+  "operating_profit": -3139323259,
+  "net_income": -4021918481,
+  "total_assets": 209340468208,
+  "total_debt": 111026840097,
+  "total_equity": 98313628111,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 11.868756873245179,
+  "debt_ratio": 112.93128148179647,
+  "operating_margin": -31.162375483062615,
+  "net_margin": -39.923424103548435,
+  "roe": -16.363625504529622,
+  "cached_at": "2025-06-09T16:23:19.200843"
+}

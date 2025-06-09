@@ -1,0 +1,18 @@
+{
+  "ticker": "067920",
+  "name": "이글루",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 0,
+  "operating_profit": -899005541,
+  "net_income": -887741615,
+  "total_assets": 92125647492,
+  "total_debt": 14608239315,
+  "total_equity": 77517408177,
+  "data_source": "f_data_financial",
+  "debt_ratio": 18.845108032564966,
+  "roe": -4.580863245442717,
+  "cached_at": "2025-06-09T16:31:54.884605"
+}

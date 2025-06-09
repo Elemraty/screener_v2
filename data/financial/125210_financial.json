@@ -1,0 +1,23 @@
+{
+  "ticker": "125210",
+  "name": "아모그린텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 34529320072,
+  "operating_profit": 1853980845,
+  "net_income": 1561429454,
+  "total_assets": 171972223468,
+  "total_debt": 99786400291,
+  "total_equity": 72185823177,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 13.264146721482062,
+  "operating_profit_yoy": 114.78813927084693,
+  "net_income_yoy": 553.5104284447642,
+  "debt_ratio": 138.23545385958022,
+  "operating_margin": 5.369294388462061,
+  "net_margin": 4.522039387813405,
+  "roe": 8.652277609532094,
+  "cached_at": "2025-06-09T16:20:37.713406"
+}

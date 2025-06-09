@@ -1,0 +1,23 @@
+{
+  "ticker": "013310",
+  "name": "아진산업",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 242906618746,
+  "operating_profit": 7068247112,
+  "net_income": -322530189,
+  "total_assets": 1341866817635,
+  "total_debt": 1014763825458,
+  "total_equity": 327102992177,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 40.34685931319988,
+  "operating_profit_yoy": -15.49519431192703,
+  "net_income_yoy": -104.205482200092,
+  "debt_ratio": 310.22761935142955,
+  "operating_margin": 2.9098618837517347,
+  "net_margin": -0.1327794980083519,
+  "roe": -0.39440811819351923,
+  "cached_at": "2025-06-09T16:21:37.133459"
+}

@@ -1,0 +1,20 @@
+{
+  "ticker": "950220",
+  "name": "네오이뮨텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 9111,
+  "operating_profit": -5564406,
+  "net_income": -5715924,
+  "total_assets": 39867415,
+  "total_debt": 17385298,
+  "total_equity": 22482117,
+  "data_source": "f_data_financial",
+  "debt_ratio": 77.3294525600058,
+  "operating_margin": -61073.49357918999,
+  "net_margin": -62736.51629897926,
+  "roe": -101.69725564545367,
+  "cached_at": "2025-06-09T16:09:59.224703"
+}

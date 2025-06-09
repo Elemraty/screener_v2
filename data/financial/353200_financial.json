@@ -1,0 +1,13 @@
+{
+  "ticker": "353200",
+  "name": "대덕전자",
+  "market": "KOSPI",
+  "bps": 16996,
+  "per": 32.49,
+  "eps": 461,
+  "pbr": 0.88,
+  "roe": 2.7124029183337255,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T15:58:45.218344"
+}

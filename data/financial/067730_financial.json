@@ -1,0 +1,23 @@
+{
+  "ticker": "067730",
+  "name": "로지시스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 12419232774,
+  "operating_profit": 1088234140,
+  "net_income": 964447431,
+  "total_assets": 30086631171,
+  "total_debt": 11610815504,
+  "total_equity": 18475815667,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 21.07581756237611,
+  "operating_profit_yoy": 82.71425338590606,
+  "net_income_yoy": 81.96869570481962,
+  "debt_ratio": 62.843317519877054,
+  "operating_margin": 8.762490886540492,
+  "net_margin": 7.765756939664556,
+  "roe": 20.880213320651766,
+  "cached_at": "2025-06-09T16:13:30.771450"
+}

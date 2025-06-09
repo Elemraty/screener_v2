@@ -1,0 +1,21 @@
+{
+  "ticker": "127120",
+  "name": "제이에스링크",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1427460386,
+  "operating_profit": -4818368237,
+  "net_income": -4478722571,
+  "total_assets": 60360073024,
+  "total_debt": 29826616198,
+  "total_equity": 30533456826,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -53.38545598993545,
+  "debt_ratio": 97.68502914023772,
+  "operating_margin": -337.54829796026297,
+  "net_margin": -313.7545962694057,
+  "roe": -58.67298415011112,
+  "cached_at": "2025-06-09T16:33:56.030896"
+}

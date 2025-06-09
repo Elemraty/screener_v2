@@ -1,0 +1,22 @@
+{
+  "ticker": "297890",
+  "name": "HB솔루션",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 20127751267,
+  "operating_profit": 2883818543,
+  "net_income": 2932726502,
+  "total_assets": 291649047690,
+  "total_debt": 69924165444,
+  "total_equity": 221724882246,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 72.2121050980405,
+  "net_income_yoy": -86.64415445261477,
+  "debt_ratio": 31.53645397651867,
+  "operating_margin": 14.327574425703975,
+  "net_margin": 14.570562121404418,
+  "roe": 5.290748557026973,
+  "cached_at": "2025-06-09T16:06:42.093213"
+}

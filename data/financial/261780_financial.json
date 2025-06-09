@@ -1,0 +1,19 @@
+{
+  "ticker": "261780",
+  "name": "차백신연구소",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 0,
+  "operating_profit": -2401441922,
+  "net_income": -2573901498,
+  "total_assets": 45199201309,
+  "total_debt": 20030595022,
+  "total_equity": 25168606287,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -100.0,
+  "debt_ratio": 79.58563455436996,
+  "roe": -40.90653997523037,
+  "cached_at": "2025-06-09T16:34:51.574727"
+}

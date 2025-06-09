@@ -1,0 +1,23 @@
+{
+  "ticker": "117580",
+  "name": "대성에너지",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 424171794994,
+  "operating_profit": 26528932680,
+  "net_income": 20905674409,
+  "total_assets": 810457252991,
+  "total_debt": 467467397956,
+  "total_equity": 342989855035,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 7.771999519704176,
+  "operating_profit_yoy": 14.42261904937563,
+  "net_income_yoy": 14.26967171695097,
+  "debt_ratio": 136.29190225124816,
+  "operating_margin": 6.254289651761324,
+  "net_margin": 4.928586637707893,
+  "roe": 24.380516335524508,
+  "cached_at": "2025-06-09T15:58:51.506337"
+}

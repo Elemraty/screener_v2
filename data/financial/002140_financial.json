@@ -1,0 +1,23 @@
+{
+  "ticker": "002140",
+  "name": "고려산업",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 78425018971,
+  "operating_profit": 3609703095,
+  "net_income": 2444107617,
+  "total_assets": 286724125263,
+  "total_debt": 176543056059,
+  "total_equity": 110181069204,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -0.8609343009040038,
+  "operating_profit_yoy": 37.64879113910939,
+  "net_income_yoy": 320.1276958346156,
+  "debt_ratio": 160.22993544574425,
+  "operating_margin": 4.602744305786902,
+  "net_margin": 3.1164896726436013,
+  "roe": 8.873058265480218,
+  "cached_at": "2025-06-09T15:58:05.112020"
+}

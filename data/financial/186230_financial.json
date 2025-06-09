@@ -1,0 +1,23 @@
+{
+  "ticker": "186230",
+  "name": "그린플러스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 22077106607,
+  "operating_profit": 300764869,
+  "net_income": -772733266,
+  "total_assets": 115012942279,
+  "total_debt": 53730136429,
+  "total_equity": 61282805850,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 23.58285372333555,
+  "operating_profit_yoy": -12.787738282095361,
+  "net_income_yoy": -2600.5278355628934,
+  "debt_ratio": 87.67571210840698,
+  "operating_margin": 1.3623382554335102,
+  "net_margin": -3.500156427903415,
+  "roe": -5.043719883788579,
+  "cached_at": "2025-06-09T16:09:13.009036"
+}

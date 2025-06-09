@@ -1,0 +1,18 @@
+{
+  "ticker": "140410",
+  "name": "메지온",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 0,
+  "operating_profit": -3518255958,
+  "net_income": 0,
+  "total_assets": 70839475239,
+  "total_debt": 27580061748,
+  "total_equity": 43259413491,
+  "data_source": "f_data_financial",
+  "debt_ratio": 63.75505242052797,
+  "roe": 0.0,
+  "cached_at": "2025-06-09T16:14:13.701988"
+}

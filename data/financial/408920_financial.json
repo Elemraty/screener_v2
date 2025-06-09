@@ -1,0 +1,13 @@
+{
+  "ticker": "408920",
+  "name": "메쎄이상",
+  "market": "KOSDAQ",
+  "bps": 1623,
+  "per": 7.22,
+  "eps": 315,
+  "pbr": 1.4,
+  "roe": 19.408502772643253,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:14:11.577400"
+}

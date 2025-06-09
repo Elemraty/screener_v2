@@ -1,0 +1,13 @@
+{
+  "ticker": "454910",
+  "name": "두산로보틱스",
+  "market": "KOSPI",
+  "bps": 6210,
+  "per": 0.0,
+  "eps": 0,
+  "pbr": 7.6,
+  "roe": 0.0,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T15:59:35.270234"
+}

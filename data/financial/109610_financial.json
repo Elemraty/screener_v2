@@ -1,0 +1,23 @@
+{
+  "ticker": "109610",
+  "name": "에스와이",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 116301933607,
+  "operating_profit": -2008624366,
+  "net_income": -3703283972,
+  "total_assets": 446156475556,
+  "total_debt": 230681511124,
+  "total_equity": 215474964432,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -15.711792034197835,
+  "operating_profit_yoy": -132.57045503199402,
+  "net_income_yoy": -270.9954197935408,
+  "debt_ratio": 107.05722204530119,
+  "operating_margin": -1.7270773612306518,
+  "net_margin": -3.1841981101654753,
+  "roe": -6.874643616741265,
+  "cached_at": "2025-06-09T16:22:41.102800"
+}

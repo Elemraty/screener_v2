@@ -1,0 +1,23 @@
+{
+  "ticker": "034590",
+  "name": "인천도시가스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 350534114268,
+  "operating_profit": 3874650079,
+  "net_income": 4130866737,
+  "total_assets": 563337898307,
+  "total_debt": 340392442444,
+  "total_equity": 222945455863,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 10.839036610111542,
+  "operating_profit_yoy": -57.72323478908399,
+  "net_income_yoy": -50.36040274480542,
+  "debt_ratio": 152.6796951865981,
+  "operating_margin": 1.1053560613041062,
+  "net_margin": 1.178449277505058,
+  "roe": 7.411439216843096,
+  "cached_at": "2025-06-09T16:03:11.559693"
+}

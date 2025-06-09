@@ -1,0 +1,23 @@
+{
+  "ticker": "020000",
+  "name": "한섬",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 380324141532,
+  "operating_profit": 21781292633,
+  "net_income": 18354940442,
+  "total_assets": 1744105082036,
+  "total_debt": 335409782021,
+  "total_equity": 1408695300015,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -3.372692537656885,
+  "operating_profit_yoy": -32.88069341068115,
+  "net_income_yoy": -22.445251649025078,
+  "debt_ratio": 23.80995961422094,
+  "operating_margin": 5.727033930915308,
+  "net_margin": 4.826130775728219,
+  "roe": 5.211897971635046,
+  "cached_at": "2025-06-09T16:05:04.621234"
+}

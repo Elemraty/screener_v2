@@ -1,0 +1,21 @@
+{
+  "ticker": "011080",
+  "name": "형지I&C",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 11931771424,
+  "operating_profit": -1714048500,
+  "net_income": -2107431722,
+  "total_assets": 60631143782,
+  "total_debt": 33644343990,
+  "total_equity": 26986799792,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -16.531087603855422,
+  "debt_ratio": 124.66963200273035,
+  "operating_margin": -14.365415151620322,
+  "net_margin": -17.662354122549104,
+  "roe": -31.23648210596248,
+  "cached_at": "2025-06-09T16:41:45.825049"
+}

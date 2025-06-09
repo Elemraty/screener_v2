@@ -1,0 +1,13 @@
+{
+  "ticker": "366030",
+  "name": "공구우먼",
+  "market": "KOSDAQ",
+  "bps": 3415,
+  "per": 11.86,
+  "eps": 347,
+  "pbr": 1.2,
+  "roe": 10.161054172767203,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:08:48.417246"
+}

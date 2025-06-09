@@ -1,0 +1,23 @@
+{
+  "ticker": "114630",
+  "name": "폴라리스우노",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 22564911466,
+  "operating_profit": 1010162505,
+  "net_income": 557178899,
+  "total_assets": 137814939420,
+  "total_debt": 16737378147,
+  "total_equity": 121077561273,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 10.474176445007632,
+  "operating_profit_yoy": 78.1327454779213,
+  "net_income_yoy": -65.10704554651825,
+  "debt_ratio": 13.823682911205443,
+  "operating_margin": 4.476696070897848,
+  "net_margin": 2.4692270556413978,
+  "roe": 1.8407338011828607,
+  "cached_at": "2025-06-09T16:38:51.124961"
+}

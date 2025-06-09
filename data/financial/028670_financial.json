@@ -1,0 +1,23 @@
+{
+  "ticker": "028670",
+  "name": "팬오션",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1393446000000,
+  "operating_profit": 113293000000,
+  "net_income": 72023000000,
+  "total_assets": 10934789000000,
+  "total_debt": 5309507000000,
+  "total_equity": 5625282000000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 42.842088537849236,
+  "operating_profit_yoy": 15.399032340208807,
+  "net_income_yoy": 19.164460622104574,
+  "debt_ratio": 94.38650364550612,
+  "operating_margin": 8.130419119219546,
+  "net_margin": 5.168696885275784,
+  "roe": 5.12137880376486,
+  "cached_at": "2025-06-09T16:04:30.203010"
+}

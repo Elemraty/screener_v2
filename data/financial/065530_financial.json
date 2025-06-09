@@ -1,0 +1,23 @@
+{
+  "ticker": "065530",
+  "name": "와이어블",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 12435490364,
+  "operating_profit": 313201549,
+  "net_income": 54389214,
+  "total_assets": 134118264813,
+  "total_debt": 60567474712,
+  "total_equity": 73550790101,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -28.3509276773665,
+  "operating_profit_yoy": -50.047445680713544,
+  "net_income_yoy": -93.26585262743757,
+  "debt_ratio": 82.34782335965215,
+  "operating_margin": 2.5186103630195373,
+  "net_margin": 0.4373708829163144,
+  "roe": 0.29579132420093757,
+  "cached_at": "2025-06-09T16:26:26.003215"
+}

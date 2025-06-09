@@ -1,0 +1,23 @@
+{
+  "ticker": "010120",
+  "name": "LS ELECTRIC",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1032084355626,
+  "operating_profit": 87309701238,
+  "net_income": 67350694528,
+  "total_assets": 4657026025109,
+  "total_debt": 2773668179384,
+  "total_equity": 1883357845725,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -0.6311153625062071,
+  "operating_profit_yoy": -6.857749278641068,
+  "net_income_yoy": -15.508470970018163,
+  "debt_ratio": 147.27249978966555,
+  "operating_margin": 8.459550884776586,
+  "net_margin": 6.525696679817333,
+  "roe": 14.30438611140801,
+  "cached_at": "2025-06-09T15:57:01.219718"
+}

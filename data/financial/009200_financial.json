@@ -1,0 +1,23 @@
+{
+  "ticker": "009200",
+  "name": "무림페이퍼",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 319075442143,
+  "operating_profit": 5128834031,
+  "net_income": -1536785090,
+  "total_assets": 2484044055305,
+  "total_debt": 1767171716987,
+  "total_equity": 716872338318,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -3.5431871692714556,
+  "operating_profit_yoy": -80.35039425366458,
+  "net_income_yoy": -123.80215412563615,
+  "debt_ratio": 246.5113553039752,
+  "operating_margin": 1.6074048182941674,
+  "net_margin": -0.4816369068326039,
+  "roe": -0.8574944284254371,
+  "cached_at": "2025-06-09T16:00:12.263900"
+}

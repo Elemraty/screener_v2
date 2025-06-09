@@ -1,0 +1,23 @@
+{
+  "ticker": "092130",
+  "name": "이크레더블",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 7747286785,
+  "operating_profit": 628845507,
+  "net_income": 566332786,
+  "total_assets": 61365003136,
+  "total_debt": 30956943285,
+  "total_equity": 30408059851,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 15.28725395703534,
+  "operating_profit_yoy": 154.98143745390198,
+  "net_income_yoy": 28.769599850067486,
+  "debt_ratio": 101.80505904253523,
+  "operating_margin": 8.116977265092943,
+  "net_margin": 7.3100790214260805,
+  "roe": 7.4497720508975585,
+  "cached_at": "2025-06-09T16:32:41.480797"
+}

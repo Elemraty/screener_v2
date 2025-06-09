@@ -1,0 +1,21 @@
+{
+  "ticker": "095910",
+  "name": "에스에너지",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 22620694430,
+  "operating_profit": -6873596583,
+  "net_income": -6917273066,
+  "total_assets": 266818385598,
+  "total_debt": 190701517845,
+  "total_equity": 76116867753,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -27.076068785750273,
+  "debt_ratio": 250.5377894211679,
+  "operating_margin": -30.38631994375957,
+  "net_margin": -30.579401916265574,
+  "roe": -36.35080249726839,
+  "cached_at": "2025-06-09T16:22:31.116686"
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "005960",
+  "name": "동부건설",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 416202457048,
+  "operating_profit": 15027892498,
+  "net_income": 16746542046,
+  "total_assets": 1580446348218,
+  "total_debt": 1114344270593,
+  "total_equity": 466102077625,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -0.8382460006231884,
+  "debt_ratio": 239.07730175138587,
+  "operating_margin": 3.610716910368181,
+  "net_margin": 4.023652855098029,
+  "roe": 14.371566100997596,
+  "cached_at": "2025-06-09T15:59:18.767238"
+}

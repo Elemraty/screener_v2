@@ -1,0 +1,22 @@
+{
+  "ticker": "089030",
+  "name": "테크윙",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 34587214904,
+  "operating_profit": 1783376942,
+  "net_income": -1587355915,
+  "total_assets": 520661090680,
+  "total_debt": 340007378533,
+  "total_equity": 180653712147,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -14.259552979583601,
+  "operating_profit_yoy": -68.0003665668743,
+  "debt_ratio": 188.20946134576639,
+  "operating_margin": 5.156173883760016,
+  "net_margin": -4.589429705183989,
+  "roe": -3.5146931577212213,
+  "cached_at": "2025-06-09T16:37:21.037149"
+}

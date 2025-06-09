@@ -1,0 +1,22 @@
+{
+  "ticker": "222980",
+  "name": "한국맥널티",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 24550684769,
+  "operating_profit": 456280337,
+  "net_income": -109390153,
+  "total_assets": 84419158221,
+  "total_debt": 46323382213,
+  "total_equity": 38095776008,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 10.29978092377959,
+  "operating_profit_yoy": 135.9424271118105,
+  "debt_ratio": 121.5971613316716,
+  "operating_margin": 1.858523871302125,
+  "net_margin": -0.4455686431122536,
+  "roe": -1.1485803883037153,
+  "cached_at": "2025-06-09T16:40:28.158330"
+}

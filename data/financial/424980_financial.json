@@ -1,0 +1,13 @@
+{
+  "ticker": "424980",
+  "name": "마이크로투나노",
+  "market": "KOSDAQ",
+  "bps": 5115,
+  "per": 0.0,
+  "eps": 0,
+  "pbr": 1.87,
+  "roe": 0.0,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:13:54.360048"
+}

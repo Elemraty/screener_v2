@@ -1,0 +1,21 @@
+{
+  "ticker": "064290",
+  "name": "인텍플러스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 14407118985,
+  "operating_profit": -4476331878,
+  "net_income": -5004469639,
+  "total_assets": 130128199915,
+  "total_debt": 89500254633,
+  "total_equity": 40627945282,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -23.764058999413496,
+  "debt_ratio": 220.29234806676925,
+  "operating_margin": -31.070277705490888,
+  "net_margin": -34.736088764245046,
+  "roe": -49.27120585856656,
+  "cached_at": "2025-06-09T16:33:06.738629"
+}

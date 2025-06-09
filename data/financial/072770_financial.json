@@ -1,0 +1,21 @@
+{
+  "ticker": "072770",
+  "name": "율호",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 15950728271,
+  "operating_profit": -1124344491,
+  "net_income": -1468049112,
+  "total_assets": 132074205856,
+  "total_debt": 72739888880,
+  "total_equity": 59334316976,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 72.66607774771599,
+  "debt_ratio": 122.59328595528012,
+  "operating_margin": -7.0488599134634455,
+  "net_margin": -9.203649432540697,
+  "roe": -9.89679623408361,
+  "cached_at": "2025-06-09T16:31:52.773410"
+}

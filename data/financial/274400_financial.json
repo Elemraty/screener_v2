@@ -1,0 +1,21 @@
+{
+  "ticker": "274400",
+  "name": "이노시뮬레이션",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2210016929,
+  "operating_profit": -1199602333,
+  "net_income": -1333409629,
+  "total_assets": 48941911020,
+  "total_debt": 28316269946,
+  "total_equity": 20625641074,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 13.580454805271703,
+  "debt_ratio": 137.28673860079215,
+  "operating_margin": -54.28023275562881,
+  "net_margin": -60.33481515471233,
+  "roe": -25.859261764830222,
+  "cached_at": "2025-06-09T16:32:01.130659"
+}

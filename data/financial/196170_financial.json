@@ -1,0 +1,23 @@
+{
+  "ticker": "196170",
+  "name": "알테오젠",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 83696077912,
+  "operating_profit": 61017565621,
+  "net_income": 83037817151,
+  "total_assets": 650303799263,
+  "total_debt": 275719783232,
+  "total_equity": 374584016031,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 139.81340053008665,
+  "operating_profit_yoy": 253.53899841473662,
+  "net_income_yoy": 297.51743612694986,
+  "debt_ratio": 73.60692699957113,
+  "operating_margin": 72.90373353594333,
+  "net_margin": 99.21351062388835,
+  "roe": 88.67203468086893,
+  "cached_at": "2025-06-09T16:21:55.268213"
+}

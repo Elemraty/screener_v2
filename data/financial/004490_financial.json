@@ -1,0 +1,23 @@
+{
+  "ticker": "004490",
+  "name": "세방전지",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 527132517503,
+  "operating_profit": 50568145704,
+  "net_income": 48466841588,
+  "total_assets": 2184273710085,
+  "total_debt": 641444790113,
+  "total_equity": 1542828919972,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 12.968203568962156,
+  "operating_profit_yoy": 9.776669562625173,
+  "net_income_yoy": 12.66813768838,
+  "debt_ratio": 41.5758858165973,
+  "operating_margin": 9.593061331814386,
+  "net_margin": 9.194432135885862,
+  "roe": 12.565707308333215,
+  "cached_at": "2025-06-09T16:01:26.720789"
+}

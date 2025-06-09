@@ -1,0 +1,21 @@
+{
+  "ticker": "138360",
+  "name": "협진",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1088639021,
+  "operating_profit": -1091859886,
+  "net_income": 3038407823,
+  "total_assets": 83395690416,
+  "total_debt": 28104463416,
+  "total_equity": 55291227000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 22.037921336207035,
+  "debt_ratio": 50.82987833856536,
+  "operating_margin": -100.29586161600577,
+  "net_margin": 279.10149869595756,
+  "roe": 21.98112060707208,
+  "cached_at": "2025-06-09T16:41:45.804832"
+}

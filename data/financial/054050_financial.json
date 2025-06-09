@@ -1,0 +1,23 @@
+{
+  "ticker": "054050",
+  "name": "농우바이오",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 37381787677,
+  "operating_profit": 7558071695,
+  "net_income": 6453750606,
+  "total_assets": 343969988471,
+  "total_debt": 69847292478,
+  "total_equity": 274122695993,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 11.721804764869482,
+  "operating_profit_yoy": 56.62559682681656,
+  "net_income_yoy": 22.96587892068045,
+  "debt_ratio": 25.480302615943785,
+  "operating_margin": 20.218593504157845,
+  "net_margin": 17.264424756151556,
+  "roe": 9.417316698453606,
+  "cached_at": "2025-06-09T16:10:30.163565"
+}

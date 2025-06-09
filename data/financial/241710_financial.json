@@ -1,0 +1,23 @@
+{
+  "ticker": "241710",
+  "name": "코스메카코리아",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 74337846554,
+  "operating_profit": 12290023963,
+  "net_income": 9220403024,
+  "total_assets": 538389318233,
+  "total_debt": 248971880665,
+  "total_equity": 289417437568,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -40.80817551404855,
+  "operating_profit_yoy": -10.49045722453734,
+  "net_income_yoy": -26.546325944197147,
+  "debt_ratio": 86.02518312549944,
+  "operating_margin": 16.53266072763133,
+  "net_margin": 12.403376545622931,
+  "roe": 12.743396668120416,
+  "cached_at": "2025-06-09T16:36:10.880905"
+}

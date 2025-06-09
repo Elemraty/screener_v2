@@ -1,0 +1,23 @@
+{
+  "ticker": "267270",
+  "name": "HD현대건설기계",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 906839913000,
+  "operating_profit": 41650646000,
+  "net_income": 25651621000,
+  "total_assets": 3403883213000,
+  "total_debt": 1575219557000,
+  "total_equity": 1828663656000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -7.381251861466298,
+  "operating_profit_yoy": -22.32343579543149,
+  "net_income_yoy": -44.00687827120232,
+  "debt_ratio": 86.14047486707419,
+  "operating_margin": 4.592943627967553,
+  "net_margin": 2.8286823983231537,
+  "roe": 5.611009091985804,
+  "cached_at": "2025-06-09T15:56:16.317689"
+}

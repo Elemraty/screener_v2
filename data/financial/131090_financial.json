@@ -1,0 +1,22 @@
+{
+  "ticker": "131090",
+  "name": "시큐브",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2669600064,
+  "operating_profit": 272446225,
+  "net_income": 502731424,
+  "total_assets": 48931975406,
+  "total_debt": 3488143216,
+  "total_equity": 45443832190,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 44.05062356654126,
+  "net_income_yoy": 230.39483928048276,
+  "debt_ratio": 7.675724180601944,
+  "operating_margin": 10.205507134719637,
+  "net_margin": 18.83171306366885,
+  "roe": 4.425079486237756,
+  "cached_at": "2025-06-09T16:19:19.373745"
+}

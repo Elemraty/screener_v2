@@ -1,0 +1,22 @@
+{
+  "ticker": "053290",
+  "name": "NE능률",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 16317311385,
+  "operating_profit": 358109644,
+  "net_income": 430044108,
+  "total_assets": 97156802680,
+  "total_debt": 16451879551,
+  "total_equity": 80704923129,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -7.430173280863627,
+  "net_income_yoy": 3330.9249566930043,
+  "debt_ratio": 20.38522423805926,
+  "operating_margin": 2.194660845469917,
+  "net_margin": 2.6355083742247283,
+  "roe": 2.1314392794234416,
+  "cached_at": "2025-06-09T16:07:47.091718"
+}

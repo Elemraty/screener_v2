@@ -1,0 +1,22 @@
+{
+  "ticker": "205470",
+  "name": "휴마시스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 6164940846,
+  "operating_profit": -2730879950,
+  "net_income": -2969279084,
+  "total_assets": 326112823728,
+  "total_debt": 79153468278,
+  "total_equity": 246959355450,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 229.8079040547728,
+  "net_income_yoy": -283.9942091279862,
+  "debt_ratio": 32.05121269197093,
+  "operating_margin": -44.29693679497148,
+  "net_margin": -48.16395093111977,
+  "roe": -4.80934051449801,
+  "cached_at": "2025-06-09T16:42:00.484599"
+}

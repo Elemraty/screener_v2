@@ -1,0 +1,21 @@
+{
+  "ticker": "291650",
+  "name": "압타머사이언스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 593978801,
+  "operating_profit": -2230086295,
+  "net_income": -2181818826,
+  "total_assets": 29410922079,
+  "total_debt": 6415018918,
+  "total_equity": 22995903161,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 1056.5550730973762,
+  "debt_ratio": 27.896355594676443,
+  "operating_margin": -375.44880242283256,
+  "net_margin": -367.3226758811549,
+  "roe": -37.951435274788686,
+  "cached_at": "2025-06-09T16:22:01.042144"
+}

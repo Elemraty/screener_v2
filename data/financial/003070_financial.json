@@ -1,0 +1,22 @@
+{
+  "ticker": "003070",
+  "name": "코오롱글로벌",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 644028331690,
+  "operating_profit": 9592243167,
+  "net_income": -36873716216,
+  "total_assets": 2903215618404,
+  "total_debt": 2342447079303,
+  "total_equity": 560768539101,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -8.317326340161324,
+  "operating_profit_yoy": 992.9628601367318,
+  "debt_ratio": 417.72084487091774,
+  "operating_margin": 1.4894132284256683,
+  "net_margin": -5.725480448855313,
+  "roe": -26.30227171810627,
+  "cached_at": "2025-06-09T16:04:06.855510"
+}

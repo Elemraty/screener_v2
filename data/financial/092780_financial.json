@@ -1,0 +1,23 @@
+{
+  "ticker": "092780",
+  "name": "DYP",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 106441177975,
+  "operating_profit": 1757780450,
+  "net_income": 1072660002,
+  "total_assets": 428364009514,
+  "total_debt": 287736360710,
+  "total_equity": 140627648804,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -3.9089742605472266,
+  "operating_profit_yoy": -56.31528390807097,
+  "net_income_yoy": -72.05328108414261,
+  "debt_ratio": 204.60866917503046,
+  "operating_margin": 1.6514101811357749,
+  "net_margin": 1.0077490895975778,
+  "roe": 3.0510643138036717,
+  "cached_at": "2025-06-09T15:56:01.658271"
+}

@@ -1,0 +1,13 @@
+{
+  "ticker": "344820",
+  "name": "KCC글라스",
+  "market": "KOSPI",
+  "bps": 93390,
+  "per": 13.24,
+  "eps": 2318,
+  "pbr": 0.33,
+  "roe": 2.4820644608630476,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T15:56:40.433264"
+}

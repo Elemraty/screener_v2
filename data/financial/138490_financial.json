@@ -1,0 +1,23 @@
+{
+  "ticker": "138490",
+  "name": "코오롱ENP",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 123871625293,
+  "operating_profit": 12841594258,
+  "net_income": 12144961965,
+  "total_assets": 423008544733,
+  "total_debt": 94201896604,
+  "total_equity": 328806648129,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 0.6528463477345259,
+  "operating_profit_yoy": 22.30954463058763,
+  "net_income_yoy": 26.113404753764623,
+  "debt_ratio": 28.649632584996265,
+  "operating_margin": 10.366857000241266,
+  "net_margin": 9.804474540697186,
+  "roe": 14.774594168467292,
+  "cached_at": "2025-06-09T16:04:06.563183"
+}

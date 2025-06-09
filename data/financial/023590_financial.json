@@ -1,0 +1,23 @@
+{
+  "ticker": "023590",
+  "name": "다우기술",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 3747561687129,
+  "operating_profit": 344439246096,
+  "net_income": 237472983008,
+  "total_assets": 61981520729978,
+  "total_debt": 55614899986927,
+  "total_equity": 6366620743051,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 37.63411617539782,
+  "operating_profit_yoy": -4.1329566177715655,
+  "net_income_yoy": -6.863601851206602,
+  "debt_ratio": 873.5387614792229,
+  "operating_margin": 9.19102271962531,
+  "net_margin": 6.336733130333809,
+  "roe": 14.919876185004144,
+  "cached_at": "2025-06-09T15:58:40.811565"
+}

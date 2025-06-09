@@ -1,0 +1,21 @@
+{
+  "ticker": "282720",
+  "name": "금양그린파워",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 46797615206,
+  "operating_profit": -8456283041,
+  "net_income": -8329138901,
+  "total_assets": 149920343670,
+  "total_debt": 64096894828,
+  "total_equity": 85823448842,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -35.738704824811116,
+  "debt_ratio": 74.68459458673313,
+  "operating_margin": -18.069901647286947,
+  "net_margin": -17.798212289954694,
+  "roe": -38.81987504992418,
+  "cached_at": "2025-06-09T16:09:18.137812"
+}

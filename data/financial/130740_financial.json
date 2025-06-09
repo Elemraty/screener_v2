@@ -1,0 +1,21 @@
+{
+  "ticker": "130740",
+  "name": "티피씨글로벌",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 17420765777,
+  "operating_profit": -1228408215,
+  "net_income": -918705428,
+  "total_assets": 111880831490,
+  "total_debt": 19230554709,
+  "total_equity": 92650276781,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -6.904717607305589,
+  "debt_ratio": 20.75606827862564,
+  "operating_margin": -7.0514019344765115,
+  "net_margin": -5.273622524751083,
+  "roe": -3.9663364640413077,
+  "cached_at": "2025-06-09T16:37:57.664996"
+}

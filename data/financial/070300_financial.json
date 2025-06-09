@@ -1,0 +1,23 @@
+{
+  "ticker": "070300",
+  "name": "엑스큐어",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2903115676,
+  "operating_profit": -69889192,
+  "net_income": 2281998458,
+  "total_assets": 40227717924,
+  "total_debt": 17023619889,
+  "total_equity": 23204098035,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -80.75322988903793,
+  "operating_profit_yoy": -184.64300223298306,
+  "net_income_yoy": 555.5384914666224,
+  "debt_ratio": 73.36471283357943,
+  "operating_margin": -2.4073857124527476,
+  "net_margin": 78.60515090270898,
+  "roe": 39.33785238379769,
+  "cached_at": "2025-06-09T16:24:05.052998"
+}

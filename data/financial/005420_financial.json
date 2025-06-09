@@ -1,0 +1,21 @@
+{
+  "ticker": "005420",
+  "name": "코스모화학",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 161598488769,
+  "operating_profit": 953133138,
+  "net_income": -633849011,
+  "total_assets": 1181318771439,
+  "total_debt": 591275143117,
+  "total_equity": 590043628322,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 1.1676933477768436,
+  "debt_ratio": 100.20871588741704,
+  "operating_margin": 0.5898156259137263,
+  "net_margin": -0.3922369669595533,
+  "roe": -0.42969636859062527,
+  "cached_at": "2025-06-09T16:04:04.806863"
+}

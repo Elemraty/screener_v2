@@ -1,0 +1,23 @@
+{
+  "ticker": "237880",
+  "name": "클리오",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 82335790614,
+  "operating_profit": 1149424335,
+  "net_income": 2658499491,
+  "total_assets": 317424957847,
+  "total_debt": 87374102259,
+  "total_equity": 230050855588,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -11.443982200652004,
+  "operating_profit_yoy": -86.49217726979855,
+  "net_income_yoy": -73.13427081738206,
+  "debt_ratio": 37.980342231579876,
+  "operating_margin": 1.396020280401069,
+  "net_margin": 3.228850383502555,
+  "roe": 4.622455298772945,
+  "cached_at": "2025-06-09T16:36:54.786018"
+}

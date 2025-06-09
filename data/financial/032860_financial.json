@@ -1,0 +1,23 @@
+{
+  "ticker": "032860",
+  "name": "더라미",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 13398747823,
+  "operating_profit": -775951905,
+  "net_income": 418377855,
+  "total_assets": 61256110240,
+  "total_debt": 4230240488,
+  "total_equity": 57025869752,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -40.60216267933424,
+  "operating_profit_yoy": -170.20813588936417,
+  "net_income_yoy": -71.4128441954201,
+  "debt_ratio": 7.418107792826147,
+  "operating_margin": -5.791227025468886,
+  "net_margin": 3.1225145851452,
+  "roe": 2.9346530395379142,
+  "cached_at": "2025-06-09T16:11:35.662245"
+}

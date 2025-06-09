@@ -1,0 +1,21 @@
+{
+  "ticker": "036480",
+  "name": "대성미생물",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 5201639678,
+  "operating_profit": -334431815,
+  "net_income": -263947764,
+  "total_assets": 58085058485,
+  "total_debt": 23484638875,
+  "total_equity": 34600419610,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -7.007767494544625,
+  "debt_ratio": 67.87385569223737,
+  "operating_margin": -6.429353736562296,
+  "net_margin": -5.074318490693426,
+  "roe": -3.0513822314884926,
+  "cached_at": "2025-06-09T16:11:01.326132"
+}

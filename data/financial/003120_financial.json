@@ -1,0 +1,21 @@
+{
+  "ticker": "003120",
+  "name": "일성아이에스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 16620514089,
+  "operating_profit": -1019579974,
+  "net_income": 1538722194,
+  "total_assets": 400112525430,
+  "total_debt": 20246807698,
+  "total_equity": 379865717732,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 3.9684292369563723,
+  "debt_ratio": 5.329990771182035,
+  "operating_margin": -6.1344671322458755,
+  "net_margin": 9.257969914530962,
+  "roe": 1.6202801381361691,
+  "cached_at": "2025-06-09T16:03:14.913010"
+}

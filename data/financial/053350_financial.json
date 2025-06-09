@@ -1,0 +1,23 @@
+{
+  "ticker": "053350",
+  "name": "이니텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 7724576842,
+  "operating_profit": -227583016,
+  "net_income": 614210343,
+  "total_assets": 116717542471,
+  "total_debt": 5001111383,
+  "total_equity": 111716431088,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -14.589447468238914,
+  "operating_profit_yoy": -2143.191919416817,
+  "net_income_yoy": 16.725033680220847,
+  "debt_ratio": 4.476612199561389,
+  "operating_margin": -2.9462198467958487,
+  "net_margin": 7.951378509958254,
+  "roe": 2.199176386206542,
+  "cached_at": "2025-06-09T16:32:07.440073"
+}

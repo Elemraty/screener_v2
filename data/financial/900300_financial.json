@@ -1,0 +1,21 @@
+{
+  "ticker": "900300",
+  "name": "오가닉티코스메틱",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 157342220,
+  "operating_profit": -48769884,
+  "net_income": -47200529,
+  "total_assets": 1613066815,
+  "total_debt": 321840934,
+  "total_equity": 1291225881,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 13.088432936490335,
+  "debt_ratio": 24.925223288643174,
+  "operating_margin": -30.99605687526209,
+  "net_margin": -29.998641814002625,
+  "roe": -14.621927795761088,
+  "cached_at": "2025-06-09T16:25:10.935862"
+}

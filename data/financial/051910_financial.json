@@ -1,0 +1,23 @@
+{
+  "ticker": "051910",
+  "name": "LG화학",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 12171015000000,
+  "operating_profit": 446971000000,
+  "net_income": 260370000000,
+  "total_assets": 95090630000000,
+  "total_debt": 46984296000000,
+  "total_equity": 48106334000000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 4.837299533689499,
+  "operating_profit_yoy": 68.90349203230157,
+  "net_income_yoy": -23.8013573349644,
+  "debt_ratio": 97.66758780662855,
+  "operating_margin": 3.6724217331093585,
+  "net_margin": 2.1392628305856167,
+  "roe": 2.1649539954551518,
+  "cached_at": "2025-06-09T15:56:58.783292"
+}

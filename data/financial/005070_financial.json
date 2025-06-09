@@ -1,0 +1,23 @@
+{
+  "ticker": "005070",
+  "name": "코스모신소재",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 113876600402,
+  "operating_profit": 1044003223,
+  "net_income": 1922577435,
+  "total_assets": 749709597947,
+  "total_debt": 252289706078,
+  "total_equity": 497419891869,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -6.735311757170215,
+  "operating_profit_yoy": -80.25631290815242,
+  "net_income_yoy": -58.35702876386516,
+  "debt_ratio": 50.71966565913748,
+  "operating_margin": 0.9167846768471535,
+  "net_margin": 1.6882989378090303,
+  "roe": 1.5460398479651698,
+  "cached_at": "2025-06-09T16:04:04.351540"
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "078000",
+  "name": "텔코웨어",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 6373230111,
+  "operating_profit": -1816402622,
+  "net_income": -1108502646,
+  "total_assets": 115942188774,
+  "total_debt": 11361839489,
+  "total_equity": 104580349285,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -9.232762789628213,
+  "debt_ratio": 10.864220254263039,
+  "operating_margin": -28.500502733534518,
+  "net_margin": -17.393105641780586,
+  "roe": -4.239812368494329,
+  "cached_at": "2025-06-09T16:04:24.780877"
+}

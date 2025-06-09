@@ -1,0 +1,23 @@
+{
+  "ticker": "204270",
+  "name": "제이앤티씨",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 48048658420,
+  "operating_profit": -14167684971,
+  "net_income": -18015559724,
+  "total_assets": 634340142813,
+  "total_debt": 315391334513,
+  "total_equity": 318948808300,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -62.184750947864195,
+  "operating_profit_yoy": -144.61116485188427,
+  "net_income_yoy": -155.7027238669584,
+  "debt_ratio": 98.88462546514553,
+  "operating_margin": -29.486119772914982,
+  "net_margin": -37.494407370385844,
+  "roe": -22.593669272536985,
+  "cached_at": "2025-06-09T16:33:54.429160"
+}

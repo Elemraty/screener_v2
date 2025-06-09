@@ -1,0 +1,23 @@
+{
+  "ticker": "035720",
+  "name": "카카오",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1863730780367,
+  "operating_profit": 105400864741,
+  "net_income": 200334090266,
+  "total_assets": 25902270504930,
+  "total_debt": 11566948419379,
+  "total_equity": 14335322085551,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -6.267475211949836,
+  "operating_profit_yoy": -12.380675465994962,
+  "net_income_yoy": 196.02522316651707,
+  "debt_ratio": 80.68844460102974,
+  "operating_margin": 5.65536964090086,
+  "net_margin": 10.749089534624247,
+  "roe": 5.589943192638071,
+  "cached_at": "2025-06-09T16:03:49.035286"
+}

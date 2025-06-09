@@ -1,0 +1,23 @@
+{
+  "ticker": "017890",
+  "name": "한국알콜",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 108322145381,
+  "operating_profit": 6554692912,
+  "net_income": 9577348132,
+  "total_assets": 673527627286,
+  "total_debt": 106625459814,
+  "total_equity": 566902167472,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 6.641011550262732,
+  "operating_profit_yoy": -3.7728816684278965,
+  "net_income_yoy": 35.91894074157938,
+  "debt_ratio": 18.808441020692758,
+  "operating_margin": 6.0511106837344,
+  "net_margin": 8.84154214109564,
+  "roe": 6.75767261551212,
+  "cached_at": "2025-06-09T16:40:32.365531"
+}

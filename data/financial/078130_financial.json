@@ -1,0 +1,21 @@
+{
+  "ticker": "078130",
+  "name": "국일제지",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 18679813549,
+  "operating_profit": 135916326,
+  "net_income": 275520027,
+  "total_assets": 137924783849,
+  "total_debt": 14689822079,
+  "total_equity": 123234961770,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 7.797005414484404,
+  "debt_ratio": 11.920174168119921,
+  "operating_margin": 0.727610720757307,
+  "net_margin": 1.4749613334055447,
+  "roe": 0.89429175955511,
+  "cached_at": "2025-06-09T16:09:05.145660"
+}

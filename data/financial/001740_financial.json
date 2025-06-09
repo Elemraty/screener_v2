@@ -1,0 +1,23 @@
+{
+  "ticker": "001740",
+  "name": "SK네트웍스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1636685000000,
+  "operating_profit": 16476000000,
+  "net_income": -5383000000,
+  "total_assets": 5119096000000,
+  "total_debt": 3116079000000,
+  "total_equity": 2003017000000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -33.92219971206013,
+  "operating_profit_yoy": -73.60038455375741,
+  "net_income_yoy": -173.66908443957848,
+  "debt_ratio": 155.5692737505473,
+  "operating_margin": 1.006668968066549,
+  "net_margin": -0.3288965194890892,
+  "roe": -1.0749783950910052,
+  "cached_at": "2025-06-09T15:57:31.307136"
+}

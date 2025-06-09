@@ -1,0 +1,23 @@
+{
+  "ticker": "069730",
+  "name": "DSR제강",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 52360318601,
+  "operating_profit": 6049578350,
+  "net_income": 6123540641,
+  "total_assets": 242417256144,
+  "total_debt": 72449867373,
+  "total_equity": 169967388771,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 7.241714843731817,
+  "operating_profit_yoy": 30.054935486482304,
+  "net_income_yoy": 2.994438618111195,
+  "debt_ratio": 42.62574597213643,
+  "operating_margin": 11.553746256013925,
+  "net_margin": 11.695002636754486,
+  "roe": 14.41109541136824,
+  "cached_at": "2025-06-09T15:56:00.611437"
+}

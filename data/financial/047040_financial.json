@@ -1,0 +1,23 @@
+{
+  "ticker": "047040",
+  "name": "대우건설",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2076668652788,
+  "operating_profit": 151326026275,
+  "net_income": 57957960087,
+  "total_assets": 12864155021623,
+  "total_debt": 8477384493295,
+  "total_equity": 4386770528328,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -16.510367430578455,
+  "operating_profit_yoy": 31.828692867707243,
+  "net_income_yoy": -36.64538960211334,
+  "debt_ratio": 193.24887040595033,
+  "operating_margin": 7.286960588143879,
+  "net_margin": 2.7909103365714802,
+  "roe": 5.284795246318977,
+  "cached_at": "2025-06-09T15:58:56.224494"
+}

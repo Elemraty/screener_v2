@@ -1,0 +1,23 @@
+{
+  "ticker": "194370",
+  "name": "제이에스코퍼레이션",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 293693988193,
+  "operating_profit": 28343011078,
+  "net_income": 14204446772,
+  "total_assets": 1814435943461,
+  "total_debt": 1300260749586,
+  "total_equity": 514175193875,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 41.57784024186753,
+  "operating_profit_yoy": 47.04748699540404,
+  "net_income_yoy": 30.15116470610908,
+  "debt_ratio": 252.88282380695782,
+  "operating_margin": 9.650524769807166,
+  "net_margin": 4.83647856035296,
+  "roe": 11.050277758404045,
+  "cached_at": "2025-06-09T16:03:24.670335"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "012160",
+  "name": "영흥",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 110984994835,
+  "operating_profit": -1580546303,
+  "net_income": 585388377,
+  "total_assets": 489106951559,
+  "total_debt": 272758301314,
+  "total_equity": 216348650245,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -11.236887880596447,
+  "operating_profit_yoy": -140.82106201722152,
+  "net_income_yoy": -76.9105146459119,
+  "debt_ratio": 126.07349341219367,
+  "operating_margin": -1.4241081015949755,
+  "net_margin": 0.5274482175453444,
+  "roe": 1.0823055772931105,
+  "cached_at": "2025-06-09T16:02:28.804302"
+}

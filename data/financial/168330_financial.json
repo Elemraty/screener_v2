@@ -1,0 +1,21 @@
+{
+  "ticker": "168330",
+  "name": "내츄럴엔도텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 6237780436,
+  "operating_profit": -726079375,
+  "net_income": -699506908,
+  "total_assets": 33192956225,
+  "total_debt": 7026198712,
+  "total_equity": 26166757513,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 19.198703254072957,
+  "debt_ratio": 26.85162159854651,
+  "operating_margin": -11.64002777028813,
+  "net_margin": -11.21403542777728,
+  "roe": -10.693062106032441,
+  "cached_at": "2025-06-09T16:09:52.933961"
+}

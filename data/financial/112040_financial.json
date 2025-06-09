@@ -1,0 +1,21 @@
+{
+  "ticker": "112040",
+  "name": "위메이드",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 141833424712,
+  "operating_profit": -11336568831,
+  "net_income": -20621455797,
+  "total_assets": 1869022910978,
+  "total_debt": 1035544109433,
+  "total_equity": 833478801545,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -12.068215094336555,
+  "debt_ratio": 124.24360493793438,
+  "operating_margin": -7.992875342338719,
+  "net_margin": -14.539207410998442,
+  "roe": -9.896571218739814,
+  "cached_at": "2025-06-09T16:30:50.865955"
+}

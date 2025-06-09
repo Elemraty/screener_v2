@@ -1,0 +1,23 @@
+{
+  "ticker": "009770",
+  "name": "삼정펄프",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 39729419605,
+  "operating_profit": 417366354,
+  "net_income": 7177916979,
+  "total_assets": 298275553833,
+  "total_debt": 35263000993,
+  "total_equity": 263012552840,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 0.4213187804969598,
+  "operating_profit_yoy": -70.09844717157956,
+  "net_income_yoy": -59.286896437805304,
+  "debt_ratio": 13.407345243499366,
+  "operating_margin": 1.050522152474319,
+  "net_margin": 18.067006894046468,
+  "roe": 10.916462961928035,
+  "cached_at": "2025-06-09T16:01:07.131971"
+}

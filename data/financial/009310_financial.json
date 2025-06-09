@@ -1,0 +1,22 @@
+{
+  "ticker": "009310",
+  "name": "참엔지니어링",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 10070925320,
+  "operating_profit": -8768352001,
+  "net_income": -7226883803,
+  "total_assets": 550836932036,
+  "total_debt": 488498594239,
+  "total_equity": 62338337797,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -48.69738544243036,
+  "net_income_yoy": -1241.4908045474692,
+  "debt_ratio": 783.6246706316715,
+  "operating_margin": -87.06600160748684,
+  "net_margin": -71.7598787933421,
+  "roe": -46.37200193905581,
+  "cached_at": "2025-06-09T16:03:47.042563"
+}

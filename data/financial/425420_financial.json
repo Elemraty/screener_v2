@@ -1,0 +1,13 @@
+{
+  "ticker": "425420",
+  "name": "티에프이",
+  "market": "KOSDAQ",
+  "bps": 7104,
+  "per": 190.23,
+  "eps": 128,
+  "pbr": 3.43,
+  "roe": 1.8018018018018018,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:37:48.212347"
+}

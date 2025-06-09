@@ -1,0 +1,22 @@
+{
+  "ticker": "204610",
+  "name": "티쓰리",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 16029915389,
+  "operating_profit": 3439440466,
+  "net_income": 3796150185,
+  "total_assets": 115671227657,
+  "total_debt": 14458234651,
+  "total_equity": 101212993006,
+  "data_source": "f_data_financial",
+  "operating_profit_yoy": 35.235079673259605,
+  "net_income_yoy": 56.92322494999482,
+  "debt_ratio": 14.284959096252498,
+  "operating_margin": 21.456385654787688,
+  "net_margin": 23.681660775358694,
+  "roe": 15.002620008579179,
+  "cached_at": "2025-06-09T16:37:39.865532"
+}

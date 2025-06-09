@@ -1,0 +1,13 @@
+{
+  "ticker": "373220",
+  "name": "LG에너지솔루션",
+  "market": "KOSPI",
+  "bps": 90240,
+  "per": 0.0,
+  "eps": 0,
+  "pbr": 3.17,
+  "roe": 0.0,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T15:56:54.069801"
+}

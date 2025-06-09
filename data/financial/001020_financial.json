@@ -1,0 +1,22 @@
+{
+  "ticker": "001020",
+  "name": "페이퍼코리아",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 66304157886,
+  "operating_profit": 450555491,
+  "net_income": -1875783646,
+  "total_assets": 478593536507,
+  "total_debt": 196699565741,
+  "total_equity": 281893970766,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -4.2722527651612,
+  "operating_profit_yoy": -77.35436394996837,
+  "debt_ratio": 69.7778548460975,
+  "operating_margin": 0.6795282609194165,
+  "net_margin": -2.8290588491073625,
+  "roe": -2.661686790821201,
+  "cached_at": "2025-06-09T16:04:32.054910"
+}

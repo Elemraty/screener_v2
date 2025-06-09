@@ -1,0 +1,22 @@
+{
+  "ticker": "099520",
+  "name": "DGI",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2761638915,
+  "operating_profit": -1759742416,
+  "net_income": -1245107817,
+  "total_assets": 30197252162,
+  "total_debt": 5421902515,
+  "total_equity": 24775349647,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -36.53298962380597,
+  "net_income_yoy": -570.9293684135877,
+  "debt_ratio": 21.884262350487262,
+  "operating_margin": -63.72094506786743,
+  "net_margin": -45.08582965850914,
+  "roe": -20.102365209619034,
+  "cached_at": "2025-06-09T16:06:25.552307"
+}

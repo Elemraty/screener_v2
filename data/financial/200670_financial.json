@@ -1,0 +1,23 @@
+{
+  "ticker": "200670",
+  "name": "휴메딕스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 40139424793,
+  "operating_profit": 11423479817,
+  "net_income": 13435776528,
+  "total_assets": 266103230336,
+  "total_debt": 27297786114,
+  "total_equity": 238805444222,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -2.5120169087034183,
+  "operating_profit_yoy": 7.278138988255356,
+  "net_income_yoy": 45.04330829721883,
+  "debt_ratio": 11.430973109902485,
+  "operating_margin": 28.459500543197038,
+  "net_margin": 33.47276797634403,
+  "roe": 22.504975247565525,
+  "cached_at": "2025-06-09T16:42:04.663096"
+}

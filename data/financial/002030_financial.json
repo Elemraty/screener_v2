@@ -1,0 +1,23 @@
+{
+  "ticker": "002030",
+  "name": "아세아",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 433122054000,
+  "operating_profit": 25597468000,
+  "net_income": 14972694000,
+  "total_assets": 3311988484000,
+  "total_debt": 1293957090000,
+  "total_equity": 2018031394000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -10.223183755764309,
+  "operating_profit_yoy": -47.733159902600974,
+  "net_income_yoy": -53.705181953445916,
+  "debt_ratio": 64.11977008123789,
+  "operating_margin": 5.9099895199518055,
+  "net_margin": 3.4569225606784735,
+  "roe": 2.967782175146875,
+  "cached_at": "2025-06-09T16:02:04.250383"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "102260",
+  "name": "동성케미컬",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 285417492150,
+  "operating_profit": 21153893455,
+  "net_income": 13735015746,
+  "total_assets": 1095184388224,
+  "total_debt": 482799572907,
+  "total_equity": 612384815317,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 12.683798650448995,
+  "operating_profit_yoy": 5.450424306185719,
+  "net_income_yoy": -16.26329253252623,
+  "debt_ratio": 78.83924630905153,
+  "operating_margin": 7.411561672570039,
+  "net_margin": 4.812254372546172,
+  "roe": 8.97149335023279,
+  "cached_at": "2025-06-09T15:59:20.887108"
+}

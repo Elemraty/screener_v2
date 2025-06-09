@@ -1,0 +1,22 @@
+{
+  "ticker": "078150",
+  "name": "HB테크놀러지",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 30012474517,
+  "operating_profit": -3066184229,
+  "net_income": -566599142,
+  "total_assets": 346207853123,
+  "total_debt": 91678115293,
+  "total_equity": 254529737830,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 3.0216008863641397,
+  "net_income_yoy": -102.46262607459249,
+  "debt_ratio": 36.018626379221615,
+  "operating_margin": -10.216365955640272,
+  "net_margin": -1.887878794129623,
+  "roe": -0.8904250589036173,
+  "cached_at": "2025-06-09T16:06:44.210780"
+}

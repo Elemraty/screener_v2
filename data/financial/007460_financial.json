@@ -1,0 +1,21 @@
+{
+  "ticker": "007460",
+  "name": "에이프로젠",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 26726925796,
+  "operating_profit": -22476347401,
+  "net_income": -30133362154,
+  "total_assets": 673170538836,
+  "total_debt": 257046684123,
+  "total_equity": 416123854713,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -29.815550535289493,
+  "debt_ratio": 61.7716771609464,
+  "operating_margin": -84.09626895572049,
+  "net_margin": -112.74533548676897,
+  "roe": -28.965762777318243,
+  "cached_at": "2025-06-09T16:02:18.366588"
+}

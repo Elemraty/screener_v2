@@ -1,0 +1,23 @@
+{
+  "ticker": "211050",
+  "name": "인카금융서비스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 230098638000,
+  "operating_profit": 21099937000,
+  "net_income": 15670431000,
+  "total_assets": 763696488000,
+  "total_debt": 605690451000,
+  "total_equity": 158006037000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 23.735907224122666,
+  "operating_profit_yoy": 14.458811124537462,
+  "net_income_yoy": 23.13196932274133,
+  "debt_ratio": 383.3337399633661,
+  "operating_margin": 9.169953018148677,
+  "net_margin": 6.810310194013404,
+  "roe": 39.67046145205199,
+  "cached_at": "2025-06-09T16:32:58.334411"
+}

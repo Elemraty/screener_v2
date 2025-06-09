@@ -1,0 +1,23 @@
+{
+  "ticker": "134060",
+  "name": "이퓨쳐",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2853828981,
+  "operating_profit": 311156656,
+  "net_income": 408885170,
+  "total_assets": 28191296941,
+  "total_debt": 5655685323,
+  "total_equity": 22535611618,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -1.2234584355709788,
+  "operating_profit_yoy": -37.75018882305552,
+  "net_income_yoy": -58.51129124148026,
+  "debt_ratio": 25.096657764915513,
+  "operating_margin": 10.903129026707434,
+  "net_margin": 14.327598910875311,
+  "roe": 7.257582832558381,
+  "cached_at": "2025-06-09T16:32:43.654599"
+}

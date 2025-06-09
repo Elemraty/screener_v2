@@ -1,0 +1,23 @@
+{
+  "ticker": "004650",
+  "name": "창해에탄올",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 30018716301,
+  "operating_profit": 4138670984,
+  "net_income": 3496592274,
+  "total_assets": 191917065135,
+  "total_debt": 56460048095,
+  "total_equity": 135457017040,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 3.1009608570274683,
+  "operating_profit_yoy": 4.475358687099318,
+  "net_income_yoy": 26.365676192821397,
+  "debt_ratio": 41.68115416149135,
+  "operating_margin": 13.78696857820709,
+  "net_margin": 11.64804063884477,
+  "roe": 10.325318984301768,
+  "cached_at": "2025-06-09T16:34:53.630803"
+}

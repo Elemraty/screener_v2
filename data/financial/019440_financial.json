@@ -1,0 +1,23 @@
+{
+  "ticker": "019440",
+  "name": "세아특수강",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 243532512337,
+  "operating_profit": 8366212242,
+  "net_income": 5305666757,
+  "total_assets": 681631921729,
+  "total_debt": 340654150921,
+  "total_equity": 340977770808,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -3.094146193731362,
+  "operating_profit_yoy": 20.630519892942843,
+  "net_income_yoy": 44.86939684017746,
+  "debt_ratio": 99.90509062035537,
+  "operating_margin": 3.4353574238263698,
+  "net_margin": 2.1786276937257663,
+  "roe": 6.224061755612274,
+  "cached_at": "2025-06-09T16:01:29.866176"
+}

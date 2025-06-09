@@ -1,0 +1,21 @@
+{
+  "ticker": "086820",
+  "name": "바이오솔루션",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 3139148993,
+  "operating_profit": -1377132203,
+  "net_income": -2420191135,
+  "total_assets": 65177233547,
+  "total_debt": 36140469599,
+  "total_equity": 29036763948,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 21.798948917200246,
+  "debt_ratio": 124.46452250575012,
+  "operating_margin": -43.86960306984066,
+  "net_margin": -77.0970457406384,
+  "roe": -33.339681230789466,
+  "cached_at": "2025-06-09T16:15:08.167321"
+}

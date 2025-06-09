@@ -1,0 +1,23 @@
+{
+  "ticker": "006140",
+  "name": "피제이전자",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 44866652554,
+  "operating_profit": 4272799549,
+  "net_income": 3445655305,
+  "total_assets": 197970053809,
+  "total_debt": 64493663541,
+  "total_equity": 133476390268,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 6.269675107559269,
+  "operating_profit_yoy": 39.64340437134617,
+  "net_income_yoy": 33.43187243127317,
+  "debt_ratio": 48.31840553337311,
+  "operating_margin": 9.52333037071888,
+  "net_margin": 7.679769068692889,
+  "roe": 10.325886991944136,
+  "cached_at": "2025-06-09T16:39:39.987715"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "039310",
+  "name": "세중",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 14487555308,
+  "operating_profit": -296128753,
+  "net_income": 632692847,
+  "total_assets": 128341004486,
+  "total_debt": 25591945088,
+  "total_equity": 102749059398,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -3.6336323218533417,
+  "operating_profit_yoy": -126.12038690661214,
+  "net_income_yoy": -62.76787772509387,
+  "debt_ratio": 24.907230526431608,
+  "operating_margin": -2.044021553011627,
+  "net_margin": 4.367147068978769,
+  "roe": 2.4630603947399847,
+  "cached_at": "2025-06-09T16:18:08.374694"
+}

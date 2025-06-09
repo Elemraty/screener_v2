@@ -1,0 +1,21 @@
+{
+  "ticker": "052020",
+  "name": "에스티큐브",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1808116793,
+  "operating_profit": -5165561879,
+  "net_income": -4570042422,
+  "total_assets": 106573178151,
+  "total_debt": 16880425737,
+  "total_equity": 89692752414,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -30.6077592705812,
+  "debt_ratio": 18.820278431287342,
+  "operating_margin": -285.6874013337035,
+  "net_margin": -252.75150585916825,
+  "roe": -20.380877156744134,
+  "cached_at": "2025-06-09T16:22:57.897386"
+}

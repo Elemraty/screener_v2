@@ -1,0 +1,21 @@
+{
+  "ticker": "082660",
+  "name": "코스나인",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1675181041,
+  "operating_profit": -2355893066,
+  "net_income": -15762075292,
+  "total_assets": 13433136090,
+  "total_debt": 7074166009,
+  "total_equity": 6358970081,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -22.458625188548087,
+  "debt_ratio": 111.2470403051107,
+  "operating_margin": -140.63513186572652,
+  "net_margin": -940.9177220983127,
+  "roe": -991.4860482892088,
+  "cached_at": "2025-06-09T16:36:08.682755"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "222080",
+  "name": "씨아이에스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 107822279418,
+  "operating_profit": 17005961173,
+  "net_income": 14665171811,
+  "total_assets": 743160840690,
+  "total_debt": 249844815994,
+  "total_equity": 493316024696,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 13.953407892568691,
+  "operating_profit_yoy": -7.32573131906733,
+  "net_income_yoy": 10.922637792815127,
+  "debt_ratio": 50.64599637685879,
+  "operating_margin": 15.77221448553517,
+  "net_margin": 13.601244464649831,
+  "roe": 11.89109704679651,
+  "cached_at": "2025-06-09T16:20:14.945578"
+}

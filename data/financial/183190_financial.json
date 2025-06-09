@@ -1,0 +1,23 @@
+{
+  "ticker": "183190",
+  "name": "아세아시멘트",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 220455197000,
+  "operating_profit": 10007123000,
+  "net_income": 1061098000,
+  "total_assets": 2150671396000,
+  "total_debt": 1055613517000,
+  "total_equity": 1095057879000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -16.115859535850554,
+  "operating_profit_yoy": -69.32985342507646,
+  "net_income_yoy": -93.7508521683346,
+  "debt_ratio": 96.39796555447641,
+  "operating_margin": 4.53930011003551,
+  "net_margin": 0.4813213815957353,
+  "roe": 0.3875952204349191,
+  "cached_at": "2025-06-09T16:02:05.730035"
+}

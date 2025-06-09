@@ -1,0 +1,23 @@
+{
+  "ticker": "059120",
+  "name": "아진엑스텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 5200731918,
+  "operating_profit": -1100812570,
+  "net_income": -1092645801,
+  "total_assets": 43082223595,
+  "total_debt": 3914058349,
+  "total_equity": 39168165246,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -29.07631931235789,
+  "operating_profit_yoy": -1764.495780495432,
+  "net_income_yoy": -1107.3093343662538,
+  "debt_ratio": 9.99295811896555,
+  "operating_margin": -21.166493242807444,
+  "net_margin": -21.009462095485,
+  "roe": -11.158508897595963,
+  "cached_at": "2025-06-09T16:21:37.662545"
+}

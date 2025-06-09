@@ -1,0 +1,23 @@
+{
+  "ticker": "101240",
+  "name": "씨큐브",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 14699665095,
+  "operating_profit": 2806333016,
+  "net_income": 2032595789,
+  "total_assets": 115332393617,
+  "total_debt": 26951783933,
+  "total_equity": 88380609684,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 4.745041109118753,
+  "operating_profit_yoy": 54.69508078302518,
+  "net_income_yoy": 9.461971495681688,
+  "debt_ratio": 30.495132393139873,
+  "operating_margin": 19.09113573583766,
+  "net_margin": 13.827497265168134,
+  "roe": 9.199283853177452,
+  "cached_at": "2025-06-09T16:20:30.715262"
+}

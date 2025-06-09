@@ -1,0 +1,21 @@
+{
+  "ticker": "006490",
+  "name": "인스코비",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 24307287667,
+  "operating_profit": -207596997,
+  "net_income": -19894655179,
+  "total_assets": 85905018896,
+  "total_debt": 55982734934,
+  "total_equity": 29922283962,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 0.8526560396917127,
+  "debt_ratio": 187.09378938150456,
+  "operating_margin": -0.8540524958769354,
+  "net_margin": -81.84646288614643,
+  "roe": -265.9510243839053,
+  "cached_at": "2025-06-09T16:03:10.315953"
+}

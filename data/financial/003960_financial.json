@@ -1,0 +1,23 @@
+{
+  "ticker": "003960",
+  "name": "사조대림",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 853730549586,
+  "operating_profit": 15252257579,
+  "net_income": 8643865734,
+  "total_assets": 2226889740651,
+  "total_debt": 1377630878585,
+  "total_equity": 849258862066,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 43.56879707527283,
+  "operating_profit_yoy": -65.41375490389348,
+  "net_income_yoy": -74.63177511173272,
+  "debt_ratio": 162.21566122178865,
+  "operating_margin": 1.7865423213912497,
+  "net_margin": 1.0124817178197119,
+  "roe": 4.071251355786615,
+  "cached_at": "2025-06-09T16:00:37.934763"
+}

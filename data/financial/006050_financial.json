@@ -1,0 +1,21 @@
+{
+  "ticker": "006050",
+  "name": "국영지앤엠",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 13601373803,
+  "operating_profit": 176322701,
+  "net_income": 318285831,
+  "total_assets": 72055842169,
+  "total_debt": 21047260088,
+  "total_equity": 51008582081,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -24.289534871199226,
+  "debt_ratio": 41.2621939864504,
+  "operating_margin": 1.296359496870156,
+  "net_margin": 2.3401006075562525,
+  "roe": 2.4959394518716262,
+  "cached_at": "2025-06-09T16:09:03.086866"
+}

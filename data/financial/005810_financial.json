@@ -1,0 +1,23 @@
+{
+  "ticker": "005810",
+  "name": "풍산홀딩스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 97860434437,
+  "operating_profit": 17018840790,
+  "net_income": 16406168637,
+  "total_assets": 1336654105440,
+  "total_debt": 226071198667,
+  "total_equity": 1110582906773,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 6.101896665218454,
+  "operating_profit_yoy": 10.315732575382409,
+  "net_income_yoy": 14.882036781685425,
+  "debt_ratio": 20.35608483511518,
+  "operating_margin": 17.390931164275884,
+  "net_margin": 16.764863891506497,
+  "roe": 5.909029766961242,
+  "cached_at": "2025-06-09T16:04:37.329806"
+}

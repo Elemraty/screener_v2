@@ -1,0 +1,22 @@
+{
+  "ticker": "004890",
+  "name": "동일산업",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 90863123739,
+  "operating_profit": 1435778258,
+  "net_income": 813522261,
+  "total_assets": 477122900435,
+  "total_debt": 57145856104,
+  "total_equity": 419977044331,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -21.651939941973342,
+  "net_income_yoy": 338.3714089392083,
+  "debt_ratio": 13.606899918787265,
+  "operating_margin": 1.5801550716264223,
+  "net_margin": 0.895327199334247,
+  "roe": 0.7748254548492245,
+  "cached_at": "2025-06-09T15:59:32.388845"
+}

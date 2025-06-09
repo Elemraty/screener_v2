@@ -1,0 +1,21 @@
+{
+  "ticker": "200350",
+  "name": "아티스트스튜디오",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2181930050,
+  "operating_profit": -688183262,
+  "net_income": -340350089,
+  "total_assets": 59174609353,
+  "total_debt": 5363106466,
+  "total_equity": 53811502887,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -59.85650869028568,
+  "debt_ratio": 9.966468465417346,
+  "operating_margin": -31.54011568794334,
+  "net_margin": -15.598579294510381,
+  "roe": -2.529943010249752,
+  "cached_at": "2025-06-09T16:21:41.293843"
+}

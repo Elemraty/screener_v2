@@ -1,0 +1,23 @@
+{
+  "ticker": "191410",
+  "name": "육일씨엔에쓰",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 19526829341,
+  "operating_profit": 774971967,
+  "net_income": 20765542,
+  "total_assets": 65745805588,
+  "total_debt": 40920183282,
+  "total_equity": 24825622306,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 178.43336306033882,
+  "operating_profit_yoy": -5.541284927670375,
+  "net_income_yoy": -98.10664598992658,
+  "debt_ratio": 164.83044323166948,
+  "operating_margin": 3.9687547500239098,
+  "net_margin": 0.10634364462027178,
+  "roe": 0.33458242043715075,
+  "cached_at": "2025-06-09T16:31:50.177495"
+}

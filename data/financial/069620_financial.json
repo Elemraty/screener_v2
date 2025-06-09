@@ -1,0 +1,23 @@
+{
+  "ticker": "069620",
+  "name": "대웅제약",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 356487894236,
+  "operating_profit": 38696583466,
+  "net_income": 19779141565,
+  "total_assets": 1988926377133,
+  "total_debt": 1059384627594,
+  "total_equity": 929541749539,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 6.165474544208793,
+  "operating_profit_yoy": 30.46313725918466,
+  "net_income_yoy": 149.82806652755696,
+  "debt_ratio": 113.96848265496355,
+  "operating_margin": 10.854950221782936,
+  "net_margin": 5.548334707799623,
+  "roe": 8.511351566429084,
+  "cached_at": "2025-06-09T15:58:57.273507"
+}

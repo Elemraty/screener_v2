@@ -1,0 +1,23 @@
+{
+  "ticker": "007660",
+  "name": "이수페타시스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 252489862715,
+  "operating_profit": 47684121420,
+  "net_income": 38303676339,
+  "total_assets": 807120067982,
+  "total_debt": 450026725100,
+  "total_equity": 357093342882,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 26.49127490142733,
+  "operating_profit_yoy": 107.42562885766907,
+  "net_income_yoy": 118.34514318878715,
+  "debt_ratio": 126.02495511900635,
+  "operating_margin": 18.885558773432358,
+  "net_margin": 15.170381862908924,
+  "roe": 42.9060659936831,
+  "cached_at": "2025-06-09T16:02:56.903070"
+}

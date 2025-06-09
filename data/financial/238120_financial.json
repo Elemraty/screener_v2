@@ -1,0 +1,23 @@
+{
+  "ticker": "238120",
+  "name": "얼라인드",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 3922744683,
+  "operating_profit": 531032783,
+  "net_income": 554010936,
+  "total_assets": 43963653433,
+  "total_debt": 8801075407,
+  "total_equity": 35162578026,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 22.922179771635463,
+  "operating_profit_yoy": 164.10936339254124,
+  "net_income_yoy": -11.62942475277532,
+  "debt_ratio": 25.029664777401383,
+  "operating_margin": 13.537276216352723,
+  "net_margin": 14.1230434496774,
+  "roe": 6.302278923807599,
+  "cached_at": "2025-06-09T16:22:15.936507"
+}

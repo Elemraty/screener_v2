@@ -1,0 +1,23 @@
+{
+  "ticker": "001200",
+  "name": "유진투자증권",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 402775368160,
+  "operating_profit": 5875932016,
+  "net_income": 6023259567,
+  "total_assets": 9360655616269,
+  "total_debt": 8314015496257,
+  "total_equity": 1046640120012,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -1.7387009240785956,
+  "operating_profit_yoy": -66.77463537608244,
+  "net_income_yoy": -61.53229800764532,
+  "debt_ratio": 794.3528379326484,
+  "operating_margin": 1.4588608143648503,
+  "net_margin": 1.4954389079243042,
+  "roe": 2.301941021305754,
+  "cached_at": "2025-06-09T16:02:49.539173"
+}

@@ -1,0 +1,22 @@
+{
+  "ticker": "014100",
+  "name": "메디앙스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 12209429300,
+  "operating_profit": -292581048,
+  "net_income": -5393671080,
+  "total_assets": 108409772344,
+  "total_debt": 40096719060,
+  "total_equity": 68313053284,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 8.185812075254617,
+  "net_income_yoy": -517.1594576898591,
+  "debt_ratio": 58.69554518856689,
+  "operating_margin": -2.396353185811887,
+  "net_margin": -44.176275135153126,
+  "roe": -31.582081729397878,
+  "cached_at": "2025-06-09T16:14:07.183984"
+}

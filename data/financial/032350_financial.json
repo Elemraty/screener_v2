@@ -1,0 +1,22 @@
+{
+  "ticker": "032350",
+  "name": "롯데관광개발",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 121947998745,
+  "operating_profit": 13024878207,
+  "net_income": -23685170851,
+  "total_assets": 2141178836463,
+  "total_debt": 1851550745516,
+  "total_equity": 289628090947,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 14.799784788964132,
+  "operating_profit_yoy": 48.16210781356389,
+  "debt_ratio": 639.2856229732292,
+  "operating_margin": 10.680682209665235,
+  "net_margin": -19.422353047815896,
+  "roe": -32.71115142672294,
+  "cached_at": "2025-06-09T15:59:45.506781"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "091700",
+  "name": "파트론",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 328096593287,
+  "operating_profit": 6315027399,
+  "net_income": 6663683006,
+  "total_assets": 749867695880,
+  "total_debt": 203684918663,
+  "total_equity": 546182777217,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -11.511187426917369,
+  "operating_profit_yoy": -60.89656570380646,
+  "net_income_yoy": -53.90976046280972,
+  "debt_ratio": 37.29244625779831,
+  "operating_margin": 1.9247464095050744,
+  "net_margin": 2.031012556162384,
+  "roe": 4.880185376736989,
+  "cached_at": "2025-06-09T16:38:21.899011"
+}

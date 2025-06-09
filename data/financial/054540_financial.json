@@ -1,0 +1,23 @@
+{
+  "ticker": "054540",
+  "name": "삼영엠텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 26340525952,
+  "operating_profit": 2867787956,
+  "net_income": 2660347702,
+  "total_assets": 128660269389,
+  "total_debt": 53557308754,
+  "total_equity": 75102960635,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -0.681469647433508,
+  "operating_profit_yoy": 6.375119275152041,
+  "net_income_yoy": 89.85603715989873,
+  "debt_ratio": 71.31184749731537,
+  "operating_margin": 10.88736026465809,
+  "net_margin": 10.09982756930487,
+  "roe": 14.169069658541297,
+  "cached_at": "2025-06-09T16:16:49.386354"
+}

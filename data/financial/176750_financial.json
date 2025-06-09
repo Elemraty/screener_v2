@@ -1,0 +1,20 @@
+{
+  "ticker": "176750",
+  "name": "듀켐바이오",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 8459403366,
+  "operating_profit": 669780397,
+  "net_income": 377762990,
+  "total_assets": 64171675722,
+  "total_debt": 20758758870,
+  "total_equity": 43412916852,
+  "data_source": "f_data_financial",
+  "debt_ratio": 47.81701017871979,
+  "operating_margin": 7.9175843498842795,
+  "net_margin": 4.4655985021154505,
+  "roe": 3.4806506209922796,
+  "cached_at": "2025-06-09T16:12:21.829232"
+}

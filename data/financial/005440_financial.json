@@ -1,0 +1,23 @@
+{
+  "ticker": "005440",
+  "name": "현대지에프홀딩스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2072112335000,
+  "operating_profit": 95568978000,
+  "net_income": 203831872000,
+  "total_assets": 10156832921000,
+  "total_debt": 3214221734000,
+  "total_equity": 6942611187000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 77.35888844720094,
+  "operating_profit_yoy": 159.8367434563099,
+  "net_income_yoy": 183.60852926556294,
+  "debt_ratio": 46.297014875593376,
+  "operating_margin": 4.61215236190368,
+  "net_margin": 9.836912244431959,
+  "roe": 11.743816066305083,
+  "cached_at": "2025-06-09T16:05:43.410473"
+}

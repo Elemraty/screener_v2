@@ -1,0 +1,23 @@
+{
+  "ticker": "067290",
+  "name": "JW신약",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 19658221890,
+  "operating_profit": 667321214,
+  "net_income": 8575882149,
+  "total_assets": 61153345564,
+  "total_debt": 26513452088,
+  "total_equity": 34639893476,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -17.373788653671728,
+  "operating_profit_yoy": -76.43483208339653,
+  "net_income_yoy": 414.5101798326882,
+  "debt_ratio": 76.54022408114405,
+  "operating_margin": 3.3946163479793747,
+  "net_margin": 43.624912756542294,
+  "roe": 99.02896675986302,
+  "cached_at": "2025-06-09T16:07:06.133362"
+}

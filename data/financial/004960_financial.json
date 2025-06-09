@@ -1,0 +1,23 @@
+{
+  "ticker": "004960",
+  "name": "한신공영",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 304474865709,
+  "operating_profit": 16457732652,
+  "net_income": 4029021077,
+  "total_assets": 2399795677358,
+  "total_debt": 1616148783371,
+  "total_equity": 783646893987,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 5.250669542279596,
+  "operating_profit_yoy": 93.49946400412672,
+  "net_income_yoy": 285.4446562534715,
+  "debt_ratio": 206.23431238889216,
+  "operating_margin": 5.405284476824231,
+  "net_margin": 1.3232688575518454,
+  "roe": 2.0565492483490084,
+  "cached_at": "2025-06-09T16:05:10.868305"
+}

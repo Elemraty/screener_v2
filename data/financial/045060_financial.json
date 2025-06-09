@@ -1,0 +1,23 @@
+{
+  "ticker": "045060",
+  "name": "오공",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 38284881383,
+  "operating_profit": 798394910,
+  "net_income": 806983415,
+  "total_assets": 140403988670,
+  "total_debt": 22507322316,
+  "total_equity": 117896666354,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -1.7234436862025415,
+  "operating_profit_yoy": -65.62007093625328,
+  "net_income_yoy": -60.04635457796503,
+  "debt_ratio": 19.090719875334603,
+  "operating_margin": 2.0854052073791167,
+  "net_margin": 2.1078383577239777,
+  "roe": 2.737934633628835,
+  "cached_at": "2025-06-09T16:25:11.739822"
+}

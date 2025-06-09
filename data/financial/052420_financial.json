@@ -1,0 +1,23 @@
+{
+  "ticker": "052420",
+  "name": "오성첨단소재",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 41335959484,
+  "operating_profit": 8442769152,
+  "net_income": 8037821867,
+  "total_assets": 302736632620,
+  "total_debt": 50850625049,
+  "total_equity": 251886007571,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 18.601700961737922,
+  "operating_profit_yoy": 58.29719287699935,
+  "net_income_yoy": 19.589409989094865,
+  "debt_ratio": 20.18795150209626,
+  "operating_margin": 20.42475669463524,
+  "net_margin": 19.445107764127787,
+  "roe": 12.764221315047603,
+  "cached_at": "2025-06-09T16:25:55.593072"
+}

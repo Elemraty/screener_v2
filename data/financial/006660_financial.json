@@ -1,0 +1,23 @@
+{
+  "ticker": "006660",
+  "name": "삼성공조",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 29442095182,
+  "operating_profit": 1314549999,
+  "net_income": 803607895,
+  "total_assets": 324816658124,
+  "total_debt": 41993913489,
+  "total_equity": 282822744635,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -0.047317763203769125,
+  "operating_profit_yoy": -24.06803584860927,
+  "net_income_yoy": -79.21864688068408,
+  "debt_ratio": 14.848138731980592,
+  "operating_margin": 4.464865665551125,
+  "net_margin": 2.729452133186844,
+  "roe": 1.1365534211714197,
+  "cached_at": "2025-06-09T16:00:45.632223"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "114840",
+  "name": "아이패밀리에스씨",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 54393895300,
+  "operating_profit": 7145051931,
+  "net_income": 6014211552,
+  "total_assets": 133220444251,
+  "total_debt": 37491579039,
+  "total_equity": 95728865212,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -5.2557756974298435,
+  "operating_profit_yoy": -39.24812925890024,
+  "net_income_yoy": -38.07972287885345,
+  "debt_ratio": 39.1643408244437,
+  "operating_margin": 13.135760716515554,
+  "net_margin": 11.056776718838886,
+  "roe": 25.130190517482887,
+  "cached_at": "2025-06-09T16:21:33.988351"
+}

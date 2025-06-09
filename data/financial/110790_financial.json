@@ -1,0 +1,22 @@
+{
+  "ticker": "110790",
+  "name": "크리스에프앤씨",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 122209227828,
+  "operating_profit": -1375529798,
+  "net_income": 15141191119,
+  "total_assets": 852239897867,
+  "total_debt": 407998369450,
+  "total_equity": 444241528417,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 74.44637284931461,
+  "operating_profit_yoy": -323.1633500119623,
+  "debt_ratio": 91.84156440840908,
+  "operating_margin": -1.1255531373915164,
+  "net_margin": 12.389564510063062,
+  "roe": 13.633296439397524,
+  "cached_at": "2025-06-09T16:36:50.632029"
+}

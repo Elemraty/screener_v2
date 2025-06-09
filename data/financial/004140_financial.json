@@ -1,0 +1,23 @@
+{
+  "ticker": "004140",
+  "name": "동방",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 205077553519,
+  "operating_profit": 8714396582,
+  "net_income": 6195303259,
+  "total_assets": 623758112105,
+  "total_debt": 462582062663,
+  "total_equity": 161176049442,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -2.602122809563845,
+  "operating_profit_yoy": -8.158552723746393,
+  "net_income_yoy": -40.95987791865079,
+  "debt_ratio": 287.00421946342743,
+  "operating_margin": 4.249317603251313,
+  "net_margin": 3.0209562932132497,
+  "roe": 15.375245343085323,
+  "cached_at": "2025-06-09T15:59:17.539254"
+}

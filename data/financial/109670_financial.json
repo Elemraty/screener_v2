@@ -1,0 +1,23 @@
+{
+  "ticker": "109670",
+  "name": "씨싸이트",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 42405181730,
+  "operating_profit": -15122120,
+  "net_income": -128420371,
+  "total_assets": 103686345704,
+  "total_debt": 48228743063,
+  "total_equity": 55457602641,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -4.47718930586537,
+  "operating_profit_yoy": -102.02562877468864,
+  "net_income_yoy": -118.29244426191747,
+  "debt_ratio": 86.96507019101529,
+  "operating_margin": -0.03566101920346611,
+  "net_margin": -0.30284122307898903,
+  "roe": -0.9262598084617409,
+  "cached_at": "2025-06-09T16:20:12.841213"
+}

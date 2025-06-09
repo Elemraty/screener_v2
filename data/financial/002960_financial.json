@@ -1,0 +1,23 @@
+{
+  "ticker": "002960",
+  "name": "한국쉘석유",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 89987286553,
+  "operating_profit": 14518789121,
+  "net_income": 12311253157,
+  "total_assets": 201375998084,
+  "total_debt": 94289143209,
+  "total_equity": 107086854875,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 10.58527728266836,
+  "operating_profit_yoy": 17.326212501800175,
+  "net_income_yoy": 15.970270006075559,
+  "debt_ratio": 88.04922258578004,
+  "operating_margin": 16.134267047210983,
+  "net_margin": 13.681102774166899,
+  "roe": 45.98604813399606,
+  "cached_at": "2025-06-09T16:04:51.020366"
+}

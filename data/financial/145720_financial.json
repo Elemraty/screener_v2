@@ -1,0 +1,23 @@
+{
+  "ticker": "145720",
+  "name": "덴티움",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 76834424255,
+  "operating_profit": 9583650363,
+  "net_income": 12681532571,
+  "total_assets": 900528514189,
+  "total_debt": 340178120894,
+  "total_equity": 560350393295,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -7.129553670528566,
+  "operating_profit_yoy": -50.14501406731491,
+  "net_income_yoy": -23.239812501439495,
+  "debt_ratio": 60.70810781333941,
+  "operating_margin": 12.473120552310696,
+  "net_margin": 16.505014118297044,
+  "roe": 9.052573334644723,
+  "cached_at": "2025-06-09T15:59:13.529765"
+}

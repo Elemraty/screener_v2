@@ -1,0 +1,22 @@
+{
+  "ticker": "044820",
+  "name": "코스맥스비티아이",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 154315882634,
+  "operating_profit": 6538497509,
+  "net_income": -1444517341,
+  "total_assets": 961516815266,
+  "total_debt": 689470671414,
+  "total_equity": 272046143852,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 10.03602453298118,
+  "operating_profit_yoy": 204.0054187013991,
+  "debt_ratio": 253.43886946954467,
+  "operating_margin": 4.237086550907878,
+  "net_margin": -0.936078202932647,
+  "roe": -2.123929890049615,
+  "cached_at": "2025-06-09T16:04:03.754362"
+}

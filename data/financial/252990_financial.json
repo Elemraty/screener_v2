@@ -1,0 +1,23 @@
+{
+  "ticker": "252990",
+  "name": "샘씨엔에스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 15755389385,
+  "operating_profit": 1430191537,
+  "net_income": 1182847291,
+  "total_assets": 221888028756,
+  "total_debt": 76573681311,
+  "total_equity": 145314347445,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 44.5084505038037,
+  "operating_profit_yoy": 137.98525717369552,
+  "net_income_yoy": 63.89992802423172,
+  "debt_ratio": 52.69519676299159,
+  "operating_margin": 9.077475028079098,
+  "net_margin": 7.507572565144825,
+  "roe": 3.2559683521895746,
+  "cached_at": "2025-06-09T16:17:14.546041"
+}

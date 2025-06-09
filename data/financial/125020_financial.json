@@ -1,0 +1,20 @@
+{
+  "ticker": "125020",
+  "name": "티씨머티리얼즈",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 67942311940,
+  "operating_profit": 2365801630,
+  "net_income": 1852599036,
+  "total_assets": 75267398310,
+  "total_debt": 16467686578,
+  "total_equity": 58799711732,
+  "data_source": "f_data_financial",
+  "debt_ratio": 28.00640699236277,
+  "operating_margin": 3.482074074972963,
+  "net_margin": 2.7267235734280493,
+  "roe": 12.602776315937467,
+  "cached_at": "2025-06-09T16:37:40.844546"
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "023790",
+  "name": "동일스틸럭스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 7797014788,
+  "operating_profit": -920653892,
+  "net_income": -1745940482,
+  "total_assets": 70634118954,
+  "total_debt": 54841252027,
+  "total_equity": 15792866927,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 76.4415334365688,
+  "debt_ratio": 347.25330290247433,
+  "operating_margin": -11.807774090885822,
+  "net_margin": -22.39242234973173,
+  "roe": -44.22098888239432,
+  "cached_at": "2025-06-09T16:12:17.188295"
+}

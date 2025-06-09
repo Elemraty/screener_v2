@@ -1,0 +1,21 @@
+{
+  "ticker": "067370",
+  "name": "선바이오",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 3023656712,
+  "operating_profit": 1189072595,
+  "net_income": 615994225,
+  "total_assets": 61195169580,
+  "total_debt": 33557791838,
+  "total_equity": 27637377742,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 60.446269478922666,
+  "debt_ratio": 121.42176494191364,
+  "operating_margin": 39.32564799042571,
+  "net_margin": 20.372492107166167,
+  "roe": 8.91537874179554,
+  "cached_at": "2025-06-09T16:17:41.287946"
+}

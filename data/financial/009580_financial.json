@@ -1,0 +1,22 @@
+{
+  "ticker": "009580",
+  "name": "무림P&P",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 172965024344,
+  "operating_profit": -8943184438,
+  "net_income": -8730505907,
+  "total_assets": 1708002783525,
+  "total_debt": 1077133407393,
+  "total_equity": 630869376132,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -8.359906194542898,
+  "operating_profit_yoy": -243.88120806876574,
+  "debt_ratio": 170.7379448337061,
+  "operating_margin": -5.170516104003445,
+  "net_margin": -5.047555677867225,
+  "roe": -5.535539518832673,
+  "cached_at": "2025-06-09T16:00:12.036047"
+}

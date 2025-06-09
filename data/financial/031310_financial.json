@@ -1,0 +1,23 @@
+{
+  "ticker": "031310",
+  "name": "아이즈비전",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 36039924991,
+  "operating_profit": -915472349,
+  "net_income": -481979613,
+  "total_assets": 248608504774,
+  "total_debt": 56041043917,
+  "total_equity": 192567460857,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -19.784114918878124,
+  "operating_profit_yoy": -163.87978673479466,
+  "net_income_yoy": -104.10346291129164,
+  "debt_ratio": 29.102031915254834,
+  "operating_margin": -2.54016163804063,
+  "net_margin": -1.3373491013656698,
+  "roe": -1.0011652246023361,
+  "cached_at": "2025-06-09T16:21:21.429333"
+}

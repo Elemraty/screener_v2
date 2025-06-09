@@ -1,0 +1,21 @@
+{
+  "ticker": "109820",
+  "name": "진매트릭스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2496275350,
+  "operating_profit": -288227356,
+  "net_income": -786363187,
+  "total_assets": 27619088608,
+  "total_debt": 9178115344,
+  "total_equity": 18440973264,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 38.22932842044884,
+  "debt_ratio": 49.77023290802814,
+  "operating_margin": -11.546296605460611,
+  "net_margin": -31.501460245561454,
+  "roe": -17.05686952076696,
+  "cached_at": "2025-06-09T16:34:43.649400"
+}

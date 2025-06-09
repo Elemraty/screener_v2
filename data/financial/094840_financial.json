@@ -1,0 +1,23 @@
+{
+  "ticker": "094840",
+  "name": "슈프리마에이치큐",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 5868949696,
+  "operating_profit": 1285863056,
+  "net_income": 4837505670,
+  "total_assets": 237922869939,
+  "total_debt": 10798932205,
+  "total_equity": 227123937734,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 19.146443067736985,
+  "operating_profit_yoy": 57.92642228346372,
+  "net_income_yoy": 199.76353360296412,
+  "debt_ratio": 4.754642911152478,
+  "operating_margin": 21.909594094431988,
+  "net_margin": 82.42540693945658,
+  "roe": 8.519587531395349,
+  "cached_at": "2025-06-09T16:18:53.112961"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "032560",
+  "name": "황금에스티",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 72582807806,
+  "operating_profit": 5111121303,
+  "net_income": 6340328121,
+  "total_assets": 513692863973,
+  "total_debt": 92258730578,
+  "total_equity": 421434133395,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -2.3308196143864035,
+  "operating_profit_yoy": 184.39727516195225,
+  "net_income_yoy": 128.96552273771195,
+  "debt_ratio": 21.891613248025195,
+  "operating_margin": 7.041779530851235,
+  "net_margin": 8.735302908019882,
+  "roe": 6.017859132503977,
+  "cached_at": "2025-06-09T16:05:59.113785"
+}

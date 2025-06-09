@@ -1,0 +1,23 @@
+{
+  "ticker": "036930",
+  "name": "주성엔지니어링",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 120846474023,
+  "operating_profit": 33907650658,
+  "net_income": 27716219528,
+  "total_assets": 949612882057,
+  "total_debt": 368577088479,
+  "total_equity": 581035793578,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 113.61789730697156,
+  "operating_profit_yoy": 382.3354170489237,
+  "net_income_yoy": 72.32129839365855,
+  "debt_ratio": 63.434489329704455,
+  "operating_margin": 28.058452621088932,
+  "net_margin": 22.935066787902255,
+  "roe": 19.080559121719094,
+  "cached_at": "2025-06-09T16:34:20.134667"
+}

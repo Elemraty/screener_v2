@@ -1,0 +1,23 @@
+{
+  "ticker": "005360",
+  "name": "모나미",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 33487420643,
+  "operating_profit": -728982314,
+  "net_income": -2428201686,
+  "total_assets": 194822389220,
+  "total_debt": 103664806385,
+  "total_equity": 91157582835,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -13.155034666651833,
+  "operating_profit_yoy": -200.41818092875997,
+  "net_income_yoy": -367433.3009598584,
+  "debt_ratio": 113.72044229456888,
+  "operating_margin": -2.1768840358637234,
+  "net_margin": -7.251086047762165,
+  "roe": -10.65496302329636,
+  "cached_at": "2025-06-09T16:00:09.415447"
+}

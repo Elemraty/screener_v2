@@ -1,0 +1,23 @@
+{
+  "ticker": "002290",
+  "name": "삼일기업공사",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 21672257905,
+  "operating_profit": 2253603935,
+  "net_income": 1859041959,
+  "total_assets": 90063358216,
+  "total_debt": 21761605628,
+  "total_equity": 68301752588,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 26.471646602649646,
+  "operating_profit_yoy": 207.65480584376778,
+  "net_income_yoy": 122.78798615468749,
+  "debt_ratio": 31.86097691997338,
+  "operating_margin": 10.398565506550527,
+  "net_margin": 8.577980047806191,
+  "roe": 10.887228444715587,
+  "cached_at": "2025-06-09T16:16:53.589779"
+}

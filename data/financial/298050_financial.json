@@ -1,0 +1,23 @@
+{
+  "ticker": "298050",
+  "name": "HS효성첨단소재",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 853557769744,
+  "operating_profit": 49109971721,
+  "net_income": 10065573567,
+  "total_assets": 3911328474282,
+  "total_debt": 2777188971851,
+  "total_equity": 1134139502431,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 1.999664550244562,
+  "operating_profit_yoy": -22.874273486812257,
+  "net_income_yoy": -61.15574302119755,
+  "debt_ratio": 244.8719020806668,
+  "operating_margin": 5.753561558666277,
+  "net_margin": 1.179249246365466,
+  "roe": 3.550030148998317,
+  "cached_at": "2025-06-09T15:56:25.774148"
+}

@@ -1,0 +1,13 @@
+{
+  "ticker": "348350",
+  "name": "위드텍",
+  "market": "KOSDAQ",
+  "bps": 12288,
+  "per": 11.13,
+  "eps": 710,
+  "pbr": 0.64,
+  "roe": 5.777994791666666,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:30:50.866222"
+}

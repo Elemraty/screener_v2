@@ -1,0 +1,22 @@
+{
+  "ticker": "900070",
+  "name": "글로벌에스엠",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 21443705,
+  "operating_profit": 817634,
+  "net_income": 706817,
+  "total_assets": 117745939,
+  "total_debt": 24830415,
+  "total_equity": 92915524,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -7.743694828946612,
+  "operating_profit_yoy": -9.896731578141171,
+  "debt_ratio": 26.723645232846128,
+  "operating_margin": 3.8129325132946943,
+  "net_margin": 3.2961514812855337,
+  "roe": 3.0428370613289553,
+  "cached_at": "2025-06-09T16:09:13.616227"
+}

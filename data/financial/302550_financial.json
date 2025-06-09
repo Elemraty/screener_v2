@@ -1,0 +1,13 @@
+{
+  "ticker": "302550",
+  "name": "리메드",
+  "market": "KOSDAQ",
+  "bps": 1314,
+  "per": 14.89,
+  "eps": 234,
+  "pbr": 2.65,
+  "roe": 17.80821917808219,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:13:41.464197"
+}

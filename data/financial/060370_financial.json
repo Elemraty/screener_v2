@@ -1,0 +1,21 @@
+{
+  "ticker": "060370",
+  "name": "LS마린솔루션",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 44480427390,
+  "operating_profit": 3019344752,
+  "net_income": 2680964173,
+  "total_assets": 273238822285,
+  "total_debt": 67428896533,
+  "total_equity": 205809925752,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 225.2513348026568,
+  "debt_ratio": 32.76270388156668,
+  "operating_margin": 6.78802999244293,
+  "net_margin": 6.027289597497728,
+  "roe": 5.210563413215647,
+  "cached_at": "2025-06-09T16:07:40.801216"
+}

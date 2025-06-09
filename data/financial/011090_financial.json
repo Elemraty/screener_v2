@@ -1,0 +1,23 @@
+{
+  "ticker": "011090",
+  "name": "에넥스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 60314356402,
+  "operating_profit": 1619665986,
+  "net_income": 1519841986,
+  "total_assets": 140716227031,
+  "total_debt": 96906595448,
+  "total_equity": 43809631583,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -4.776314743822352,
+  "operating_profit_yoy": -5.582630290159085,
+  "net_income_yoy": 34.57406991525707,
+  "debt_ratio": 221.19929327505204,
+  "operating_margin": 2.685373902035524,
+  "net_margin": 2.5198677009336414,
+  "roe": 13.876783995506262,
+  "cached_at": "2025-06-09T16:02:12.632821"
+}

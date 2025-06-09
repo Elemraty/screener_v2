@@ -1,0 +1,23 @@
+{
+  "ticker": "010960",
+  "name": "삼호개발",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 95033515671,
+  "operating_profit": 4668427672,
+  "net_income": 5697581117,
+  "total_assets": 345349658115,
+  "total_debt": 117994675611,
+  "total_equity": 227354982504,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 1.110112179969458,
+  "operating_profit_yoy": -14.760978277282689,
+  "net_income_yoy": -26.413788038986162,
+  "debt_ratio": 51.89887387179828,
+  "operating_margin": 4.912401313407998,
+  "net_margin": 5.995338672647516,
+  "roe": 10.024114808039904,
+  "cached_at": "2025-06-09T16:01:09.227526"
+}

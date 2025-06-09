@@ -1,0 +1,21 @@
+{
+  "ticker": "060850",
+  "name": "영림원소프트랩",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 16572249135,
+  "operating_profit": 72897073,
+  "net_income": 146808149,
+  "total_assets": 74679978846,
+  "total_debt": 27326642651,
+  "total_equity": 47353336195,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 36.60882127638905,
+  "debt_ratio": 57.70795649639021,
+  "operating_margin": 0.4398743490166581,
+  "net_margin": 0.8858673786767206,
+  "roe": 1.2401081807241396,
+  "cached_at": "2025-06-09T16:25:02.926575"
+}

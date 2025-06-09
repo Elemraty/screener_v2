@@ -1,0 +1,22 @@
+{
+  "ticker": "043200",
+  "name": "파루",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 6927413905,
+  "operating_profit": -1142513948,
+  "net_income": -1466677816,
+  "total_assets": 57596236754,
+  "total_debt": 31147198113,
+  "total_equity": 26449038641,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -37.9675537380969,
+  "operating_profit_yoy": -903.5342782870168,
+  "debt_ratio": 117.76306328471668,
+  "operating_margin": -16.492647381375143,
+  "net_margin": -21.172082917427467,
+  "roe": -22.181189054280832,
+  "cached_at": "2025-06-09T16:38:02.898078"
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "036010",
+  "name": "아비코전자",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 31421888486,
+  "operating_profit": 934652135,
+  "net_income": 919615315,
+  "total_assets": 144332142508,
+  "total_debt": 36194129588,
+  "total_equity": 108138012920,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 6.163624888263697,
+  "debt_ratio": 33.47031132778096,
+  "operating_margin": 2.9745256572227783,
+  "net_margin": 2.9266710541912015,
+  "roe": 3.4016357066976153,
+  "cached_at": "2025-06-09T16:20:45.511776"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "244920",
+  "name": "에이플러스에셋",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 158287275763,
+  "operating_profit": 7403151911,
+  "net_income": 6611566408,
+  "total_assets": 492128629874,
+  "total_debt": 246599005063,
+  "total_equity": 245529624811,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 28.760952866348166,
+  "operating_profit_yoy": 25.59603153077299,
+  "net_income_yoy": 35.97197053355696,
+  "debt_ratio": 100.43554021345618,
+  "operating_margin": 4.67703539359953,
+  "net_margin": 4.17694118249868,
+  "roe": 10.771109861939225,
+  "cached_at": "2025-06-09T16:02:19.657367"
+}

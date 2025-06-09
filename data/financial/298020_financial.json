@@ -1,0 +1,22 @@
+{
+  "ticker": "298020",
+  "name": "효성티앤씨",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1952703689348,
+  "operating_profit": 77386480419,
+  "net_income": 24463311943,
+  "total_assets": 5668198157782,
+  "total_debt": 3863551092080,
+  "total_equity": 1804647065702,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 3.8914172600519548,
+  "operating_profit_yoy": 1.7498860153406293,
+  "debt_ratio": 214.08901305458832,
+  "operating_margin": 3.9630426695634013,
+  "net_margin": 1.2527918125237016,
+  "roe": 5.422292792410105,
+  "cached_at": "2025-06-09T16:06:01.242353"
+}

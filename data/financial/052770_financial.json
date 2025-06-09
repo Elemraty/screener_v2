@@ -1,0 +1,21 @@
+{
+  "ticker": "052770",
+  "name": "아이톡시",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2589007784,
+  "operating_profit": -2740912451,
+  "net_income": -2757832096,
+  "total_assets": 19548186768,
+  "total_debt": 11088686002,
+  "total_equity": 8459500766,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -25.023411441788422,
+  "debt_ratio": 131.07967371510964,
+  "operating_margin": -105.86729278833253,
+  "net_margin": -106.52081129471027,
+  "roe": -130.4016476756709,
+  "cached_at": "2025-06-09T16:21:28.737128"
+}

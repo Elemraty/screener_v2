@@ -1,0 +1,23 @@
+{
+  "ticker": "005820",
+  "name": "원림",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 20949701142,
+  "operating_profit": 1557802100,
+  "net_income": 1340055975,
+  "total_assets": 187995408829,
+  "total_debt": 32952231553,
+  "total_equity": 155043177276,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 2.3730296403432716,
+  "operating_profit_yoy": 132.22359163263658,
+  "net_income_yoy": -53.41164244195169,
+  "debt_ratio": 21.253583764179513,
+  "operating_margin": 7.435915622094081,
+  "net_margin": 6.396539816567852,
+  "roe": 3.457245906705073,
+  "cached_at": "2025-06-09T16:02:38.794677"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "029780",
+  "name": "삼성카드",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1067407617453,
+  "operating_profit": 244917902127,
+  "net_income": 184440330982,
+  "total_assets": 30308868888441,
+  "total_debt": 21934393696232,
+  "total_equity": 8374475192209,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -3.4895060643258646,
+  "operating_profit_yoy": 1.5456386589706161,
+  "net_income_yoy": 3.691121679276632,
+  "debt_ratio": 261.91962114399905,
+  "operating_margin": 22.945114698676413,
+  "net_margin": 17.279278128265865,
+  "roe": 8.80964247902196,
+  "cached_at": "2025-06-09T16:00:55.526111"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "011370",
+  "name": "서한",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 153101395771,
+  "operating_profit": 16366464731,
+  "net_income": 8145052844,
+  "total_assets": 1362916089304,
+  "total_debt": 832285126883,
+  "total_equity": 530630962421,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -19.183642372369793,
+  "operating_profit_yoy": 31.755102164896233,
+  "net_income_yoy": 36.378282338696664,
+  "debt_ratio": 156.84820257862546,
+  "operating_margin": 10.68995135451279,
+  "net_margin": 5.320038268091878,
+  "roe": 6.13990017230676,
+  "cached_at": "2025-06-09T16:17:35.477410"
+}

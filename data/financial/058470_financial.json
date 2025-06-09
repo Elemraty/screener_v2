@@ -1,0 +1,23 @@
+{
+  "ticker": "058470",
+  "name": "리노공업",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 78410243553,
+  "operating_profit": 34937759810,
+  "net_income": 29344420543,
+  "total_assets": 696887517903,
+  "total_debt": 90424002528,
+  "total_equity": 606463515375,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 42.94836152102557,
+  "operating_profit_yoy": 49.93361790412387,
+  "net_income_yoy": 42.430669312080525,
+  "debt_ratio": 14.910048211570867,
+  "operating_margin": 44.55764735175761,
+  "net_margin": 37.42421807829887,
+  "roe": 19.354450712409438,
+  "cached_at": "2025-06-09T16:13:37.880959"
+}

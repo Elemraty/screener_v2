@@ -1,0 +1,23 @@
+{
+  "ticker": "053690",
+  "name": "한미글로벌",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 122521708331,
+  "operating_profit": 9771612349,
+  "net_income": 6650496967,
+  "total_assets": 458234943094,
+  "total_debt": 228453228674,
+  "total_equity": 229781714420,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 20.297300144737385,
+  "operating_profit_yoy": 16.520058386496707,
+  "net_income_yoy": -5.021210432888079,
+  "debt_ratio": 99.4218487970841,
+  "operating_margin": 7.975413077494302,
+  "net_margin": 5.42801521264564,
+  "roe": 11.577069104539934,
+  "cached_at": "2025-06-09T16:05:02.202385"
+}

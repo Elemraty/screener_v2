@@ -1,0 +1,23 @@
+{
+  "ticker": "214320",
+  "name": "이노션",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 503391145632,
+  "operating_profit": 29842242089,
+  "net_income": 16890220669,
+  "total_assets": 2596526735708,
+  "total_debt": 1574704093064,
+  "total_equity": 1021822642644,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 3.256622114452923,
+  "operating_profit_yoy": -2.07855980979067,
+  "net_income_yoy": -42.6237334701943,
+  "debt_ratio": 154.10737904470398,
+  "operating_margin": 5.928241358225225,
+  "net_margin": 3.3552875960491084,
+  "roe": 6.611801290797782,
+  "cached_at": "2025-06-09T16:02:54.805268"
+}

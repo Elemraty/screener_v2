@@ -1,0 +1,23 @@
+{
+  "ticker": "226340",
+  "name": "본느",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 13086834371,
+  "operating_profit": -1458172881,
+  "net_income": -2758104100,
+  "total_assets": 76390032176,
+  "total_debt": 24787503254,
+  "total_equity": 51602528922,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -37.00164634751669,
+  "operating_profit_yoy": -146.5875275690264,
+  "net_income_yoy": -212.13975968410818,
+  "debt_ratio": 48.035442781239745,
+  "operating_margin": -11.142288804626913,
+  "net_margin": -21.075410766349034,
+  "roe": -21.37960412110052,
+  "cached_at": "2025-06-09T16:15:38.315718"
+}

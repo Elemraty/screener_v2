@@ -1,0 +1,23 @@
+{
+  "ticker": "241560",
+  "name": "두산밥캣",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1444356000,
+  "operating_profit": 137708000,
+  "net_income": 78042000,
+  "total_assets": 8379905000,
+  "total_debt": 3689199000,
+  "total_equity": 4690706000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -19.87090798935722,
+  "operating_profit_yoy": -43.87873277715647,
+  "net_income_yoy": -52.17972189201265,
+  "debt_ratio": 78.64912019640539,
+  "operating_margin": 9.534214556522077,
+  "net_margin": 5.403238536759635,
+  "roe": 6.655032312833079,
+  "cached_at": "2025-06-09T15:59:36.394198"
+}

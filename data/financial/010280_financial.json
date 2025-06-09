@@ -1,0 +1,21 @@
+{
+  "ticker": "010280",
+  "name": "아이티센엔텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 111850528778,
+  "operating_profit": -536101020,
+  "net_income": 652794912,
+  "total_assets": 280729170102,
+  "total_debt": 203197065082,
+  "total_equity": 77532105020,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 64.63194423696599,
+  "debt_ratio": 262.08119208111754,
+  "operating_margin": -0.47930128346916345,
+  "net_margin": 0.5836314938623687,
+  "roe": 3.367868894216694,
+  "cached_at": "2025-06-09T16:21:30.581862"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "263020",
+  "name": "디케이앤디",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 33493932694,
+  "operating_profit": 1768221413,
+  "net_income": 1414381295,
+  "total_assets": 105854265460,
+  "total_debt": 29468782199,
+  "total_equity": 76385483261,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 31.919415604032018,
+  "operating_profit_yoy": -31.88910177791463,
+  "net_income_yoy": -44.887044808469426,
+  "debt_ratio": 38.57903483873856,
+  "operating_margin": 5.279229014862008,
+  "net_margin": 4.222798522710855,
+  "roe": 7.406544985346127,
+  "cached_at": "2025-06-09T16:12:55.386793"
+}

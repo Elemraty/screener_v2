@@ -1,0 +1,21 @@
+{
+  "ticker": "066970",
+  "name": "엘앤에프",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 364781970017,
+  "operating_profit": -140252572527,
+  "net_income": -111234911903,
+  "total_assets": 2860249625673,
+  "total_debt": 2248316053158,
+  "total_equity": 611933572515,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -42.61464460383021,
+  "debt_ratio": 367.4117835891229,
+  "operating_margin": -38.44832915411466,
+  "net_margin": -30.49353341060582,
+  "roe": -72.71044891087315,
+  "cached_at": "2025-06-09T16:02:23.108377"
+}

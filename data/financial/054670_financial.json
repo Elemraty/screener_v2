@@ -1,0 +1,23 @@
+{
+  "ticker": "054670",
+  "name": "대한뉴팜",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 51854784966,
+  "operating_profit": 4243131390,
+  "net_income": 2578046328,
+  "total_assets": 233900700315,
+  "total_debt": 107501914995,
+  "total_equity": 126398785320,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 7.4491044042452215,
+  "operating_profit_yoy": -5.4653046640925185,
+  "net_income_yoy": -50.58846346024002,
+  "debt_ratio": 85.04980069455624,
+  "operating_margin": 8.182719092909409,
+  "net_margin": 4.971665256524284,
+  "roe": 8.158452856879084,
+  "cached_at": "2025-06-09T16:11:29.414631"
+}

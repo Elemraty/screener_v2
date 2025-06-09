@@ -1,0 +1,23 @@
+{
+  "ticker": "059210",
+  "name": "메타바이오메드",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 27700050588,
+  "operating_profit": 5614684319,
+  "net_income": 5648782277,
+  "total_assets": 178336357298,
+  "total_debt": 78141707011,
+  "total_equity": 100194650287,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 23.097410150025244,
+  "operating_profit_yoy": 16.405214111084288,
+  "net_income_yoy": -0.5833157262162936,
+  "debt_ratio": 77.98989944789366,
+  "operating_margin": 20.269581462180973,
+  "net_margin": 20.392678558670653,
+  "roe": 22.551233068110882,
+  "cached_at": "2025-06-09T16:14:15.752472"
+}

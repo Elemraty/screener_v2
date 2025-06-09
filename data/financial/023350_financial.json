@@ -1,0 +1,23 @@
+{
+  "ticker": "023350",
+  "name": "한국종합기술",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 86316978307,
+  "operating_profit": -2449392596,
+  "net_income": -1519974969,
+  "total_assets": 403234947198,
+  "total_debt": 249157244721,
+  "total_equity": 154077702477,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 1.116503815272507,
+  "operating_profit_yoy": -441.46657470917336,
+  "net_income_yoy": -237.7996013250455,
+  "debt_ratio": 161.70882659558933,
+  "operating_margin": -2.8376718509403185,
+  "net_margin": -1.7609223571218728,
+  "roe": -3.9459959346859934,
+  "cached_at": "2025-06-09T16:04:54.318931"
+}

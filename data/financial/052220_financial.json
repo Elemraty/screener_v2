@@ -1,0 +1,22 @@
+{
+  "ticker": "052220",
+  "name": "iMBC",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 10247723395,
+  "operating_profit": -533406044,
+  "net_income": -62014462,
+  "total_assets": 74244735358,
+  "total_debt": 11095791316,
+  "total_equity": 63148944042,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -10.946306400344852,
+  "net_income_yoy": -133.32394927652737,
+  "debt_ratio": 17.570826376162763,
+  "operating_margin": -5.205117502100572,
+  "net_margin": -0.6051535507901948,
+  "roe": -0.39281392866208203,
+  "cached_at": "2025-06-09T16:08:25.868683"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "136410",
+  "name": "아셈스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 16733156549,
+  "operating_profit": 4201764090,
+  "net_income": 2806081079,
+  "total_assets": 107864317461,
+  "total_debt": 39770030239,
+  "total_equity": 68094287222,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 29.181653263862415,
+  "operating_profit_yoy": 109.8244543216199,
+  "net_income_yoy": 89.24534542013151,
+  "debt_ratio": 58.40435646141992,
+  "operating_margin": 25.110409250615085,
+  "net_margin": 16.769586005981015,
+  "roe": 16.48350364459594,
+  "cached_at": "2025-06-09T16:20:47.341941"
+}

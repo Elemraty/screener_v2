@@ -1,0 +1,23 @@
+{
+  "ticker": "091340",
+  "name": "S&K폴리텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 76937463997,
+  "operating_profit": 5195505434,
+  "net_income": 3743134574,
+  "total_assets": 260228782494,
+  "total_debt": 122262033489,
+  "total_equity": 137966749005,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 0.9410178248416834,
+  "operating_profit_yoy": 50.19562849574557,
+  "net_income_yoy": 9.18095041941891,
+  "debt_ratio": 88.61702864693083,
+  "operating_margin": 6.75289405718206,
+  "net_margin": 4.865165004848555,
+  "roe": 10.852280280560489,
+  "cached_at": "2025-06-09T16:07:57.561021"
+}

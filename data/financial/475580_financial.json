@@ -1,0 +1,13 @@
+{
+  "ticker": "475580",
+  "name": "에이럭스",
+  "market": "KOSDAQ",
+  "bps": 4208,
+  "per": 42.58,
+  "eps": 236,
+  "pbr": 2.39,
+  "roe": 5.608365019011407,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:23:08.188314"
+}

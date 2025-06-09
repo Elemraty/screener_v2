@@ -1,0 +1,23 @@
+{
+  "ticker": "145270",
+  "name": "케이탑리츠",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2080049706,
+  "operating_profit": 977310676,
+  "net_income": 231060870,
+  "total_assets": 207909296917,
+  "total_debt": 107984883206,
+  "total_equity": 99924413711,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -9.376029899925475,
+  "operating_profit_yoy": -26.567611115363256,
+  "net_income_yoy": -65.31468420237707,
+  "debt_ratio": 108.06656671342839,
+  "operating_margin": 46.984967387120705,
+  "net_margin": 11.108430213638366,
+  "roe": 0.9249426097941231,
+  "cached_at": "2025-06-09T16:03:53.524289"
+}

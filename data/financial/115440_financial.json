@@ -1,0 +1,23 @@
+{
+  "ticker": "115440",
+  "name": "우리넷",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 15183792594,
+  "operating_profit": -929476909,
+  "net_income": -652126441,
+  "total_assets": 123421336669,
+  "total_debt": 31910339419,
+  "total_equity": 91510997250,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -63.64844647982753,
+  "operating_profit_yoy": -109.26777083353419,
+  "net_income_yoy": -106.49892315027168,
+  "debt_ratio": 34.87049685604863,
+  "operating_margin": -6.121506884698165,
+  "net_margin": -4.2948850688180045,
+  "roe": -2.850483376193346,
+  "cached_at": "2025-06-09T16:30:00.715720"
+}

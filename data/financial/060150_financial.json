@@ -1,0 +1,23 @@
+{
+  "ticker": "060150",
+  "name": "인선이엔티",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 43368718702,
+  "operating_profit": 3206850271,
+  "net_income": -2130620745,
+  "total_assets": 485385951300,
+  "total_debt": 168032459785,
+  "total_equity": 317353491515,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -12.45741124847214,
+  "operating_profit_yoy": -33.67109868818293,
+  "net_income_yoy": -188.4240525917239,
+  "debt_ratio": 52.94804193986875,
+  "operating_margin": 7.394385554794157,
+  "net_margin": -4.912805378549826,
+  "roe": -2.6854858093146827,
+  "cached_at": "2025-06-09T16:32:51.980284"
+}

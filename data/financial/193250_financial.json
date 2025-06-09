@@ -1,0 +1,21 @@
+{
+  "ticker": "193250",
+  "name": "링크드",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2526193032,
+  "operating_profit": -1633832998,
+  "net_income": 204470012,
+  "total_assets": 72546250372,
+  "total_debt": 9165117340,
+  "total_equity": 63381133032,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -46.23866035650832,
+  "debt_ratio": 14.460324234615207,
+  "operating_margin": -64.67569886005448,
+  "net_margin": 8.093997941167624,
+  "roe": 1.290415631394704,
+  "cached_at": "2025-06-09T16:13:46.239354"
+}

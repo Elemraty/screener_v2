@@ -1,0 +1,22 @@
+{
+  "ticker": "089890",
+  "name": "코세스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 18819905072,
+  "operating_profit": 3947425457,
+  "net_income": 3260666033,
+  "total_assets": 76691949942,
+  "total_debt": 12600421635,
+  "total_equity": 64091528307,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 11.021441658119201,
+  "net_income_yoy": 78.66331135295464,
+  "debt_ratio": 19.66004239225451,
+  "operating_margin": 20.9747362800088,
+  "net_margin": 17.325624228844674,
+  "roe": 20.35005947981973,
+  "cached_at": "2025-06-09T16:36:06.619689"
+}

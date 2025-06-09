@@ -1,0 +1,23 @@
+{
+  "ticker": "049550",
+  "name": "잉크테크",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 17725678587,
+  "operating_profit": 455474226,
+  "net_income": -135234682,
+  "total_assets": 160122824410,
+  "total_debt": 84386606598,
+  "total_equity": 75736217812,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 4.0819905876925855,
+  "operating_profit_yoy": -69.98590263176862,
+  "net_income_yoy": -109.5507590831716,
+  "debt_ratio": 111.42173326831934,
+  "operating_margin": 2.569572858745416,
+  "net_margin": -0.7629309159378588,
+  "roe": -0.7142404831236386,
+  "cached_at": "2025-06-09T16:33:22.954219"
+}

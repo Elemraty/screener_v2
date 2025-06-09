@@ -1,0 +1,21 @@
+{
+  "ticker": "291810",
+  "name": "핀텔",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1161395529,
+  "operating_profit": -1110664823,
+  "net_income": -818646924,
+  "total_assets": 22015596268,
+  "total_debt": 1907524665,
+  "total_equity": 20108071603,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -69.568932783023,
+  "debt_ratio": 9.486363002185696,
+  "operating_margin": -95.63191826270582,
+  "net_margin": -70.48821039503072,
+  "roe": -16.28494149340234,
+  "cached_at": "2025-06-09T16:39:44.093975"
+}

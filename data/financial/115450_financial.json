@@ -1,0 +1,21 @@
+{
+  "ticker": "115450",
+  "name": "HLB테라퓨틱스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 15047004296,
+  "operating_profit": -1580946496,
+  "net_income": -4548501782,
+  "total_assets": 224478137754,
+  "total_debt": 46449768048,
+  "total_equity": 178028369706,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 17.97115874596593,
+  "debt_ratio": 26.091216880044556,
+  "operating_margin": -10.506719243911352,
+  "net_margin": -30.22862021252393,
+  "roe": -10.21972349578103,
+  "cached_at": "2025-06-09T16:06:52.581433"
+}

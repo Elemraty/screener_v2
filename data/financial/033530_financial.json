@@ -1,0 +1,23 @@
+{
+  "ticker": "033530",
+  "name": "SJG세종",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 453586623251,
+  "operating_profit": 22193943283,
+  "net_income": 23243817969,
+  "total_assets": 1327858086334,
+  "total_debt": 848859184249,
+  "total_equity": 478998902085,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -2.418710667463664,
+  "operating_profit_yoy": 41.42252594159199,
+  "net_income_yoy": 50.42901345136366,
+  "debt_ratio": 177.21526720709832,
+  "operating_margin": 4.8929889342699155,
+  "net_margin": 5.124449615027036,
+  "roe": 19.41033089455834,
+  "cached_at": "2025-06-09T15:57:28.145444"
+}

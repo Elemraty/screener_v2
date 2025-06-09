@@ -1,0 +1,21 @@
+{
+  "ticker": "000230",
+  "name": "일동홀딩스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 149763065629,
+  "operating_profit": 4087994997,
+  "net_income": -5223587896,
+  "total_assets": 830849619549,
+  "total_debt": 582086142633,
+  "total_equity": 248763476916,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -7.471161431767859,
+  "debt_ratio": 233.99180211231453,
+  "operating_margin": 2.729641637496237,
+  "net_margin": -3.4879012886529135,
+  "roe": -8.399284269151536,
+  "cached_at": "2025-06-09T16:03:13.501745"
+}

@@ -1,0 +1,13 @@
+{
+  "ticker": "450080",
+  "name": "에코프로머티",
+  "market": "KOSPI",
+  "bps": 10577,
+  "per": 0.0,
+  "eps": 0,
+  "pbr": 4.26,
+  "roe": 0.0,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:02:20.702418"
+}

@@ -1,0 +1,13 @@
+{
+  "ticker": "472850",
+  "name": "폰드그룹",
+  "market": "KOSDAQ",
+  "bps": 6560,
+  "per": 11.23,
+  "eps": 779,
+  "pbr": 1.33,
+  "roe": 11.875,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:38:45.887876"
+}

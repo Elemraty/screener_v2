@@ -1,0 +1,23 @@
+{
+  "ticker": "078590",
+  "name": "휴림에이텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 16600972748,
+  "operating_profit": 683022898,
+  "net_income": 1304221200,
+  "total_assets": 78694235776,
+  "total_debt": 27818973671,
+  "total_equity": 50875262105,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -6.865651856264277,
+  "operating_profit_yoy": -48.77441915354306,
+  "net_income_yoy": -0.8788743124572673,
+  "debt_ratio": 54.68074761675963,
+  "operating_margin": 4.1143546728747395,
+  "net_margin": 7.856293843727475,
+  "roe": 10.254266187824292,
+  "cached_at": "2025-06-09T16:41:58.360125"
+}

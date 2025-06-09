@@ -1,0 +1,23 @@
+{
+  "ticker": "052460",
+  "name": "아이크래프트",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 40293839023,
+  "operating_profit": -1636614026,
+  "net_income": -1139121681,
+  "total_assets": 70278671595,
+  "total_debt": 35326587381,
+  "total_equity": 34952084214,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 10.976172485981394,
+  "operating_profit_yoy": -146.99549885443395,
+  "net_income_yoy": -135.74170442099046,
+  "debt_ratio": 101.07147592317254,
+  "operating_margin": -4.061697931204345,
+  "net_margin": -2.8270368587857355,
+  "roe": -13.036380594937189,
+  "cached_at": "2025-06-09T16:21:26.927019"
+}

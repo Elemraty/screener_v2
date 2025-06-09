@@ -1,0 +1,23 @@
+{
+  "ticker": "011390",
+  "name": "부산산업",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 30859355324,
+  "operating_profit": 656418691,
+  "net_income": -1028799538,
+  "total_assets": 334222484817,
+  "total_debt": 161008810243,
+  "total_equity": 173213674574,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 20.901526920227575,
+  "operating_profit_yoy": 11.618389910680005,
+  "net_income_yoy": -1737.515526202433,
+  "debt_ratio": 92.95386789696799,
+  "operating_margin": 2.1271302789967512,
+  "net_margin": -3.333833539937498,
+  "roe": -2.375792882473556,
+  "cached_at": "2025-06-09T16:00:34.890602"
+}

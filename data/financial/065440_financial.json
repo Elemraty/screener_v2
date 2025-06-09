@@ -1,0 +1,23 @@
+{
+  "ticker": "065440",
+  "name": "이루온",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 10412323604,
+  "operating_profit": 215999089,
+  "net_income": 629019874,
+  "total_assets": 74595414826,
+  "total_debt": 23303886333,
+  "total_equity": 51291528493,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -18.67031477696026,
+  "operating_profit_yoy": -75.00643346951301,
+  "net_income_yoy": -39.76738131575789,
+  "debt_ratio": 45.434181857497954,
+  "operating_margin": 2.074456165740198,
+  "net_margin": 6.041109534459298,
+  "roe": 4.9054484627873425,
+  "cached_at": "2025-06-09T16:32:13.250313"
+}

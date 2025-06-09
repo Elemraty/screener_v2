@@ -1,0 +1,23 @@
+{
+  "ticker": "017480",
+  "name": "삼현철강",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 52287246575,
+  "operating_profit": 138404789,
+  "net_income": 721151829,
+  "total_assets": 212985663229,
+  "total_debt": 21702613794,
+  "total_equity": 191283049435,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -9.828825160330258,
+  "operating_profit_yoy": -78.62331485092994,
+  "net_income_yoy": -33.54736703190836,
+  "debt_ratio": 11.345811277112025,
+  "operating_margin": 0.2647008554972853,
+  "net_margin": 1.3792117126794794,
+  "roe": 1.5080308080200384,
+  "cached_at": "2025-06-09T16:17:01.907026"
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "054630",
+  "name": "에이디칩스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 766965164,
+  "operating_profit": -202473433,
+  "net_income": -1035491397,
+  "total_assets": 75348226301,
+  "total_debt": 66604913638,
+  "total_equity": 8743312663,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -74.32094711126203,
+  "debt_ratio": 761.7812173166247,
+  "operating_margin": -26.39929979922791,
+  "net_margin": -135.01152928505107,
+  "roe": -47.37295516753042,
+  "cached_at": "2025-06-09T16:23:06.220692"
+}

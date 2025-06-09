@@ -1,0 +1,23 @@
+{
+  "ticker": "035420",
+  "name": "NAVER",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2786783351907,
+  "operating_profit": 505301333937,
+  "net_income": 423661329790,
+  "total_assets": 39314022130825,
+  "total_debt": 11284404608985,
+  "total_equity": 28029617521840,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 10.321544586565734,
+  "operating_profit_yoy": 15.026010346134179,
+  "net_income_yoy": -23.774953877853566,
+  "debt_ratio": 40.25886047211477,
+  "operating_margin": 18.132063749814694,
+  "net_margin": 15.202521197067146,
+  "roe": 6.045909537793634,
+  "cached_at": "2025-06-09T15:43:01.323772"
+}

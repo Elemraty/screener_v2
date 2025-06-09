@@ -1,0 +1,23 @@
+{
+  "ticker": "010640",
+  "name": "진양폴리",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 11744344207,
+  "operating_profit": 319698448,
+  "net_income": 621026082,
+  "total_assets": 63437832857,
+  "total_debt": 32082695373,
+  "total_equity": 31355137484,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -16.032277325913856,
+  "operating_profit_yoy": -74.75417140027592,
+  "net_income_yoy": -41.27899373767432,
+  "debt_ratio": 102.32037856434614,
+  "operating_margin": 2.7221481452276377,
+  "net_margin": 5.287873644148209,
+  "roe": 7.922479463748474,
+  "cached_at": "2025-06-09T16:03:41.970614"
+}

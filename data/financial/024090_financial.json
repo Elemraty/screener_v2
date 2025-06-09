@@ -1,0 +1,23 @@
+{
+  "ticker": "024090",
+  "name": "디씨엠",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 65160436838,
+  "operating_profit": 6116937044,
+  "net_income": 6672869841,
+  "total_assets": 303623457456,
+  "total_debt": 47106611304,
+  "total_equity": 256516846152,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 4.217206499054771,
+  "operating_profit_yoy": 26.15105484793794,
+  "net_income_yoy": -9.406936031335178,
+  "debt_ratio": 18.363944516956522,
+  "operating_margin": 9.387501589665142,
+  "net_margin": 10.240676957998144,
+  "roe": 10.40535144743822,
+  "cached_at": "2025-06-09T15:59:39.747717"
+}

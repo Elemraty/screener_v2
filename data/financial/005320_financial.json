@@ -1,0 +1,21 @@
+{
+  "ticker": "005320",
+  "name": "온타이드",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 61692092304,
+  "operating_profit": 3571291251,
+  "net_income": 285376783,
+  "total_assets": 181362429154,
+  "total_debt": 65441122554,
+  "total_equity": 115921306600,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 14.013767566419922,
+  "debt_ratio": 56.453058090358,
+  "operating_margin": 5.788896303600395,
+  "net_margin": 0.46258243535289645,
+  "roe": 0.9847259019766778,
+  "cached_at": "2025-06-09T16:02:32.452008"
+}

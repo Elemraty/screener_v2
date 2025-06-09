@@ -1,0 +1,21 @@
+{
+  "ticker": "168360",
+  "name": "펨트론",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 11092819064,
+  "operating_profit": -3018599305,
+  "net_income": -2289370547,
+  "total_assets": 77034249677,
+  "total_debt": 51487506222,
+  "total_equity": 25546743455,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -13.627494150967634,
+  "debt_ratio": 201.54234653310726,
+  "operating_margin": -27.212192749058616,
+  "net_margin": -20.63831144988015,
+  "roe": -35.84598641361352,
+  "cached_at": "2025-06-09T16:38:33.377922"
+}

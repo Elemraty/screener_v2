@@ -1,0 +1,23 @@
+{
+  "ticker": "035080",
+  "name": "그래디언트",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 748939439911,
+  "operating_profit": -2297533227,
+  "net_income": -7139522231,
+  "total_assets": 1762665494634,
+  "total_debt": 998364167038,
+  "total_equity": 764301327596,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -16.953653803319646,
+  "operating_profit_yoy": -571.6924897444193,
+  "net_income_yoy": -452.9604738853182,
+  "debt_ratio": 130.6244187980428,
+  "operating_margin": -0.3067715631684488,
+  "net_margin": -0.9532843178680006,
+  "roe": -3.736496051083068,
+  "cached_at": "2025-06-09T16:09:07.263795"
+}

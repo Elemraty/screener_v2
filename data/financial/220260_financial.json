@@ -1,0 +1,23 @@
+{
+  "ticker": "220260",
+  "name": "켐트로스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 12211708891,
+  "operating_profit": 247650194,
+  "net_income": 446277461,
+  "total_assets": 122300716838,
+  "total_debt": 55197691737,
+  "total_equity": 67103025101,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -16.84828835641934,
+  "operating_profit_yoy": -88.21063239458375,
+  "net_income_yoy": -80.16306217458991,
+  "debt_ratio": 82.25812719161215,
+  "operating_margin": 2.027973285397571,
+  "net_margin": 3.6545045823103877,
+  "roe": 2.660252412336322,
+  "cached_at": "2025-06-09T16:35:51.920623"
+}

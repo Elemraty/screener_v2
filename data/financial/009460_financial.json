@@ -1,0 +1,23 @@
+{
+  "ticker": "009460",
+  "name": "한창제지",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 65618145271,
+  "operating_profit": -1742636870,
+  "net_income": -3142904499,
+  "total_assets": 284867192410,
+  "total_debt": 193630468182,
+  "total_equity": 91236724228,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -11.255038527091454,
+  "operating_profit_yoy": -158.47888710426872,
+  "net_income_yoy": -530.0139151559447,
+  "debt_ratio": 212.22865005336962,
+  "operating_margin": -2.655724057427999,
+  "net_margin": -4.789688105355531,
+  "roe": -13.77912030750206,
+  "cached_at": "2025-06-09T16:05:20.519932"
+}

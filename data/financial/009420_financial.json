@@ -1,0 +1,22 @@
+{
+  "ticker": "009420",
+  "name": "한올바이오파마",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 36150425038,
+  "operating_profit": -394461621,
+  "net_income": -207514535,
+  "total_assets": 195719003529,
+  "total_debt": 36414060508,
+  "total_equity": 159304943021,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 6.03234533701178,
+  "operating_profit_yoy": -432.62870547116574,
+  "debt_ratio": 22.85808576774658,
+  "operating_margin": -1.0911673115471157,
+  "net_margin": -0.5740306919818186,
+  "roe": -0.521049833268877,
+  "cached_at": "2025-06-09T16:05:14.242852"
+}

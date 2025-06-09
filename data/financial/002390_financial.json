@@ -1,0 +1,22 @@
+{
+  "ticker": "002390",
+  "name": "한독",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 119872579579,
+  "operating_profit": -1653171198,
+  "net_income": -7723988053,
+  "total_assets": 822118177795,
+  "total_debt": 542379755211,
+  "total_equity": 279738422584,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -6.916633510017833,
+  "operating_profit_yoy": -135.62624019288467,
+  "debt_ratio": 193.88818675708873,
+  "operating_margin": -1.379107051676072,
+  "net_margin": -6.443498655094543,
+  "roe": -11.044586555757299,
+  "cached_at": "2025-06-09T16:05:01.156996"
+}

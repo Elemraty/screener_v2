@@ -1,0 +1,23 @@
+{
+  "ticker": "227840",
+  "name": "현대코퍼레이션홀딩스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 62081190191,
+  "operating_profit": 4950140855,
+  "net_income": 9861456543,
+  "total_assets": 384523991232,
+  "total_debt": 74768807474,
+  "total_equity": 309755183758,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 20.15526332878128,
+  "operating_profit_yoy": 11.284189808759116,
+  "net_income_yoy": -12.822278818035858,
+  "debt_ratio": 24.138032676933033,
+  "operating_margin": 7.973656496871784,
+  "net_margin": 15.884773653114706,
+  "roe": 12.73451688311939,
+  "cached_at": "2025-06-09T16:05:48.585691"
+}

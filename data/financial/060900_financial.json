@@ -1,0 +1,21 @@
+{
+  "ticker": "060900",
+  "name": "DGP",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 6008333476,
+  "operating_profit": -1344826808,
+  "net_income": -1878148372,
+  "total_assets": 60872195733,
+  "total_debt": 21957154073,
+  "total_equity": 38915041660,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 141.82565103307095,
+  "debt_ratio": 56.42330866516667,
+  "operating_margin": -22.382692528166857,
+  "net_margin": -31.259056766775238,
+  "roe": -19.30511485414147,
+  "cached_at": "2025-06-09T16:06:26.863512"
+}

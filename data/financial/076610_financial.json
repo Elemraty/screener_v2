@@ -1,0 +1,23 @@
+{
+  "ticker": "076610",
+  "name": "해성옵틱스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 30878367876,
+  "operating_profit": -3237127479,
+  "net_income": 0,
+  "total_assets": 107483716898,
+  "total_debt": 94152658297,
+  "total_equity": 13331058601,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -3.415839760447925,
+  "operating_profit_yoy": -302.77421440994794,
+  "net_income_yoy": -100.0,
+  "debt_ratio": 706.265429588145,
+  "operating_margin": -10.483479865255557,
+  "net_margin": 0.0,
+  "roe": 0.0,
+  "cached_at": "2025-06-09T16:41:26.846558"
+}

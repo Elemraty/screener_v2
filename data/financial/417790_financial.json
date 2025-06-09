@@ -1,0 +1,13 @@
+{
+  "ticker": "417790",
+  "name": "트루엔",
+  "market": "KOSDAQ",
+  "bps": 9471,
+  "per": 6.82,
+  "eps": 1366,
+  "pbr": 0.98,
+  "roe": 14.422975398585155,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:37:32.031817"
+}

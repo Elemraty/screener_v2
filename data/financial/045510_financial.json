@@ -1,0 +1,23 @@
+{
+  "ticker": "045510",
+  "name": "정원엔시스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 40102311074,
+  "operating_profit": -207785311,
+  "net_income": 2230028,
+  "total_assets": 82740572138,
+  "total_debt": 38766103960,
+  "total_equity": 43974468178,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 12.09122670191256,
+  "operating_profit_yoy": -198.12146306855988,
+  "net_income_yoy": -99.31937457290718,
+  "debt_ratio": 88.15593585596632,
+  "operating_margin": -0.5181379961283974,
+  "net_margin": 0.005560846595312109,
+  "roe": 0.020284752424732325,
+  "cached_at": "2025-06-09T16:33:34.999058"
+}

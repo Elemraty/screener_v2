@@ -1,0 +1,23 @@
+{
+  "ticker": "236200",
+  "name": "슈프리마",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 28799455145,
+  "operating_profit": 5688196308,
+  "net_income": 8085854429,
+  "total_assets": 264935776851,
+  "total_debt": 20016678956,
+  "total_equity": 244919097895,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 40.73794037251122,
+  "operating_profit_yoy": 156.45352285014206,
+  "net_income_yoy": 25.875555776698135,
+  "debt_ratio": 8.172771796089748,
+  "operating_margin": 19.751055286848203,
+  "net_margin": 28.076414599822108,
+  "roe": 13.205755694015354,
+  "cached_at": "2025-06-09T16:18:50.954265"
+}

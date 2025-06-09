@@ -1,0 +1,20 @@
+{
+  "ticker": "209640",
+  "name": "와이제이링크",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 7558987992,
+  "operating_profit": -1280798919,
+  "net_income": -1790961283,
+  "total_assets": 113797972875,
+  "total_debt": 37440856925,
+  "total_equity": 76357115950,
+  "data_source": "f_data_financial",
+  "debt_ratio": 49.03388041727105,
+  "operating_margin": -16.944052832939068,
+  "net_margin": -23.6931357067302,
+  "roe": -9.382026865303574,
+  "cached_at": "2025-06-09T16:29:53.927562"
+}

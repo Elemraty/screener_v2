@@ -1,0 +1,22 @@
+{
+  "ticker": "154040",
+  "name": "다산솔루에타",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 7915039011,
+  "operating_profit": 1469504164,
+  "net_income": 2452412608,
+  "total_assets": 87147926516,
+  "total_debt": 45808711903,
+  "total_equity": 41339214613,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -81.61744261832956,
+  "operating_profit_yoy": -35.25440821502782,
+  "debt_ratio": 110.81176150016762,
+  "operating_margin": 18.56597499971564,
+  "net_margin": 30.98421378077526,
+  "roe": 23.72964877014172,
+  "cached_at": "2025-06-09T16:10:46.322503"
+}

@@ -1,0 +1,22 @@
+{
+  "ticker": "003240",
+  "name": "태광산업",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 507500780502,
+  "operating_profit": 2707633201,
+  "net_income": 75836083153,
+  "total_assets": 4731004152428,
+  "total_debt": 706376606185,
+  "total_equity": 4024627546243,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -8.458238039517607,
+  "net_income_yoy": 91.0056202059364,
+  "debt_ratio": 17.551353462369566,
+  "operating_margin": 0.5335229629246511,
+  "net_margin": 14.943047590584177,
+  "roe": 7.537202613821314,
+  "cached_at": "2025-06-09T16:04:19.702624"
+}

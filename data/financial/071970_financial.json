@@ -1,0 +1,23 @@
+{
+  "ticker": "071970",
+  "name": "HD현대마린엔진",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 83018602478,
+  "operating_profit": 10272074461,
+  "net_income": 13863368705,
+  "total_assets": 525727328921,
+  "total_debt": 198925375542,
+  "total_equity": 326801953379,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 35.299651012862256,
+  "operating_profit_yoy": 64.42637252954296,
+  "net_income_yoy": 106.74581506104413,
+  "debt_ratio": 60.87031411079159,
+  "operating_margin": 12.373220163182232,
+  "net_margin": 16.69911115243575,
+  "roe": 16.968526120065533,
+  "cached_at": "2025-06-09T15:56:17.365834"
+}

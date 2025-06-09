@@ -1,0 +1,23 @@
+{
+  "ticker": "033780",
+  "name": "KT&G",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1491108000000,
+  "operating_profit": 285560000000,
+  "net_income": 257929000000,
+  "total_assets": 14067378000000,
+  "total_debt": 4879801000000,
+  "total_equity": 9187577000000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 15.387526204071778,
+  "operating_profit_yoy": 20.708458384410534,
+  "net_income_yoy": -9.692836110401137,
+  "debt_ratio": 53.11303513429058,
+  "operating_margin": 19.150859629215322,
+  "net_margin": 17.297808072922955,
+  "roe": 11.229467791127083,
+  "cached_at": "2025-06-09T15:56:48.869259"
+}

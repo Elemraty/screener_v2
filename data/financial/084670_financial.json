@@ -1,0 +1,21 @@
+{
+  "ticker": "084670",
+  "name": "동양고속",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 29227761724,
+  "operating_profit": -285685253,
+  "net_income": -806890931,
+  "total_assets": 151532342156,
+  "total_debt": 101241154094,
+  "total_equity": 50291188062,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -1.3229306978372546,
+  "debt_ratio": 201.30992723653267,
+  "operating_margin": -0.9774448543058062,
+  "net_margin": -2.7607003869113655,
+  "roe": -6.417751992696999,
+  "cached_at": "2025-06-09T15:59:24.024074"
+}

@@ -1,0 +1,20 @@
+{
+  "ticker": "086790",
+  "name": "하나금융지주",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 0,
+  "operating_profit": 1488926000000,
+  "net_income": 1138429000000,
+  "total_assets": 644358831000000,
+  "total_debt": 600021919000000,
+  "total_equity": 44336912000000,
+  "data_source": "f_data_financial",
+  "operating_profit_yoy": -4.747873193862107,
+  "net_income_yoy": 9.301110937225477,
+  "debt_ratio": 1353.3236572722972,
+  "roe": 10.27071077931634,
+  "cached_at": "2025-06-09T16:04:38.658213"
+}

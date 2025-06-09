@@ -1,0 +1,23 @@
+{
+  "ticker": "267250",
+  "name": "HD현대",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 17086949449000,
+  "operating_profit": 1286396862000,
+  "net_income": 777404649000,
+  "total_assets": 78485415907000,
+  "total_debt": 51474978947000,
+  "total_equity": 27010436960000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 3.4668586985434846,
+  "operating_profit_yoy": 62.08826007013888,
+  "net_income_yoy": 52.94083638936111,
+  "debt_ratio": 190.57440286223343,
+  "operating_margin": 7.528534369692803,
+  "net_margin": 4.549698302323338,
+  "roe": 11.512655647167287,
+  "cached_at": "2025-06-09T15:56:15.823350"
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "000670",
+  "name": "영풍",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 571862115598,
+  "operating_profit": -56269475855,
+  "net_income": 287258800940,
+  "total_assets": 5752146867129,
+  "total_debt": 1475218215422,
+  "total_equity": 4276928651707,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -22.86958936555762,
+  "debt_ratio": 34.492467271653304,
+  "operating_margin": -9.839692877042333,
+  "net_margin": 50.23217889501416,
+  "roe": 26.865896004634056,
+  "cached_at": "2025-06-09T16:02:27.562526"
+}

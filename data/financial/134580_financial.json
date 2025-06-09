@@ -1,0 +1,21 @@
+{
+  "ticker": "134580",
+  "name": "탑코미디어",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 5589817993,
+  "operating_profit": -2292440689,
+  "net_income": -1824379002,
+  "total_assets": 36726584598,
+  "total_debt": 5871114100,
+  "total_equity": 30855470498,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 1.3257281971989832,
+  "debt_ratio": 19.02778990318931,
+  "operating_margin": -41.01100772638341,
+  "net_margin": -32.63753854391373,
+  "roe": -23.650639222866534,
+  "cached_at": "2025-06-09T16:37:08.892151"
+}

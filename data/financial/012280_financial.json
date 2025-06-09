@@ -1,0 +1,23 @@
+{
+  "ticker": "012280",
+  "name": "영화금속",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 84255889440,
+  "operating_profit": 3193355124,
+  "net_income": 2610843627,
+  "total_assets": 231529908321,
+  "total_debt": 157806147123,
+  "total_equity": 73723761198,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 19.825453160954275,
+  "operating_profit_yoy": 60.338366769199546,
+  "net_income_yoy": 50.424675589311605,
+  "debt_ratio": 214.0505917748551,
+  "operating_margin": 3.7900675492530884,
+  "net_margin": 3.098707573266109,
+  "roe": 14.165547631179878,
+  "cached_at": "2025-06-09T16:02:28.803479"
+}

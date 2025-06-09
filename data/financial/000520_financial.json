@@ -1,0 +1,22 @@
+{
+  "ticker": "000520",
+  "name": "삼일제약",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 52287894319,
+  "operating_profit": -5377748206,
+  "net_income": -9080851950,
+  "total_assets": 396209125708,
+  "total_debt": 230058346574,
+  "total_equity": 166150779134,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -3.7036907567944977,
+  "operating_profit_yoy": -355.09668020117374,
+  "debt_ratio": 138.46359780742213,
+  "operating_margin": -10.284881952199541,
+  "net_margin": -17.367025519519277,
+  "roe": -21.861713793532864,
+  "cached_at": "2025-06-09T16:01:07.107328"
+}

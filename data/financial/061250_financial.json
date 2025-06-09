@@ -1,0 +1,23 @@
+{
+  "ticker": "061250",
+  "name": "화일약품",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 29984183978,
+  "operating_profit": -1199504760,
+  "net_income": -657172850,
+  "total_assets": 216120143744,
+  "total_debt": 13531940913,
+  "total_equity": 202588202831,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -5.956991513662957,
+  "operating_profit_yoy": -249.32803993198448,
+  "net_income_yoy": -156.86592808901963,
+  "debt_ratio": 6.67953055701294,
+  "operating_margin": -4.00045824452018,
+  "net_margin": -2.1917316491993946,
+  "roe": -1.297554034867897,
+  "cached_at": "2025-06-09T16:41:54.212040"
+}

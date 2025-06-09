@@ -1,0 +1,22 @@
+{
+  "ticker": "009190",
+  "name": "대양금속",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 54468421084,
+  "operating_profit": -374285012,
+  "net_income": -1848779742,
+  "total_assets": 135031616264,
+  "total_debt": 46388450143,
+  "total_equity": 88643166121,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 3.3990143390927985,
+  "operating_profit_yoy": -447.4318932656137,
+  "debt_ratio": 52.33167109541043,
+  "operating_margin": -0.6871596505850351,
+  "net_margin": -3.394223120859062,
+  "roe": -8.342570884602079,
+  "cached_at": "2025-06-09T15:58:54.988704"
+}

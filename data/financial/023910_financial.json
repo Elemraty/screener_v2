@@ -1,0 +1,23 @@
+{
+  "ticker": "023910",
+  "name": "대한약품",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 49888989289,
+  "operating_profit": 9231684178,
+  "net_income": 7646334546,
+  "total_assets": 331355792914,
+  "total_debt": 53007669646,
+  "total_equity": 278348123268,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 1.7783559505393454,
+  "operating_profit_yoy": -8.674958165284586,
+  "net_income_yoy": -7.501937549719607,
+  "debt_ratio": 19.0436597968232,
+  "operating_margin": 18.504452203916447,
+  "net_margin": 15.32669764405497,
+  "roe": 10.98816037446451,
+  "cached_at": "2025-06-09T16:11:29.908262"
+}

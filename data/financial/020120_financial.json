@@ -1,0 +1,22 @@
+{
+  "ticker": "020120",
+  "name": "키다리스튜디오",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 48245274075,
+  "operating_profit": 509558999,
+  "net_income": 2043126349,
+  "total_assets": 334644658957,
+  "total_debt": 133353098842,
+  "total_equity": 201291560115,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -2.2661419114541004,
+  "operating_profit_yoy": -0.023284519966471073,
+  "debt_ratio": 66.24872834500064,
+  "operating_margin": 1.0561842766358043,
+  "net_margin": 4.234873546005448,
+  "roe": 4.060033809331579,
+  "cached_at": "2025-06-09T16:04:16.867707"
+}

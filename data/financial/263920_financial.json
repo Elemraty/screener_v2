@@ -1,0 +1,23 @@
+{
+  "ticker": "263920",
+  "name": "휴엠앤씨",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 12545166518,
+  "operating_profit": 512108037,
+  "net_income": 301624166,
+  "total_assets": 64079941019,
+  "total_debt": 19760955315,
+  "total_equity": 44318985704,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 4.4444200961419655,
+  "operating_profit_yoy": -49.57714413362974,
+  "net_income_yoy": -76.37684267265168,
+  "debt_ratio": 44.588013468946514,
+  "operating_margin": 4.082114304861713,
+  "net_margin": 2.4043057983106477,
+  "roe": 2.722302067240469,
+  "cached_at": "2025-06-09T16:42:06.783751"
+}

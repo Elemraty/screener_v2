@@ -1,0 +1,23 @@
+{
+  "ticker": "003650",
+  "name": "미창석유",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 101035890796,
+  "operating_profit": 10933258788,
+  "net_income": 3116869295,
+  "total_assets": 485784571363,
+  "total_debt": 74443948065,
+  "total_equity": 411340623298,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -2.0651454195097285,
+  "operating_profit_yoy": -15.620182412730744,
+  "net_income_yoy": -81.48694603783564,
+  "debt_ratio": 18.097883809318855,
+  "operating_margin": 10.821163352808135,
+  "net_margin": 3.0849129655255108,
+  "roe": 3.030937494099095,
+  "cached_at": "2025-06-09T16:00:27.453979"
+}

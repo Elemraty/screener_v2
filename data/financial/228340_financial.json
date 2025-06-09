@@ -1,0 +1,22 @@
+{
+  "ticker": "228340",
+  "name": "동양파일",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 11941424700,
+  "operating_profit": -2631964169,
+  "net_income": -1494060941,
+  "total_assets": 128119409803,
+  "total_debt": 6825028590,
+  "total_equity": 121294381213,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -24.633719783744112,
+  "operating_profit_yoy": -5165.73490455887,
+  "debt_ratio": 5.626829966686463,
+  "operating_margin": -22.040621074301125,
+  "net_margin": -12.511580305823976,
+  "roe": -4.9270573824069945,
+  "cached_at": "2025-06-09T16:12:10.267305"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "090350",
+  "name": "노루페인트",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 172118212804,
+  "operating_profit": 4664985743,
+  "net_income": 3390726296,
+  "total_assets": 667349057394,
+  "total_debt": 264380212185,
+  "total_equity": 402968845209,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -0.2458697141785593,
+  "operating_profit_yoy": -47.2159112918408,
+  "net_income_yoy": -57.04951207877392,
+  "debt_ratio": 65.6081022958187,
+  "operating_margin": 2.71033824195715,
+  "net_margin": 1.969998549695143,
+  "roe": 3.3657453535807695,
+  "cached_at": "2025-06-09T15:58:33.699100"
+}

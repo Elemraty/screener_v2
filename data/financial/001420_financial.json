@@ -1,0 +1,22 @@
+{
+  "ticker": "001420",
+  "name": "태원물산",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2705778932,
+  "operating_profit": -317722582,
+  "net_income": 211671113,
+  "total_assets": 52603174869,
+  "total_debt": 8582152655,
+  "total_equity": 44021022214,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -18.54098721409284,
+  "net_income_yoy": -98.72142697561398,
+  "debt_ratio": 19.49557784750991,
+  "operating_margin": -11.74237031127863,
+  "net_margin": 7.82292708752601,
+  "roe": 1.9233639052814384,
+  "cached_at": "2025-06-09T16:04:23.178816"
+}

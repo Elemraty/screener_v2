@@ -1,0 +1,23 @@
+{
+  "ticker": "077360",
+  "name": "덕산하이메탈",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 44151047735,
+  "operating_profit": -1392618637,
+  "net_income": -1760578427,
+  "total_assets": 821276841623,
+  "total_debt": 368089814539,
+  "total_equity": 453187027084,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -27.394306142646396,
+  "operating_profit_yoy": -134.8176906274559,
+  "net_income_yoy": -124.46188561301477,
+  "debt_ratio": 81.22249591023115,
+  "operating_margin": -3.1542142450586175,
+  "net_margin": -3.9876254750899855,
+  "roe": -1.5539530673049649,
+  "cached_at": "2025-06-09T16:11:45.603176"
+}

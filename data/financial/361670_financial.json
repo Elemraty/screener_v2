@@ -1,0 +1,13 @@
+{
+  "ticker": "361670",
+  "name": "삼영에스앤씨",
+  "market": "KOSDAQ",
+  "bps": 3591,
+  "per": 0.0,
+  "eps": 0,
+  "pbr": 1.22,
+  "roe": 0.0,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:16:49.378815"
+}

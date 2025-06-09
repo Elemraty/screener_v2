@@ -1,0 +1,21 @@
+{
+  "ticker": "299030",
+  "name": "하나기술",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 14343560970,
+  "operating_profit": -1535278447,
+  "net_income": -1904519668,
+  "total_assets": 240101772272,
+  "total_debt": 144075099724,
+  "total_equity": 96026672548,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -55.62459168239131,
+  "debt_ratio": 150.03654286988072,
+  "operating_margin": -10.703607355321891,
+  "net_margin": -13.277872015069073,
+  "roe": -7.933294437742824,
+  "cached_at": "2025-06-09T16:40:06.165082"
+}

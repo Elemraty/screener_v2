@@ -1,0 +1,13 @@
+{
+  "ticker": "377740",
+  "name": "바이오노트",
+  "market": "KOSPI",
+  "bps": 16138,
+  "per": 9.41,
+  "eps": 542,
+  "pbr": 0.32,
+  "roe": 3.3585326558433515,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:00:27.957224"
+}

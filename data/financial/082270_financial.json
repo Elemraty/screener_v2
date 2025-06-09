@@ -1,0 +1,21 @@
+{
+  "ticker": "082270",
+  "name": "젬백스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 12372752081,
+  "operating_profit": -2956098605,
+  "net_income": -8883114356,
+  "total_assets": 160967328371,
+  "total_debt": 119000889198,
+  "total_equity": 41966439173,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -16.00934621105614,
+  "debt_ratio": 283.562035624318,
+  "operating_margin": -23.892005478227283,
+  "net_margin": -71.79578397631678,
+  "roe": -84.6687451311346,
+  "cached_at": "2025-06-09T16:34:14.969337"
+}

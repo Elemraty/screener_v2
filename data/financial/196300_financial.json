@@ -1,0 +1,21 @@
+{
+  "ticker": "196300",
+  "name": "HLB펩",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1089172340,
+  "operating_profit": -1487387653,
+  "net_income": -1570771975,
+  "total_assets": 33286271524,
+  "total_debt": 9210512141,
+  "total_equity": 24075759383,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -56.522556162530144,
+  "debt_ratio": 38.25637228914816,
+  "operating_margin": -136.56127670300552,
+  "net_margin": -144.21702767442662,
+  "roe": -26.097153572802846,
+  "cached_at": "2025-06-09T16:06:55.117266"
+}

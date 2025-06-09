@@ -1,0 +1,23 @@
+{
+  "ticker": "068330",
+  "name": "일신바이오",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1885587026,
+  "operating_profit": 443083974,
+  "net_income": 662422749,
+  "total_assets": 64282364882,
+  "total_debt": 3461968710,
+  "total_equity": 60820396172,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 22.124532624899263,
+  "operating_profit_yoy": 274.83002099969997,
+  "net_income_yoy": 15.916122831242973,
+  "debt_ratio": 5.692117986554308,
+  "operating_margin": 23.498463231365065,
+  "net_margin": 35.130849961628876,
+  "roe": 4.356582927389486,
+  "cached_at": "2025-06-09T16:33:16.680108"
+}

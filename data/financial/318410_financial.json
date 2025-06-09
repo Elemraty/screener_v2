@@ -1,0 +1,13 @@
+{
+  "ticker": "318410",
+  "name": "비비씨",
+  "market": "KOSDAQ",
+  "bps": 13836,
+  "per": 12.4,
+  "eps": 678,
+  "pbr": 0.61,
+  "roe": 4.900260190806591,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:15:59.793280"
+}

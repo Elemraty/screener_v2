@@ -1,0 +1,23 @@
+{
+  "ticker": "155650",
+  "name": "와이엠씨",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 41092423561,
+  "operating_profit": 21363745,
+  "net_income": -433660843,
+  "total_assets": 173790550467,
+  "total_debt": 51552025499,
+  "total_equity": 122238524968,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 12.16848007326985,
+  "operating_profit_yoy": -98.80911509990443,
+  "net_income_yoy": -128.7054023096743,
+  "debt_ratio": 42.173304621023085,
+  "operating_margin": 0.05198949866825549,
+  "net_margin": -1.0553304123234504,
+  "roe": -1.4190643845335182,
+  "cached_at": "2025-06-09T16:26:29.172928"
+}

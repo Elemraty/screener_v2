@@ -1,0 +1,23 @@
+{
+  "ticker": "027830",
+  "name": "대성창투",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2049279180,
+  "operating_profit": 502134554,
+  "net_income": 323226348,
+  "total_assets": 100132328298,
+  "total_debt": 1029688612,
+  "total_equity": 99102639686,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -38.21725552983657,
+  "operating_profit_yoy": -64.9618676157067,
+  "net_income_yoy": -82.13931625334031,
+  "debt_ratio": 1.0390122960019013,
+  "operating_margin": 24.502984215161938,
+  "net_margin": 15.772684910603543,
+  "roe": 1.3046124665261016,
+  "cached_at": "2025-06-09T16:11:03.076063"
+}

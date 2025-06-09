@@ -1,0 +1,21 @@
+{
+  "ticker": "016100",
+  "name": "리더스코스메틱",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 18358185392,
+  "operating_profit": -1881673221,
+  "net_income": -1991583977,
+  "total_assets": 74910384201,
+  "total_debt": 39843785120,
+  "total_equity": 35066599081,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 1.3402804783079425,
+  "debt_ratio": 113.62318036022035,
+  "operating_margin": -10.249777855604304,
+  "net_margin": -10.8484794900692,
+  "roe": -22.717731735543094,
+  "cached_at": "2025-06-09T16:13:39.408496"
+}

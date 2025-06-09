@@ -1,0 +1,13 @@
+{
+  "ticker": "484810",
+  "name": "티엑스알로보틱스",
+  "market": "KOSDAQ",
+  "bps": 2432,
+  "per": 33.04,
+  "eps": 481,
+  "pbr": 6.53,
+  "roe": 19.777960526315788,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:37:49.286005"
+}

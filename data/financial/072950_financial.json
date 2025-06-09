@@ -1,0 +1,23 @@
+{
+  "ticker": "072950",
+  "name": "빛샘전자",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 28066239468,
+  "operating_profit": 1541095182,
+  "net_income": 1336307398,
+  "total_assets": 109866931788,
+  "total_debt": 33702799315,
+  "total_equity": 76164132473,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 82.51290088384151,
+  "operating_profit_yoy": 128.04284024325648,
+  "net_income_yoy": 107.80855117050336,
+  "debt_ratio": 44.25022411559347,
+  "operating_margin": 5.490921517138393,
+  "net_margin": 4.761262724646827,
+  "roe": 7.018040406217285,
+  "cached_at": "2025-06-09T16:16:27.908953"
+}

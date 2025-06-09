@@ -1,0 +1,23 @@
+{
+  "ticker": "178920",
+  "name": "PI첨단소재",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 64095662061,
+  "operating_profit": 8901648910,
+  "net_income": 6054922945,
+  "total_assets": 507495909573,
+  "total_debt": 173789404290,
+  "total_equity": 333706505283,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 23.719183035574254,
+  "operating_profit_yoy": 260.37795284363233,
+  "net_income_yoy": 307.53565516433605,
+  "debt_ratio": 52.078518560079544,
+  "operating_margin": 13.888067653514957,
+  "net_margin": 9.446696937520539,
+  "roe": 7.257782331651125,
+  "cached_at": "2025-06-09T15:57:20.579892"
+}

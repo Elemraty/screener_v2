@@ -1,0 +1,23 @@
+{
+  "ticker": "003780",
+  "name": "진양산업",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 22552299669,
+  "operating_profit": 2160088100,
+  "net_income": 1615423455,
+  "total_assets": 97490016387,
+  "total_debt": 34552671630,
+  "total_equity": 62937344757,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 11.568510614290295,
+  "operating_profit_yoy": 17.26306432765665,
+  "net_income_yoy": 0.7899720198209836,
+  "debt_ratio": 54.900110202308774,
+  "operating_margin": 9.57812787034406,
+  "net_margin": 7.163009886838871,
+  "roe": 10.266867540962346,
+  "cached_at": "2025-06-09T16:03:41.444205"
+}

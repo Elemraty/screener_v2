@@ -1,0 +1,23 @@
+{
+  "ticker": "042000",
+  "name": "카페24",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 71248953949,
+  "operating_profit": 5958810483,
+  "net_income": 5265006561,
+  "total_assets": 351256934557,
+  "total_debt": 132309664458,
+  "total_equity": 218947270099,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 6.577566569839655,
+  "operating_profit_yoy": 176.22009418689063,
+  "net_income_yoy": 615.7649508212043,
+  "debt_ratio": 60.42992196165514,
+  "operating_margin": 8.363365569219889,
+  "net_margin": 7.389591382308142,
+  "roe": 9.618766305913484,
+  "cached_at": "2025-06-09T16:35:04.154532"
+}

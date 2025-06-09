@@ -1,0 +1,23 @@
+{
+  "ticker": "036090",
+  "name": "위지트",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 114129276511,
+  "operating_profit": 4581933735,
+  "net_income": 3211758812,
+  "total_assets": 583414731129,
+  "total_debt": 259470818823,
+  "total_equity": 323943912306,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 81.42275509378283,
+  "operating_profit_yoy": 37.01728260132777,
+  "net_income_yoy": -56.43094191370203,
+  "debt_ratio": 80.09745173970173,
+  "operating_margin": 4.0146874448629175,
+  "net_margin": 2.814141042671417,
+  "roe": 3.9658208597124642,
+  "cached_at": "2025-06-09T16:30:57.222437"
+}

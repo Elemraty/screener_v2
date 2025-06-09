@@ -1,0 +1,23 @@
+{
+  "ticker": "071280",
+  "name": "로체시스템즈",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 30242651012,
+  "operating_profit": 5068982299,
+  "net_income": 3801852047,
+  "total_assets": 151519640712,
+  "total_debt": 26267418254,
+  "total_equity": 125252222458,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 48.59674185260678,
+  "operating_profit_yoy": 61.352547086875454,
+  "net_income_yoy": 105.10910390633002,
+  "debt_ratio": 20.971618497873823,
+  "operating_margin": 16.76103823368089,
+  "net_margin": 12.571160000131803,
+  "roe": 12.141427824244316,
+  "cached_at": "2025-06-09T16:13:31.582793"
+}

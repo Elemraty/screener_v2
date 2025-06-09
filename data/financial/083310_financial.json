@@ -1,0 +1,23 @@
+{
+  "ticker": "083310",
+  "name": "엘오티베큠",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 55586536158,
+  "operating_profit": -5992200788,
+  "net_income": -6355398600,
+  "total_assets": 328962640180,
+  "total_debt": 78582860154,
+  "total_equity": 250379780026,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -23.410594476929536,
+  "operating_profit_yoy": -445.51501503507336,
+  "net_income_yoy": -345.3675859568209,
+  "debt_ratio": 31.385465769576033,
+  "operating_margin": -10.77994997020084,
+  "net_margin": -11.43334166736945,
+  "roe": -10.153213808782867,
+  "cached_at": "2025-06-09T16:24:41.770776"
+}

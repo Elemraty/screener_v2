@@ -1,0 +1,23 @@
+{
+  "ticker": "010780",
+  "name": "아이에스동서",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 299144695963,
+  "operating_profit": 32350174282,
+  "net_income": 319962485,
+  "total_assets": 3557202393643,
+  "total_debt": 2031693653160,
+  "total_equity": 1525508740483,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -27.59188035786172,
+  "operating_profit_yoy": -59.41194166234656,
+  "net_income_yoy": -99.06419545216741,
+  "debt_ratio": 133.1813839700934,
+  "operating_margin": 10.814222922408513,
+  "net_margin": 0.10695910351008692,
+  "roe": 0.08389659829774423,
+  "cached_at": "2025-06-09T16:02:09.191216"
+}

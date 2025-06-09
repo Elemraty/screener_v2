@@ -1,0 +1,21 @@
+{
+  "ticker": "000440",
+  "name": "중앙에너비스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 12572568356,
+  "operating_profit": -291283941,
+  "net_income": -202537735,
+  "total_assets": 57811495056,
+  "total_debt": 4872936856,
+  "total_equity": 52938558200,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 14.862346548970429,
+  "debt_ratio": 9.204891522716235,
+  "operating_margin": -2.3168212949980957,
+  "net_margin": -1.6109495630886193,
+  "roe": -1.5303607947524345,
+  "cached_at": "2025-06-09T16:34:22.240340"
+}

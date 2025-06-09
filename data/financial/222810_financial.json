@@ -1,0 +1,21 @@
+{
+  "ticker": "222810",
+  "name": "세토피아",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 5116788466,
+  "operating_profit": -2560891983,
+  "net_income": -232053092,
+  "total_assets": 31531307582,
+  "total_debt": 29204444299,
+  "total_equity": 2326863283,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -81.37489314266753,
+  "debt_ratio": 1255.09927946205,
+  "operating_margin": -50.048814798903585,
+  "net_margin": -4.535131626838685,
+  "roe": -39.891143359452805,
+  "cached_at": "2025-06-09T16:18:11.188296"
+}

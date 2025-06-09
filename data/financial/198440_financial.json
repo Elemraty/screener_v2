@@ -1,0 +1,21 @@
+{
+  "ticker": "198440",
+  "name": "강동씨앤엘",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 11554560008,
+  "operating_profit": -815829481,
+  "net_income": -1916291243,
+  "total_assets": 437806682402,
+  "total_debt": 305445403206,
+  "total_equity": 132361279196,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 187.20109858735148,
+  "debt_ratio": 230.76643340209623,
+  "operating_margin": -7.0606711154310196,
+  "net_margin": -16.584718428682894,
+  "roe": -5.7910931494168,
+  "cached_at": "2025-06-09T16:08:31.641873"
+}

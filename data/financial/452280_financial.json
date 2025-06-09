@@ -1,0 +1,13 @@
+{
+  "ticker": "452280",
+  "name": "한선엔지니어링",
+  "market": "KOSDAQ",
+  "bps": 3440,
+  "per": 28.81,
+  "eps": 244,
+  "pbr": 2.04,
+  "roe": 7.093023255813953,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:40:59.080657"
+}

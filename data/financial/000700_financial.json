@@ -1,0 +1,23 @@
+{
+  "ticker": "000700",
+  "name": "유수홀딩스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 107678581430,
+  "operating_profit": 6503801026,
+  "net_income": 3935747329,
+  "total_assets": 481226711199,
+  "total_debt": 79435209891,
+  "total_equity": 401791501308,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 10.923375527884982,
+  "operating_profit_yoy": 27.35272103847062,
+  "net_income_yoy": -48.22545900429983,
+  "debt_ratio": 19.770256372373492,
+  "operating_margin": 6.040013658824071,
+  "net_margin": 3.6550883905900653,
+  "roe": 3.918198683832277,
+  "cached_at": "2025-06-09T16:02:44.840113"
+}

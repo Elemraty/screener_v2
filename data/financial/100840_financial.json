@@ -1,0 +1,23 @@
+{
+  "ticker": "100840",
+  "name": "SNT에너지",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 115256137787,
+  "operating_profit": 12879860936,
+  "net_income": 8369423149,
+  "total_assets": 527461707343,
+  "total_debt": 219046323098,
+  "total_equity": 308415384245,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 86.99780822122736,
+  "operating_profit_yoy": 327.96661437198196,
+  "net_income_yoy": 0.447819610453859,
+  "debt_ratio": 71.02315068822679,
+  "operating_margin": 11.174989187823321,
+  "net_margin": 7.261585638473482,
+  "roe": 10.854741464325231,
+  "cached_at": "2025-06-09T15:57:47.564973"
+}

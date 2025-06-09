@@ -1,0 +1,23 @@
+{
+  "ticker": "025320",
+  "name": "시노펙스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 67251811198,
+  "operating_profit": 6776831746,
+  "net_income": 5711357513,
+  "total_assets": 239854815077,
+  "total_debt": 66570705848,
+  "total_equity": 173284109229,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -5.500593216260552,
+  "operating_profit_yoy": -16.30639586151056,
+  "net_income_yoy": -26.885717142908973,
+  "debt_ratio": 38.41708633538051,
+  "operating_margin": 10.076801836679063,
+  "net_margin": 8.492496203834358,
+  "roe": 13.183799803482902,
+  "cached_at": "2025-06-09T16:19:12.514924"
+}

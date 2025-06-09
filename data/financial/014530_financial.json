@@ -1,0 +1,23 @@
+{
+  "ticker": "014530",
+  "name": "극동유화",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 245855441286,
+  "operating_profit": 5236544981,
+  "net_income": 1775381028,
+  "total_assets": 490192207751,
+  "total_debt": 263227796515,
+  "total_equity": 226964411236,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -9.053711911932695,
+  "operating_profit_yoy": -16.325186408538084,
+  "net_income_yoy": -49.268434130160934,
+  "debt_ratio": 115.9775645360069,
+  "operating_margin": 2.129928446411078,
+  "net_margin": 0.7221239516658594,
+  "roe": 3.1289152661981707,
+  "cached_at": "2025-06-09T15:58:12.725380"
+}

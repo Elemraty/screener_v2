@@ -1,0 +1,23 @@
+{
+  "ticker": "138610",
+  "name": "나이벡",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 5616430318,
+  "operating_profit": -1222334336,
+  "net_income": -1507047732,
+  "total_assets": 57754410937,
+  "total_debt": 27031128358,
+  "total_equity": 30723282579,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -12.616985634967804,
+  "operating_profit_yoy": -486.58200453916686,
+  "net_income_yoy": -745.0110482784295,
+  "debt_ratio": 87.98255293357336,
+  "operating_margin": -21.763544934984093,
+  "net_margin": -26.832839484718413,
+  "roe": -19.620920754478213,
+  "cached_at": "2025-06-09T16:09:45.834269"
+}

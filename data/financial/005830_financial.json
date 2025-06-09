@@ -1,0 +1,20 @@
+{
+  "ticker": "005830",
+  "name": "DB손해보험",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 0,
+  "operating_profit": 619784265768,
+  "net_income": 431363891266,
+  "total_assets": 69704676511408,
+  "total_debt": 61553821211888,
+  "total_equity": 8150855299520,
+  "data_source": "f_data_financial",
+  "operating_profit_yoy": -18.363438783624897,
+  "net_income_yoy": -25.69282673584349,
+  "debt_ratio": 755.1823575559349,
+  "roe": 21.16901235095673,
+  "cached_at": "2025-06-09T15:55:53.773805"
+}

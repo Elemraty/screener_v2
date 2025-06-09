@@ -1,0 +1,23 @@
+{
+  "ticker": "047310",
+  "name": "파워로직스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 178349509716,
+  "operating_profit": -4102943782,
+  "net_income": -2083086321,
+  "total_assets": 391877310326,
+  "total_debt": 178723327508,
+  "total_equity": 213153982818,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -8.100445683039336,
+  "operating_profit_yoy": -426.60484140432686,
+  "net_income_yoy": -147.64414589470388,
+  "debt_ratio": 83.84705044925275,
+  "operating_margin": -2.3005074634258547,
+  "net_margin": -1.167979841557772,
+  "roe": -3.9090732313993466,
+  "cached_at": "2025-06-09T16:38:10.317870"
+}

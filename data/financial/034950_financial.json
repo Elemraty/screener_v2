@@ -1,0 +1,23 @@
+{
+  "ticker": "034950",
+  "name": "한국기업평가",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 22056403336,
+  "operating_profit": 4780636641,
+  "net_income": 4294230636,
+  "total_assets": 175558731605,
+  "total_debt": 60291728419,
+  "total_equity": 115267003186,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 6.942579244818647,
+  "operating_profit_yoy": 35.129731862779344,
+  "net_income_yoy": 23.403182870051364,
+  "debt_ratio": 52.30614725162115,
+  "operating_margin": 21.674597477083424,
+  "net_margin": 19.469314967554325,
+  "roe": 14.901855751626117,
+  "cached_at": "2025-06-09T16:40:27.155000"
+}

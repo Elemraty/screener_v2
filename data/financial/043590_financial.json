@@ -1,0 +1,21 @@
+{
+  "ticker": "043590",
+  "name": "웰킵스하이텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 5512914221,
+  "operating_profit": 58259014,
+  "net_income": 645733925,
+  "total_assets": 57803392278,
+  "total_debt": 19055744888,
+  "total_equity": 38747647390,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -43.20924889843758,
+  "debt_ratio": 49.17910162700074,
+  "operating_margin": 1.056773453468178,
+  "net_margin": 11.713113955959011,
+  "roe": 6.6660452285074845,
+  "cached_at": "2025-06-09T16:30:40.747315"
+}

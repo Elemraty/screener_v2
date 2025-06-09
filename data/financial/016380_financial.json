@@ -1,0 +1,23 @@
+{
+  "ticker": "016380",
+  "name": "KG스틸",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 812571105957,
+  "operating_profit": 65166819459,
+  "net_income": 46518938881,
+  "total_assets": 3364037225776,
+  "total_debt": 1385264851880,
+  "total_equity": 1978772373896,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -0.7325887902962069,
+  "operating_profit_yoy": 25.020785231234967,
+  "net_income_yoy": 1306.8329604362716,
+  "debt_ratio": 70.0062761212173,
+  "operating_margin": 8.019829770128268,
+  "net_margin": 5.724906846916817,
+  "roe": 9.403595783866535,
+  "cached_at": "2025-06-09T15:56:43.607182"
+}

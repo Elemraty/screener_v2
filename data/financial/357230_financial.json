@@ -1,0 +1,13 @@
+{
+  "ticker": "357230",
+  "name": "에이치피오",
+  "market": "KOSDAQ",
+  "bps": 3490,
+  "per": 16.32,
+  "eps": 155,
+  "pbr": 0.72,
+  "roe": 4.441260744985674,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:23:33.508197"
+}

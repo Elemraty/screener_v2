@@ -1,0 +1,21 @@
+{
+  "ticker": "161580",
+  "name": "필옵틱스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 32674424790,
+  "operating_profit": -3220865632,
+  "net_income": -4672809421,
+  "total_assets": 396916679169,
+  "total_debt": 162220707706,
+  "total_equity": 234695971463,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -53.42474456495629,
+  "debt_ratio": 69.11951095486708,
+  "operating_margin": -9.857451669618206,
+  "net_margin": -14.301122211124929,
+  "roe": -7.964021524309244,
+  "cached_at": "2025-06-09T16:39:46.180042"
+}

@@ -1,0 +1,20 @@
+{
+  "ticker": "032830",
+  "name": "삼성생명",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 0,
+  "operating_profit": 753958000000,
+  "net_income": 677496000000,
+  "total_assets": 318858553000000,
+  "total_debt": 287368034000000,
+  "total_equity": 31490519000000,
+  "data_source": "f_data_financial",
+  "operating_profit_yoy": 1.0247752274523902,
+  "net_income_yoy": 2.141439969123704,
+  "debt_ratio": 912.554137326222,
+  "roe": 8.60571399283702,
+  "cached_at": "2025-06-09T16:00:49.049084"
+}

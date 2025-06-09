@@ -1,0 +1,22 @@
+{
+  "ticker": "096770",
+  "name": "SK이노베이션",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 21146551799000,
+  "operating_profit": -44638745000,
+  "net_income": -125616620000,
+  "total_assets": 111895036667000,
+  "total_debt": 75441026583000,
+  "total_equity": 36454010084000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 12.152722522266624,
+  "operating_profit_yoy": -107.14521961580363,
+  "debt_ratio": 206.9484986951045,
+  "operating_margin": -0.21109231152338948,
+  "net_margin": -0.5940288572529366,
+  "roe": -1.3783572200758707,
+  "cached_at": "2025-06-09T15:57:40.535310"
+}

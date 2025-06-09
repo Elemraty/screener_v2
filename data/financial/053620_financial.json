@@ -1,0 +1,23 @@
+{
+  "ticker": "053620",
+  "name": "태양",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 35560820213,
+  "operating_profit": 431192903,
+  "net_income": 2440681279,
+  "total_assets": 222999922499,
+  "total_debt": 38049662296,
+  "total_equity": 184950260203,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -6.738686452292164,
+  "operating_profit_yoy": -32.44720789696238,
+  "net_income_yoy": 70.00139381037597,
+  "debt_ratio": 20.57291633666099,
+  "operating_margin": 1.212550499165282,
+  "net_margin": 6.8633998439320525,
+  "roe": 5.278567927011569,
+  "cached_at": "2025-06-09T16:37:12.589723"
+}

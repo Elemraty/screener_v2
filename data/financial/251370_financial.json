@@ -1,0 +1,22 @@
+{
+  "ticker": "251370",
+  "name": "와이엠티",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 34960444543,
+  "operating_profit": 1540700582,
+  "net_income": 1269144162,
+  "total_assets": 362394571707,
+  "total_debt": 165971174598,
+  "total_equity": 196423397109,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 18.458172045286105,
+  "operating_profit_yoy": 5893.050840983381,
+  "debt_ratio": 84.49664196872568,
+  "operating_margin": 4.406982239899718,
+  "net_margin": 3.630228901806445,
+  "roe": 2.5845071018616417,
+  "cached_at": "2025-06-09T16:29:52.358538"
+}

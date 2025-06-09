@@ -1,0 +1,23 @@
+{
+  "ticker": "024740",
+  "name": "한일단조",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 29901094060,
+  "operating_profit": 819707608,
+  "net_income": 1229871103,
+  "total_assets": 267375594388,
+  "total_debt": 128013656798,
+  "total_equity": 139361937590,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -26.709007234223993,
+  "operating_profit_yoy": -73.91850814136313,
+  "net_income_yoy": -24.309795213693175,
+  "debt_ratio": 91.85697257928028,
+  "operating_margin": 2.741396707274864,
+  "net_margin": 4.113130778867561,
+  "roe": 3.5300057512640386,
+  "cached_at": "2025-06-09T16:41:11.246957"
+}

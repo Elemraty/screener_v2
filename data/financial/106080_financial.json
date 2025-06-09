@@ -1,0 +1,21 @@
+{
+  "ticker": "106080",
+  "name": "케이이엠텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 3237986913,
+  "operating_profit": -1311665780,
+  "net_income": -3035846567,
+  "total_assets": 51026797941,
+  "total_debt": 19350990001,
+  "total_equity": 31675807940,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -24.07028543993077,
+  "debt_ratio": 61.09075429947818,
+  "operating_margin": -40.508680709420766,
+  "net_margin": -93.75722164940078,
+  "roe": -38.33646892607091,
+  "cached_at": "2025-06-09T16:35:41.390377"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "038070",
+  "name": "서린바이오",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 18033737838,
+  "operating_profit": 97071477,
+  "net_income": 290533877,
+  "total_assets": 101576878562,
+  "total_debt": 15249504278,
+  "total_equity": 86327374284,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -4.442408979173241,
+  "operating_profit_yoy": -87.84133413188094,
+  "net_income_yoy": -47.487785790880054,
+  "debt_ratio": 17.66473775494682,
+  "operating_margin": 0.5382770775088829,
+  "net_margin": 1.6110574502630186,
+  "roe": 1.346195824486453,
+  "cached_at": "2025-06-09T16:17:17.672444"
+}

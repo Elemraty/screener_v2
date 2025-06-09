@@ -1,0 +1,13 @@
+{
+  "ticker": "307750",
+  "name": "국전약품",
+  "market": "KOSDAQ",
+  "bps": 1985,
+  "per": 132.43,
+  "eps": 35,
+  "pbr": 2.34,
+  "roe": 1.7632241813602016,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:09:06.276177"
+}

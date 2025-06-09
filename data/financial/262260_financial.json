@@ -1,0 +1,23 @@
+{
+  "ticker": "262260",
+  "name": "에이프로",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 68144305906,
+  "operating_profit": 3997091761,
+  "net_income": 1650023722,
+  "total_assets": 399903905786,
+  "total_debt": 326676901826,
+  "total_equity": 73227003960,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 23.414971213756708,
+  "operating_profit_yoy": 18.35640966902492,
+  "net_income_yoy": -46.255534044691174,
+  "debt_ratio": 446.11534565096525,
+  "operating_margin": 5.8656284011663296,
+  "net_margin": 2.4213669800615256,
+  "roe": 9.013198043177185,
+  "cached_at": "2025-06-09T16:23:40.366608"
+}

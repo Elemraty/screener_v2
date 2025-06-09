@@ -1,0 +1,23 @@
+{
+  "ticker": "018250",
+  "name": "애경산업",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 151077640354,
+  "operating_profit": 6043707282,
+  "net_income": 5031447123,
+  "total_assets": 517538663090,
+  "total_debt": 126485172858,
+  "total_equity": 391053490232,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -10.663602114766713,
+  "operating_profit_yoy": -63.31207756090458,
+  "net_income_yoy": -62.965985144314686,
+  "debt_ratio": 32.344724191813306,
+  "operating_margin": 4.000398250752785,
+  "net_margin": 3.3303717950654272,
+  "roe": 5.146556416120973,
+  "cached_at": "2025-06-09T16:02:11.529697"
+}

@@ -1,0 +1,13 @@
+{
+  "ticker": "336680",
+  "name": "탑런토탈솔루션",
+  "market": "KOSDAQ",
+  "bps": 4637,
+  "per": 8.48,
+  "eps": 580,
+  "pbr": 1.06,
+  "roe": 12.508087125296527,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:37:06.247400"
+}

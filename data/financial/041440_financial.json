@@ -1,0 +1,21 @@
+{
+  "ticker": "041440",
+  "name": "현대에버다임",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 62104774870,
+  "operating_profit": -1089184450,
+  "net_income": -999210617,
+  "total_assets": 315940156451,
+  "total_debt": 130096723261,
+  "total_equity": 185843433190,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -11.423862211313685,
+  "debt_ratio": 70.00340072710212,
+  "operating_margin": -1.753785360755145,
+  "net_margin": -1.6089111007834493,
+  "roe": -2.1506503616481107,
+  "cached_at": "2025-06-09T16:41:39.442742"
+}

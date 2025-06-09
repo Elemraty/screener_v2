@@ -1,0 +1,22 @@
+{
+  "ticker": "093230",
+  "name": "이아이디",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 37885564876,
+  "operating_profit": -920677047,
+  "net_income": -1074818180,
+  "total_assets": 292118257986,
+  "total_debt": 93279275565,
+  "total_equity": 198838982421,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -32.65595446894112,
+  "operating_profit_yoy": -1884.8771884895332,
+  "debt_ratio": 46.911965867689176,
+  "operating_margin": -2.4301526188493936,
+  "net_margin": -2.837012417573541,
+  "roe": -2.162188051685553,
+  "cached_at": "2025-06-09T16:02:59.218950"
+}

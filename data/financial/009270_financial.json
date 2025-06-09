@@ -1,0 +1,23 @@
+{
+  "ticker": "009270",
+  "name": "신원",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 259545016477,
+  "operating_profit": 6202800251,
+  "net_income": -1572831522,
+  "total_assets": 700065768680,
+  "total_debt": 481687669237,
+  "total_equity": 218378099443,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 20.48876884841817,
+  "operating_profit_yoy": -33.549421514773805,
+  "net_income_yoy": -146.5780404673437,
+  "debt_ratio": 220.5750807730277,
+  "operating_margin": 2.3898745332101843,
+  "net_margin": -0.6059956547612537,
+  "roe": -2.880932705269803,
+  "cached_at": "2025-06-09T16:01:45.366842"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "004080",
+  "name": "신흥",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 23615922908,
+  "operating_profit": 727830213,
+  "net_income": 278594730,
+  "total_assets": 147755381598,
+  "total_debt": 32522234908,
+  "total_equity": 115233146690,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -10.037714753379245,
+  "operating_profit_yoy": -48.71133213070933,
+  "net_income_yoy": -77.22119372703634,
+  "debt_ratio": 28.222986043669586,
+  "operating_margin": 3.081946938239048,
+  "net_margin": 1.1796902076845144,
+  "roe": 0.9670645573863397,
+  "cached_at": "2025-06-09T16:01:57.115473"
+}

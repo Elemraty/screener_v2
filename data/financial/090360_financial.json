@@ -1,0 +1,22 @@
+{
+  "ticker": "090360",
+  "name": "로보스타",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 14149812196,
+  "operating_profit": -2380752592,
+  "net_income": -2207884731,
+  "total_assets": 106918383706,
+  "total_debt": 17135520946,
+  "total_equity": 89782862760,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -32.29403905835447,
+  "net_income_yoy": -917.2320519864895,
+  "debt_ratio": 19.085514116213062,
+  "operating_margin": -16.82532996920633,
+  "net_margin": -15.603632757925546,
+  "roe": -9.836553048667792,
+  "cached_at": "2025-06-09T16:13:27.387428"
+}

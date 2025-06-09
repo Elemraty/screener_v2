@@ -1,0 +1,21 @@
+{
+  "ticker": "258610",
+  "name": "케일럼",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 31202655433,
+  "operating_profit": 1299498956,
+  "net_income": 748923813,
+  "total_assets": 101174244788,
+  "total_debt": 55489815045,
+  "total_equity": 45684429743,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -7.689728342033297,
+  "debt_ratio": 121.4632980145767,
+  "operating_margin": 4.164706298123739,
+  "net_margin": 2.4001925560730846,
+  "roe": 6.557365975349655,
+  "cached_at": "2025-06-09T16:35:47.710431"
+}

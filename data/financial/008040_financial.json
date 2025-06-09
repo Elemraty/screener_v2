@@ -1,0 +1,23 @@
+{
+  "ticker": "008040",
+  "name": "사조동아원",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 160368531778,
+  "operating_profit": 10209835708,
+  "net_income": 7454640888,
+  "total_assets": 475442254377,
+  "total_debt": 202097488188,
+  "total_equity": 273344766189,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -2.6041214663618306,
+  "operating_profit_yoy": -30.436950954900098,
+  "net_income_yoy": -20.362357562785526,
+  "debt_ratio": 73.93501291634858,
+  "operating_margin": 6.366483246310188,
+  "net_margin": 4.6484436848991955,
+  "roe": 10.90877428082249,
+  "cached_at": "2025-06-09T16:00:38.452389"
+}

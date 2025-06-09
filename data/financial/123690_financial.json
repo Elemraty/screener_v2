@@ -1,0 +1,23 @@
+{
+  "ticker": "123690",
+  "name": "한국화장품",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 24609531972,
+  "operating_profit": 1716779613,
+  "net_income": 2014041589,
+  "total_assets": 60265838328,
+  "total_debt": 27805481548,
+  "total_equity": 32460356780,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 3.5175257286546913,
+  "operating_profit_yoy": -29.046694740777923,
+  "net_income_yoy": -22.953400150006477,
+  "debt_ratio": 85.65981494427677,
+  "operating_margin": 6.9760758349784995,
+  "net_margin": 8.183989810499106,
+  "roe": 24.818477537387068,
+  "cached_at": "2025-06-09T16:04:59.866270"
+}

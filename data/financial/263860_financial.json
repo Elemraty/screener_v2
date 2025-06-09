@@ -1,0 +1,22 @@
+{
+  "ticker": "263860",
+  "name": "지니언스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 9353940781,
+  "operating_profit": 36512942,
+  "net_income": 808279040,
+  "total_assets": 66933622734,
+  "total_debt": 12108767451,
+  "total_equity": 54824855283,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 33.88907410383728,
+  "net_income_yoy": 142.9080059725484,
+  "debt_ratio": 22.086273440204895,
+  "operating_margin": 0.3903482270720183,
+  "net_margin": 8.641053636364688,
+  "roe": 5.8971722648623555,
+  "cached_at": "2025-06-09T16:34:26.864367"
+}

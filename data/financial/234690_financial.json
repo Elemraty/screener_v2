@@ -1,0 +1,23 @@
+{
+  "ticker": "234690",
+  "name": "녹십자웰빙",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 34756030922,
+  "operating_profit": 4987301675,
+  "net_income": 5098257101,
+  "total_assets": 190710132621,
+  "total_debt": 82788336704,
+  "total_equity": 107921795917,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 5.287899517947903,
+  "operating_profit_yoy": 81.55326631329503,
+  "net_income_yoy": 311.7965607876646,
+  "debt_ratio": 76.71141496539816,
+  "operating_margin": 14.349456893373633,
+  "net_margin": 14.668697678516814,
+  "roe": 18.896116609923517,
+  "cached_at": "2025-06-09T16:10:29.134500"
+}

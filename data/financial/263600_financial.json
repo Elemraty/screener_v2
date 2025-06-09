@@ -1,0 +1,21 @@
+{
+  "ticker": "263600",
+  "name": "덕우전자",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 39617629622,
+  "operating_profit": 1361150027,
+  "net_income": 853171171,
+  "total_assets": 217825048156,
+  "total_debt": 112109508640,
+  "total_equity": 105715539516,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 29.717853283619398,
+  "debt_ratio": 106.04827743704818,
+  "operating_margin": 3.4357179871360652,
+  "net_margin": 2.153513925846353,
+  "roe": 3.2281769545181116,
+  "cached_at": "2025-06-09T16:11:47.722275"
+}

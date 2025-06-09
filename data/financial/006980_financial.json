@@ -1,0 +1,22 @@
+{
+  "ticker": "006980",
+  "name": "우성",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 139253467681,
+  "operating_profit": 3455448891,
+  "net_income": 844614554,
+  "total_assets": 421637902527,
+  "total_debt": 221215911116,
+  "total_equity": 200421991411,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -8.245571695198917,
+  "operating_profit_yoy": 27.943205156759632,
+  "debt_ratio": 110.3750689026727,
+  "operating_margin": 2.48140958250009,
+  "net_margin": 0.6065303565257217,
+  "roe": 1.6856724116027197,
+  "cached_at": "2025-06-09T16:02:33.581062"
+}

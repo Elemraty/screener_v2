@@ -1,0 +1,22 @@
+{
+  "ticker": "204630",
+  "name": "스튜디오산타클로스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2236553130,
+  "operating_profit": -997995805,
+  "net_income": -1535011262,
+  "total_assets": 86011727181,
+  "total_debt": 44810252029,
+  "total_equity": 41201475152,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 30.95095876448579,
+  "net_income_yoy": -112.20124998857352,
+  "debt_ratio": 108.75885356940873,
+  "operating_margin": -44.62204772215718,
+  "net_margin": -68.63289950102818,
+  "roe": -14.902488382632463,
+  "cached_at": "2025-06-09T16:19:04.112261"
+}

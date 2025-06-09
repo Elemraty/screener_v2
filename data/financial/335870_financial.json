@@ -1,0 +1,13 @@
+{
+  "ticker": "335870",
+  "name": "윙스풋",
+  "market": "KOSDAQ",
+  "bps": 1867,
+  "per": 34.65,
+  "eps": 72,
+  "pbr": 1.34,
+  "roe": 3.85645420460632,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:31:03.569474"
+}

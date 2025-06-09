@@ -1,0 +1,23 @@
+{
+  "ticker": "005010",
+  "name": "휴스틸",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 154009738256,
+  "operating_profit": -467312213,
+  "net_income": -2406505148,
+  "total_assets": 1441859074406,
+  "total_debt": 342841080055,
+  "total_equity": 1099017994351,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -9.391408071307206,
+  "operating_profit_yoy": -102.55343416618956,
+  "net_income_yoy": -111.17143311442102,
+  "debt_ratio": 31.1952198978741,
+  "operating_margin": -0.30343030141588734,
+  "net_margin": -1.5625668709337255,
+  "roe": -0.8758747028236263,
+  "cached_at": "2025-06-09T16:06:03.874845"
+}

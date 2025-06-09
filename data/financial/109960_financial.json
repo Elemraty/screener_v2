@@ -1,0 +1,23 @@
+{
+  "ticker": "109960",
+  "name": "AP헬스케어",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 3342441164,
+  "operating_profit": 194096719,
+  "net_income": -1203169118,
+  "total_assets": 317218166543,
+  "total_debt": 16568168100,
+  "total_equity": 300649998443,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -1.735513411015266,
+  "operating_profit_yoy": 9297.36815986157,
+  "net_income_yoy": -102.53846085026514,
+  "debt_ratio": 5.510782699418888,
+  "operating_margin": 5.807034723319366,
+  "net_margin": -35.99671793654346,
+  "roe": -1.6007571917258572,
+  "cached_at": "2025-06-09T16:06:10.575131"
+}

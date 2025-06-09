@@ -1,0 +1,23 @@
+{
+  "ticker": "001680",
+  "name": "대상",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1130423675875,
+  "operating_profit": 57276260048,
+  "net_income": 28428085453,
+  "total_assets": 3534305695646,
+  "total_debt": 2094036274727,
+  "total_equity": 1440269420919,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 8.223897078673058,
+  "operating_profit_yoy": 20.08574944448174,
+  "net_income_yoy": 37.50938706257059,
+  "debt_ratio": 145.3919832159491,
+  "operating_margin": 5.066795863388613,
+  "net_margin": 2.5148168832358673,
+  "roe": 7.8952132261089725,
+  "cached_at": "2025-06-09T15:58:47.838078"
+}

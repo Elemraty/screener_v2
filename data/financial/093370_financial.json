@@ -1,0 +1,21 @@
+{
+  "ticker": "093370",
+  "name": "후성",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 107117451805,
+  "operating_profit": -104857430,
+  "net_income": -1938626052,
+  "total_assets": 860690092327,
+  "total_debt": 494956657389,
+  "total_equity": 365733434938,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -1.3392113474603562,
+  "debt_ratio": 135.33262483177296,
+  "operating_margin": -0.09789014603417358,
+  "net_margin": -1.8098134518072146,
+  "roe": -2.1202612250407356,
+  "cached_at": "2025-06-09T16:06:02.280767"
+}

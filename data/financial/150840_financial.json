@@ -1,0 +1,21 @@
+{
+  "ticker": "150840",
+  "name": "인트로메딕",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 3170267676,
+  "operating_profit": 316877825,
+  "net_income": 278579980,
+  "total_assets": 10661240131,
+  "total_debt": 4666291319,
+  "total_equity": 5994948812,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -0.44844662300634885,
+  "debt_ratio": 77.83705024569274,
+  "operating_margin": 9.995301891978158,
+  "net_margin": 8.787269986977591,
+  "roe": 18.587646949870237,
+  "cached_at": "2025-06-09T16:33:10.415692"
+}

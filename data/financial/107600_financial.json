@@ -1,0 +1,21 @@
+{
+  "ticker": "107600",
+  "name": "새빗켐",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 9894176215,
+  "operating_profit": -2058035621,
+  "net_income": -2279094384,
+  "total_assets": 102005466080,
+  "total_debt": 41255186142,
+  "total_equity": 60750279938,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 59.2598292389027,
+  "debt_ratio": 67.90945849814003,
+  "operating_margin": -20.800474706321975,
+  "net_margin": -23.034705815576583,
+  "roe": -15.00631362572142,
+  "cached_at": "2025-06-09T16:17:12.436751"
+}

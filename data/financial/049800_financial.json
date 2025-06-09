@@ -1,0 +1,21 @@
+{
+  "ticker": "049800",
+  "name": "우진플라임",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 38069473828,
+  "operating_profit": -2530017291,
+  "net_income": -2914932476,
+  "total_assets": 331095625024,
+  "total_debt": 228055325986,
+  "total_equity": 103040299038,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -11.791716844452061,
+  "debt_ratio": 221.32634329981516,
+  "operating_margin": -6.6457900165123345,
+  "net_margin": -7.656876186862542,
+  "roe": -11.315698821584393,
+  "cached_at": "2025-06-09T16:02:36.431064"
+}

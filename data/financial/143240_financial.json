@@ -1,0 +1,20 @@
+{
+  "ticker": "143240",
+  "name": "사람인",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 0,
+  "operating_profit": 1964018152,
+  "net_income": 1405597813,
+  "total_assets": 221363726652,
+  "total_debt": 48186879842,
+  "total_equity": 173176846810,
+  "data_source": "f_data_financial",
+  "operating_profit_yoy": -62.784729237772005,
+  "net_income_yoy": -65.44124431961514,
+  "debt_ratio": 27.82524380690911,
+  "roe": 3.2466183300869167,
+  "cached_at": "2025-06-09T16:16:30.485476"
+}

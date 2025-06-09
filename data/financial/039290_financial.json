@@ -1,0 +1,21 @@
+{
+  "ticker": "039290",
+  "name": "인포뱅크",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 31239272041,
+  "operating_profit": -1541534226,
+  "net_income": -160678945,
+  "total_assets": 98212615683,
+  "total_debt": 26300833215,
+  "total_equity": 71911782468,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -8.124531866707619,
+  "debt_ratio": 36.57374676632942,
+  "operating_margin": -4.93460354638486,
+  "net_margin": -0.5143491973472264,
+  "roe": -0.8937558741309214,
+  "cached_at": "2025-06-09T16:33:12.472954"
+}

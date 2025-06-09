@@ -1,0 +1,23 @@
+{
+  "ticker": "130660",
+  "name": "한전산업",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 90423990493,
+  "operating_profit": 7451491010,
+  "net_income": 5936250022,
+  "total_assets": 210560812259,
+  "total_debt": 101119671015,
+  "total_equity": 109441141244,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 2.8378837836575688,
+  "operating_profit_yoy": -1.966230526457724,
+  "net_income_yoy": -2.2027361070527496,
+  "debt_ratio": 92.3963966983429,
+  "operating_margin": 8.240612883122918,
+  "net_margin": 6.564906049417873,
+  "roe": 21.696594003036125,
+  "cached_at": "2025-06-09T16:05:18.200662"
+}

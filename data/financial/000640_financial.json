@@ -1,0 +1,23 @@
+{
+  "ticker": "000640",
+  "name": "동아쏘시오홀딩스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 328401233515,
+  "operating_profit": 20350210741,
+  "net_income": 17969311743,
+  "total_assets": 2059190391814,
+  "total_debt": 981905054694,
+  "total_equity": 1077285337120,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 7.700852369069788,
+  "operating_profit_yoy": 30.877413221943286,
+  "net_income_yoy": 134.20251861825813,
+  "debt_ratio": 91.14623775712121,
+  "operating_margin": 6.19675222385256,
+  "net_margin": 5.47175525215536,
+  "roe": 6.672071409061934,
+  "cached_at": "2025-06-09T15:59:21.933378"
+}

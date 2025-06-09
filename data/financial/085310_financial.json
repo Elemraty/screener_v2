@@ -1,0 +1,22 @@
+{
+  "ticker": "085310",
+  "name": "엔케이",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 23944611972,
+  "operating_profit": -962279412,
+  "net_income": -356403351,
+  "total_assets": 217968837555,
+  "total_debt": 38848743130,
+  "total_equity": 179120094425,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -6.205567361885245,
+  "net_income_yoy": -116.35292292224801,
+  "debt_ratio": 21.688657129569844,
+  "operating_margin": -4.0187722111565485,
+  "net_margin": -1.4884490565842776,
+  "roe": -0.7958980864633943,
+  "cached_at": "2025-06-09T16:02:22.117253"
+}

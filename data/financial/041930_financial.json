@@ -1,0 +1,23 @@
+{
+  "ticker": "041930",
+  "name": "동아화성",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 103016329417,
+  "operating_profit": 5919358115,
+  "net_income": 9413118053,
+  "total_assets": 326430492316,
+  "total_debt": 152454094390,
+  "total_equity": 173976397926,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 10.96646247357549,
+  "operating_profit_yoy": 16.542690757262534,
+  "net_income_yoy": 84.08751342576002,
+  "debt_ratio": 87.6291820082662,
+  "operating_margin": 5.746038660569062,
+  "net_margin": 9.137500924631688,
+  "roe": 21.642287494660795,
+  "cached_at": "2025-06-09T16:12:07.163858"
+}

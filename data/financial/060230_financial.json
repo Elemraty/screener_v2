@@ -1,0 +1,21 @@
+{
+  "ticker": "060230",
+  "name": "소니드",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 11402845099,
+  "operating_profit": -1643225734,
+  "net_income": -3209116875,
+  "total_assets": 162806176971,
+  "total_debt": 97148585235,
+  "total_equity": 65657591736,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -40.522808887041094,
+  "debt_ratio": 147.96245592683462,
+  "operating_margin": -14.410664353794534,
+  "net_margin": -28.14312434430449,
+  "roe": -19.550621886367143,
+  "cached_at": "2025-06-09T16:18:30.061101"
+}

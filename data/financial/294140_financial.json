@@ -1,0 +1,22 @@
+{
+  "ticker": "294140",
+  "name": "레몬",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 947196095,
+  "operating_profit": -1536723112,
+  "net_income": -1479774846,
+  "total_assets": 17838731471,
+  "total_debt": 7066844722,
+  "total_equity": 10771886749,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -67.7756067346267,
+  "net_income_yoy": -691.8797549000192,
+  "debt_ratio": 65.60452116390887,
+  "operating_margin": -162.23917308273954,
+  "net_margin": -156.22687359157663,
+  "roe": -54.94951369173553,
+  "cached_at": "2025-06-09T16:13:17.928253"
+}

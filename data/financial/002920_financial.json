@@ -1,0 +1,23 @@
+{
+  "ticker": "002920",
+  "name": "유성기업",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 78237317480,
+  "operating_profit": -478530689,
+  "net_income": 2998235461,
+  "total_assets": 438942734054,
+  "total_debt": 110738893553,
+  "total_equity": 328203840501,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -0.6045473853593664,
+  "operating_profit_yoy": -123.1445926962035,
+  "net_income_yoy": -45.70179108133664,
+  "debt_ratio": 33.74088901091412,
+  "operating_margin": -0.6116399493404512,
+  "net_margin": 3.8322319291768236,
+  "roe": 3.6541138049124866,
+  "cached_at": "2025-06-09T16:02:44.047940"
+}

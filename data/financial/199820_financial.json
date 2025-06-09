@@ -1,0 +1,23 @@
+{
+  "ticker": "199820",
+  "name": "제일일렉트릭",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 51711121229,
+  "operating_profit": 2684459265,
+  "net_income": 2484210338,
+  "total_assets": 222025955728,
+  "total_debt": 67308861740,
+  "total_equity": 154717093988,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 20.517697182597104,
+  "operating_profit_yoy": 15.966183061884887,
+  "net_income_yoy": 4.355101610801615,
+  "debt_ratio": 43.504476464133006,
+  "operating_margin": 5.1912609922187,
+  "net_margin": 4.804015613969777,
+  "roe": 6.422587896312678,
+  "cached_at": "2025-06-09T16:34:08.540740"
+}

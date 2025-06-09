@@ -1,0 +1,23 @@
+{
+  "ticker": "294570",
+  "name": "쿠콘",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 17304656770,
+  "operating_profit": 4387738271,
+  "net_income": 4745123666,
+  "total_assets": 272794951095,
+  "total_debt": 124690678920,
+  "total_equity": 148104272175,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 1.729228111071568,
+  "operating_profit_yoy": 28.09940173108858,
+  "net_income_yoy": 111.17429349049898,
+  "debt_ratio": 84.19114255709349,
+  "operating_margin": 25.35582374916992,
+  "net_margin": 27.421079360708983,
+  "roe": 12.815629411130455,
+  "cached_at": "2025-06-09T16:36:31.764957"
+}

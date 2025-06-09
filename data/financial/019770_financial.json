@@ -1,0 +1,23 @@
+{
+  "ticker": "019770",
+  "name": "서연탑메탈",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 58589326900,
+  "operating_profit": 3195742884,
+  "net_income": 2634987529,
+  "total_assets": 165133419838,
+  "total_debt": 71049205982,
+  "total_equity": 94084213856,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 25.57787513880061,
+  "operating_profit_yoy": 30.005111536146046,
+  "net_income_yoy": -20.09886599507468,
+  "debt_ratio": 75.51660695251587,
+  "operating_margin": 5.45447960078886,
+  "net_margin": 4.497384879497566,
+  "roe": 11.202676500153208,
+  "cached_at": "2025-06-09T16:17:22.069734"
+}

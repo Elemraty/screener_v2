@@ -1,0 +1,23 @@
+{
+  "ticker": "071320",
+  "name": "지역난방공사",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1576835358315,
+  "operating_profit": 323778390619,
+  "net_income": 233485695623,
+  "total_assets": 8539640479118,
+  "total_debt": 6089333020206,
+  "total_equity": 2450307458912,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 14.713289087212544,
+  "operating_profit_yoy": 55.250947526213444,
+  "net_income_yoy": 63.90649808266578,
+  "debt_ratio": 248.5130181544573,
+  "operating_margin": 20.53343038711336,
+  "net_margin": 14.80723363994716,
+  "roe": 38.11533034742892,
+  "cached_at": "2025-06-09T16:03:40.392858"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "036890",
+  "name": "진성티이씨",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 106562878886,
+  "operating_profit": 9066852683,
+  "net_income": 6600328154,
+  "total_assets": 484273491738,
+  "total_debt": 219183587723,
+  "total_equity": 265089904015,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -0.39499777355498367,
+  "operating_profit_yoy": 59.86684592720801,
+  "net_income_yoy": 32.07982781331997,
+  "debt_ratio": 82.68273683881887,
+  "operating_margin": 8.508453204140288,
+  "net_margin": 6.193834309845336,
+  "roe": 9.9593806539332,
+  "cached_at": "2025-06-09T16:34:45.607162"
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "226330",
+  "name": "신테카바이오",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 868805202,
+  "operating_profit": -2957763887,
+  "net_income": -7292538687,
+  "total_assets": 42880403811,
+  "total_debt": 25148788551,
+  "total_equity": 17731615260,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 13881.679442628705,
+  "debt_ratio": 141.8302178467186,
+  "operating_margin": -340.4403979385934,
+  "net_margin": -839.3755781172223,
+  "roe": -164.50929213315223,
+  "cached_at": "2025-06-09T16:19:40.551775"
+}

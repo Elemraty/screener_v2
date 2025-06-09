@@ -1,0 +1,23 @@
+{
+  "ticker": "080470",
+  "name": "성창오토텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 57416806934,
+  "operating_profit": 2559996187,
+  "net_income": 2798553330,
+  "total_assets": 204561230888,
+  "total_debt": 140581473266,
+  "total_equity": 63979757622,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 32.2576046862614,
+  "operating_profit_yoy": 214.59647790702817,
+  "net_income_yoy": 173.58103244151218,
+  "debt_ratio": 219.7280491379352,
+  "operating_margin": 4.4586181707086014,
+  "net_margin": 4.874101294446601,
+  "roe": 17.49649222827123,
+  "cached_at": "2025-06-09T16:17:53.342693"
+}

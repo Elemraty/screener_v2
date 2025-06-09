@@ -1,0 +1,22 @@
+{
+  "ticker": "089140",
+  "name": "넥스턴바이오",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 6392160987,
+  "operating_profit": -652953307,
+  "net_income": -1480371038,
+  "total_assets": 233023705237,
+  "total_debt": 96542473298,
+  "total_equity": 136481231939,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -0.4297860291939015,
+  "net_income_yoy": -299.4885906706993,
+  "debt_ratio": 70.73681261988422,
+  "operating_margin": -10.21490710775179,
+  "net_margin": -23.15916387291702,
+  "roe": -4.338680174462812,
+  "cached_at": "2025-06-09T16:10:12.576165"
+}

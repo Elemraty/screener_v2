@@ -1,0 +1,23 @@
+{
+  "ticker": "014580",
+  "name": "태경비케이",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 69556421042,
+  "operating_profit": 7184856843,
+  "net_income": 7751391990,
+  "total_assets": 586219356858,
+  "total_debt": 217335422665,
+  "total_equity": 368883934193,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -1.0240323433896137,
+  "operating_profit_yoy": -27.605651787813944,
+  "net_income_yoy": -1.531373094338706,
+  "debt_ratio": 58.91702037402642,
+  "operating_margin": 10.329537856270084,
+  "net_margin": 11.144035121242805,
+  "roe": 8.40523673871302,
+  "cached_at": "2025-06-09T16:04:17.929835"
+}

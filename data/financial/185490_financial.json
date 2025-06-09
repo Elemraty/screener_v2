@@ -1,0 +1,21 @@
+{
+  "ticker": "185490",
+  "name": "아이진",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 817705773,
+  "operating_profit": -2497008674,
+  "net_income": -2987928121,
+  "total_assets": 63082570879,
+  "total_debt": 15188610612,
+  "total_equity": 47893960267,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 56.25661825087845,
+  "debt_ratio": 31.71299789644936,
+  "operating_margin": -305.3676220040579,
+  "net_margin": -365.40381878898637,
+  "roe": -24.954529584464108,
+  "cached_at": "2025-06-09T16:21:23.328877"
+}

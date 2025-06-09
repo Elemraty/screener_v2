@@ -1,0 +1,23 @@
+{
+  "ticker": "023600",
+  "name": "삼보판지",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 127823381495,
+  "operating_profit": 7129394834,
+  "net_income": 8015364689,
+  "total_assets": 823047335135,
+  "total_debt": 180066563723,
+  "total_equity": 642980771412,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -5.256087038514245,
+  "operating_profit_yoy": -46.50489907804918,
+  "net_income_yoy": -38.89317589007059,
+  "debt_ratio": 28.00496869098742,
+  "operating_margin": 5.577535776800644,
+  "net_margin": 6.270656115691582,
+  "roe": 4.986379092735904,
+  "cached_at": "2025-06-09T16:16:41.567199"
+}

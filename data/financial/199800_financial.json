@@ -1,0 +1,21 @@
+{
+  "ticker": "199800",
+  "name": "툴젠",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 129134025,
+  "operating_profit": -4610090775,
+  "net_income": -4443280704,
+  "total_assets": 71453036988,
+  "total_debt": 17456499537,
+  "total_equity": 53996537451,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 6.615683782107551,
+  "debt_ratio": 32.328923966358346,
+  "operating_margin": -3570.0047102225767,
+  "net_margin": -3440.828785442102,
+  "roe": -32.91530097115671,
+  "cached_at": "2025-06-09T16:37:31.058610"
+}

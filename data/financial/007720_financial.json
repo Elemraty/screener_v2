@@ -1,0 +1,21 @@
+{
+  "ticker": "007720",
+  "name": "소노스퀘어",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 29973840583,
+  "operating_profit": -1180843942,
+  "net_income": -1605165825,
+  "total_assets": 137800066850,
+  "total_debt": 45377504299,
+  "total_equity": 92422562551,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 5.290742364363044,
+  "debt_ratio": 49.097864251448435,
+  "operating_margin": -3.939581712027016,
+  "net_margin": -5.355222399862859,
+  "roe": -6.947073444817106,
+  "cached_at": "2025-06-09T16:18:29.560183"
+}

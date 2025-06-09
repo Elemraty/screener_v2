@@ -1,0 +1,22 @@
+{
+  "ticker": "002870",
+  "name": "신풍",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 5785436328,
+  "operating_profit": -881996040,
+  "net_income": 701212800,
+  "total_assets": 75960270888,
+  "total_debt": 3548629619,
+  "total_equity": 72411641269,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 14.43857207040824,
+  "net_income_yoy": -70.14493116608014,
+  "debt_ratio": 4.900634147784738,
+  "operating_margin": -15.245108406627338,
+  "net_margin": 12.120309692223442,
+  "roe": 3.87348104648027,
+  "cached_at": "2025-06-09T16:01:46.440297"
+}

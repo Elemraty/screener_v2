@@ -1,0 +1,23 @@
+{
+  "ticker": "290380",
+  "name": "대유",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 10098945187,
+  "operating_profit": 1445399243,
+  "net_income": 1641694058,
+  "total_assets": 96597210488,
+  "total_debt": 18985027044,
+  "total_equity": 77612183444,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -7.914740837824219,
+  "operating_profit_yoy": -28.720322700183132,
+  "net_income_yoy": 21.706496939244,
+  "debt_ratio": 24.461400519286233,
+  "operating_margin": 14.312378334923622,
+  "net_margin": 16.256094350460405,
+  "roe": 8.46101209965078,
+  "cached_at": "2025-06-09T16:11:19.388072"
+}

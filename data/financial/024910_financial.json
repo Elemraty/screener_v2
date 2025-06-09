@@ -1,0 +1,23 @@
+{
+  "ticker": "024910",
+  "name": "경창산업",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 168127037293,
+  "operating_profit": 3504006097,
+  "net_income": 1691911334,
+  "total_assets": 504725230361,
+  "total_debt": 363982829082,
+  "total_equity": 140742401279,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 7.804886748463935,
+  "operating_profit_yoy": -34.628522195896124,
+  "net_income_yoy": -31.411452458446266,
+  "debt_ratio": 258.61632725766873,
+  "operating_margin": 2.084141940176739,
+  "net_margin": 1.0063291194809172,
+  "roe": 4.8085333733820494,
+  "cached_at": "2025-06-09T16:08:39.518692"
+}

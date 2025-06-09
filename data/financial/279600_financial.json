@@ -1,0 +1,21 @@
+{
+  "ticker": "279600",
+  "name": "미디어젠",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 8087763591,
+  "operating_profit": -719267322,
+  "net_income": -748820155,
+  "total_assets": 38351109020,
+  "total_debt": 21077962343,
+  "total_equity": 17273146677,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 247.5715425026032,
+  "debt_ratio": 122.02734531899905,
+  "operating_margin": -8.89327827040339,
+  "net_margin": -9.258680061238204,
+  "roe": -17.34067727212874,
+  "cached_at": "2025-06-09T16:14:36.697860"
+}

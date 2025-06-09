@@ -1,0 +1,23 @@
+{
+  "ticker": "037560",
+  "name": "LG헬로비전",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 313517255057,
+  "operating_profit": 7114911319,
+  "net_income": 2976137764,
+  "total_assets": 1304886658982,
+  "total_debt": 857825235809,
+  "total_equity": 447061423173,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 17.336033349075564,
+  "operating_profit_yoy": 73.11912630916841,
+  "net_income_yoy": 93.44338677899835,
+  "debt_ratio": 191.88084485586361,
+  "operating_margin": 2.269384285629335,
+  "net_margin": 0.9492739924183483,
+  "roe": 2.6628446202107843,
+  "cached_at": "2025-06-09T15:56:57.746302"
+}

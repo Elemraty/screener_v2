@@ -1,0 +1,13 @@
+{
+  "ticker": "460930",
+  "name": "현대힘스",
+  "market": "KOSDAQ",
+  "bps": 6599,
+  "per": 43.49,
+  "eps": 476,
+  "pbr": 3.14,
+  "roe": 7.213214123352023,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:41:43.171003"
+}

@@ -1,0 +1,22 @@
+{
+  "ticker": "194480",
+  "name": "데브시스터즈",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 89082593293,
+  "operating_profit": 9408349968,
+  "net_income": 10158252932,
+  "total_assets": 274981286149,
+  "total_debt": 110106249887,
+  "total_equity": 164875036262,
+  "data_source": "f_data_financial",
+  "operating_profit_yoy": 15.587788658633151,
+  "net_income_yoy": 6.513272837413897,
+  "debt_ratio": 66.78163801100374,
+  "operating_margin": 10.561378626523771,
+  "net_margin": 11.403185017962675,
+  "roe": 24.644732549705584,
+  "cached_at": "2025-06-09T16:11:48.256910"
+}

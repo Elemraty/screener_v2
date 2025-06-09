@@ -1,0 +1,23 @@
+{
+  "ticker": "089600",
+  "name": "KT나스미디어",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 23511320533,
+  "operating_profit": 2419839080,
+  "net_income": 2966362441,
+  "total_assets": 484046683985,
+  "total_debt": 249565599270,
+  "total_equity": 234481084715,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -26.699098823206178,
+  "operating_profit_yoy": 9.846255602536115,
+  "net_income_yoy": -9.524990005372313,
+  "debt_ratio": 106.43314771992567,
+  "operating_margin": 10.292229552157925,
+  "net_margin": 12.616741100681587,
+  "roe": 5.060301464581614,
+  "cached_at": "2025-06-09T16:07:30.290338"
+}

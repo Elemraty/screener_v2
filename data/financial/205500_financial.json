@@ -1,0 +1,21 @@
+{
+  "ticker": "205500",
+  "name": "넥써쓰",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 6600075077,
+  "operating_profit": 251950506,
+  "net_income": 793249778,
+  "total_assets": 58018639657,
+  "total_debt": 25967254123,
+  "total_equity": 32051385534,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 396.27529379437647,
+  "debt_ratio": 81.01757128550348,
+  "operating_margin": 3.817388485140106,
+  "net_margin": 12.018799312818787,
+  "roe": 9.8997252665851,
+  "cached_at": "2025-06-09T16:10:18.612935"
+}

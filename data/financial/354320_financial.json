@@ -1,0 +1,13 @@
+{
+  "ticker": "354320",
+  "name": "알멕",
+  "market": "KOSDAQ",
+  "bps": 22042,
+  "per": 245.1,
+  "eps": 102,
+  "pbr": 1.13,
+  "roe": 0.4627529262317394,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:21:47.529918"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "045340",
+  "name": "토탈소프트",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 5323934148,
+  "operating_profit": 1423238900,
+  "net_income": 1334914877,
+  "total_assets": 45530306748,
+  "total_debt": 16749206531,
+  "total_equity": 28781100217,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 20.49982873467089,
+  "operating_profit_yoy": 341.59123038183276,
+  "net_income_yoy": 38.92715374006836,
+  "debt_ratio": 58.195157254992026,
+  "operating_margin": 26.732841925452007,
+  "net_margin": 25.073842761587816,
+  "roe": 18.552659445749917,
+  "cached_at": "2025-06-09T16:37:27.837200"
+}

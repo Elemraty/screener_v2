@@ -1,0 +1,23 @@
+{
+  "ticker": "225530",
+  "name": "보광산업",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 8240886299,
+  "operating_profit": -1683067103,
+  "net_income": -1835936226,
+  "total_assets": 177137259244,
+  "total_debt": 84712370317,
+  "total_equity": 92424888927,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -46.04041958605764,
+  "operating_profit_yoy": -187.36458905308285,
+  "net_income_yoy": -189.68468657324848,
+  "debt_ratio": 91.65536610372172,
+  "operating_margin": -20.423374888745084,
+  "net_margin": -22.278383166417232,
+  "roe": -7.945635628299552,
+  "cached_at": "2025-06-09T16:15:33.862396"
+}

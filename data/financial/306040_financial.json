@@ -1,0 +1,13 @@
+{
+  "ticker": "306040",
+  "name": "에스제이그룹",
+  "market": "KOSDAQ",
+  "bps": 13888,
+  "per": 0.0,
+  "eps": 0,
+  "pbr": 0.29,
+  "roe": 0.0,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:22:43.246475"
+}

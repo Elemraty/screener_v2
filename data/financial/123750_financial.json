@@ -1,0 +1,21 @@
+{
+  "ticker": "123750",
+  "name": "알톤",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 7905209285,
+  "operating_profit": -385951952,
+  "net_income": -368114161,
+  "total_assets": 33118115463,
+  "total_debt": 13421063766,
+  "total_equity": 19697051697,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -3.6702139238884213,
+  "debt_ratio": 68.13742468901638,
+  "operating_margin": -4.882248376805625,
+  "net_margin": -4.6566023457277765,
+  "roe": -7.475517994524355,
+  "cached_at": "2025-06-09T16:21:56.370566"
+}

@@ -1,0 +1,22 @@
+{
+  "ticker": "181710",
+  "name": "NHN",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 600129016163,
+  "operating_profit": 27645536068,
+  "net_income": -237687417,
+  "total_assets": 3057308489985,
+  "total_debt": 1307605119696,
+  "total_equity": 1749703370289,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -0.7057958802116127,
+  "operating_profit_yoy": 1.3145646878090833,
+  "debt_ratio": 74.7329599919569,
+  "operating_margin": 4.606598801830179,
+  "net_margin": -0.03960605313165563,
+  "roe": -0.054337762854223905,
+  "cached_at": "2025-06-09T15:57:07.194216"
+}

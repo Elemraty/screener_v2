@@ -1,0 +1,23 @@
+{
+  "ticker": "071670",
+  "name": "에이테크솔루션",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 74086565805,
+  "operating_profit": 693733528,
+  "net_income": 139341045,
+  "total_assets": 298717715898,
+  "total_debt": 210402023660,
+  "total_equity": 88315692238,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -3.8804430250059863,
+  "operating_profit_yoy": -3.6353853227238275,
+  "net_income_yoy": -32.15143403934007,
+  "debt_ratio": 238.23854892400348,
+  "operating_margin": 0.9363823528086666,
+  "net_margin": 0.18807869346617234,
+  "roe": 0.6311043551557877,
+  "cached_at": "2025-06-09T16:23:35.561054"
+}

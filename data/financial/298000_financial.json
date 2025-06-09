@@ -1,0 +1,21 @@
+{
+  "ticker": "298000",
+  "name": "효성화학",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 615032450501,
+  "operating_profit": -59681629222,
+  "net_income": 374151216077,
+  "total_assets": 2826760609221,
+  "total_debt": 2526060592096,
+  "total_equity": 300700017125,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -13.41820822570009,
+  "debt_ratio": 840.0600093899978,
+  "operating_margin": -9.703817932433301,
+  "net_margin": 60.83438618112259,
+  "roe": 497.7069434904177,
+  "cached_at": "2025-06-09T16:06:01.767802"
+}

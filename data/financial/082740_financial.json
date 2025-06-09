@@ -1,0 +1,23 @@
+{
+  "ticker": "082740",
+  "name": "한화엔진",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 318181995143,
+  "operating_profit": 22312178245,
+  "net_income": 19408710267,
+  "total_assets": 1485317399708,
+  "total_debt": 1072087309582,
+  "total_equity": 413230090126,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 8.459382138794581,
+  "operating_profit_yoy": 14.850303551348976,
+  "net_income_yoy": 30.51830476757742,
+  "debt_ratio": 259.4407656168273,
+  "operating_margin": 7.012394976960364,
+  "net_margin": 6.099876977098336,
+  "roe": 18.787315571411554,
+  "cached_at": "2025-06-09T16:05:30.234067"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "053080",
+  "name": "케이엔솔",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 129480691158,
+  "operating_profit": 3536366635,
+  "net_income": 4566764240,
+  "total_assets": 403939328254,
+  "total_debt": 218986727682,
+  "total_equity": 184952600572,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 10.849029953884015,
+  "operating_profit_yoy": -36.87101638390845,
+  "net_income_yoy": 99.92783550283445,
+  "debt_ratio": 118.401540180967,
+  "operating_margin": 2.7311922753676963,
+  "net_margin": 3.526984756690373,
+  "roe": 9.87661536172282,
+  "cached_at": "2025-06-09T16:35:30.902120"
+}

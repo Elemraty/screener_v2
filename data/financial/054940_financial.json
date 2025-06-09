@@ -1,0 +1,23 @@
+{
+  "ticker": "054940",
+  "name": "엑사이엔씨",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 40405087527,
+  "operating_profit": -1016330310,
+  "net_income": -1205894666,
+  "total_assets": 155318703003,
+  "total_debt": 73447697526,
+  "total_equity": 81871005477,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -4.9485139134650025,
+  "operating_profit_yoy": -415.6013124511631,
+  "net_income_yoy": -259.7691223555256,
+  "debt_ratio": 89.71148833225658,
+  "operating_margin": -2.515352328641424,
+  "net_margin": -2.9845119508630735,
+  "roe": -5.891681231831319,
+  "cached_at": "2025-06-09T16:24:00.244778"
+}

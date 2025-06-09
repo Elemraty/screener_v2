@@ -1,0 +1,22 @@
+{
+  "ticker": "217500",
+  "name": "러셀",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1513890937,
+  "operating_profit": -1564588640,
+  "net_income": -1441609937,
+  "total_assets": 75690907196,
+  "total_debt": 18638050186,
+  "total_equity": 57052857010,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -66.00786952506832,
+  "net_income_yoy": -470.145063204992,
+  "debt_ratio": 32.668040064554866,
+  "operating_margin": -103.34883456667394,
+  "net_margin": -95.22548168871164,
+  "roe": -10.107188404235885,
+  "cached_at": "2025-06-09T16:13:15.881999"
+}

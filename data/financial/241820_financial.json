@@ -1,0 +1,21 @@
+{
+  "ticker": "241820",
+  "name": "피씨엘",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2039233425,
+  "operating_profit": 58789519,
+  "net_income": -145625285,
+  "total_assets": 17993446978,
+  "total_debt": 11022707456,
+  "total_equity": 6970739522,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 345.19365093351047,
+  "debt_ratio": 158.12823619663004,
+  "operating_margin": 2.8829224883855558,
+  "net_margin": -7.14117781783613,
+  "roe": -8.356375075579821,
+  "cached_at": "2025-06-09T16:39:25.581593"
+}

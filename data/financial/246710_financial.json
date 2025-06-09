@@ -1,0 +1,21 @@
+{
+  "ticker": "246710",
+  "name": "티앤알바이오팹",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 5955257318,
+  "operating_profit": -3580334249,
+  "net_income": -5393033378,
+  "total_assets": 93872215852,
+  "total_debt": 74911289712,
+  "total_equity": 18960926140,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 401.49889716104843,
+  "debt_ratio": 395.0824403770395,
+  "operating_margin": -60.12056335799796,
+  "net_margin": -90.5591998804039,
+  "roe": -113.77151808260774,
+  "cached_at": "2025-06-09T16:37:43.106085"
+}

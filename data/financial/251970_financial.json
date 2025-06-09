@@ -1,0 +1,23 @@
+{
+  "ticker": "251970",
+  "name": "펌텍코리아",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 91735466206,
+  "operating_profit": 13432689338,
+  "net_income": 11489858527,
+  "total_assets": 424683548265,
+  "total_debt": 97755376442,
+  "total_equity": 326928171823,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 19.315632885222954,
+  "operating_profit_yoy": 31.342745666095006,
+  "net_income_yoy": 37.02444519809771,
+  "debt_ratio": 29.90117856680919,
+  "operating_margin": 14.642852861112324,
+  "net_margin": 12.524990608537944,
+  "roe": 14.057960759919641,
+  "cached_at": "2025-06-09T16:38:32.284860"
+}

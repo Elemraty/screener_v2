@@ -1,0 +1,23 @@
+{
+  "ticker": "200880",
+  "name": "서연이화",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1055157316858,
+  "operating_profit": 38628826532,
+  "net_income": 16865348857,
+  "total_assets": 3091022965542,
+  "total_debt": 1910155854945,
+  "total_equity": 1180867110597,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 12.402353669413312,
+  "operating_profit_yoy": -12.94521175948109,
+  "net_income_yoy": -61.50475309201009,
+  "debt_ratio": 161.75874811004775,
+  "operating_margin": 3.6609542401721846,
+  "net_margin": 1.5983729238802873,
+  "roe": 5.712869367146162,
+  "cached_at": "2025-06-09T16:01:15.710387"
+}

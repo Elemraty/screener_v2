@@ -1,0 +1,23 @@
+{
+  "ticker": "122350",
+  "name": "삼기",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 134741936303,
+  "operating_profit": 3711840454,
+  "net_income": -1475231607,
+  "total_assets": 629322027999,
+  "total_debt": 457835692982,
+  "total_equity": 171486335017,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 1.4753869041903345,
+  "operating_profit_yoy": 144.35903927891815,
+  "net_income_yoy": -694.4374287663481,
+  "debt_ratio": 266.980860566303,
+  "operating_margin": 2.7547774329537793,
+  "net_margin": -1.0948570634183132,
+  "roe": -3.4410476073297747,
+  "cached_at": "2025-06-09T16:16:35.126557"
+}

@@ -1,0 +1,22 @@
+{
+  "ticker": "024840",
+  "name": "KBI메탈",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 184381405938,
+  "operating_profit": 5138023159,
+  "net_income": -88212705,
+  "total_assets": 285727391269,
+  "total_debt": 155874969299,
+  "total_equity": 129852421970,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 0.244448636019734,
+  "operating_profit_yoy": 20.399140891467393,
+  "debt_ratio": 120.04009392679022,
+  "operating_margin": 2.7866276064343003,
+  "net_margin": -0.047842516739275955,
+  "roe": -0.27173218230886725,
+  "cached_at": "2025-06-09T16:07:09.066054"
+}

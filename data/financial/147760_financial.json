@@ -1,0 +1,21 @@
+{
+  "ticker": "147760",
+  "name": "피엠티",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 6216949328,
+  "operating_profit": -3674703544,
+  "net_income": -3976373980,
+  "total_assets": 59715527133,
+  "total_debt": 32811295941,
+  "total_equity": 26904231192,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -12.28165746682116,
+  "debt_ratio": 121.95589499229575,
+  "operating_margin": -59.10782523913794,
+  "net_margin": -63.960212158898265,
+  "roe": -59.11893860297155,
+  "cached_at": "2025-06-09T16:39:37.991348"
+}

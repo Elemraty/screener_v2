@@ -1,0 +1,23 @@
+{
+  "ticker": "041510",
+  "name": "에스엠",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 231426868159,
+  "operating_profit": 32585652915,
+  "net_income": 252722772350,
+  "total_assets": 1789076714694,
+  "total_debt": 607613816369,
+  "total_equity": 1181462898325,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 5.164153006093453,
+  "operating_profit_yoy": 109.59591820099175,
+  "net_income_yoy": 1931.3236679690754,
+  "debt_ratio": 51.42893756802983,
+  "operating_margin": 14.080324023834729,
+  "net_margin": 109.20200163464546,
+  "roe": 85.56266056540368,
+  "cached_at": "2025-06-09T16:22:37.263068"
+}

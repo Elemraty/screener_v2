@@ -1,0 +1,23 @@
+{
+  "ticker": "016740",
+  "name": "두올",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 202061304602,
+  "operating_profit": 17083742813,
+  "net_income": 12671854963,
+  "total_assets": 522621151278,
+  "total_debt": 269949555005,
+  "total_equity": 252671596273,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 9.622340312029841,
+  "operating_profit_yoy": 59.52751169286541,
+  "net_income_yoy": 72.04633404505117,
+  "debt_ratio": 106.83810882855704,
+  "operating_margin": 8.454732511328597,
+  "net_margin": 6.271292263483967,
+  "roe": 20.06059272180106,
+  "cached_at": "2025-06-09T15:59:38.676857"
+}

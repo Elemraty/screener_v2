@@ -1,0 +1,21 @@
+{
+  "ticker": "002420",
+  "name": "세기상사",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 6920804658,
+  "operating_profit": -721760621,
+  "net_income": -878147029,
+  "total_assets": 49904731398,
+  "total_debt": 26424045261,
+  "total_equity": 23480686137,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -19.136276781455475,
+  "debt_ratio": 112.53523473218256,
+  "operating_margin": -10.428854109697948,
+  "net_margin": -12.688510547468193,
+  "roe": -14.959478166462064,
+  "cached_at": "2025-06-09T16:01:25.653505"
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "007810",
+  "name": "코리아써키트",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 354587792750,
+  "operating_profit": -1666527708,
+  "net_income": -2177708589,
+  "total_assets": 1192462921844,
+  "total_debt": 552964135156,
+  "total_equity": 639498786688,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -0.07762190122193591,
+  "debt_ratio": 86.46836345379671,
+  "operating_margin": -0.4699901525304272,
+  "net_margin": -0.6141521602057465,
+  "roe": -1.3621346181302234,
+  "cached_at": "2025-06-09T16:04:02.060314"
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "290660",
+  "name": "네오펙트",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 4519356462,
+  "operating_profit": -1400939136,
+  "net_income": -2284516048,
+  "total_assets": 71201862411,
+  "total_debt": 35281277158,
+  "total_equity": 35920585253,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -0.015740405002795388,
+  "debt_ratio": 98.22021804350582,
+  "operating_margin": -30.998642124813212,
+  "net_margin": -50.54958747354503,
+  "roe": -25.439630584072432,
+  "cached_at": "2025-06-09T16:10:03.924857"
+}

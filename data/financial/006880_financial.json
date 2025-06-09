@@ -1,0 +1,23 @@
+{
+  "ticker": "006880",
+  "name": "신송홀딩스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 43105483184,
+  "operating_profit": 2469787648,
+  "net_income": 891632264,
+  "total_assets": 257269555171,
+  "total_debt": 150957258123,
+  "total_equity": 106312297048,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 5.332114894768081,
+  "operating_profit_yoy": 114.78454989104839,
+  "net_income_yoy": -62.14323517154291,
+  "debt_ratio": 141.99416465890374,
+  "operating_margin": 5.729636847956137,
+  "net_margin": 2.068489199376283,
+  "roe": 3.3547662453288094,
+  "cached_at": "2025-06-09T16:01:43.791011"
+}

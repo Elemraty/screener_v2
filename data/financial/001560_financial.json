@@ -1,0 +1,23 @@
+{
+  "ticker": "001560",
+  "name": "제일연마",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 18976030046,
+  "operating_profit": 924587455,
+  "net_income": 854689607,
+  "total_assets": 114761530922,
+  "total_debt": 17539889509,
+  "total_equity": 97221641413,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -4.675401618289776,
+  "operating_profit_yoy": -55.69640174872422,
+  "net_income_yoy": -59.21523308714494,
+  "debt_ratio": 18.041136987689914,
+  "operating_margin": 4.872396664416622,
+  "net_margin": 4.5040485545614,
+  "roe": 3.516458247682764,
+  "cached_at": "2025-06-09T16:03:29.388395"
+}

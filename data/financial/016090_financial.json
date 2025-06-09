@@ -1,0 +1,23 @@
+{
+  "ticker": "016090",
+  "name": "대현",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 63088882642,
+  "operating_profit": 1059480582,
+  "net_income": 2380555877,
+  "total_assets": 308099467602,
+  "total_debt": 39593719574,
+  "total_equity": 268505748028,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -14.550582900993557,
+  "operating_profit_yoy": -78.16363131553075,
+  "net_income_yoy": -53.63355608681728,
+  "debt_ratio": 14.745948593201488,
+  "operating_margin": 1.6793459285244572,
+  "net_margin": 3.7733365647138575,
+  "roe": 3.546376037732725,
+  "cached_at": "2025-06-09T15:59:09.334329"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "064480",
+  "name": "브리지텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 13471983312,
+  "operating_profit": -879018554,
+  "net_income": -804681638,
+  "total_assets": 61508565694,
+  "total_debt": 16645464073,
+  "total_equity": 44863101621,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 2.7686516257573235,
+  "operating_profit_yoy": -738.1111174243335,
+  "net_income_yoy": -462.4416101327204,
+  "debt_ratio": 37.10279376940896,
+  "operating_margin": -6.524789510517174,
+  "net_margin": -5.97300055503513,
+  "roe": -7.174551994178985,
+  "cached_at": "2025-06-09T16:15:45.392125"
+}

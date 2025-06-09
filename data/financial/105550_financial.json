@@ -1,0 +1,21 @@
+{
+  "ticker": "105550",
+  "name": "엣지파운드리",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 9581642733,
+  "operating_profit": -2188250369,
+  "net_income": 14160412135,
+  "total_assets": 179252899131,
+  "total_debt": 63908219826,
+  "total_equity": 115344679305,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 1.1604833616335464,
+  "debt_ratio": 55.40630067296887,
+  "operating_margin": -22.837945746646117,
+  "net_margin": 147.78689343352707,
+  "roe": 49.10642509155139,
+  "cached_at": "2025-06-09T16:25:02.567803"
+}

@@ -1,0 +1,13 @@
+{
+  "ticker": "480370",
+  "name": "씨케이솔루션",
+  "market": "KOSPI",
+  "bps": 9659,
+  "per": 4.46,
+  "eps": 2396,
+  "pbr": 1.11,
+  "roe": 24.805880525934363,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:02:00.045893"
+}

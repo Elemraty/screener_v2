@@ -1,0 +1,21 @@
+{
+  "ticker": "068100",
+  "name": "케이웨더",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 3423828618,
+  "operating_profit": -928244488,
+  "net_income": -899516293,
+  "total_assets": 18366980091,
+  "total_debt": 5755581054,
+  "total_equity": 12611399037,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 47.22558646850978,
+  "debt_ratio": 45.63792674479625,
+  "operating_margin": -27.11130116501643,
+  "net_margin": -26.272234780415047,
+  "roe": -28.53026188009596,
+  "cached_at": "2025-06-09T16:35:41.383698"
+}

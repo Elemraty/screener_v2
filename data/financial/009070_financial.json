@@ -1,0 +1,23 @@
+{
+  "ticker": "009070",
+  "name": "KCTC",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 221908122081,
+  "operating_profit": 6667400187,
+  "net_income": 3631180787,
+  "total_assets": 797525494843,
+  "total_debt": 489255584718,
+  "total_equity": 308269910125,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 8.626972865503024,
+  "operating_profit_yoy": -42.033480535138345,
+  "net_income_yoy": -60.10095386938483,
+  "debt_ratio": 158.7101331166614,
+  "operating_margin": 3.0045769052861853,
+  "net_margin": 1.6363442459643551,
+  "roe": 4.7116902010028765,
+  "cached_at": "2025-06-09T15:56:41.315476"
+}

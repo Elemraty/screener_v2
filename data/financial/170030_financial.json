@@ -1,0 +1,23 @@
+{
+  "ticker": "170030",
+  "name": "현대공업",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 84154625860,
+  "operating_profit": 793776460,
+  "net_income": 1409849112,
+  "total_assets": 254332040347,
+  "total_debt": 103882696616,
+  "total_equity": 150449343731,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 2.699612561786968,
+  "operating_profit_yoy": -84.00905546058158,
+  "net_income_yoy": -67.40304019412757,
+  "debt_ratio": 69.04828830741853,
+  "operating_margin": 0.9432356829920793,
+  "net_margin": 1.6753079199061869,
+  "roe": 3.7483689248143963,
+  "cached_at": "2025-06-09T16:41:34.744575"
+}

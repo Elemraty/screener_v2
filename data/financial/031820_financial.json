@@ -1,0 +1,22 @@
+{
+  "ticker": "031820",
+  "name": "아이티센씨티에스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 201044767202,
+  "operating_profit": -7690605657,
+  "net_income": -5976888196,
+  "total_assets": 581484883913,
+  "total_debt": 353070739175,
+  "total_equity": 228414144738,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 16.715122606335676,
+  "net_income_yoy": -1070.5639255318763,
+  "debt_ratio": 154.57481391092747,
+  "operating_margin": -3.825319984216676,
+  "net_margin": -2.9729140823619216,
+  "roe": -10.466756693821612,
+  "cached_at": "2025-06-09T16:02:09.190075"
+}

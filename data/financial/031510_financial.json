@@ -1,0 +1,22 @@
+{
+  "ticker": "031510",
+  "name": "오스템",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 24266756851,
+  "operating_profit": -2659235973,
+  "net_income": -2512307287,
+  "total_assets": 114074926577,
+  "total_debt": 52504894046,
+  "total_equity": 61570032531,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -39.18748153321552,
+  "operating_profit_yoy": -203.96921172825574,
+  "debt_ratio": 85.27670343452267,
+  "operating_margin": -10.95834927315562,
+  "net_margin": -10.352876168932609,
+  "roe": -16.32162390516896,
+  "cached_at": "2025-06-09T16:25:59.602117"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "014160",
+  "name": "대영포장",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 70384793697,
+  "operating_profit": -272343248,
+  "net_income": -115985742,
+  "total_assets": 249577038532,
+  "total_debt": 59162576921,
+  "total_equity": 190414461611,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 2.7002135945400463,
+  "operating_profit_yoy": -109.9706536855327,
+  "net_income_yoy": -104.47136641581542,
+  "debt_ratio": 31.070422078478444,
+  "operating_margin": -0.38693478192521585,
+  "net_margin": -0.16478806842754679,
+  "roe": -0.2436490191316428,
+  "cached_at": "2025-06-09T15:58:55.700055"
+}

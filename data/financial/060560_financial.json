@@ -1,0 +1,23 @@
+{
+  "ticker": "060560",
+  "name": "홈센타홀딩스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 69167610802,
+  "operating_profit": -4975726528,
+  "net_income": 938605085,
+  "total_assets": 527679929367,
+  "total_debt": 292236083458,
+  "total_equity": 235443845909,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -23.002948615445938,
+  "operating_profit_yoy": -250.31867261810032,
+  "net_income_yoy": -70.22583312637582,
+  "debt_ratio": 124.12135145420213,
+  "operating_margin": -7.193723290867416,
+  "net_margin": 1.3570008767353,
+  "roe": 1.5946139197246627,
+  "cached_at": "2025-06-09T16:41:47.874987"
+}

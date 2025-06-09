@@ -1,0 +1,21 @@
+{
+  "ticker": "160550",
+  "name": "NEW",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 30585495257,
+  "operating_profit": 870875654,
+  "net_income": -644412114,
+  "total_assets": 255108257632,
+  "total_debt": 133834033859,
+  "total_equity": 121274223773,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 74.90759770944526,
+  "debt_ratio": 110.35653718922937,
+  "operating_margin": 2.8473485444074527,
+  "net_margin": -2.1069206451790756,
+  "roe": -2.125470999364893,
+  "cached_at": "2025-06-09T16:07:47.093232"
+}

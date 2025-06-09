@@ -1,0 +1,21 @@
+{
+  "ticker": "208350",
+  "name": "지란지교시큐리티",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 7350341448,
+  "operating_profit": -743076017,
+  "net_income": -294086359,
+  "total_assets": 83234452941,
+  "total_debt": 20045540761,
+  "total_equity": 63188912180,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 9.341282602707901,
+  "debt_ratio": 31.723193309450004,
+  "operating_margin": -10.109408144599707,
+  "net_margin": -4.0009890843917155,
+  "roe": -1.8616326748101966,
+  "cached_at": "2025-06-09T16:34:30.570884"
+}

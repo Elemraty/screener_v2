@@ -1,0 +1,22 @@
+{
+  "ticker": "020560",
+  "name": "아시아나항공",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2074369008854,
+  "operating_profit": 55422125504,
+  "net_income": 144178929117,
+  "total_assets": 13145852287080,
+  "total_debt": 12006361740862,
+  "total_equity": 1139490546218,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 3.2607201744004444,
+  "operating_profit_yoy": -11.084175126585361,
+  "debt_ratio": 1053.6604959744018,
+  "operating_margin": 2.6717582680536838,
+  "net_margin": 6.950495717088093,
+  "roe": 50.61171576913341,
+  "cached_at": "2025-06-09T16:02:08.173159"
+}

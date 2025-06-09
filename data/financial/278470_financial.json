@@ -1,0 +1,23 @@
+{
+  "ticker": "278470",
+  "name": "에이피알",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 266032725955,
+  "operating_profit": 54568141909,
+  "net_income": 49941244107,
+  "total_assets": 581191093787,
+  "total_debt": 235668245170,
+  "total_equity": 345522848617,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 78.63173476830245,
+  "operating_profit_yoy": 96.53300129626759,
+  "net_income_yoy": 107.28241783058729,
+  "debt_ratio": 68.20626945896421,
+  "operating_margin": 20.511815496801063,
+  "net_margin": 18.772594209122854,
+  "roe": 57.81527248562149,
+  "cached_at": "2025-06-09T16:02:20.179824"
+}

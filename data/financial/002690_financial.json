@@ -1,0 +1,21 @@
+{
+  "ticker": "002690",
+  "name": "동일제강",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 40781166569,
+  "operating_profit": -150886237,
+  "net_income": 415198024,
+  "total_assets": 172722647135,
+  "total_debt": 19238805167,
+  "total_equity": 153483841968,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -4.973723569921951,
+  "debt_ratio": 12.534743019405989,
+  "operating_margin": -0.36998999708531366,
+  "net_margin": 1.0181121800365927,
+  "roe": 1.0820631505603437,
+  "cached_at": "2025-06-09T15:59:32.917345"
+}

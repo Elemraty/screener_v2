@@ -1,0 +1,13 @@
+{
+  "ticker": "356860",
+  "name": "티엘비",
+  "market": "KOSDAQ",
+  "bps": 11528,
+  "per": 46.66,
+  "eps": 371,
+  "pbr": 1.5,
+  "roe": 3.218251214434421,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:37:51.451447"
+}

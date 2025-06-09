@@ -1,0 +1,23 @@
+{
+  "ticker": "006340",
+  "name": "대원전선",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 151266934457,
+  "operating_profit": 8325862637,
+  "net_income": 8452127390,
+  "total_assets": 320322003679,
+  "total_debt": 173615384419,
+  "total_equity": 146706619260,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 15.903106256519251,
+  "operating_profit_yoy": 175.0494745558894,
+  "net_income_yoy": 276.20038941263147,
+  "debt_ratio": 118.34188893093575,
+  "operating_margin": 5.504086313963582,
+  "net_margin": 5.5875577966463315,
+  "roe": 23.044978972682244,
+  "cached_at": "2025-06-09T15:58:58.349680"
+}

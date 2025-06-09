@@ -1,0 +1,23 @@
+{
+  "ticker": "092460",
+  "name": "한라IMS",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 26555572810,
+  "operating_profit": 5128716667,
+  "net_income": 5676698401,
+  "total_assets": 218764899573,
+  "total_debt": 44284553933,
+  "total_equity": 174480345640,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 14.954224034287611,
+  "operating_profit_yoy": 31.076145138457314,
+  "net_income_yoy": 32.962060699798855,
+  "debt_ratio": 25.380826574226862,
+  "operating_margin": 19.313146448374425,
+  "net_margin": 21.37667464985855,
+  "roe": 13.013954964790267,
+  "cached_at": "2025-06-09T16:40:55.052545"
+}

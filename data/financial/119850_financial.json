@@ -1,0 +1,23 @@
+{
+  "ticker": "119850",
+  "name": "지엔씨에너지",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 66275497974,
+  "operating_profit": 14986663133,
+  "net_income": 13088048916,
+  "total_assets": 257730902468,
+  "total_debt": 87139897045,
+  "total_equity": 170591005423,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 64.61044099415825,
+  "operating_profit_yoy": 529.8326475102089,
+  "net_income_yoy": 288.27210281621404,
+  "debt_ratio": 51.08117912132977,
+  "operating_margin": 22.612675258780094,
+  "net_margin": 19.74794504167206,
+  "roe": 30.68871980336051,
+  "cached_at": "2025-06-09T16:34:37.420959"
+}

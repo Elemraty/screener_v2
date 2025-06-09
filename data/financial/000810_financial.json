@@ -1,0 +1,20 @@
+{
+  "ticker": "000810",
+  "name": "삼성화재",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 0,
+  "operating_profit": 792356362337,
+  "net_income": 609030625028,
+  "total_assets": 88577224621802,
+  "total_debt": 73145334098127,
+  "total_equity": 15431890523675,
+  "data_source": "f_data_financial",
+  "operating_profit_yoy": -11.671936466802146,
+  "net_income_yoy": -13.23770872354505,
+  "debt_ratio": 473.9881609833241,
+  "roe": 15.78628682191982,
+  "cached_at": "2025-06-09T16:00:56.032825"
+}

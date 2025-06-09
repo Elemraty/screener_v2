@@ -1,0 +1,21 @@
+{
+  "ticker": "065150",
+  "name": "대산F&B",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 24862342004,
+  "operating_profit": 508312982,
+  "net_income": -126223384,
+  "total_assets": 40091364140,
+  "total_debt": 26153355724,
+  "total_equity": 13938008416,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -14.387496491743457,
+  "debt_ratio": 187.64055052497682,
+  "operating_margin": 2.0445096520602104,
+  "net_margin": -0.5076890342015745,
+  "roe": -3.6224223786549907,
+  "cached_at": "2025-06-09T16:11:01.168477"
+}

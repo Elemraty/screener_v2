@@ -1,0 +1,13 @@
+{
+  "ticker": "460860",
+  "name": "동국제강",
+  "market": "KOSPI",
+  "bps": 34346,
+  "per": 13.02,
+  "eps": 703,
+  "pbr": 0.27,
+  "roe": 2.046817678914575,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T15:59:15.614688"
+}

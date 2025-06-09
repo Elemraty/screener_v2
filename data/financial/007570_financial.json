@@ -1,0 +1,23 @@
+{
+  "ticker": "007570",
+  "name": "일양약품",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 61982600124,
+  "operating_profit": 3383897646,
+  "net_income": 3776847995,
+  "total_assets": 437161636024,
+  "total_debt": 195056329059,
+  "total_equity": 242105306965,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -21.032846842701723,
+  "operating_profit_yoy": 18.504315451516852,
+  "net_income_yoy": 37.830953421016076,
+  "debt_ratio": 80.5667300333893,
+  "operating_margin": 5.459431581170046,
+  "net_margin": 6.09340038566337,
+  "roe": 6.240008601787487,
+  "cached_at": "2025-06-09T16:03:16.279802"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "120240",
+  "name": "대정화금",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 23643377425,
+  "operating_profit": 1937026206,
+  "net_income": 2661992226,
+  "total_assets": 205209015495,
+  "total_debt": 32485069225,
+  "total_equity": 172723946270,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 4.711627432675036,
+  "operating_profit_yoy": -10.897010753788127,
+  "net_income_yoy": -12.74595137835951,
+  "debt_ratio": 18.807507543985665,
+  "operating_margin": 8.192679798580004,
+  "net_margin": 11.258933857669872,
+  "roe": 6.164732299107631,
+  "cached_at": "2025-06-09T16:11:21.011922"
+}

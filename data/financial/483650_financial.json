@@ -1,0 +1,13 @@
+{
+  "ticker": "483650",
+  "name": "달바글로벌",
+  "market": "KOSPI",
+  "bps": 8902,
+  "per": 103.81,
+  "eps": 1445,
+  "pbr": 16.85,
+  "roe": 16.23230734666367,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T15:58:42.058844"
+}

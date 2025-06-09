@@ -1,0 +1,21 @@
+{
+  "ticker": "224060",
+  "name": "더코디",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 8774996320,
+  "operating_profit": -1833059963,
+  "net_income": -2815398884,
+  "total_assets": 89742933509,
+  "total_debt": 66449731418,
+  "total_equity": 23293202091,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 18.070314679053112,
+  "debt_ratio": 285.2752110182171,
+  "operating_margin": -20.88958098845106,
+  "net_margin": -32.084331221691045,
+  "roe": -48.347133605779526,
+  "cached_at": "2025-06-09T16:11:41.511671"
+}

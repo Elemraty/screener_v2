@@ -1,0 +1,23 @@
+{
+  "ticker": "066620",
+  "name": "국보디자인",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 101949333821,
+  "operating_profit": 17103829186,
+  "net_income": 7612598921,
+  "total_assets": 393006002717,
+  "total_debt": 134343802406,
+  "total_equity": 258662200311,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 0.475312386373794,
+  "operating_profit_yoy": 103.93729032575129,
+  "net_income_yoy": -30.21593542670199,
+  "debt_ratio": 51.93793381656578,
+  "operating_margin": 16.77679347667976,
+  "net_margin": 7.467041358373174,
+  "roe": 11.772263456890206,
+  "cached_at": "2025-06-09T16:09:00.929840"
+}

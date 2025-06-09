@@ -1,0 +1,23 @@
+{
+  "ticker": "042370",
+  "name": "비츠로테크",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 97721389554,
+  "operating_profit": 11422274105,
+  "net_income": 9608838404,
+  "total_assets": 597613163095,
+  "total_debt": 177103365999,
+  "total_equity": 420509797096,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 12.30301159503533,
+  "operating_profit_yoy": 30.88022964266468,
+  "net_income_yoy": 1.2343932395121548,
+  "debt_ratio": 42.11634716291005,
+  "operating_margin": 11.688612039934359,
+  "net_margin": 9.83289170145318,
+  "roe": 9.140180295781652,
+  "cached_at": "2025-06-09T16:16:15.841702"
+}

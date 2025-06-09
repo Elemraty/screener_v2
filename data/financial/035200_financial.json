@@ -1,0 +1,23 @@
+{
+  "ticker": "035200",
+  "name": "프럼파스트",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 6577105469,
+  "operating_profit": 70233943,
+  "net_income": 139007509,
+  "total_assets": 44651829834,
+  "total_debt": 6347200284,
+  "total_equity": 38304629550,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 2.7228840034299706,
+  "operating_profit_yoy": -77.87215329246017,
+  "net_income_yoy": -64.72066610342404,
+  "debt_ratio": 16.57032154746423,
+  "operating_margin": 1.067854899560833,
+  "net_margin": 2.1135058523112757,
+  "roe": 1.4516000873320023,
+  "cached_at": "2025-06-09T16:39:05.259680"
+}

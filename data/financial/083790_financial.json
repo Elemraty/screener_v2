@@ -1,0 +1,21 @@
+{
+  "ticker": "083790",
+  "name": "CG인바이츠",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 3080736574,
+  "operating_profit": -5179086397,
+  "net_income": -5384079297,
+  "total_assets": 252117936627,
+  "total_debt": 136619569731,
+  "total_equity": 115498366896,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 334.45520749969404,
+  "debt_ratio": 118.28701426923074,
+  "operating_margin": -168.11195221003663,
+  "net_margin": -174.76597455423985,
+  "roe": -18.64642571733701,
+  "cached_at": "2025-06-09T16:06:14.790708"
+}

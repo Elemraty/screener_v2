@@ -1,0 +1,13 @@
+{
+  "ticker": "316140",
+  "name": "우리금융지주",
+  "market": "KOSPI",
+  "bps": 45919,
+  "per": 4.88,
+  "eps": 3950,
+  "pbr": 0.42,
+  "roe": 8.602103704348963,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:02:33.609467"
+}

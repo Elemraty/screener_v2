@@ -1,0 +1,13 @@
+{
+  "ticker": "435570",
+  "name": "에르코스",
+  "market": "KOSDAQ",
+  "bps": 6218,
+  "per": 92.16,
+  "eps": 153,
+  "pbr": 2.27,
+  "roe": 2.460598263107108,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:22:18.090397"
+}

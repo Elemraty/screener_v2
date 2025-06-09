@@ -1,0 +1,23 @@
+{
+  "ticker": "017800",
+  "name": "현대엘리베이터",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 594382454355,
+  "operating_profit": 48394485993,
+  "net_income": 34869207429,
+  "total_assets": 3432976652708,
+  "total_debt": 2220554393027,
+  "total_equity": 1212422259681,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -10.112559447858626,
+  "operating_profit_yoy": 21.465216098816086,
+  "net_income_yoy": 216.5050605108437,
+  "debt_ratio": 183.15024945279785,
+  "operating_margin": 8.141977549710102,
+  "net_margin": 5.86645974717384,
+  "roe": 11.503981274040424,
+  "cached_at": "2025-06-09T16:05:41.323765"
+}

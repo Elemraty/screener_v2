@@ -1,0 +1,21 @@
+{
+  "ticker": "032790",
+  "name": "엠젠솔루션",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 10307727436,
+  "operating_profit": -1344753603,
+  "net_income": -2511205113,
+  "total_assets": 66288940909,
+  "total_debt": 24870869818,
+  "total_equity": 41418071091,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -52.72297752981385,
+  "debt_ratio": 60.04835368444851,
+  "operating_margin": -13.046072583403923,
+  "net_margin": -24.362354637255468,
+  "roe": -24.25226522483492,
+  "cached_at": "2025-06-09T16:24:56.651569"
+}

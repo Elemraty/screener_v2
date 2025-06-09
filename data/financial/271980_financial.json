@@ -1,0 +1,21 @@
+{
+  "ticker": "271980",
+  "name": "제일약품",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 163023874910,
+  "operating_profit": 5655822752,
+  "net_income": 3628612086,
+  "total_assets": 506206974959,
+  "total_debt": 280818421669,
+  "total_equity": 225388553290,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -4.337577164631035,
+  "debt_ratio": 124.59302727218815,
+  "operating_margin": 3.4693217512602925,
+  "net_margin": 2.225816364629558,
+  "roe": 6.43974511222171,
+  "cached_at": "2025-06-09T16:03:28.370891"
+}

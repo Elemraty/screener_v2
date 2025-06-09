@@ -1,0 +1,23 @@
+{
+  "ticker": "004270",
+  "name": "남성",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 19891908423,
+  "operating_profit": 1582330299,
+  "net_income": 45868204,
+  "total_assets": 272272121273,
+  "total_debt": 164729634825,
+  "total_equity": 107542486448,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 13.921975671340615,
+  "operating_profit_yoy": 190.96358835383342,
+  "net_income_yoy": -83.77446031324504,
+  "debt_ratio": 153.17633083056128,
+  "operating_margin": 7.9546429902644835,
+  "net_margin": 0.23058724695798888,
+  "roe": 0.17060496001151562,
+  "cached_at": "2025-06-09T15:58:26.025240"
+}

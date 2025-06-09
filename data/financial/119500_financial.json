@@ -1,0 +1,23 @@
+{
+  "ticker": "119500",
+  "name": "포메탈",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 16074818471,
+  "operating_profit": 481687970,
+  "net_income": 583515167,
+  "total_assets": 63471105720,
+  "total_debt": 13538004800,
+  "total_equity": 49933100920,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -2.280610471665989,
+  "operating_profit_yoy": 25.92457961400274,
+  "net_income_yoy": 57.27280630770088,
+  "debt_ratio": 27.11228533891742,
+  "operating_margin": 2.996537540184332,
+  "net_margin": 3.629995374770164,
+  "roe": 4.674375564496787,
+  "cached_at": "2025-06-09T16:38:36.611659"
+}

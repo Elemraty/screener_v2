@@ -1,0 +1,22 @@
+{
+  "ticker": "219420",
+  "name": "링크제니시스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 3052370535,
+  "operating_profit": -309837107,
+  "net_income": 91491243,
+  "total_assets": 48869779437,
+  "total_debt": 3773981147,
+  "total_equity": 45095798290,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -24.693117934386912,
+  "net_income_yoy": 1485.5301757871396,
+  "debt_ratio": 8.368808825005058,
+  "operating_margin": -10.150704295145479,
+  "net_margin": 2.9973832452815237,
+  "roe": 0.8115278715027266,
+  "cached_at": "2025-06-09T16:13:47.763341"
+}

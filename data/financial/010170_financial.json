@@ -1,0 +1,21 @@
+{
+  "ticker": "010170",
+  "name": "대한광통신",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 25393611150,
+  "operating_profit": -6920418344,
+  "net_income": -7034360746,
+  "total_assets": 207413861765,
+  "total_debt": 152177146314,
+  "total_equity": 55236715451,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -22.64633126818928,
+  "debt_ratio": 275.49999139430184,
+  "operating_margin": -27.25259634449431,
+  "net_margin": -27.70130134090834,
+  "roe": -50.939746786646786,
+  "cached_at": "2025-06-09T16:11:27.805849"
+}

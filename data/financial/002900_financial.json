@@ -1,0 +1,23 @@
+{
+  "ticker": "002900",
+  "name": "TYM",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 225746383255,
+  "operating_profit": 15139863060,
+  "net_income": 10326484684,
+  "total_assets": 877148336885,
+  "total_debt": 468536434649,
+  "total_equity": 408611902236,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 1.1612047232765432,
+  "operating_profit_yoy": 41.078624889878036,
+  "net_income_yoy": -30.09170178447014,
+  "debt_ratio": 114.66539082319478,
+  "operating_margin": 6.706580562532522,
+  "net_margin": 4.57437436432164,
+  "roe": 10.10884374879103,
+  "cached_at": "2025-06-09T15:57:54.360834"
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "081580",
+  "name": "성우전자",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 46039570028,
+  "operating_profit": 1441915450,
+  "net_income": 2179292243,
+  "total_assets": 157326916632,
+  "total_debt": 51872702200,
+  "total_equity": 105454214432,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 42.18736944674828,
+  "debt_ratio": 49.1897858036286,
+  "operating_margin": 3.1319046835647395,
+  "net_margin": 4.7335199735241105,
+  "roe": 8.266306869718411,
+  "cached_at": "2025-06-09T16:17:48.662351"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "053260",
+  "name": "금강철강",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 47171634833,
+  "operating_profit": 1099980578,
+  "net_income": 1234214401,
+  "total_assets": 161332952221,
+  "total_debt": 33714760135,
+  "total_equity": 127618192086,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -11.313442435442745,
+  "operating_profit_yoy": 42.014804354536885,
+  "net_income_yoy": -6.93992992275454,
+  "debt_ratio": 26.41845929950185,
+  "operating_margin": 2.331868678908884,
+  "net_margin": 2.6164333828357735,
+  "roe": 3.868459130554933,
+  "cached_at": "2025-06-09T16:09:17.326373"
+}

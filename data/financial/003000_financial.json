@@ -1,0 +1,21 @@
+{
+  "ticker": "003000",
+  "name": "부광약품",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 47806438228,
+  "operating_profit": 3014234984,
+  "net_income": -111047431,
+  "total_assets": 372643444689,
+  "total_debt": 128901115859,
+  "total_equity": 243742328830,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 38.99871393335557,
+  "debt_ratio": 52.88417341285974,
+  "operating_margin": 6.305081691349633,
+  "net_margin": -0.2322855144957443,
+  "roe": -0.18223741691981765,
+  "cached_at": "2025-06-09T16:00:32.165393"
+}

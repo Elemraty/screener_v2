@@ -1,0 +1,13 @@
+{
+  "ticker": "376180",
+  "name": "피코그램",
+  "market": "KOSDAQ",
+  "bps": 2342,
+  "per": 7.38,
+  "eps": 388,
+  "pbr": 1.22,
+  "roe": 16.567036720751492,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:39:40.487767"
+}

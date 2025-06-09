@@ -1,0 +1,23 @@
+{
+  "ticker": "065510",
+  "name": "휴비츠",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 29887433616,
+  "operating_profit": 3263352309,
+  "net_income": 2737194189,
+  "total_assets": 225346954050,
+  "total_debt": 102962026447,
+  "total_equity": 122384927603,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 11.070105646100735,
+  "operating_profit_yoy": -4.74665396147369,
+  "net_income_yoy": -26.172144587120172,
+  "debt_ratio": 84.12966242133571,
+  "operating_margin": 10.918810731387088,
+  "net_margin": 9.158344688165748,
+  "roe": 8.946180686167775,
+  "cached_at": "2025-06-09T16:42:04.640084"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "226320",
+  "name": "잇츠한불",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 36322789216,
+  "operating_profit": 5580756731,
+  "net_income": 6322351913,
+  "total_assets": 525868575198,
+  "total_debt": 41551886638,
+  "total_equity": 484316688560,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 1.0921866063011043,
+  "operating_profit_yoy": -15.306290741197081,
+  "net_income_yoy": -48.653623495455854,
+  "debt_ratio": 8.579486856326305,
+  "operating_margin": 15.364339720204375,
+  "net_margin": 17.406019883007875,
+  "roe": 5.22166760909933,
+  "cached_at": "2025-06-09T16:03:21.543130"
+}

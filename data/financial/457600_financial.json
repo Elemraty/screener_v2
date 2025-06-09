@@ -1,0 +1,13 @@
+{
+  "ticker": "457600",
+  "name": "벡트",
+  "market": "KOSDAQ",
+  "bps": 1656,
+  "per": 0.0,
+  "eps": 0,
+  "pbr": 1.98,
+  "roe": 0.0,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:15:31.648945"
+}

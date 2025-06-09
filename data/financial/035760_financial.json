@@ -1,0 +1,22 @@
+{
+  "ticker": "035760",
+  "name": "CJ ENM",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1138278309590,
+  "operating_profit": 704502395,
+  "net_income": -82168760756,
+  "total_assets": 9067358951188,
+  "total_debt": 5482191852217,
+  "total_equity": 3585167098971,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -1.3745993290363967,
+  "operating_profit_yoy": -94.28773145410749,
+  "debt_ratio": 152.91314744549774,
+  "operating_margin": 0.0618919282801547,
+  "net_margin": -7.21868808917185,
+  "roe": -9.167635258014473,
+  "cached_at": "2025-06-09T16:06:15.314151"
+}

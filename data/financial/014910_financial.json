@@ -1,0 +1,23 @@
+{
+  "ticker": "014910",
+  "name": "성문전자",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 13472104077,
+  "operating_profit": 757146313,
+  "net_income": 870039669,
+  "total_assets": 77880525102,
+  "total_debt": 35763447941,
+  "total_equity": 42117077161,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 18.18062914197025,
+  "operating_profit_yoy": 53.845226811201805,
+  "net_income_yoy": 41.97452104668067,
+  "debt_ratio": 84.91436336925251,
+  "operating_margin": 5.620104392547145,
+  "net_margin": 6.458083043504385,
+  "roe": 8.263058385311203,
+  "cached_at": "2025-06-09T16:01:21.153778"
+}

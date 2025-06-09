@@ -1,0 +1,23 @@
+{
+  "ticker": "003580",
+  "name": "HLB글로벌",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 25174261548,
+  "operating_profit": -4206722993,
+  "net_income": -5028392182,
+  "total_assets": 125251466489,
+  "total_debt": 35128304043,
+  "total_equity": 90123162446,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -13.978733511548425,
+  "operating_profit_yoy": -348.6441232621274,
+  "net_income_yoy": -3403.8414772817277,
+  "debt_ratio": 38.97810850129474,
+  "operating_margin": -16.710412676769096,
+  "net_margin": -19.974338363063072,
+  "roe": -22.317868328302005,
+  "cached_at": "2025-06-09T15:56:21.561724"
+}

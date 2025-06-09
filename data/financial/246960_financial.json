@@ -1,0 +1,21 @@
+{
+  "ticker": "246960",
+  "name": "SCL사이언스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2267288791,
+  "operating_profit": -1347988257,
+  "net_income": -1617546317,
+  "total_assets": 57578840949,
+  "total_debt": 31157754068,
+  "total_equity": 26421086881,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 100.02750614570415,
+  "debt_ratio": 117.92760157193322,
+  "operating_margin": -59.453752091521714,
+  "net_margin": -71.34275630968794,
+  "roe": -24.488717277762166,
+  "cached_at": "2025-06-09T16:08:02.016973"
+}

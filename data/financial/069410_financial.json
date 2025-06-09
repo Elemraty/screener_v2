@@ -1,0 +1,21 @@
+{
+  "ticker": "069410",
+  "name": "엔텔스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 14615791783,
+  "operating_profit": 419814761,
+  "net_income": 746059108,
+  "total_assets": 62776178259,
+  "total_debt": 9245607190,
+  "total_equity": 53530571069,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 87.09878018362546,
+  "debt_ratio": 17.27163937422332,
+  "operating_margin": 2.872336765828159,
+  "net_margin": 5.104472744800321,
+  "roe": 5.574826444786792,
+  "cached_at": "2025-06-09T16:24:32.772839"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "025860",
+  "name": "남해화학",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 437662974980,
+  "operating_profit": 20701305920,
+  "net_income": 13642514939,
+  "total_assets": 852654944413,
+  "total_debt": 308094310913,
+  "total_equity": 544560633500,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 5.590719390749932,
+  "operating_profit_yoy": 3.184355065764799,
+  "net_income_yoy": -1.0311016358157454,
+  "debt_ratio": 56.57667704196984,
+  "operating_margin": 4.7299650880785595,
+  "net_margin": 3.1171279543633834,
+  "roe": 10.020933647969983,
+  "cached_at": "2025-06-09T15:58:28.184182"
+}

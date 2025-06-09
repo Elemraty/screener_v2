@@ -1,0 +1,21 @@
+{
+  "ticker": "096870",
+  "name": "엘디티",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1900243400,
+  "operating_profit": -375930569,
+  "net_income": -355552187,
+  "total_assets": 16738802866,
+  "total_debt": 2089601389,
+  "total_equity": 14649201477,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -16.549628275752625,
+  "debt_ratio": 14.264268207934622,
+  "operating_margin": -19.78328507811157,
+  "net_margin": -18.7108760383012,
+  "roe": -9.708438717516042,
+  "cached_at": "2025-06-09T16:24:37.589118"
+}

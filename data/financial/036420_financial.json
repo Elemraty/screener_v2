@@ -1,0 +1,21 @@
+{
+  "ticker": "036420",
+  "name": "콘텐트리중앙",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 225161178191,
+  "operating_profit": -12119081853,
+  "net_income": -37410224195,
+  "total_assets": 2588637400892,
+  "total_debt": 2059466097002,
+  "total_equity": 529171303890,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 1.9086183898260556,
+  "debt_ratio": 389.18703298206543,
+  "operating_margin": -5.382402930366446,
+  "net_margin": -16.61486429213193,
+  "roe": -28.278346856674258,
+  "cached_at": "2025-06-09T16:04:12.134035"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "084730",
+  "name": "팅크웨어",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 142491236667,
+  "operating_profit": 412142744,
+  "net_income": -1336417006,
+  "total_assets": 408437856322,
+  "total_debt": 173016768307,
+  "total_equity": 235421088015,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 47.97893970991582,
+  "operating_profit_yoy": -91.66576770367337,
+  "net_income_yoy": -124.96728058404463,
+  "debt_ratio": 73.4924682261158,
+  "operating_margin": 0.28924076570629514,
+  "net_margin": -0.9378941731856728,
+  "roe": -2.270683594691142,
+  "cached_at": "2025-06-09T16:37:58.696943"
+}

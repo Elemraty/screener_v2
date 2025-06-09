@@ -1,0 +1,21 @@
+{
+  "ticker": "001070",
+  "name": "대한방직",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 30784805607,
+  "operating_profit": -510249776,
+  "net_income": -897478484,
+  "total_assets": 194411505001,
+  "total_debt": 62960680858,
+  "total_equity": 131450824143,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 10.515257132207134,
+  "debt_ratio": 47.896756272526396,
+  "operating_margin": -1.657472788731779,
+  "net_margin": -2.9153293850779654,
+  "roe": -2.7309938597986108,
+  "cached_at": "2025-06-09T15:59:02.518416"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "078140",
+  "name": "대봉엘에스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 25932946201,
+  "operating_profit": 3613050727,
+  "net_income": 3697350193,
+  "total_assets": 237970405198,
+  "total_debt": 71277138439,
+  "total_equity": 166693266759,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 12.81782059854204,
+  "operating_profit_yoy": 76.64599048429184,
+  "net_income_yoy": 143.1127068641976,
+  "debt_ratio": 42.7594586301139,
+  "operating_margin": 13.932280192910273,
+  "net_margin": 14.257347253731728,
+  "roe": 8.872224451262365,
+  "cached_at": "2025-06-09T16:10:58.959903"
+}

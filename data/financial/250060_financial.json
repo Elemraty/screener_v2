@@ -1,0 +1,21 @@
+{
+  "ticker": "250060",
+  "name": "모비스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1245422414,
+  "operating_profit": -600971558,
+  "net_income": -164128305,
+  "total_assets": 48916486676,
+  "total_debt": 13974952877,
+  "total_equity": 34941533799,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -65.31054930884645,
+  "debt_ratio": 39.99524736776138,
+  "operating_margin": -48.254435703451215,
+  "net_margin": -13.178525065472286,
+  "roe": -1.8788906742805576,
+  "cached_at": "2025-06-09T16:14:28.290388"
+}

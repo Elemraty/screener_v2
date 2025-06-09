@@ -1,0 +1,22 @@
+{
+  "ticker": "082800",
+  "name": "비보존 제약",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 18585469503,
+  "operating_profit": -2502761018,
+  "net_income": -3772399774,
+  "total_assets": 179426654852,
+  "total_debt": 77479593113,
+  "total_equity": 101947061739,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -6.387183151023345,
+  "operating_profit_yoy": -451.71156653696636,
+  "debt_ratio": 75.99982951088826,
+  "operating_margin": -13.46622434045055,
+  "net_margin": -20.297575874481257,
+  "roe": -14.801406571806524,
+  "cached_at": "2025-06-09T16:15:58.076061"
+}

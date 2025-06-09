@@ -1,0 +1,21 @@
+{
+  "ticker": "051780",
+  "name": "큐로홀딩스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 16406045904,
+  "operating_profit": 330262392,
+  "net_income": -2393682614,
+  "total_assets": 84978226825,
+  "total_debt": 62321410424,
+  "total_equity": 22656816401,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 2.2936499213685124,
+  "debt_ratio": 275.0669349169874,
+  "operating_margin": 2.013052955797703,
+  "net_margin": -14.590246961435053,
+  "roe": -42.25982276829237,
+  "cached_at": "2025-06-09T16:36:40.102922"
+}

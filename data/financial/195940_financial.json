@@ -1,0 +1,23 @@
+{
+  "ticker": "195940",
+  "name": "HK이노엔",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 247358791403,
+  "operating_profit": 25369619732,
+  "net_income": 17426619164,
+  "total_assets": 1924204445325,
+  "total_debt": 665889249730,
+  "total_equity": 1258315195595,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 16.341245210766143,
+  "operating_profit_yoy": 46.99357579253625,
+  "net_income_yoy": 66.18743590597747,
+  "debt_ratio": 52.91911375314285,
+  "operating_margin": 10.256202978719887,
+  "net_margin": 7.045077745228928,
+  "roe": 5.539667398122692,
+  "cached_at": "2025-06-09T16:06:44.208564"
+}

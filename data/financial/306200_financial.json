@@ -1,0 +1,13 @@
+{
+  "ticker": "306200",
+  "name": "세아제강",
+  "market": "KOSPI",
+  "bps": 397327,
+  "per": 3.45,
+  "eps": 48949,
+  "pbr": 0.43,
+  "roe": 12.319575563704454,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:01:28.617495"
+}

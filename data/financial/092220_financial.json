@@ -1,0 +1,21 @@
+{
+  "ticker": "092220",
+  "name": "KEC",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 63625929715,
+  "operating_profit": -3079729007,
+  "net_income": -2279878318,
+  "total_assets": 452139940695,
+  "total_debt": 104698129986,
+  "total_equity": 347441810709,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 4.47723719738542,
+  "debt_ratio": 30.13400424443734,
+  "operating_margin": -4.840367788408041,
+  "net_margin": -3.5832534443304365,
+  "roe": -2.6247598852281055,
+  "cached_at": "2025-06-09T15:56:42.552105"
+}

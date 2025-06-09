@@ -1,0 +1,23 @@
+{
+  "ticker": "018260",
+  "name": "삼성에스디에스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 3489763580131,
+  "operating_profit": 268545008156,
+  "net_income": 217669052240,
+  "total_assets": 13346596735481,
+  "total_debt": 3628563607700,
+  "total_equity": 9718033127781,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 7.467689291952495,
+  "operating_profit_yoy": 18.89517545749959,
+  "net_income_yoy": 0.35209077425450985,
+  "debt_ratio": 37.33845686661639,
+  "operating_margin": 7.695220664372893,
+  "net_margin": 6.237358125900009,
+  "roe": 8.9593871260944,
+  "cached_at": "2025-06-09T16:00:49.484067"
+}

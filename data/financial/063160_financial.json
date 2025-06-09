@@ -1,0 +1,23 @@
+{
+  "ticker": "063160",
+  "name": "종근당바이오",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 42521426739,
+  "operating_profit": 2086732283,
+  "net_income": 900164333,
+  "total_assets": 293984086266,
+  "total_debt": 162635356688,
+  "total_equity": 131348729578,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -6.620299263761198,
+  "operating_profit_yoy": -34.514537574895584,
+  "net_income_yoy": -68.21229057245309,
+  "debt_ratio": 123.81951253774463,
+  "operating_margin": 4.907484162769358,
+  "net_margin": 2.1169664379449977,
+  "roe": 2.7412958949570876,
+  "cached_at": "2025-06-09T16:03:37.249672"
+}

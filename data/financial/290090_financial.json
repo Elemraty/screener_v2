@@ -1,0 +1,21 @@
+{
+  "ticker": "290090",
+  "name": "트윔",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 3122905598,
+  "operating_profit": -860466288,
+  "net_income": -659749985,
+  "total_assets": 71453905533,
+  "total_debt": 5921881656,
+  "total_equity": 65532023877,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -15.456758748969213,
+  "debt_ratio": 9.036622563519549,
+  "operating_margin": -27.553387734520946,
+  "net_margin": -21.126158453925832,
+  "roe": -4.027038665787673,
+  "cached_at": "2025-06-09T16:37:33.044159"
+}

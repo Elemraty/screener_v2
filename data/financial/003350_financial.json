@@ -1,0 +1,23 @@
+{
+  "ticker": "003350",
+  "name": "한국화장품제조",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 37998331002,
+  "operating_profit": 6000859170,
+  "net_income": 5235477380,
+  "total_assets": 119044234599,
+  "total_debt": 40302712790,
+  "total_equity": 78741521809,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 8.149152424472206,
+  "operating_profit_yoy": 37.61603864753036,
+  "net_income_yoy": 26.682193419250687,
+  "debt_ratio": 51.18355838709925,
+  "operating_margin": 15.792428277137097,
+  "net_margin": 13.778177203952554,
+  "roe": 26.595764266276067,
+  "cached_at": "2025-06-09T16:05:00.094018"
+}

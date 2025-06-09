@@ -1,0 +1,13 @@
+{
+  "ticker": "411080",
+  "name": "샌즈랩",
+  "market": "KOSDAQ",
+  "bps": 3274,
+  "per": 0.0,
+  "eps": 0,
+  "pbr": 2.5,
+  "roe": 0.0,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:17:13.578086"
+}

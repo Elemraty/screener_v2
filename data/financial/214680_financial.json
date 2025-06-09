@@ -1,0 +1,21 @@
+{
+  "ticker": "214680",
+  "name": "디알텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 25370640624,
+  "operating_profit": -3520708659,
+  "net_income": -4391398045,
+  "total_assets": 205334799957,
+  "total_debt": 131628289286,
+  "total_equity": 73706510671,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 46.845785516526476,
+  "debt_ratio": 178.58434497536112,
+  "operating_margin": -13.87709798573039,
+  "net_margin": -17.308975796400844,
+  "roe": -23.831805386103053,
+  "cached_at": "2025-06-09T16:12:33.911678"
+}

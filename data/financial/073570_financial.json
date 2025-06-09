@@ -1,0 +1,21 @@
+{
+  "ticker": "073570",
+  "name": "리튬포어스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2339309983,
+  "operating_profit": -1160237715,
+  "net_income": -789470504,
+  "total_assets": 54599591751,
+  "total_debt": 2272399586,
+  "total_equity": 52327192165,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -26.523877234708294,
+  "debt_ratio": 4.3426744145464315,
+  "operating_margin": -49.597433577916725,
+  "net_margin": -33.748007307161565,
+  "roe": -6.03487763310986,
+  "cached_at": "2025-06-09T16:13:42.045763"
+}

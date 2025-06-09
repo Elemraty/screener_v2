@@ -1,0 +1,22 @@
+{
+  "ticker": "222040",
+  "name": "코스맥스엔비티",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 72176612794,
+  "operating_profit": 870603343,
+  "net_income": -2287246146,
+  "total_assets": 315858294827,
+  "total_debt": 254863578146,
+  "total_equity": 60994716681,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 1.6679473358586216,
+  "operating_profit_yoy": 49.14696580465004,
+  "debt_ratio": 417.8453348327308,
+  "operating_margin": 1.2062125241105424,
+  "net_margin": -3.16895744682291,
+  "roe": -14.999634528755717,
+  "cached_at": "2025-06-09T16:36:10.663669"
+}

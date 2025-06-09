@@ -1,0 +1,23 @@
+{
+  "ticker": "073560",
+  "name": "우리손에프앤지",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 69562286556,
+  "operating_profit": 734458959,
+  "net_income": -1019882242,
+  "total_assets": 562507402257,
+  "total_debt": 238138004554,
+  "total_equity": 324369397703,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 7.055086621137785,
+  "operating_profit_yoy": -67.21403168188237,
+  "net_income_yoy": -176.39496002340334,
+  "debt_ratio": 73.415681701282,
+  "operating_margin": 1.0558292364480222,
+  "net_margin": -1.466142492568815,
+  "roe": -1.2576799774852094,
+  "cached_at": "2025-06-09T16:30:05.582084"
+}

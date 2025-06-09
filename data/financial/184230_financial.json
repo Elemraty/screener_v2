@@ -1,0 +1,21 @@
+{
+  "ticker": "184230",
+  "name": "SGA솔루션즈",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 8037780515,
+  "operating_profit": -2287179100,
+  "net_income": -2899896151,
+  "total_assets": 97540636697,
+  "total_debt": 50696726754,
+  "total_equity": 46843909943,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -7.061899739519828,
+  "debt_ratio": 108.22479766460174,
+  "operating_margin": -28.455356497128736,
+  "net_margin": -36.0783197001741,
+  "roe": -24.762204133076114,
+  "cached_at": "2025-06-09T16:08:08.619512"
+}

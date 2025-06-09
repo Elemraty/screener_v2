@@ -1,0 +1,23 @@
+{
+  "ticker": "010770",
+  "name": "평화홀딩스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 211857852598,
+  "operating_profit": 7769083666,
+  "net_income": 5901679591,
+  "total_assets": 587563858619,
+  "total_debt": 463893658913,
+  "total_equity": 123670199706,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 4.919499978097175,
+  "operating_profit_yoy": 9.86663450538594,
+  "net_income_yoy": 112.7603043560144,
+  "debt_ratio": 375.1054498301208,
+  "operating_margin": 3.6671209354424192,
+  "net_margin": 2.7856789439844034,
+  "roe": 19.088445252065597,
+  "cached_at": "2025-06-09T16:04:33.174489"
+}

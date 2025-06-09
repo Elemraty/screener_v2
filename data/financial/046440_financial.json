@@ -1,0 +1,23 @@
+{
+  "ticker": "046440",
+  "name": "KG모빌리언스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 61245154047,
+  "operating_profit": 7706746679,
+  "net_income": 6010349093,
+  "total_assets": 521745669696,
+  "total_debt": 179115360083,
+  "total_equity": 342630309613,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -25.388627851318123,
+  "operating_profit_yoy": -19.96909868051443,
+  "net_income_yoy": -32.80065821163418,
+  "debt_ratio": 52.27656604148954,
+  "operating_margin": 12.583439129054657,
+  "net_margin": 9.813591273503226,
+  "roe": 7.016716179941785,
+  "cached_at": "2025-06-09T16:07:21.949438"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "140520",
+  "name": "대창스틸",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 95995283840,
+  "operating_profit": 750947293,
+  "net_income": 1233757152,
+  "total_assets": 262809042757,
+  "total_debt": 115272226495,
+  "total_equity": 147536816262,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -9.413646847139534,
+  "operating_profit_yoy": -50.2787055617681,
+  "net_income_yoy": 23.344687597145565,
+  "debt_ratio": 78.13116035410197,
+  "operating_margin": 0.7822751941143695,
+  "net_margin": 1.2852268389105062,
+  "roe": 3.344947202355403,
+  "cached_at": "2025-06-09T16:11:25.684545"
+}

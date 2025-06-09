@@ -1,0 +1,21 @@
+{
+  "ticker": "100130",
+  "name": "동국S&C",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 45088370564,
+  "operating_profit": 6324270121,
+  "net_income": 3988362959,
+  "total_assets": 316423354757,
+  "total_debt": 125003069442,
+  "total_equity": 191420285315,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -46.60351244046868,
+  "debt_ratio": 65.30293758380714,
+  "operating_margin": 14.026388715961938,
+  "net_margin": 8.84565778073257,
+  "roe": 8.334253503878704,
+  "cached_at": "2025-06-09T16:11:56.114416"
+}

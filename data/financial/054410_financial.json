@@ -1,0 +1,23 @@
+{
+  "ticker": "054410",
+  "name": "케이피티유",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 9592126651,
+  "operating_profit": 278363005,
+  "net_income": 2125090905,
+  "total_assets": 95803981371,
+  "total_debt": 40955907396,
+  "total_equity": 54848073975,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 26.542036215598763,
+  "operating_profit_yoy": 104.9171057197941,
+  "net_income_yoy": 4.943810645264124,
+  "debt_ratio": 74.67155075430341,
+  "operating_margin": 2.901994678844029,
+  "net_margin": 22.15453342433145,
+  "roe": 15.49801661927911,
+  "cached_at": "2025-06-09T16:35:47.709703"
+}

@@ -1,0 +1,16 @@
+{
+  "ticker": "098070",
+  "name": "한텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 0,
+  "operating_profit": 0,
+  "net_income": 0,
+  "total_assets": 0,
+  "total_debt": 0,
+  "total_equity": 0,
+  "data_source": "f_data_financial",
+  "cached_at": "2025-06-09T16:41:21.564103"
+}

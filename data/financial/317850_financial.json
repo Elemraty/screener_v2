@@ -1,0 +1,13 @@
+{
+  "ticker": "317850",
+  "name": "대모",
+  "market": "KOSDAQ",
+  "bps": 5581,
+  "per": 485.0,
+  "eps": 16,
+  "pbr": 1.39,
+  "roe": 0.2866869736606343,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:10:56.902184"
+}

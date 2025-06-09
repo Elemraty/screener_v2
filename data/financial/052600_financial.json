@@ -1,0 +1,23 @@
+{
+  "ticker": "052600",
+  "name": "한네트",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 6331275666,
+  "operating_profit": 1048035558,
+  "net_income": 800378695,
+  "total_assets": 55568611752,
+  "total_debt": 19187809460,
+  "total_equity": 36380802292,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -0.9628079824877345,
+  "operating_profit_yoy": -3.8371490025348898,
+  "net_income_yoy": -7.635135655377356,
+  "debt_ratio": 52.74157866556814,
+  "operating_margin": 16.553307947529827,
+  "net_margin": 12.641665554039392,
+  "roe": 8.800011484914396,
+  "cached_at": "2025-06-09T16:40:53.131020"
+}

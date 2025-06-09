@@ -1,0 +1,21 @@
+{
+  "ticker": "011790",
+  "name": "SKC",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 438464468656,
+  "operating_profit": -74476802682,
+  "net_income": -117826665281,
+  "total_assets": 6868609537120,
+  "total_debt": 4639325115290,
+  "total_equity": 2229284421830,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 5.606011375457287,
+  "debt_ratio": 208.10826424210234,
+  "operating_margin": -16.98582393923263,
+  "net_margin": -26.87256863530295,
+  "roe": -21.141611923036205,
+  "cached_at": "2025-06-09T15:57:30.081484"
+}

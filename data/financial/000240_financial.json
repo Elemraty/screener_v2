@@ -1,0 +1,23 @@
+{
+  "ticker": "000240",
+  "name": "한국앤컴퍼니",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 388686095278,
+  "operating_profit": 126892891875,
+  "net_income": 115438869508,
+  "total_assets": 5172147790373,
+  "total_debt": 683931181075,
+  "total_equity": 4488216609298,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 11.475531828550611,
+  "operating_profit_yoy": 1.0820890176473918,
+  "net_income_yoy": 1.2070737791789243,
+  "debt_ratio": 15.238372846313524,
+  "operating_margin": 32.64662498004782,
+  "net_margin": 29.699768247545528,
+  "roe": 10.288172747175475,
+  "cached_at": "2025-06-09T16:04:51.449731"
+}

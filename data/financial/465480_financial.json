@@ -1,0 +1,13 @@
+{
+  "ticker": "465480",
+  "name": "인스피언",
+  "market": "KOSDAQ",
+  "bps": 5194,
+  "per": 13.18,
+  "eps": 507,
+  "pbr": 1.29,
+  "roe": 9.761262995764342,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:32:55.704381"
+}

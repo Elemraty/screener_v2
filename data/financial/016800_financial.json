@@ -1,0 +1,23 @@
+{
+  "ticker": "016800",
+  "name": "퍼시스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 103741730555,
+  "operating_profit": 5092744115,
+  "net_income": 4649878586,
+  "total_assets": 643130397114,
+  "total_debt": 75295666670,
+  "total_equity": 567834730444,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -3.3273320173894727,
+  "operating_profit_yoy": -63.385920376355244,
+  "net_income_yoy": -75.86643780287834,
+  "debt_ratio": 13.260137612774228,
+  "operating_margin": 4.9090603055826385,
+  "net_margin": 4.482167938710843,
+  "roe": 3.275515453141922,
+  "cached_at": "2025-06-09T16:04:31.562879"
+}

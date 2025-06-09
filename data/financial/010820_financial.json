@@ -1,0 +1,23 @@
+{
+  "ticker": "010820",
+  "name": "퍼스텍",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 53590339118,
+  "operating_profit": 1424756787,
+  "net_income": 2186064846,
+  "total_assets": 388150246355,
+  "total_debt": 322746159321,
+  "total_equity": 65404087034,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 49.57932454992824,
+  "operating_profit_yoy": 6262.288609809386,
+  "net_income_yoy": 793.1110176581726,
+  "debt_ratio": 493.4648184191027,
+  "operating_margin": 2.6586075222678534,
+  "net_margin": 4.079214429277126,
+  "roe": 13.369591688443474,
+  "cached_at": "2025-06-09T16:04:30.939923"
+}

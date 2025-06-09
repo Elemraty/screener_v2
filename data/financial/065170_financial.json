@@ -1,0 +1,21 @@
+{
+  "ticker": "065170",
+  "name": "비엘팜텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2986106314,
+  "operating_profit": -605160842,
+  "net_income": -1065117773,
+  "total_assets": 37378208272,
+  "total_debt": 14301269806,
+  "total_equity": 23076938466,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -13.649394917003388,
+  "debt_ratio": 61.972127832600165,
+  "operating_margin": -20.26588400964749,
+  "net_margin": -35.66911760664125,
+  "roe": -18.46202908707795,
+  "cached_at": "2025-06-09T16:16:09.287642"
+}

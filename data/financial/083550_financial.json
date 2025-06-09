@@ -1,0 +1,21 @@
+{
+  "ticker": "083550",
+  "name": "케이엠",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 31280991047,
+  "operating_profit": -1544182870,
+  "net_income": -1303029599,
+  "total_assets": 176388573890,
+  "total_debt": 50893642442,
+  "total_equity": 125494931448,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 0.30961458222587,
+  "debt_ratio": 40.554341003874136,
+  "operating_margin": -4.936489600600729,
+  "net_margin": -4.165563671055642,
+  "roe": -4.15325012401771,
+  "cached_at": "2025-06-09T16:35:37.183944"
+}

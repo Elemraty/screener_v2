@@ -1,0 +1,21 @@
+{
+  "ticker": "032680",
+  "name": "소프트센",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 9566307679,
+  "operating_profit": 682325498,
+  "net_income": 77443079,
+  "total_assets": 92911214379,
+  "total_debt": 25843812022,
+  "total_equity": 67067402357,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -5.833445654213698,
+  "debt_ratio": 38.534088266060024,
+  "operating_margin": 7.132589928064345,
+  "net_margin": 0.809539914443724,
+  "roe": 0.461882084460467,
+  "cached_at": "2025-06-09T16:18:33.776973"
+}

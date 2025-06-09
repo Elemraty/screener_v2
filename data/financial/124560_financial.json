@@ -1,0 +1,23 @@
+{
+  "ticker": "124560",
+  "name": "태웅로직스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 272657584631,
+  "operating_profit": 8131500652,
+  "net_income": 2774727139,
+  "total_assets": 533847595655,
+  "total_debt": 276851119287,
+  "total_equity": 256996476368,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 34.766961902166706,
+  "operating_profit_yoy": 84.79104516706633,
+  "net_income_yoy": -21.30128930084787,
+  "debt_ratio": 107.72564791533156,
+  "operating_margin": 2.9823122885082154,
+  "net_margin": 1.017659986519416,
+  "roe": 4.318700673587128,
+  "cached_at": "2025-06-09T16:37:14.741464"
+}

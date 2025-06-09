@@ -1,0 +1,13 @@
+{
+  "ticker": "319400",
+  "name": "현대무벡스",
+  "market": "KOSDAQ",
+  "bps": 1506,
+  "per": 16.76,
+  "eps": 230,
+  "pbr": 2.56,
+  "roe": 15.272244355909695,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:41:35.229263"
+}

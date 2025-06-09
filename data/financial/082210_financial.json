@@ -1,0 +1,23 @@
+{
+  "ticker": "082210",
+  "name": "옵트론텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 47303044258,
+  "operating_profit": 657835671,
+  "net_income": -1999693950,
+  "total_assets": 217269765903,
+  "total_debt": 143525425300,
+  "total_equity": 73744340603,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -38.43305829729602,
+  "operating_profit_yoy": -88.08633803753261,
+  "net_income_yoy": -404.86679607955995,
+  "debt_ratio": 194.6256812745319,
+  "operating_margin": 1.3906835835174505,
+  "net_margin": -4.227410690722738,
+  "roe": -10.846630039125472,
+  "cached_at": "2025-06-09T16:26:18.097410"
+}

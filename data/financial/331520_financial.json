@@ -1,0 +1,13 @@
+{
+  "ticker": "331520",
+  "name": "밸로프",
+  "market": "KOSDAQ",
+  "bps": 621,
+  "per": 17.29,
+  "eps": 34,
+  "pbr": 0.95,
+  "roe": 5.475040257648954,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:15:22.805121"
+}

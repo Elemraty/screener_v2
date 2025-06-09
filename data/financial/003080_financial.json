@@ -1,0 +1,23 @@
+{
+  "ticker": "003080",
+  "name": "SB성보",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 44925257171,
+  "operating_profit": 7555583191,
+  "net_income": 5252845296,
+  "total_assets": 225728584634,
+  "total_debt": 97765983771,
+  "total_equity": 127962600863,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 10.540686146634037,
+  "operating_profit_yoy": -3.8991616533850415,
+  "net_income_yoy": -16.050321310620987,
+  "debt_ratio": 76.4019980147721,
+  "operating_margin": 16.818118953089165,
+  "net_margin": 11.69241007570859,
+  "roe": 16.419939140261235,
+  "cached_at": "2025-06-09T15:57:24.320746"
+}

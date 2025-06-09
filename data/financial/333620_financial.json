@@ -1,0 +1,13 @@
+{
+  "ticker": "333620",
+  "name": "엔시스",
+  "market": "KOSDAQ",
+  "bps": 6177,
+  "per": 7.09,
+  "eps": 983,
+  "pbr": 1.13,
+  "roe": 15.913874048891048,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:24:12.887403"
+}

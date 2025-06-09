@@ -1,0 +1,23 @@
+{
+  "ticker": "267790",
+  "name": "배럴",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 11340129536,
+  "operating_profit": 1213723879,
+  "net_income": 381293086,
+  "total_assets": 76098222624,
+  "total_debt": 33073942525,
+  "total_equity": 43024280099,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -2.4732910725414947,
+  "operating_profit_yoy": 2.799785195109572,
+  "net_income_yoy": -31.539519390775496,
+  "debt_ratio": 76.87273894855646,
+  "operating_margin": 10.702910184111674,
+  "net_margin": 3.3623344847125383,
+  "roe": 3.5449107817505334,
+  "cached_at": "2025-06-09T16:15:20.741857"
+}

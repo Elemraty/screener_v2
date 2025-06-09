@@ -1,0 +1,23 @@
+{
+  "ticker": "006920",
+  "name": "모헨즈",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 15946463559,
+  "operating_profit": -1371998524,
+  "net_income": -1363196963,
+  "total_assets": 63938193657,
+  "total_debt": 20979810926,
+  "total_equity": 42958382731,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -26.584246119977163,
+  "operating_profit_yoy": -292.70391381606504,
+  "net_income_yoy": -287.04536387343074,
+  "debt_ratio": 48.83752504691097,
+  "operating_margin": -8.603779257537386,
+  "net_margin": -8.54858481917533,
+  "roe": -12.693186999484299,
+  "cached_at": "2025-06-09T16:14:34.604325"
+}

@@ -1,0 +1,22 @@
+{
+  "ticker": "071200",
+  "name": "인피니트헬스케어",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 24516449854,
+  "operating_profit": 2845740635,
+  "net_income": -1026274006,
+  "total_assets": 227238314943,
+  "total_debt": 47780513096,
+  "total_equity": 179457801847,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 15.274114888246547,
+  "net_income_yoy": -110.42691907666784,
+  "debt_ratio": 26.624929428666544,
+  "operating_margin": 11.607474377191284,
+  "net_margin": -4.186062876605919,
+  "roe": -2.287499335080385,
+  "cached_at": "2025-06-09T16:33:14.588952"
+}

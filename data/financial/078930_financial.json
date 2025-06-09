@@ -1,0 +1,23 @@
+{
+  "ticker": "078930",
+  "name": "GS",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 6238785000000,
+  "operating_profit": 800160000000,
+  "net_income": 291451000000,
+  "total_assets": 35481535000000,
+  "total_debt": 17122625000000,
+  "total_equity": 18358910000000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -0.7981105992102333,
+  "operating_profit_yoy": -21.26501815462426,
+  "net_income_yoy": -38.77182736424598,
+  "debt_ratio": 93.2660217845177,
+  "operating_margin": 12.825574210363074,
+  "net_margin": 4.671598716737313,
+  "roe": 6.350071981397589,
+  "cached_at": "2025-06-09T15:56:07.405013"
+}

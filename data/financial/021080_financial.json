@@ -1,0 +1,23 @@
+{
+  "ticker": "021080",
+  "name": "에이티넘인베스트",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 6726914522,
+  "operating_profit": 2160340488,
+  "net_income": 1616586217,
+  "total_assets": 212655419565,
+  "total_debt": 31625164760,
+  "total_equity": 181030254805,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -6.510373133616232,
+  "operating_profit_yoy": -36.3597793966163,
+  "net_income_yoy": -34.90322573687882,
+  "debt_ratio": 17.469546620295937,
+  "operating_margin": 32.11487942852145,
+  "net_margin": 24.031615263030986,
+  "roe": 3.5719691578434443,
+  "cached_at": "2025-06-09T16:23:38.198211"
+}

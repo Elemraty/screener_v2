@@ -1,0 +1,13 @@
+{
+  "ticker": "434480",
+  "name": "모니터랩",
+  "market": "KOSDAQ",
+  "bps": 3033,
+  "per": 24.32,
+  "eps": 177,
+  "pbr": 1.42,
+  "roe": 5.835806132542038,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:14:18.094125"
+}

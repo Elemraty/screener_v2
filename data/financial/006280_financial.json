@@ -1,0 +1,21 @@
+{
+  "ticker": "006280",
+  "name": "녹십자",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 383778613077,
+  "operating_profit": 7960461110,
+  "net_income": 22275930502,
+  "total_assets": 3013925656742,
+  "total_debt": 1544491372497,
+  "total_equity": 1469434284245,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 7.55837199320939,
+  "debt_ratio": 105.10789009462675,
+  "operating_margin": 2.0742326014927883,
+  "net_margin": 5.804369952613966,
+  "roe": 6.0638112886948035,
+  "cached_at": "2025-06-09T15:58:36.306234"
+}

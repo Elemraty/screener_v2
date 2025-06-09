@@ -1,0 +1,21 @@
+{
+  "ticker": "278280",
+  "name": "천보",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 35555854405,
+  "operating_profit": 2816015254,
+  "net_income": 488590588,
+  "total_assets": 881824652889,
+  "total_debt": 466380613669,
+  "total_equity": 415444039220,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -10.55050299601412,
+  "debt_ratio": 112.26075467218976,
+  "operating_margin": 7.919976333360171,
+  "net_margin": 1.3741494788303907,
+  "roe": 0.47042734219254495,
+  "cached_at": "2025-06-09T16:34:55.726900"
+}

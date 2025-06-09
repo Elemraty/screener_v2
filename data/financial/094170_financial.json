@@ -1,0 +1,23 @@
+{
+  "ticker": "094170",
+  "name": "동운아나텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 30096573646,
+  "operating_profit": -700973277,
+  "net_income": -3628503320,
+  "total_assets": 97790881722,
+  "total_debt": 32511603603,
+  "total_equity": 65279278119,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -11.661250292695492,
+  "operating_profit_yoy": -113.45626219554565,
+  "net_income_yoy": -147.95452808025863,
+  "debt_ratio": 49.8038650852318,
+  "operating_margin": -2.3290799984242168,
+  "net_margin": -12.056200691410758,
+  "roe": -22.23372209101619,
+  "cached_at": "2025-06-09T16:12:12.388869"
+}

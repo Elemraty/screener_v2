@@ -1,0 +1,23 @@
+{
+  "ticker": "017550",
+  "name": "수산세보틱스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 48299273606,
+  "operating_profit": 3469804400,
+  "net_income": 3192842520,
+  "total_assets": 248597940155,
+  "total_debt": 59946864006,
+  "total_equity": 188651076149,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 6.302794598481376,
+  "operating_profit_yoy": 56.59338949719756,
+  "net_income_yoy": 30.942589712009717,
+  "debt_ratio": 31.776582052812085,
+  "operating_margin": 7.183968082635847,
+  "net_margin": 6.610539417311998,
+  "roe": 6.7698368547407295,
+  "cached_at": "2025-06-09T16:01:35.110514"
+}

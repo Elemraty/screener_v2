@@ -1,0 +1,23 @@
+{
+  "ticker": "014440",
+  "name": "영보화학",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 26360050811,
+  "operating_profit": 3423620279,
+  "net_income": 3533138726,
+  "total_assets": 202038519134,
+  "total_debt": 22418966405,
+  "total_equity": 179619552729,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 0.044425491655797344,
+  "operating_profit_yoy": -26.38416678300255,
+  "net_income_yoy": -42.943583222003426,
+  "debt_ratio": 12.481361892056645,
+  "operating_margin": 12.987912290257537,
+  "net_margin": 13.40338359486632,
+  "roe": 7.8680492681787335,
+  "cached_at": "2025-06-09T16:02:25.191932"
+}

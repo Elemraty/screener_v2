@@ -1,0 +1,23 @@
+{
+  "ticker": "006040",
+  "name": "동원산업",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2319311626983,
+  "operating_profit": 124843272976,
+  "net_income": 74782800002,
+  "total_assets": 7421766337482,
+  "total_debt": 4149002178339,
+  "total_equity": 3272764159143,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 3.454089765834456,
+  "operating_profit_yoy": 13.477289872984377,
+  "net_income_yoy": -9.24484035253439,
+  "debt_ratio": 126.77363771379879,
+  "operating_margin": 5.38277269529314,
+  "net_margin": 3.2243532577499616,
+  "roe": 9.14001698449087,
+  "cached_at": "2025-06-09T15:59:28.195469"
+}

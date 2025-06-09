@@ -1,0 +1,21 @@
+{
+  "ticker": "030530",
+  "name": "원익홀딩스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 171018857039,
+  "operating_profit": 10233047783,
+  "net_income": 11553175400,
+  "total_assets": 1912056708111,
+  "total_debt": 653988952746,
+  "total_equity": 1258067755365,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 46.40679063418565,
+  "debt_ratio": 51.983603423351376,
+  "operating_margin": 5.98357862996734,
+  "net_margin": 6.755497960885889,
+  "roe": 3.673307848716974,
+  "cached_at": "2025-06-09T16:30:26.694189"
+}

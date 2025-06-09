@@ -1,0 +1,13 @@
+{
+  "ticker": "430690",
+  "name": "한싹",
+  "market": "KOSDAQ",
+  "bps": 3270,
+  "per": 485.45,
+  "eps": 11,
+  "pbr": 1.63,
+  "roe": 0.3363914373088685,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:41:04.905565"
+}

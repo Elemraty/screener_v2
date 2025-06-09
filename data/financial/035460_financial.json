@@ -1,0 +1,21 @@
+{
+  "ticker": "035460",
+  "name": "기산텔레콤",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 18175080209,
+  "operating_profit": 377528737,
+  "net_income": 259676968,
+  "total_assets": 125268277494,
+  "total_debt": 72029774890,
+  "total_equity": 53238502604,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 60.098926209436996,
+  "debt_ratio": 135.29639521564633,
+  "operating_margin": 2.077177831727279,
+  "net_margin": 1.4287528033654138,
+  "roe": 1.951046369065155,
+  "cached_at": "2025-06-09T16:09:25.390528"
+}

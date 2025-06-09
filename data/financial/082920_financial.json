@@ -1,0 +1,23 @@
+{
+  "ticker": "082920",
+  "name": "비츠로셀",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 53941375434,
+  "operating_profit": 15074283075,
+  "net_income": 12995327921,
+  "total_assets": 326827321852,
+  "total_debt": 41158670800,
+  "total_equity": 285668651052,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 43.572042536719046,
+  "operating_profit_yoy": 49.13587829875621,
+  "net_income_yoy": 8.654333018340065,
+  "debt_ratio": 14.407836018558411,
+  "operating_margin": 27.945677976721502,
+  "net_margin": 24.091576858102997,
+  "roe": 18.196365436870387,
+  "cached_at": "2025-06-09T16:16:13.759262"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "025440",
+  "name": "DH오토웨어",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 91056339093,
+  "operating_profit": -1402047170,
+  "net_income": 1419309916,
+  "total_assets": 302650613110,
+  "total_debt": 229084158613,
+  "total_equity": 73566454497,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -3.1768009722127677,
+  "operating_profit_yoy": -269.634898839127,
+  "net_income_yoy": 483.5694190857214,
+  "debt_ratio": 311.39757948011743,
+  "operating_margin": -1.539757894909464,
+  "net_margin": 1.558716208160306,
+  "roe": 7.717158184144263,
+  "cached_at": "2025-06-09T16:06:28.938365"
+}

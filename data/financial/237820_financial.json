@@ -1,0 +1,23 @@
+{
+  "ticker": "237820",
+  "name": "플레이디",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 7656160574,
+  "operating_profit": 46055134,
+  "net_income": 367701352,
+  "total_assets": 128138092334,
+  "total_debt": 42065715613,
+  "total_equity": 86072376721,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -17.777510320444467,
+  "operating_profit_yoy": -92.8297068043026,
+  "net_income_yoy": -52.09379644226833,
+  "debt_ratio": 48.8724922158874,
+  "operating_margin": 0.6015434701879334,
+  "net_margin": 4.802685999673235,
+  "roe": 1.7088007372766691,
+  "cached_at": "2025-06-09T16:39:17.435273"
+}

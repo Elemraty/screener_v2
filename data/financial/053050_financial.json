@@ -1,0 +1,23 @@
+{
+  "ticker": "053050",
+  "name": "지에스이",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 73968323965,
+  "operating_profit": 5618296156,
+  "net_income": 4706055385,
+  "total_assets": 247700298479,
+  "total_debt": 149507184244,
+  "total_equity": 98193114235,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 20.816186833378005,
+  "operating_profit_yoy": 26.75334621843506,
+  "net_income_yoy": 38.33190320669446,
+  "debt_ratio": 152.25831812014127,
+  "operating_margin": 7.595543409444345,
+  "net_margin": 6.36225769726348,
+  "roe": 19.17061261031915,
+  "cached_at": "2025-06-09T16:34:36.855190"
+}

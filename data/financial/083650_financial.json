@@ -1,0 +1,23 @@
+{
+  "ticker": "083650",
+  "name": "비에이치아이",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 135274517500,
+  "operating_profit": 12442998715,
+  "net_income": 8680088857,
+  "total_assets": 659003175096,
+  "total_debt": 534535462465,
+  "total_equity": 124467712631,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 85.07011116993087,
+  "operating_profit_yoy": 253.39166757857043,
+  "net_income_yoy": 44.90531607956496,
+  "debt_ratio": 429.4571268050027,
+  "operating_margin": 9.198331618517878,
+  "net_margin": 6.416647434724726,
+  "roe": 27.89506988927547,
+  "cached_at": "2025-06-09T16:16:06.101872"
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "128540",
+  "name": "에코캡",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 37107034360,
+  "operating_profit": 2472679099,
+  "net_income": -3365062356,
+  "total_assets": 191846147631,
+  "total_debt": 83768015224,
+  "total_equity": 108078132407,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 25.354248859600446,
+  "debt_ratio": 77.50690482746954,
+  "operating_margin": 6.663639769782994,
+  "net_margin": -9.068529495926011,
+  "roe": -12.45418395398569,
+  "cached_at": "2025-06-09T16:23:49.771184"
+}

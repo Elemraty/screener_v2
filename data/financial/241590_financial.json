@@ -1,0 +1,22 @@
+{
+  "ticker": "241590",
+  "name": "화승엔터프라이즈",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 423427674104,
+  "operating_profit": 13419922391,
+  "net_income": 1019699986,
+  "total_assets": 1469611897396,
+  "total_debt": 938765795590,
+  "total_equity": 530846101806,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 22.60146171486104,
+  "operating_profit_yoy": 151.90541160486165,
+  "debt_ratio": 176.84330588398595,
+  "operating_margin": 3.1693541097419793,
+  "net_margin": 0.24082034509382275,
+  "roe": 0.7683582737300791,
+  "cached_at": "2025-06-09T16:05:54.639142"
+}

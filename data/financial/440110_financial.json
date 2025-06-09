@@ -1,0 +1,13 @@
+{
+  "ticker": "440110",
+  "name": "파두",
+  "market": "KOSDAQ",
+  "bps": 1950,
+  "per": 0.0,
+  "eps": 0,
+  "pbr": 5.29,
+  "roe": 0.0,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:37:59.788479"
+}

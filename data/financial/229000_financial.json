@@ -1,0 +1,21 @@
+{
+  "ticker": "229000",
+  "name": "젠큐릭스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1706098364,
+  "operating_profit": -1570951131,
+  "net_income": -1998253209,
+  "total_assets": 27596194931,
+  "total_debt": 14980714007,
+  "total_equity": 12615480924,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 109.09056087926979,
+  "debt_ratio": 118.7486556973054,
+  "operating_margin": -92.07857906368639,
+  "net_margin": -117.12415011729065,
+  "roe": -63.35876439552849,
+  "cached_at": "2025-06-09T16:34:13.838082"
+}

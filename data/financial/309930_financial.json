@@ -1,0 +1,13 @@
+{
+  "ticker": "309930",
+  "name": "오하임앤컴퍼니",
+  "market": "KOSDAQ",
+  "bps": 1392,
+  "per": 46.06,
+  "eps": 66,
+  "pbr": 2.18,
+  "roe": 4.741379310344827,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:26:11.235122"
+}

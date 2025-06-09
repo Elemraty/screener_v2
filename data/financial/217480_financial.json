@@ -1,0 +1,21 @@
+{
+  "ticker": "217480",
+  "name": "에스디생명공학",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 9052753343,
+  "operating_profit": -1153665894,
+  "net_income": -1280984338,
+  "total_assets": 58518468154,
+  "total_debt": 30038709990,
+  "total_equity": 28479758164,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -11.153365414164707,
+  "debt_ratio": 105.47389418485513,
+  "operating_margin": -12.743812299846507,
+  "net_margin": -14.150218054825444,
+  "roe": -17.991505835456646,
+  "cached_at": "2025-06-09T16:22:21.188289"
+}

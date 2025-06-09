@@ -1,0 +1,13 @@
+{
+  "ticker": "456010",
+  "name": "아이씨티케이",
+  "market": "KOSDAQ",
+  "bps": 3240,
+  "per": 0.0,
+  "eps": 0,
+  "pbr": 5.81,
+  "roe": 0.0,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:21:08.374293"
+}

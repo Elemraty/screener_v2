@@ -1,0 +1,17 @@
+{
+  "ticker": "294090",
+  "name": "이오플로우",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 0,
+  "operating_profit": 0,
+  "net_income": 0,
+  "total_assets": 54880765432,
+  "total_debt": 126587839506,
+  "total_equity": -71707074074,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -100.0,
+  "cached_at": "2025-06-09T16:32:35.226640"
+}

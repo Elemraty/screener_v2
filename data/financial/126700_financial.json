@@ -1,0 +1,23 @@
+{
+  "ticker": "126700",
+  "name": "하이비젼시스템",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 22823246715,
+  "operating_profit": -2348249142,
+  "net_income": 3270882038,
+  "total_assets": 380740992589,
+  "total_debt": 83484562239,
+  "total_equity": 297256430350,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -52.67472567634468,
+  "operating_profit_yoy": -142.17047451827085,
+  "net_income_yoy": -73.20776866010041,
+  "debt_ratio": 28.0850315469046,
+  "operating_margin": -10.28884790723781,
+  "net_margin": 14.331361698203507,
+  "roe": 4.4014281328060765,
+  "cached_at": "2025-06-09T16:40:17.690907"
+}

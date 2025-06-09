@@ -1,0 +1,23 @@
+{
+  "ticker": "018620",
+  "name": "우진비앤지",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 14321225687,
+  "operating_profit": 423596742,
+  "net_income": 148394892,
+  "total_assets": 109645412854,
+  "total_debt": 41949876128,
+  "total_equity": 67695536726,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -10.872056902991567,
+  "operating_profit_yoy": -37.79766270159301,
+  "net_income_yoy": -72.54109428212685,
+  "debt_ratio": 61.96845191994497,
+  "operating_margin": 2.9578246391614176,
+  "net_margin": 1.0361884886340733,
+  "roe": 0.8768370807111459,
+  "cached_at": "2025-06-09T16:30:16.715951"
+}

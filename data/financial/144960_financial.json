@@ -1,0 +1,23 @@
+{
+  "ticker": "144960",
+  "name": "뉴파워프라즈마",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 108159766897,
+  "operating_profit": 3445863506,
+  "net_income": 185334770,
+  "total_assets": 997071859538,
+  "total_debt": 601512264376,
+  "total_equity": 395559595162,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 2.534737005203458,
+  "operating_profit_yoy": -34.16258523423687,
+  "net_income_yoy": -85.127512103625,
+  "debt_ratio": 152.06615431226055,
+  "operating_margin": 3.1859013798369946,
+  "net_margin": 0.1713527823857954,
+  "roe": 0.1874152691698421,
+  "cached_at": "2025-06-09T16:10:40.056162"
+}

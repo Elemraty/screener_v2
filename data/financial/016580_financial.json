@@ -1,0 +1,23 @@
+{
+  "ticker": "016580",
+  "name": "환인제약",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 60199180965,
+  "operating_profit": 5279354137,
+  "net_income": 5120051823,
+  "total_assets": 428928706034,
+  "total_debt": 52941758085,
+  "total_equity": 375986947949,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -2.2899705680464066,
+  "operating_profit_yoy": -36.53454889929455,
+  "net_income_yoy": -43.55720314321785,
+  "debt_ratio": 14.080743593307174,
+  "operating_margin": 8.769810572787415,
+  "net_margin": 8.505185188444365,
+  "roe": 5.447052724494574,
+  "cached_at": "2025-06-09T16:05:58.653685"
+}

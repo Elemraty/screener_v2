@@ -1,0 +1,23 @@
+{
+  "ticker": "058650",
+  "name": "세아홀딩스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1530405851587,
+  "operating_profit": 38865123609,
+  "net_income": 21263334015,
+  "total_assets": 6248671113892,
+  "total_debt": 3211843608321,
+  "total_equity": 3036827505571,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 0.804768431683045,
+  "operating_profit_yoy": 8.221627514735431,
+  "net_income_yoy": -10.844623176522683,
+  "debt_ratio": 105.76312294422176,
+  "operating_margin": 2.5395305153007386,
+  "net_margin": 1.3893918396189058,
+  "roe": 2.8007299032945183,
+  "cached_at": "2025-06-09T16:01:29.867323"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "010130",
+  "name": "고려아연",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 3832784741869,
+  "operating_profit": 271105783093,
+  "net_income": 162475453992,
+  "total_assets": 14383453190692,
+  "total_debt": 6729309497576,
+  "total_equity": 7654143693116,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 61.355633644525454,
+  "operating_profit_yoy": 46.92624546987205,
+  "net_income_yoy": 44.55849925568038,
+  "debt_ratio": 87.91720886594044,
+  "operating_margin": 7.073337047381361,
+  "net_margin": 4.2390967647395525,
+  "roe": 8.490849427774789,
+  "cached_at": "2025-06-09T15:58:06.159353"
+}

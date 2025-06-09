@@ -1,0 +1,23 @@
+{
+  "ticker": "043260",
+  "name": "성호전자",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 59265858353,
+  "operating_profit": 1599388705,
+  "net_income": -21858670,
+  "total_assets": 363223020035,
+  "total_debt": 219611834437,
+  "total_equity": 143611185598,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -5.960284180951403,
+  "operating_profit_yoy": -81.86982303141572,
+  "net_income_yoy": -100.6434891681204,
+  "debt_ratio": 152.9211206790973,
+  "operating_margin": 2.6986679168193297,
+  "net_margin": -0.036882398411924,
+  "roe": -0.06088291774482618,
+  "cached_at": "2025-06-09T16:17:54.925934"
+}

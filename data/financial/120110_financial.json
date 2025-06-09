@@ -1,0 +1,23 @@
+{
+  "ticker": "120110",
+  "name": "코오롱인더",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1231582942453,
+  "operating_profit": 26931854081,
+  "net_income": 19773831513,
+  "total_assets": 7408191136690,
+  "total_debt": 3612646346481,
+  "total_equity": 3795544790209,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 6.061598150808489,
+  "operating_profit_yoy": -12.1223540699974,
+  "net_income_yoy": -2.6596524273150735,
+  "debt_ratio": 95.18123342399211,
+  "operating_margin": 2.186767383068703,
+  "net_margin": 1.605562307774055,
+  "roe": 2.083899161354506,
+  "cached_at": "2025-06-09T16:04:09.495837"
+}

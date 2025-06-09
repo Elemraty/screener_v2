@@ -1,0 +1,22 @@
+{
+  "ticker": "148780",
+  "name": "비큐AI",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 3698780601,
+  "operating_profit": -752619051,
+  "net_income": -654104221,
+  "total_assets": 16049015438,
+  "total_debt": 4838311803,
+  "total_equity": 11210703635,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -9.503570128816996,
+  "net_income_yoy": -2011.364236259459,
+  "debt_ratio": 43.157967247432275,
+  "operating_margin": -20.34776138915951,
+  "net_margin": -17.684320633215087,
+  "roe": -23.33856080033642,
+  "cached_at": "2025-06-09T16:16:17.917517"
+}

@@ -1,0 +1,19 @@
+{
+  "ticker": "071460",
+  "name": "위니아",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 14491864652,
+  "operating_profit": -15115901243,
+  "net_income": -18720421056,
+  "total_assets": 74058552059,
+  "total_debt": 540166145525,
+  "total_equity": -466107593466,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 8.90391062097673,
+  "operating_margin": -104.30611661083846,
+  "net_margin": -129.17882898814145,
+  "cached_at": "2025-06-09T16:30:46.647656"
+}

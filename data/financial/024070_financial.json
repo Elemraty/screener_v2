@@ -1,0 +1,21 @@
+{
+  "ticker": "024070",
+  "name": "WISCOM",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 25617685162,
+  "operating_profit": -753719343,
+  "net_income": -308026688,
+  "total_assets": 102612287742,
+  "total_debt": 16293930049,
+  "total_equity": 86318357693,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -5.7341546581166085,
+  "debt_ratio": 18.87655243274092,
+  "operating_margin": -2.9421836447503456,
+  "net_margin": -1.2023986010137695,
+  "roe": -1.4273982788019586,
+  "cached_at": "2025-06-09T15:57:54.901457"
+}

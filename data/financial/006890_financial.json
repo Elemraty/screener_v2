@@ -1,0 +1,23 @@
+{
+  "ticker": "006890",
+  "name": "태경케미컬",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 15770333532,
+  "operating_profit": 1051729688,
+  "net_income": 2242355431,
+  "total_assets": 221849662199,
+  "total_debt": 58834244444,
+  "total_equity": 163015417755,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -4.361496022448941,
+  "operating_profit_yoy": -69.07970567704763,
+  "net_income_yoy": -42.94989470310199,
+  "debt_ratio": 36.09121471714011,
+  "operating_margin": 6.669038963988349,
+  "net_margin": 14.218820587719197,
+  "roe": 5.502192275751716,
+  "cached_at": "2025-06-09T16:04:18.972462"
+}

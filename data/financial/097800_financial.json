@@ -1,0 +1,21 @@
+{
+  "ticker": "097800",
+  "name": "윈팩",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 14636837638,
+  "operating_profit": -4778500452,
+  "net_income": -2736829266,
+  "total_assets": 144064637854,
+  "total_debt": 80532197288,
+  "total_equity": 63532440566,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -35.34936018846867,
+  "debt_ratio": 126.75760063764588,
+  "operating_margin": -32.647082451704655,
+  "net_margin": -18.69822794846527,
+  "roe": -17.23106647009333,
+  "cached_at": "2025-06-09T16:31:01.340325"
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "053160",
+  "name": "프리엠스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 5090196376,
+  "operating_profit": 26526859,
+  "net_income": 535348808,
+  "total_assets": 63026940264,
+  "total_debt": 6083897777,
+  "total_equity": 56943042487,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -3.0168331984052,
+  "debt_ratio": 10.684181089180376,
+  "operating_margin": 0.5211362595964412,
+  "net_margin": 10.517252546957533,
+  "roe": 3.7605915287875193,
+  "cached_at": "2025-06-09T16:39:13.211451"
+}

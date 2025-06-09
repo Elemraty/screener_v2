@@ -1,0 +1,21 @@
+{
+  "ticker": "143210",
+  "name": "핸즈코퍼레이션",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 211754896408,
+  "operating_profit": 248397934,
+  "net_income": -3589700088,
+  "total_assets": 888701466112,
+  "total_debt": 716741441045,
+  "total_equity": 171960025067,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 7.178239461274583,
+  "debt_ratio": 416.80701126075047,
+  "operating_margin": 0.11730445822674052,
+  "net_margin": -1.6952146792787848,
+  "roe": -8.350080401770962,
+  "cached_at": "2025-06-09T16:05:34.977361"
+}

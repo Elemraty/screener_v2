@@ -1,0 +1,23 @@
+{
+  "ticker": "001040",
+  "name": "CJ",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 10600439111000,
+  "operating_profit": 534964591000,
+  "net_income": 136435994000,
+  "total_assets": 47510288584000,
+  "total_debt": 29788181556000,
+  "total_equity": 17722107028000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 1.5772425083544928,
+  "operating_profit_yoy": -7.149293436850435,
+  "net_income_yoy": -9.548892350773253,
+  "debt_ratio": 168.08487562419205,
+  "operating_margin": 5.046626704783116,
+  "net_margin": 1.2870787009042044,
+  "roe": 3.0794531098235276,
+  "cached_at": "2025-06-09T15:55:45.200217"
+}

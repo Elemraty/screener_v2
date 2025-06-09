@@ -1,0 +1,22 @@
+{
+  "ticker": "100250",
+  "name": "진양홀딩스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 70621324100,
+  "operating_profit": 2221045886,
+  "net_income": -9563489281,
+  "total_assets": 671919072192,
+  "total_debt": 251356917972,
+  "total_equity": 420562154220,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 7.044304629613629,
+  "operating_profit_yoy": 5.5062094223295555,
+  "debt_ratio": 59.766889495366435,
+  "operating_margin": 3.145007424181105,
+  "net_margin": -13.54192859292481,
+  "roe": -9.095910495072507,
+  "cached_at": "2025-06-09T16:03:42.549817"
+}

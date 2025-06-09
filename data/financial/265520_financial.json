@@ -1,0 +1,23 @@
+{
+  "ticker": "265520",
+  "name": "AP시스템",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 121923175108,
+  "operating_profit": 7640830447,
+  "net_income": 5767359387,
+  "total_assets": 577549015109,
+  "total_debt": 239660719608,
+  "total_equity": 337888295501,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 32.83259589435099,
+  "operating_profit_yoy": 5.56480003671842,
+  "net_income_yoy": -50.63642772653709,
+  "debt_ratio": 70.92897942873275,
+  "operating_margin": 6.2669221337384995,
+  "net_margin": 4.730322501764945,
+  "roe": 6.827533790063386,
+  "cached_at": "2025-06-09T16:06:08.486104"
+}

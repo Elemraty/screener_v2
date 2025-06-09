@@ -1,0 +1,23 @@
+{
+  "ticker": "035600",
+  "name": "KG이니시스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 328562464230,
+  "operating_profit": 24318967661,
+  "net_income": 17523999602,
+  "total_assets": 1872072796851,
+  "total_debt": 1120173491123,
+  "total_equity": 751899305728,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -10.659721384433018,
+  "operating_profit_yoy": -18.761649913372068,
+  "net_income_yoy": -23.61890765017175,
+  "debt_ratio": 148.97918944591012,
+  "operating_margin": 7.4016268772492095,
+  "net_margin": 5.33353669691644,
+  "roe": 9.322524688346668,
+  "cached_at": "2025-06-09T16:07:23.997193"
+}

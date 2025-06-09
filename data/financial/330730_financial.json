@@ -1,0 +1,13 @@
+{
+  "ticker": "330730",
+  "name": "스톤브릿지벤처스",
+  "market": "KOSDAQ",
+  "bps": 4926,
+  "per": 32.08,
+  "eps": 132,
+  "pbr": 0.86,
+  "roe": 2.679658952496955,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:18:59.430244"
+}

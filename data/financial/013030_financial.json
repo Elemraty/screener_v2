@@ -1,0 +1,23 @@
+{
+  "ticker": "013030",
+  "name": "하이록코리아",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 49035494789,
+  "operating_profit": 12702887761,
+  "net_income": 11544218285,
+  "total_assets": 478942526033,
+  "total_debt": 52063645146,
+  "total_equity": 426878880887,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -1.4837084398180878,
+  "operating_profit_yoy": -17.469575881925646,
+  "net_income_yoy": -24.293220459822994,
+  "debt_ratio": 12.196350645836207,
+  "operating_margin": 25.905495224756258,
+  "net_margin": 23.542575301166703,
+  "roe": 10.817324352999224,
+  "cached_at": "2025-06-09T16:40:16.053067"
+}

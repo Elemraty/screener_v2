@@ -1,0 +1,13 @@
+{
+  "ticker": "317530",
+  "name": "캐리소프트",
+  "market": "KOSDAQ",
+  "bps": 1232,
+  "per": 0.0,
+  "eps": 0,
+  "pbr": 3.92,
+  "roe": 0.0,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:35:06.250722"
+}

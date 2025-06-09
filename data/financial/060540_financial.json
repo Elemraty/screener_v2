@@ -1,0 +1,23 @@
+{
+  "ticker": "060540",
+  "name": "에스에이티",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 35487855765,
+  "operating_profit": -920315195,
+  "net_income": -1542598792,
+  "total_assets": 159858289390,
+  "total_debt": 56972228107,
+  "total_equity": 102886061283,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -9.619891467286056,
+  "operating_profit_yoy": -178.92413532246198,
+  "net_income_yoy": -246.75392237171874,
+  "debt_ratio": 55.37409771211992,
+  "operating_margin": -2.59332432225354,
+  "net_margin": -4.3468357237897495,
+  "roe": -5.997309150583202,
+  "cached_at": "2025-06-09T16:22:33.606511"
+}

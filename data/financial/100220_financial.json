@@ -1,0 +1,23 @@
+{
+  "ticker": "100220",
+  "name": "비상교육",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 87484906560,
+  "operating_profit": 19108383659,
+  "net_income": 22662594649,
+  "total_assets": 400565196975,
+  "total_debt": 200297060807,
+  "total_equity": 200268136168,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 33.46121946981992,
+  "operating_profit_yoy": 275.3676247737827,
+  "net_income_yoy": 489.40120669534207,
+  "debt_ratio": 100.01444295610548,
+  "operating_margin": 21.841920407030265,
+  "net_margin": 25.9045766179761,
+  "roe": 45.26450404469517,
+  "cached_at": "2025-06-09T16:00:36.129936"
+}

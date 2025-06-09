@@ -1,0 +1,21 @@
+{
+  "ticker": "273060",
+  "name": "와이즈버즈",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 8460622966,
+  "operating_profit": 641510616,
+  "net_income": -698010680,
+  "total_assets": 164855711706,
+  "total_debt": 117824253748,
+  "total_equity": 47031457958,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 111.66865191363785,
+  "debt_ratio": 250.52222249461062,
+  "operating_margin": 7.582309465603008,
+  "net_margin": -8.250109747296829,
+  "roe": -5.936542988935933,
+  "cached_at": "2025-06-09T16:29:55.528476"
+}

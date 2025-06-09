@@ -1,0 +1,23 @@
+{
+  "ticker": "013520",
+  "name": "화승코퍼레이션",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 134720222304,
+  "operating_profit": 30865078440,
+  "net_income": 25574088660,
+  "total_assets": 1318921833521,
+  "total_debt": 951769440499,
+  "total_equity": 367152393022,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 19.100781320588656,
+  "operating_profit_yoy": 22.644303624035842,
+  "net_income_yoy": -12.216737386077025,
+  "debt_ratio": 259.23007954954807,
+  "operating_margin": 22.910501417041964,
+  "net_margin": 18.983110495684414,
+  "roe": 27.862096661826836,
+  "cached_at": "2025-06-09T16:05:55.665938"
+}

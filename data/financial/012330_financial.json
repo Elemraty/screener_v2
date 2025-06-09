@@ -1,0 +1,23 @@
+{
+  "ticker": "012330",
+  "name": "현대모비스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 14752034000000,
+  "operating_profit": 776683000000,
+  "net_income": 1031748000000,
+  "total_assets": 68494788000000,
+  "total_debt": 21839331000000,
+  "total_equity": 46655457000000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 6.365244371278456,
+  "operating_profit_yoy": 43.125161242767106,
+  "net_income_yoy": 19.640850631572725,
+  "debt_ratio": 46.80981047940437,
+  "operating_margin": 5.2649214338849815,
+  "net_margin": 6.9939372428236,
+  "roe": 8.845679081012966,
+  "cached_at": "2025-06-09T16:05:39.197791"
+}

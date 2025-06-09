@@ -1,0 +1,21 @@
+{
+  "ticker": "019660",
+  "name": "글로본",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2242578959,
+  "operating_profit": -498185574,
+  "net_income": -431555368,
+  "total_assets": 12104861943,
+  "total_debt": 1392307256,
+  "total_equity": 10712554687,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -62.69929991506067,
+  "debt_ratio": 12.996967545842317,
+  "operating_margin": -22.21485098665817,
+  "net_margin": -19.24370895696074,
+  "roe": -16.11400382482827,
+  "cached_at": "2025-06-09T16:09:15.750569"
+}

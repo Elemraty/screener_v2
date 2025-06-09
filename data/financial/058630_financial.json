@@ -1,0 +1,23 @@
+{
+  "ticker": "058630",
+  "name": "엠게임",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 27049995822,
+  "operating_profit": 6486296829,
+  "net_income": 5672117068,
+  "total_assets": 152313516919,
+  "total_debt": 25945746786,
+  "total_equity": 126367770133,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 39.84064085349568,
+  "operating_profit_yoy": 61.8473974629707,
+  "net_income_yoy": 70.23476858598868,
+  "debt_ratio": 20.531933703263523,
+  "operating_margin": 23.97891989219694,
+  "net_margin": 20.96901273229335,
+  "roe": 17.95431560446209,
+  "cached_at": "2025-06-09T16:24:45.849351"
+}

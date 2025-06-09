@@ -1,0 +1,23 @@
+{
+  "ticker": "013000",
+  "name": "세우글로벌",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 8233249092,
+  "operating_profit": 523294252,
+  "net_income": 672585576,
+  "total_assets": 58403818345,
+  "total_debt": 6746966718,
+  "total_equity": 51656851627,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -6.583356874615543,
+  "operating_profit_yoy": -9.448959041277616,
+  "net_income_yoy": -26.84803009587483,
+  "debt_ratio": 13.061126463374118,
+  "operating_margin": 6.355865663149548,
+  "net_margin": 8.169139163462589,
+  "roe": 5.208103512436697,
+  "cached_at": "2025-06-09T16:01:30.913419"
+}

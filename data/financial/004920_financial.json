@@ -1,0 +1,21 @@
+{
+  "ticker": "004920",
+  "name": "씨아이테크",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 13392942865,
+  "operating_profit": -72632644,
+  "net_income": 281966910,
+  "total_assets": 97836631159,
+  "total_debt": 42822245925,
+  "total_equity": 55014385234,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 28.230406965601173,
+  "debt_ratio": 77.83827037757206,
+  "operating_margin": -0.542320270698773,
+  "net_margin": 2.105339452592371,
+  "roe": 2.050132224876622,
+  "cached_at": "2025-06-09T16:01:59.210154"
+}

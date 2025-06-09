@@ -1,0 +1,19 @@
+{
+  "ticker": "072520",
+  "name": "제넨바이오",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 0,
+  "operating_profit": -2365598971,
+  "net_income": -4664751651,
+  "total_assets": 96862922712,
+  "total_debt": 40930594211,
+  "total_equity": 55932328501,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -100.0,
+  "debt_ratio": 73.17877747619288,
+  "roe": -33.35996748940356,
+  "cached_at": "2025-06-09T16:33:37.585945"
+}

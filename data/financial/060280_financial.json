@@ -1,0 +1,21 @@
+{
+  "ticker": "060280",
+  "name": "큐렉소",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 19709338791,
+  "operating_profit": 842859055,
+  "net_income": 1092717463,
+  "total_assets": 104666014383,
+  "total_debt": 10112869718,
+  "total_equity": 94553144665,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 41.36661481456245,
+  "debt_ratio": 10.69543456627456,
+  "operating_margin": 4.2764451102990835,
+  "net_margin": 5.544160941101558,
+  "roe": 4.62265942342363,
+  "cached_at": "2025-06-09T16:36:37.975725"
+}

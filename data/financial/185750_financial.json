@@ -1,0 +1,23 @@
+{
+  "ticker": "185750",
+  "name": "종근당",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 400955846488,
+  "operating_profit": 12453255706,
+  "net_income": 11874440785,
+  "total_assets": 1485463638592,
+  "total_debt": 592704245766,
+  "total_equity": 892759392826,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 10.913782137006422,
+  "operating_profit_yoy": -59.60973494231951,
+  "net_income_yoy": -55.47390524646857,
+  "debt_ratio": 66.39014392106417,
+  "operating_margin": 3.105892036511982,
+  "net_margin": 2.9615332683159625,
+  "roe": 5.320331941806562,
+  "cached_at": "2025-06-09T16:03:36.740661"
+}

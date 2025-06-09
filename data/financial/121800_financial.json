@@ -1,0 +1,22 @@
+{
+  "ticker": "121800",
+  "name": "비덴트",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2067488548,
+  "operating_profit": -1390715054,
+  "net_income": 9346853180,
+  "total_assets": 749353312902,
+  "total_debt": 102540956890,
+  "total_equity": 646812356012,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -14.196696058892687,
+  "net_income_yoy": -66.51219728320402,
+  "debt_ratio": 15.853277374326721,
+  "operating_margin": -67.26591329104667,
+  "net_margin": 452.0873012351989,
+  "roe": 5.780256417876218,
+  "cached_at": "2025-06-09T16:15:56.893981"
+}

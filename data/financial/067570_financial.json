@@ -1,0 +1,23 @@
+{
+  "ticker": "067570",
+  "name": "엔브이에이치코리아",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 414126062243,
+  "operating_profit": 15228151021,
+  "net_income": 19586529788,
+  "total_assets": 1528215734591,
+  "total_debt": 1132386445888,
+  "total_equity": 395829288703,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 18.768560737633912,
+  "operating_profit_yoy": 47.92556362280101,
+  "net_income_yoy": 2198.7921177651297,
+  "debt_ratio": 286.0794989674592,
+  "operating_margin": 3.6771776541956585,
+  "net_margin": 4.729605686228716,
+  "roe": 19.792906029948917,
+  "cached_at": "2025-06-09T16:24:10.779849"
+}

@@ -1,0 +1,13 @@
+{
+  "ticker": "323410",
+  "name": "카카오뱅크",
+  "market": "KOSPI",
+  "bps": 13727,
+  "per": 25.43,
+  "eps": 924,
+  "pbr": 1.71,
+  "roe": 6.731259561448241,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:03:49.091493"
+}

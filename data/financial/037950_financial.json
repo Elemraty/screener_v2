@@ -1,0 +1,23 @@
+{
+  "ticker": "037950",
+  "name": "엘컴텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 9780395569,
+  "operating_profit": 632795462,
+  "net_income": 613345773,
+  "total_assets": 83943301928,
+  "total_debt": 10752357665,
+  "total_equity": 73190944263,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -20.212460753205562,
+  "operating_profit_yoy": 37.97522998491352,
+  "net_income_yoy": -34.25796124158388,
+  "debt_ratio": 14.690830639324881,
+  "operating_margin": 6.470039555513606,
+  "net_margin": 6.271175523248409,
+  "roe": 3.3520309332041935,
+  "cached_at": "2025-06-09T16:24:42.512779"
+}

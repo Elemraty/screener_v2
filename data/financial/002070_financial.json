@@ -1,0 +1,21 @@
+{
+  "ticker": "002070",
+  "name": "비비안",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 57160053943,
+  "operating_profit": 1684777164,
+  "net_income": -1959969806,
+  "total_assets": 287753836829,
+  "total_debt": 168386451242,
+  "total_equity": 119367385587,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 12.254193559528193,
+  "debt_ratio": 141.06571105159443,
+  "operating_margin": 2.947473012674305,
+  "net_margin": -3.4289152490207266,
+  "roe": -6.5678570284895486,
+  "cached_at": "2025-06-09T16:00:35.861707"
+}

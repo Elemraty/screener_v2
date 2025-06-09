@@ -1,0 +1,22 @@
+{
+  "ticker": "141000",
+  "name": "비아트론",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 26132236160,
+  "operating_profit": 8379247909,
+  "net_income": 7295776848,
+  "total_assets": 209526238052,
+  "total_debt": 27343877289,
+  "total_equity": 182182360763,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 1488.7378806194017,
+  "net_income_yoy": 416.42866697110037,
+  "debt_ratio": 15.009069579777536,
+  "operating_margin": 32.06479482925352,
+  "net_margin": 27.91868557795859,
+  "roe": 16.018624014848584,
+  "cached_at": "2025-06-09T16:16:04.196906"
+}

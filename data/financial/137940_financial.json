@@ -1,0 +1,21 @@
+{
+  "ticker": "137940",
+  "name": "넥스트아이",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 5766636985,
+  "operating_profit": -1775731683,
+  "net_income": 1797534184,
+  "total_assets": 116432574483,
+  "total_debt": 32751029507,
+  "total_equity": 83681544976,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -19.564203639432655,
+  "debt_ratio": 39.137696987302334,
+  "operating_margin": -30.793193461266576,
+  "net_margin": 31.171273459308967,
+  "roe": 8.592260979481368,
+  "cached_at": "2025-06-09T16:10:14.397742"
+}

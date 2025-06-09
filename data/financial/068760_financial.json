@@ -1,0 +1,23 @@
+{
+  "ticker": "068760",
+  "name": "셀트리온제약",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 112523998040,
+  "operating_profit": 10736993254,
+  "net_income": 7321554148,
+  "total_assets": 675922055946,
+  "total_debt": 273622801329,
+  "total_equity": 402299254617,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 16.041656717608753,
+  "operating_profit_yoy": 191.00567070750506,
+  "net_income_yoy": 287.2258908603349,
+  "debt_ratio": 68.01474230656889,
+  "operating_margin": 9.541958551973256,
+  "net_margin": 6.506660157415786,
+  "roe": 7.279709384468356,
+  "cached_at": "2025-06-09T16:18:26.943262"
+}

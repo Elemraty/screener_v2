@@ -1,0 +1,21 @@
+{
+  "ticker": "091090",
+  "name": "세원이앤씨",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 23642846999,
+  "operating_profit": 6154756937,
+  "net_income": 7924098396,
+  "total_assets": 281072411819,
+  "total_debt": 108925170657,
+  "total_equity": 172147241162,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 8.20340962368238,
+  "debt_ratio": 63.27442131616587,
+  "operating_margin": 26.03221573637186,
+  "net_margin": 33.51583841123346,
+  "roe": 18.41237383187103,
+  "cached_at": "2025-06-09T16:01:30.904964"
+}

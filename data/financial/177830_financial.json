@@ -1,0 +1,23 @@
+{
+  "ticker": "177830",
+  "name": "파버나인",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 35332532515,
+  "operating_profit": 1085118919,
+  "net_income": 533752265,
+  "total_assets": 169261837639,
+  "total_debt": 90537348155,
+  "total_equity": 78724489484,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 22.203073951512952,
+  "operating_profit_yoy": -42.582401228321295,
+  "net_income_yoy": -71.83885710220005,
+  "debt_ratio": 115.00531632332891,
+  "operating_margin": 3.0711608870361213,
+  "net_margin": 1.5106538563953826,
+  "roe": 2.7120011498250745,
+  "cached_at": "2025-06-09T16:38:06.116061"
+}

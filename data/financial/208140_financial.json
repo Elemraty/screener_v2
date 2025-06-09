@@ -1,0 +1,23 @@
+{
+  "ticker": "208140",
+  "name": "정다운",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 37883256781,
+  "operating_profit": 1077685061,
+  "net_income": 1325456583,
+  "total_assets": 219123718039,
+  "total_debt": 91811551844,
+  "total_equity": 127312166195,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -11.964166837776025,
+  "operating_profit_yoy": -68.11574642477186,
+  "net_income_yoy": -56.50189587569243,
+  "debt_ratio": 72.1153009865335,
+  "operating_margin": 2.8447529398805624,
+  "net_margin": 3.498792595004056,
+  "roe": 4.164430227256806,
+  "cached_at": "2025-06-09T16:33:32.990975"
+}

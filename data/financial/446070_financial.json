@@ -1,0 +1,13 @@
+{
+  "ticker": "446070",
+  "name": "유니드비티플러스",
+  "market": "KOSPI",
+  "bps": 18967,
+  "per": 6.82,
+  "eps": 618,
+  "pbr": 0.22,
+  "roe": 3.2582907154531555,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:02:41.438286"
+}

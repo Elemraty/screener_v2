@@ -1,0 +1,21 @@
+{
+  "ticker": "274090",
+  "name": "켄코아에어로스페이스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 16883841495,
+  "operating_profit": 105713082,
+  "net_income": -381814946,
+  "total_assets": 255923708547,
+  "total_debt": 71776952084,
+  "total_equity": 184146756463,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -17.445031027236148,
+  "debt_ratio": 38.97812454732099,
+  "operating_margin": 0.6261198438240846,
+  "net_margin": -2.261422236835563,
+  "roe": -0.829370993730681,
+  "cached_at": "2025-06-09T16:35:49.754896"
+}

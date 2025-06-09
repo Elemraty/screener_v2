@@ -1,0 +1,21 @@
+{
+  "ticker": "195990",
+  "name": "에이비프로바이오",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 8871575940,
+  "operating_profit": -3263617535,
+  "net_income": -3261229451,
+  "total_assets": 138526273066,
+  "total_debt": 33664820751,
+  "total_equity": 104861452315,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 45.31113764450281,
+  "debt_ratio": 32.10409545909406,
+  "operating_margin": -36.787348235222346,
+  "net_margin": -36.76042986112341,
+  "roe": -12.4401460365183,
+  "cached_at": "2025-06-09T16:23:11.984166"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "093050",
+  "name": "LF",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 430250173802,
+  "operating_profit": 30099129799,
+  "net_income": 22869013012,
+  "total_assets": 3001280449354,
+  "total_debt": 1225875895071,
+  "total_equity": 1775404554283,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -3.6690162158219852,
+  "operating_profit_yoy": 22.25596902919591,
+  "net_income_yoy": 8.856191796946899,
+  "debt_ratio": 69.04769350251397,
+  "operating_margin": 6.995727516626533,
+  "net_margin": 5.3152826900482,
+  "roe": 5.152406071468187,
+  "cached_at": "2025-06-09T15:56:49.891329"
+}

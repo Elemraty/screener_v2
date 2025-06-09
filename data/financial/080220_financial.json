@@ -1,0 +1,23 @@
+{
+  "ticker": "080220",
+  "name": "제주반도체",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 48440247633,
+  "operating_profit": 3699508665,
+  "net_income": 4327995433,
+  "total_assets": 236802078144,
+  "total_debt": 45829947917,
+  "total_equity": 190972130227,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 13.73673865548206,
+  "operating_profit_yoy": -22.395289413869012,
+  "net_income_yoy": -40.659370899366074,
+  "debt_ratio": 23.9982388333439,
+  "operating_margin": 7.6372620822022865,
+  "net_margin": 8.93470955349028,
+  "roe": 9.065187528369728,
+  "cached_at": "2025-06-09T16:34:10.710010"
+}

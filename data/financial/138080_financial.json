@@ -1,0 +1,21 @@
+{
+  "ticker": "138080",
+  "name": "오이솔루션",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 14068922610,
+  "operating_profit": -5686999399,
+  "net_income": -5876250544,
+  "total_assets": 133586334786,
+  "total_debt": 65267641875,
+  "total_equity": 68318692911,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 73.72461302247102,
+  "debt_ratio": 95.5340904428973,
+  "operating_margin": -40.42242292922813,
+  "net_margin": -41.76759448391052,
+  "roe": -34.40493542026689,
+  "cached_at": "2025-06-09T16:26:01.440404"
+}

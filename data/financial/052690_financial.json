@@ -1,0 +1,21 @@
+{
+  "ticker": "052690",
+  "name": "한전기술",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 0,
+  "operating_profit": 0,
+  "net_income": 0,
+  "total_assets": 897799519545,
+  "total_debt": 297233449902,
+  "total_equity": 600566069643,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -100.0,
+  "operating_profit_yoy": -100.0,
+  "net_income_yoy": -100.0,
+  "debt_ratio": 49.4922149162851,
+  "roe": 0.0,
+  "cached_at": "2025-06-09T16:05:17.373773"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "011560",
+  "name": "세보엠이씨",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 174497570099,
+  "operating_profit": 10142202067,
+  "net_income": 9120117134,
+  "total_assets": 399886187368,
+  "total_debt": 155150073590,
+  "total_equity": 244736113778,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -30.832881999573658,
+  "operating_profit_yoy": -14.91304367440497,
+  "net_income_yoy": -30.092937008030983,
+  "debt_ratio": 63.394842385515915,
+  "operating_margin": 5.8122311165971485,
+  "net_margin": 5.226500935701147,
+  "roe": 14.906042256228444,
+  "cached_at": "2025-06-09T16:18:01.725097"
+}

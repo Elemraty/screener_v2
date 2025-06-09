@@ -1,0 +1,21 @@
+{
+  "ticker": "052670",
+  "name": "제일바이오",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 3457218561,
+  "operating_profit": -405497015,
+  "net_income": -264694929,
+  "total_assets": 32592845576,
+  "total_debt": 1551437828,
+  "total_equity": 31041407748,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -41.2069918157618,
+  "debt_ratio": 4.997962207754444,
+  "operating_margin": -11.7289956606825,
+  "net_margin": -7.656297232288288,
+  "roe": -3.4108624344468312,
+  "cached_at": "2025-06-09T16:34:06.589558"
+}

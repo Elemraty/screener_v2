@@ -1,0 +1,23 @@
+{
+  "ticker": "089010",
+  "name": "켐트로닉스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 149284058846,
+  "operating_profit": 7138859137,
+  "net_income": 8156619849,
+  "total_assets": 645014360125,
+  "total_debt": 404747016996,
+  "total_equity": 240267343129,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 1.2185741539312511,
+  "operating_profit_yoy": -42.81176521744402,
+  "net_income_yoy": -7.015433728873299,
+  "debt_ratio": 168.4569412242972,
+  "operating_margin": 4.782063933808485,
+  "net_margin": 5.463825080891115,
+  "roe": 13.579240096096948,
+  "cached_at": "2025-06-09T16:35:49.783020"
+}

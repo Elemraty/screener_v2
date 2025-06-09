@@ -1,0 +1,22 @@
+{
+  "ticker": "012320",
+  "name": "경동인베스트",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 66478563249,
+  "operating_profit": 2197842866,
+  "net_income": 4071241351,
+  "total_assets": 607680448317,
+  "total_debt": 121687991580,
+  "total_equity": 485992456737,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -14.739588520934067,
+  "operating_profit_yoy": 35.41029463850893,
+  "debt_ratio": 25.039070029404336,
+  "operating_margin": 3.3060926087825173,
+  "net_margin": 6.124141605995435,
+  "roe": 3.350867935963208,
+  "cached_at": "2025-06-09T15:58:00.658861"
+}

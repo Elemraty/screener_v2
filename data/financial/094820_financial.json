@@ -1,0 +1,23 @@
+{
+  "ticker": "094820",
+  "name": "일진파워",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 41052793836,
+  "operating_profit": 2294345137,
+  "net_income": 659953806,
+  "total_assets": 274233070143,
+  "total_debt": 140379314965,
+  "total_equity": 133853755178,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -4.863687967831664,
+  "operating_profit_yoy": -22.778820243195508,
+  "net_income_yoy": -93.11839889596911,
+  "debt_ratio": 104.87514136478447,
+  "operating_margin": 5.588767347152007,
+  "net_margin": 1.607573430048197,
+  "roe": 1.9721637398140595,
+  "cached_at": "2025-06-09T16:33:20.900622"
+}

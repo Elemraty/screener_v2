@@ -1,0 +1,23 @@
+{
+  "ticker": "035900",
+  "name": "JYP Ent.",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 140759310563,
+  "operating_profit": 19627728835,
+  "net_income": 69280247954,
+  "total_assets": 741329532072,
+  "total_debt": 205019074424,
+  "total_equity": 536310457648,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 3.1187923144037732,
+  "operating_profit_yoy": -41.60445940799217,
+  "net_income_yoy": 120.18746326634803,
+  "debt_ratio": 38.22768538266346,
+  "operating_margin": 13.944178013158973,
+  "net_margin": 49.21894521712087,
+  "roe": 51.67174867917353,
+  "cached_at": "2025-06-09T16:07:06.721126"
+}

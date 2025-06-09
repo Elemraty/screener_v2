@@ -1,0 +1,23 @@
+{
+  "ticker": "005430",
+  "name": "한국공항",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 156867969955,
+  "operating_profit": 14527087636,
+  "net_income": 11446020063,
+  "total_assets": 499799084893,
+  "total_debt": 120224712577,
+  "total_equity": 379574372316,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 4.620691268774912,
+  "operating_profit_yoy": -2.984141293643694,
+  "net_income_yoy": -12.07265817264258,
+  "debt_ratio": 31.673558950632092,
+  "operating_margin": 9.26070990793552,
+  "net_margin": 7.296594751805271,
+  "roe": 12.061952437053424,
+  "cached_at": "2025-06-09T16:04:46.224107"
+}

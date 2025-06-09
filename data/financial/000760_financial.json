@@ -1,0 +1,23 @@
+{
+  "ticker": "000760",
+  "name": "이화산업",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 11550340335,
+  "operating_profit": 623817562,
+  "net_income": 356373358,
+  "total_assets": 269538454740,
+  "total_debt": 62118658041,
+  "total_equity": 207419796699,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -1.6389658379004413,
+  "operating_profit_yoy": -29.240763342993237,
+  "net_income_yoy": -36.658804857271384,
+  "debt_ratio": 29.948278336780128,
+  "operating_margin": 5.4008587098485705,
+  "net_margin": 3.085392704144938,
+  "roe": 0.6872504238679897,
+  "cached_at": "2025-06-09T16:03:08.959923"
+}

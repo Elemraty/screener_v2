@@ -1,0 +1,23 @@
+{
+  "ticker": "221980",
+  "name": "케이디켐",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 15040068422,
+  "operating_profit": 1842381073,
+  "net_income": 1573298841,
+  "total_assets": 123666316738,
+  "total_debt": 23066146792,
+  "total_equity": 100600169946,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -1.4857387251048793,
+  "operating_profit_yoy": -2.0413640459511773,
+  "net_income_yoy": -16.417918583871803,
+  "debt_ratio": 22.928536606231788,
+  "operating_margin": 12.24981842705609,
+  "net_margin": 10.460715981176271,
+  "roe": 6.255650827804815,
+  "cached_at": "2025-06-09T16:35:20.355743"
+}

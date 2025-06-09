@@ -1,0 +1,23 @@
+{
+  "ticker": "038500",
+  "name": "삼표시멘트",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 151548788325,
+  "operating_profit": 2109007606,
+  "net_income": -5781651350,
+  "total_assets": 1391391652245,
+  "total_debt": 652824274138,
+  "total_equity": 738567378107,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -19.634533708637893,
+  "operating_profit_yoy": -88.0655450462532,
+  "net_income_yoy": -203.07275643387248,
+  "debt_ratio": 88.39061857988291,
+  "operating_margin": 1.3916360726535026,
+  "net_margin": -3.815042940231967,
+  "roe": -3.1312790255203407,
+  "cached_at": "2025-06-09T16:16:59.855124"
+}

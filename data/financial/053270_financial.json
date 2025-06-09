@@ -1,0 +1,23 @@
+{
+  "ticker": "053270",
+  "name": "구영테크",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 103323293062,
+  "operating_profit": 7558544963,
+  "net_income": 4772036887,
+  "total_assets": 432346883482,
+  "total_debt": 298684073036,
+  "total_equity": 133662810446,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 10.300690055573059,
+  "operating_profit_yoy": 2.060469280500943,
+  "net_income_yoy": -7.9826302189988425,
+  "debt_ratio": 223.46086547137872,
+  "operating_margin": 7.315431727930344,
+  "net_margin": 4.6185489695305195,
+  "roe": 14.280821631916563,
+  "cached_at": "2025-06-09T16:09:00.011955"
+}

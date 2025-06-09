@@ -1,0 +1,23 @@
+{
+  "ticker": "001340",
+  "name": "PKC",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 64563393456,
+  "operating_profit": 3317207000,
+  "net_income": 1838663091,
+  "total_assets": 526362606332,
+  "total_debt": 311376172063,
+  "total_equity": 214986434269,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 8.086238914133425,
+  "operating_profit_yoy": 9.27663725923551,
+  "net_income_yoy": 42.5786580477173,
+  "debt_ratio": 144.83526512812114,
+  "operating_margin": 5.137906826816157,
+  "net_margin": 2.8478414664697733,
+  "roe": 3.420984393274579,
+  "cached_at": "2025-06-09T15:57:21.329901"
+}

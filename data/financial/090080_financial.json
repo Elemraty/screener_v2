@@ -1,0 +1,23 @@
+{
+  "ticker": "090080",
+  "name": "평화산업",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 150297309935,
+  "operating_profit": 2135981282,
+  "net_income": 1443701401,
+  "total_assets": 270758392398,
+  "total_debt": 223235158456,
+  "total_equity": 47523233942,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 5.106214737176806,
+  "operating_profit_yoy": -33.658682865706766,
+  "net_income_yoy": 43.433430155192745,
+  "debt_ratio": 469.73898857230256,
+  "operating_margin": 1.4211706669425828,
+  "net_margin": 0.9605636997923426,
+  "roe": 12.151541730194317,
+  "cached_at": "2025-06-09T16:04:32.637383"
+}

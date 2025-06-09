@@ -1,0 +1,23 @@
+{
+  "ticker": "011420",
+  "name": "갤럭시아에스엠",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 5182960202,
+  "operating_profit": 11201254,
+  "net_income": 468415506,
+  "total_assets": 64831782885,
+  "total_debt": 5077148276,
+  "total_equity": 59754634609,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -22.671624138635003,
+  "operating_profit_yoy": -96.78904789339357,
+  "net_income_yoy": 33.05730310813475,
+  "debt_ratio": 8.49666023266972,
+  "operating_margin": 0.2161169208993282,
+  "net_margin": 9.03760568756148,
+  "roe": 3.1355928059139977,
+  "cached_at": "2025-06-09T15:57:58.574052"
+}

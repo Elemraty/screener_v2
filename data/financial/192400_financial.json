@@ -1,0 +1,23 @@
+{
+  "ticker": "192400",
+  "name": "쿠쿠홀딩스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 224242405896,
+  "operating_profit": 27573079639,
+  "net_income": 33289112724,
+  "total_assets": 1390372899923,
+  "total_debt": 197615771591,
+  "total_equity": 1192757128332,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 7.835392125871965,
+  "operating_profit_yoy": 7.271329535616466,
+  "net_income_yoy": 1.2087919839166128,
+  "debt_ratio": 16.567980764646858,
+  "operating_margin": 12.296104088264174,
+  "net_margin": 14.845146077963037,
+  "roe": 11.16375226214002,
+  "cached_at": "2025-06-09T16:04:13.232251"
+}

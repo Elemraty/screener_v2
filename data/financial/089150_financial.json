@@ -1,0 +1,23 @@
+{
+  "ticker": "089150",
+  "name": "케이씨티",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2199744522,
+  "operating_profit": 157327276,
+  "net_income": 26143081,
+  "total_assets": 52498317666,
+  "total_debt": 19710302433,
+  "total_equity": 32788015233,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 1.8311575014915427,
+  "operating_profit_yoy": -48.472949962473976,
+  "net_income_yoy": -86.30489766102856,
+  "debt_ratio": 60.114350603211456,
+  "operating_margin": 7.152070362105441,
+  "net_margin": 1.1884598751599937,
+  "roe": 0.31893459624464116,
+  "cached_at": "2025-06-09T16:35:24.927301"
+}

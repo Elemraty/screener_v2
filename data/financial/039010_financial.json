@@ -1,0 +1,23 @@
+{
+  "ticker": "039010",
+  "name": "현대에이치티",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 40363407294,
+  "operating_profit": 2386494006,
+  "net_income": 1906806482,
+  "total_assets": 135675874774,
+  "total_debt": 37277056712,
+  "total_equity": 98398818062,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -1.1061029327595784,
+  "operating_profit_yoy": -5.7389539385481525,
+  "net_income_yoy": -32.1921965542256,
+  "debt_ratio": 37.88364275728611,
+  "operating_margin": 5.912518704422536,
+  "net_margin": 4.724096923015332,
+  "roe": 7.751338967500779,
+  "cached_at": "2025-06-09T16:41:41.013103"
+}

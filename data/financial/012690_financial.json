@@ -1,0 +1,23 @@
+{
+  "ticker": "012690",
+  "name": "모나리자",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 31658542657,
+  "operating_profit": -382008840,
+  "net_income": -161016637,
+  "total_assets": 95055458833,
+  "total_debt": 14520559246,
+  "total_equity": 80534899587,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -2.586688417568106,
+  "operating_profit_yoy": -128.6508491588924,
+  "net_income_yoy": -112.87113790431407,
+  "debt_ratio": 18.030145092952868,
+  "operating_margin": -1.2066532693523537,
+  "net_margin": -0.5086040717177412,
+  "roe": -0.7997359546021781,
+  "cached_at": "2025-06-09T16:00:09.378644"
+}

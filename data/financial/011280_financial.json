@@ -1,0 +1,22 @@
+{
+  "ticker": "011280",
+  "name": "태림포장",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 185036107000,
+  "operating_profit": -2328436000,
+  "net_income": -3952880000,
+  "total_assets": 716939509000,
+  "total_debt": 390139208000,
+  "total_equity": 326800301000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 9.269321080426995,
+  "operating_profit_yoy": -513.5128408794051,
+  "debt_ratio": 119.38153263818445,
+  "operating_margin": -1.2583684545416858,
+  "net_margin": -2.1362749487590547,
+  "roe": -4.838281957396362,
+  "cached_at": "2025-06-09T16:04:20.029996"
+}

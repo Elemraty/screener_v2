@@ -1,0 +1,23 @@
+{
+  "ticker": "058820",
+  "name": "CMG제약",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 20625063748,
+  "operating_profit": -1330451902,
+  "net_income": -1581518910,
+  "total_assets": 306209367525,
+  "total_debt": 118233267491,
+  "total_equity": 187976100034,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -99.90959345056328,
+  "operating_profit_yoy": -101.20839047124281,
+  "net_income_yoy": -100.07057823534234,
+  "debt_ratio": 62.89803196768881,
+  "operating_margin": -6.450655950719246,
+  "net_margin": -7.667946772544443,
+  "roe": -3.365361681009329,
+  "cached_at": "2025-06-09T16:06:19.025781"
+}

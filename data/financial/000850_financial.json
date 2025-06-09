@@ -1,0 +1,23 @@
+{
+  "ticker": "000850",
+  "name": "화천기공",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 46312682178,
+  "operating_profit": 142523362,
+  "net_income": 1554018147,
+  "total_assets": 428406251100,
+  "total_debt": 91643249867,
+  "total_equity": 336763001233,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -1.7716230131662347,
+  "operating_profit_yoy": -88.95018856071593,
+  "net_income_yoy": -44.39629149149387,
+  "debt_ratio": 27.212980503043372,
+  "operating_margin": 0.3077415414037564,
+  "net_margin": 3.355491571460329,
+  "roe": 1.8458300244507015,
+  "cached_at": "2025-06-09T16:05:58.026187"
+}

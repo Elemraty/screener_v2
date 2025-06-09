@@ -1,0 +1,21 @@
+{
+  "ticker": "094860",
+  "name": "네오리진",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 9976777170,
+  "operating_profit": -456003624,
+  "net_income": -358120134,
+  "total_assets": 45397642416,
+  "total_debt": 15441323456,
+  "total_equity": 29956318960,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 26.89334638836116,
+  "debt_ratio": 51.54613114053984,
+  "operating_margin": -4.570650584150513,
+  "net_margin": -3.589537261359923,
+  "roe": -4.781897728865683,
+  "cached_at": "2025-06-09T16:09:54.962033"
+}

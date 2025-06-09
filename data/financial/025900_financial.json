@@ -1,0 +1,22 @@
+{
+  "ticker": "025900",
+  "name": "동화기업",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 202300635815,
+  "operating_profit": -1785061730,
+  "net_income": -21733263617,
+  "total_assets": 2403277780370,
+  "total_debt": 1445963500614,
+  "total_equity": 957314279756,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -11.825219359429727,
+  "operating_profit_yoy": -323.4487053988071,
+  "debt_ratio": 151.0437618231859,
+  "operating_margin": -0.8823806820026034,
+  "net_margin": -10.743052551191507,
+  "roe": -9.080931550520429,
+  "cached_at": "2025-06-09T16:12:19.194607"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "047810",
+  "name": "한국항공우주",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 699256592260,
+  "operating_profit": 46812915045,
+  "net_income": 29164071431,
+  "total_assets": 8733366037940,
+  "total_debt": 7025766854094,
+  "total_equity": 1707599183846,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -5.495954495603927,
+  "operating_profit_yoy": -2.4974517489479875,
+  "net_income_yoy": -17.209456806835377,
+  "debt_ratio": 411.44121644928236,
+  "operating_margin": 6.694669104756021,
+  "net_margin": 4.170725275072718,
+  "roe": 6.831596479289526,
+  "cached_at": "2025-06-09T16:04:58.867434"
+}

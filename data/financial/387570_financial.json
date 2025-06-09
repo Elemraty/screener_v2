@@ -1,0 +1,13 @@
+{
+  "ticker": "387570",
+  "name": "파인메딕스",
+  "market": "KOSDAQ",
+  "bps": 3827,
+  "per": 0.0,
+  "eps": 0,
+  "pbr": 2.16,
+  "roe": 0.0,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:38:15.501114"
+}

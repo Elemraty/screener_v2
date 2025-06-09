@@ -1,0 +1,23 @@
+{
+  "ticker": "001520",
+  "name": "동양",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 156315070581,
+  "operating_profit": -6016304002,
+  "net_income": -10416766768,
+  "total_assets": 1283291435164,
+  "total_debt": 589394999119,
+  "total_equity": 693896436045,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -18.73363168370583,
+  "operating_profit_yoy": -293.34227372547286,
+  "net_income_yoy": -997.0460675986564,
+  "debt_ratio": 84.93990868123973,
+  "operating_margin": -3.848831708701079,
+  "net_margin": -6.663955515794107,
+  "roe": -6.004796235802808,
+  "cached_at": "2025-06-09T15:59:22.986261"
+}

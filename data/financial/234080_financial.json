@@ -1,0 +1,23 @@
+{
+  "ticker": "234080",
+  "name": "JW생명과학",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 76183373945,
+  "operating_profit": 9204532871,
+  "net_income": 6107377097,
+  "total_assets": 325105092392,
+  "total_debt": 126295243887,
+  "total_equity": 198809848505,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 37.67854967659956,
+  "operating_profit_yoy": 7.016526494970687,
+  "net_income_yoy": 18.98192307725186,
+  "debt_ratio": 63.52564766620388,
+  "operating_margin": 12.082075647693342,
+  "net_margin": 8.016679730421462,
+  "roe": 12.287876366137668,
+  "cached_at": "2025-06-09T15:56:27.906730"
+}

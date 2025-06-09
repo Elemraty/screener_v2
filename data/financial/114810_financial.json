@@ -1,0 +1,23 @@
+{
+  "ticker": "114810",
+  "name": "한솔아이원스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 48851407837,
+  "operating_profit": 11906237250,
+  "net_income": 10634783115,
+  "total_assets": 241998020302,
+  "total_debt": 49149298843,
+  "total_equity": 192848721459,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 30.84027289920277,
+  "operating_profit_yoy": 143.29512432775164,
+  "net_income_yoy": 27.61707955732038,
+  "debt_ratio": 25.485934504081857,
+  "operating_margin": 24.37235235825124,
+  "net_margin": 21.76965534030163,
+  "roe": 22.05829115078883,
+  "cached_at": "2025-06-09T16:41:01.249511"
+}

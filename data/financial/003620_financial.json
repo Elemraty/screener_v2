@@ -1,0 +1,23 @@
+{
+  "ticker": "003620",
+  "name": "KG모빌리티",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 916586470336,
+  "operating_profit": 5681669413,
+  "net_income": 3000173938,
+  "total_assets": 3223436910537,
+  "total_debt": 1802118843199,
+  "total_equity": 1421318067338,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -8.504913122183776,
+  "operating_profit_yoy": -62.41439629585519,
+  "net_income_yoy": -94.43170520214954,
+  "debt_ratio": 126.7920871908851,
+  "operating_margin": 0.6198727121639956,
+  "net_margin": 0.32732033857102466,
+  "roe": 0.8443356928879555,
+  "cached_at": "2025-06-09T15:56:43.607226"
+}

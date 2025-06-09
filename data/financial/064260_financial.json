@@ -1,0 +1,22 @@
+{
+  "ticker": "064260",
+  "name": "다날",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 56667839932,
+  "operating_profit": 2300378280,
+  "net_income": -2526116156,
+  "total_assets": 736508665198,
+  "total_debt": 429023829266,
+  "total_equity": 307484835932,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -17.48530602975935,
+  "operating_profit_yoy": -14.219442729917153,
+  "debt_ratio": 139.52682510850005,
+  "operating_margin": 4.059407033619769,
+  "net_margin": -4.457759743500505,
+  "roe": -3.286166809941351,
+  "cached_at": "2025-06-09T16:10:42.184427"
+}

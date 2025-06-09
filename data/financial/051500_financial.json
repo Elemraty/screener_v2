@@ -1,0 +1,23 @@
+{
+  "ticker": "051500",
+  "name": "CJ프레시웨이",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 798638945947,
+  "operating_profit": 10630787116,
+  "net_income": 1599288169,
+  "total_assets": 1571714937207,
+  "total_debt": 1160755671609,
+  "total_equity": 410959265598,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 9.18592650728649,
+  "operating_profit_yoy": 0.8327688863966287,
+  "net_income_yoy": 21.054962800684507,
+  "debt_ratio": 282.4502983087502,
+  "operating_margin": 1.3311130354899434,
+  "net_margin": 0.20025171288179747,
+  "roe": 1.5566391152396328,
+  "cached_at": "2025-06-09T16:06:17.420105"
+}

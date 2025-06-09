@@ -1,0 +1,23 @@
+{
+  "ticker": "004700",
+  "name": "조광피혁",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 25750015961,
+  "operating_profit": 2475211313,
+  "net_income": 3089637156,
+  "total_assets": 656432893372,
+  "total_debt": 83595878726,
+  "total_equity": 572837014646,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 2.6711319974841885,
+  "operating_profit_yoy": -17.457396109179534,
+  "net_income_yoy": -23.84248266766177,
+  "debt_ratio": 14.593309543319283,
+  "operating_margin": 9.612465160211402,
+  "net_margin": 11.998583459829492,
+  "roe": 2.1574284321758253,
+  "cached_at": "2025-06-09T16:03:33.581610"
+}

@@ -1,0 +1,20 @@
+{
+  "ticker": "079900",
+  "name": "전진건설로봇",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 48877405548,
+  "operating_profit": 8662594660,
+  "net_income": 7748138794,
+  "total_assets": 222559346018,
+  "total_debt": 78957073062,
+  "total_equity": 143602272956,
+  "data_source": "f_data_financial",
+  "debt_ratio": 54.98316387108482,
+  "operating_margin": 17.723106541514174,
+  "net_margin": 15.852189180522172,
+  "roe": 21.5822177031252,
+  "cached_at": "2025-06-09T16:03:23.623925"
+}

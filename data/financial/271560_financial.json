@@ -1,0 +1,23 @@
+{
+  "ticker": "271560",
+  "name": "오리온",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 801772748119,
+  "operating_profit": 131375562707,
+  "net_income": 106132025828,
+  "total_assets": 4314188009292,
+  "total_debt": 680877579747,
+  "total_equity": 3633310429545,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 7.132933020331711,
+  "operating_profit_yoy": 4.986991590560685,
+  "net_income_yoy": 6.367584140960103,
+  "debt_ratio": 18.73986803357913,
+  "operating_margin": 16.385635832000254,
+  "net_margin": 13.237170517081204,
+  "roe": 11.684333379825288,
+  "cached_at": "2025-06-09T16:02:31.205929"
+}

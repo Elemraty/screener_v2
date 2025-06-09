@@ -1,0 +1,23 @@
+{
+  "ticker": "103140",
+  "name": "풍산",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1155945197466,
+  "operating_profit": 69714361959,
+  "net_income": 41558949997,
+  "total_assets": 4098281732643,
+  "total_debt": 1927813287567,
+  "total_equity": 2170468445076,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 19.969725260494474,
+  "operating_profit_yoy": 28.549760367112476,
+  "net_income_yoy": 12.649382757821147,
+  "debt_ratio": 88.82014810860319,
+  "operating_margin": 6.030940057696855,
+  "net_margin": 3.595235318084565,
+  "roe": 7.658982574251577,
+  "cached_at": "2025-06-09T16:04:36.492966"
+}

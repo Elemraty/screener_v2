@@ -1,0 +1,23 @@
+{
+  "ticker": "002350",
+  "name": "넥센타이어",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 771185820175,
+  "operating_profit": 40717599119,
+  "net_income": 39919563420,
+  "total_assets": 4760804793487,
+  "total_debt": 2846046134645,
+  "total_equity": 1914758658842,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 13.730073392072262,
+  "operating_profit_yoy": -2.004647883483457,
+  "net_income_yoy": -2.5911304903023957,
+  "debt_ratio": 148.637329383653,
+  "operating_margin": 5.279868749370966,
+  "net_margin": 5.176387113930767,
+  "roe": 8.33934098914427,
+  "cached_at": "2025-06-09T15:58:30.359766"
+}

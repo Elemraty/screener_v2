@@ -1,0 +1,13 @@
+{
+  "ticker": "452200",
+  "name": "민테크",
+  "market": "KOSDAQ",
+  "bps": 1263,
+  "per": 0.0,
+  "eps": 0,
+  "pbr": 3.15,
+  "roe": 0.0,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:14:58.686380"
+}

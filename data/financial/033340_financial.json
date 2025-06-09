@@ -1,0 +1,23 @@
+{
+  "ticker": "033340",
+  "name": "좋은사람들",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 15986699038,
+  "operating_profit": -2242165230,
+  "net_income": -2304981028,
+  "total_assets": 81197241809,
+  "total_debt": 26890302701,
+  "total_equity": 54306939108,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -19.75786426759363,
+  "operating_profit_yoy": -415.25058919360544,
+  "net_income_yoy": -374.51269272819445,
+  "debt_ratio": 49.51540842234426,
+  "operating_margin": -14.025191971591052,
+  "net_margin": -14.418117351938104,
+  "roe": -16.977432835358982,
+  "cached_at": "2025-06-09T16:34:18.863969"
+}

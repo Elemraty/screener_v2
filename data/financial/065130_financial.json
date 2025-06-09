@@ -1,0 +1,21 @@
+{
+  "ticker": "065130",
+  "name": "탑엔지니어링",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 203551475256,
+  "operating_profit": -15318698649,
+  "net_income": -11816259197,
+  "total_assets": 558100484290,
+  "total_debt": 230366768470,
+  "total_equity": 327733715820,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -0.28640297141320215,
+  "debt_ratio": 70.29083592867921,
+  "operating_margin": -7.525712417330396,
+  "net_margin": -5.805047191202657,
+  "roe": -14.421780398681715,
+  "cached_at": "2025-06-09T16:37:08.410345"
+}

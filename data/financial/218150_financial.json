@@ -1,0 +1,22 @@
+{
+  "ticker": "218150",
+  "name": "미래생명자원",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 14703914349,
+  "operating_profit": 155396792,
+  "net_income": 570346178,
+  "total_assets": 63946317454,
+  "total_debt": 17668708094,
+  "total_equity": 46277609360,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 1.7670365006662303,
+  "net_income_yoy": 156.32980343832907,
+  "debt_ratio": 38.17982030262767,
+  "operating_margin": 1.0568396163880567,
+  "net_margin": 3.8788730977529715,
+  "roe": 4.929780823924566,
+  "cached_at": "2025-06-09T16:14:40.950466"
+}

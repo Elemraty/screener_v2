@@ -1,0 +1,21 @@
+{
+  "ticker": "054210",
+  "name": "이랜텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 121119257018,
+  "operating_profit": -594991927,
+  "net_income": -5806977636,
+  "total_assets": 575299612463,
+  "total_debt": 296652036501,
+  "total_equity": 278647575962,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -25.88420855377551,
+  "debt_ratio": 106.4613734667677,
+  "operating_margin": -0.49124469687885874,
+  "net_margin": -4.794429704218713,
+  "roe": -8.33594567037169,
+  "cached_at": "2025-06-09T16:32:11.168405"
+}

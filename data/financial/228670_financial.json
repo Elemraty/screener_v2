@@ -1,0 +1,21 @@
+{
+  "ticker": "228670",
+  "name": "레이",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 24463740257,
+  "operating_profit": 213521925,
+  "net_income": 2449610534,
+  "total_assets": 206293521025,
+  "total_debt": 129338332854,
+  "total_equity": 76955188171,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 40.85792232037693,
+  "debt_ratio": 168.06967266014718,
+  "operating_margin": 0.8728098105885641,
+  "net_margin": 10.013229817950974,
+  "roe": 12.732659576151189,
+  "cached_at": "2025-06-09T16:13:20.005624"
+}

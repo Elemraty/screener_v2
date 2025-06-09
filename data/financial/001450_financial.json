@@ -1,0 +1,20 @@
+{
+  "ticker": "001450",
+  "name": "현대해상",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 0,
+  "operating_profit": 283697636986,
+  "net_income": 203879164075,
+  "total_assets": 50105976978262,
+  "total_debt": 46076099220529,
+  "total_equity": 4029877757733,
+  "data_source": "f_data_financial",
+  "operating_profit_yoy": -49.17276234089556,
+  "net_income_yoy": -45.377622615068645,
+  "debt_ratio": 1143.3622057669813,
+  "roe": 20.236759160624448,
+  "cached_at": "2025-06-09T16:05:49.646111"
+}

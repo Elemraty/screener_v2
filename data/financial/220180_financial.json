@@ -1,0 +1,21 @@
+{
+  "ticker": "220180",
+  "name": "핸디소프트",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 5204850010,
+  "operating_profit": -732267256,
+  "net_income": -459772779,
+  "total_assets": 80303427615,
+  "total_debt": 12183122275,
+  "total_equity": 68120305340,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 18.047744024356515,
+  "debt_ratio": 17.884714717868587,
+  "operating_margin": -14.068940595658011,
+  "net_margin": -8.833545214879305,
+  "roe": -2.6997693372347413,
+  "cached_at": "2025-06-09T16:41:28.495342"
+}

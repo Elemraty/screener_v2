@@ -1,0 +1,21 @@
+{
+  "ticker": "061970",
+  "name": "LB세미콘",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 116812443043,
+  "operating_profit": -4009667607,
+  "net_income": -2822043660,
+  "total_assets": 834945617973,
+  "total_debt": 497806668619,
+  "total_equity": 337138949354,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 13.604761650603802,
+  "debt_ratio": 147.65623182158552,
+  "operating_margin": -3.432568913505212,
+  "net_margin": -2.415875900276457,
+  "roe": -3.3482262021725884,
+  "cached_at": "2025-06-09T16:07:36.634915"
+}

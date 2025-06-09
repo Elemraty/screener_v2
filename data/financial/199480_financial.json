@@ -1,0 +1,20 @@
+{
+  "ticker": "199480",
+  "name": "뱅크웨어글로벌",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 14232425618,
+  "operating_profit": -2033862210,
+  "net_income": -1877534026,
+  "total_assets": 49593837733,
+  "total_debt": 32478861985,
+  "total_equity": 17114975748,
+  "data_source": "f_data_financial",
+  "debt_ratio": 189.76867080162455,
+  "operating_margin": -14.29034139779897,
+  "net_margin": -13.191946871132421,
+  "roe": -43.880495155697844,
+  "cached_at": "2025-06-09T16:15:23.345380"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "018880",
+  "name": "한온시스템",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2617325677473,
+  "operating_profit": 21074684447,
+  "net_income": -22591920596,
+  "total_assets": 10567117703401,
+  "total_debt": 7547588630561,
+  "total_equity": 3019529072840,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 8.844453411489294,
+  "operating_profit_yoy": -67.73664163172874,
+  "net_income_yoy": -323.33183251184863,
+  "debt_ratio": 249.95913099330292,
+  "operating_margin": 0.8051991629619201,
+  "net_margin": -0.8631681105047753,
+  "roe": -2.9927740453581797,
+  "cached_at": "2025-06-09T16:05:13.028615"
+}

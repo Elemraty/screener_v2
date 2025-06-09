@@ -1,0 +1,21 @@
+{
+  "ticker": "096690",
+  "name": "에이루트",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 11139417924,
+  "operating_profit": -3967816819,
+  "net_income": -3977507168,
+  "total_assets": 218606037326,
+  "total_debt": 100547956979,
+  "total_equity": 118058080347,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -50.23314874732885,
+  "debt_ratio": 85.16821269960201,
+  "operating_margin": -35.619606392999174,
+  "net_margin": -35.70659791325736,
+  "roe": -13.476441955719377,
+  "cached_at": "2025-06-09T16:23:09.422732"
+}

@@ -1,0 +1,22 @@
+{
+  "ticker": "048910",
+  "name": "대원미디어",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 58693980499,
+  "operating_profit": 1199587445,
+  "net_income": 90188977,
+  "total_assets": 238514955513,
+  "total_debt": 108719235579,
+  "total_equity": 129795719934,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -13.460158091074359,
+  "operating_profit_yoy": -29.889572753052263,
+  "debt_ratio": 83.7618032661499,
+  "operating_margin": 2.0437997811725137,
+  "net_margin": 0.15365967043509104,
+  "roe": 0.2779412974352631,
+  "cached_at": "2025-06-09T16:11:17.349877"
+}

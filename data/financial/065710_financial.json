@@ -1,0 +1,23 @@
+{
+  "ticker": "065710",
+  "name": "서호전기",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 33980731906,
+  "operating_profit": 9940970274,
+  "net_income": 8063386749,
+  "total_assets": 124967488795,
+  "total_debt": 36611538346,
+  "total_equity": 88355950449,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 306.95132465640756,
+  "operating_profit_yoy": 744.0132773559686,
+  "net_income_yoy": 89.6896411081548,
+  "debt_ratio": 41.43641504612931,
+  "operating_margin": 29.25472677133454,
+  "net_margin": 23.729290973795187,
+  "roe": 36.50410281604869,
+  "cached_at": "2025-06-09T16:17:36.547074"
+}

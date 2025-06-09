@@ -1,0 +1,23 @@
+{
+  "ticker": "006260",
+  "name": "LS",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 6913573000000,
+  "operating_profit": 304505000000,
+  "net_income": 141111000000,
+  "total_assets": 21760992000000,
+  "total_debt": 14508413000000,
+  "total_equity": 7252579000000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 16.291700609601946,
+  "operating_profit_yoy": 24.966655586061414,
+  "net_income_yoy": 56.43888162125008,
+  "debt_ratio": 200.04488058661613,
+  "operating_margin": 4.404451938238014,
+  "net_margin": 2.041071960909359,
+  "roe": 7.78266600060475,
+  "cached_at": "2025-06-09T15:57:00.902205"
+}

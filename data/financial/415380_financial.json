@@ -1,0 +1,13 @@
+{
+  "ticker": "415380",
+  "name": "스튜디오삼익",
+  "market": "KOSDAQ",
+  "bps": 9035,
+  "per": 8.97,
+  "eps": 904,
+  "pbr": 0.9,
+  "roe": 10.005534034311014,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:19:05.740667"
+}

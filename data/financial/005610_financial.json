@@ -1,0 +1,23 @@
+{
+  "ticker": "005610",
+  "name": "SPC삼립",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 814848695738,
+  "operating_profit": 16061195875,
+  "net_income": 9710809968,
+  "total_assets": 1249813878449,
+  "total_debt": 775050509208,
+  "total_equity": 474763369241,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -1.900594518073484,
+  "operating_profit_yoy": -7.19501238854191,
+  "net_income_yoy": 4.910028449045112,
+  "debt_ratio": 163.24985443739402,
+  "operating_margin": 1.971064807369366,
+  "net_margin": 1.1917316697923925,
+  "roe": 8.181600011411652,
+  "cached_at": "2025-06-09T15:57:48.866483"
+}

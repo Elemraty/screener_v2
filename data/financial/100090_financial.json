@@ -1,0 +1,23 @@
+{
+  "ticker": "100090",
+  "name": "SK오션플랜트",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 257135520621,
+  "operating_profit": 11040832448,
+  "net_income": 4286531048,
+  "total_assets": 1392171700243,
+  "total_debt": 674343939963,
+  "total_equity": 717827760280,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 102.33902892156132,
+  "operating_profit_yoy": 23.428555415243245,
+  "net_income_yoy": -1.0732135416162802,
+  "debt_ratio": 93.94230444639832,
+  "operating_margin": 4.2937795685853235,
+  "net_margin": 1.6670318583942554,
+  "roe": 2.3886125810057672,
+  "cached_at": "2025-06-09T15:57:39.361650"
+}

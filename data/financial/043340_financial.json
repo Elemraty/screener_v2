@@ -1,0 +1,21 @@
+{
+  "ticker": "043340",
+  "name": "에쎈테크",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 13898961807,
+  "operating_profit": 535746687,
+  "net_income": 360279390,
+  "total_assets": 73317738414,
+  "total_debt": 47441466294,
+  "total_equity": 25876272120,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 7.870231990881527,
+  "debt_ratio": 183.33964828470044,
+  "operating_margin": 3.8545806114106984,
+  "net_margin": 2.5921316642409273,
+  "roe": 5.56926265621603,
+  "cached_at": "2025-06-09T16:23:04.099320"
+}

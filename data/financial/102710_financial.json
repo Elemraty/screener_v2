@@ -1,0 +1,23 @@
+{
+  "ticker": "102710",
+  "name": "이엔에프테크놀로지",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 157790502872,
+  "operating_profit": 21460067380,
+  "net_income": 14130557505,
+  "total_assets": 744189042970,
+  "total_debt": 330431157879,
+  "total_equity": 413757885091,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 10.192938513746608,
+  "operating_profit_yoy": 185.6042344702848,
+  "net_income_yoy": 175.35329998138786,
+  "debt_ratio": 79.86099353884856,
+  "operating_margin": 13.600354260489588,
+  "net_margin": 8.955264890981898,
+  "roe": 13.660701597884655,
+  "cached_at": "2025-06-09T16:32:26.877935"
+}

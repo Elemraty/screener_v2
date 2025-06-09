@@ -1,0 +1,22 @@
+{
+  "ticker": "034120",
+  "name": "SBS",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 206258696387,
+  "operating_profit": -6883866322,
+  "net_income": -6898317495,
+  "total_assets": 1452447659291,
+  "total_debt": 552307554094,
+  "total_equity": 900140105197,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -1.5719323532821017,
+  "net_income_yoy": -153.1836025537665,
+  "debt_ratio": 61.357954267921976,
+  "operating_margin": -3.3374914331291556,
+  "net_margin": -3.3444977670453193,
+  "roe": -3.065441681876965,
+  "cached_at": "2025-06-09T15:57:23.428504"
+}

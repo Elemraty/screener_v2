@@ -1,0 +1,21 @@
+{
+  "ticker": "003160",
+  "name": "디아이",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 110044899084,
+  "operating_profit": 9925192259,
+  "net_income": 7315443445,
+  "total_assets": 355132952805,
+  "total_debt": 182759121706,
+  "total_equity": 172373831099,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 216.83483321944627,
+  "debt_ratio": 106.02486499301358,
+  "operating_margin": 9.019220646859656,
+  "net_margin": 6.64768972109824,
+  "roe": 16.975763428495124,
+  "cached_at": "2025-06-09T15:59:40.549958"
+}

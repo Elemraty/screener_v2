@@ -1,0 +1,21 @@
+{
+  "ticker": "099320",
+  "name": "쎄트렉아이",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 40040708142,
+  "operating_profit": 1742403005,
+  "net_income": 1271699810,
+  "total_assets": 401455531381,
+  "total_debt": 178014727996,
+  "total_equity": 223440803385,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 26.234158086638047,
+  "debt_ratio": 79.66974934711072,
+  "operating_margin": 4.35157889521024,
+  "net_margin": 3.176017280938328,
+  "roe": 2.2765757923073626,
+  "cached_at": "2025-06-09T16:20:05.917599"
+}

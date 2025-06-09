@@ -1,0 +1,13 @@
+{
+  "ticker": "389140",
+  "name": "포바이포",
+  "market": "KOSDAQ",
+  "bps": 2688,
+  "per": 0.0,
+  "eps": 0,
+  "pbr": 6.74,
+  "roe": 0.0,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:38:37.581497"
+}

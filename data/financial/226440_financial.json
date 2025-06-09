@@ -1,0 +1,21 @@
+{
+  "ticker": "226440",
+  "name": "한송네오텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 8314639242,
+  "operating_profit": 1227869201,
+  "net_income": 829956641,
+  "total_assets": 20281102700,
+  "total_debt": 12391409034,
+  "total_equity": 7889693666,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 308.60200944375595,
+  "debt_ratio": 157.05817688967798,
+  "operating_margin": 14.767558342130174,
+  "net_margin": 9.981871935075834,
+  "roe": 42.07801601102113,
+  "cached_at": "2025-06-09T16:41:03.093260"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "248170",
+  "name": "샘표식품",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 100373056965,
+  "operating_profit": 1396791055,
+  "net_income": 1630997300,
+  "total_assets": 376863233354,
+  "total_debt": 130183568904,
+  "total_equity": 246679664450,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 1.8796912938848775,
+  "operating_profit_yoy": -61.32954592827715,
+  "net_income_yoy": -63.13116478349146,
+  "debt_ratio": 52.77434165246612,
+  "operating_margin": 1.3915995957830196,
+  "net_margin": 1.6249353654424685,
+  "roe": 2.6447211263019863,
+  "cached_at": "2025-06-09T16:01:14.640012"
+}

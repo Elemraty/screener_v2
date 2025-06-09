@@ -1,0 +1,23 @@
+{
+  "ticker": "256150",
+  "name": "한독크린텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 16391862781,
+  "operating_profit": 849321934,
+  "net_income": 797403543,
+  "total_assets": 65535263252,
+  "total_debt": 9886919931,
+  "total_equity": 55648343321,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -8.56353941260748,
+  "operating_profit_yoy": -5.460855175122359,
+  "net_income_yoy": -22.2764658623136,
+  "debt_ratio": 17.766782155523714,
+  "operating_margin": 5.18136312722468,
+  "net_margin": 4.864630418479831,
+  "roe": 5.731732485909129,
+  "cached_at": "2025-06-09T16:40:55.040279"
+}

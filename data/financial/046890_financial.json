@@ -1,0 +1,21 @@
+{
+  "ticker": "046890",
+  "name": "서울반도체",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 239227017561,
+  "operating_profit": -20658927620,
+  "net_income": -25755180320,
+  "total_assets": 1189554207151,
+  "total_debt": 518428735281,
+  "total_equity": 671125471870,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -0.9898992346091151,
+  "debt_ratio": 77.24766187706581,
+  "operating_margin": -8.635700026955453,
+  "net_margin": -10.765999836716912,
+  "roe": -15.350441251014768,
+  "cached_at": "2025-06-09T16:17:24.931115"
+}

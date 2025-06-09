@@ -1,0 +1,23 @@
+{
+  "ticker": "003300",
+  "name": "한일홀딩스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 410492171627,
+  "operating_profit": 12654739218,
+  "net_income": 10343212961,
+  "total_assets": 3668211077048,
+  "total_debt": 1410453354509,
+  "total_equity": 2257757722539,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -20.050621195554385,
+  "operating_profit_yoy": -76.8664302472108,
+  "net_income_yoy": -80.41379319972559,
+  "debt_ratio": 62.47142199663702,
+  "operating_margin": 3.082821084709728,
+  "net_margin": 2.5197101615858633,
+  "roe": 1.8324752665433672,
+  "cached_at": "2025-06-09T16:05:16.336777"
+}

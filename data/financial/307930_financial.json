@@ -1,0 +1,13 @@
+{
+  "ticker": "307930",
+  "name": "컴퍼니케이",
+  "market": "KOSDAQ",
+  "bps": 4777,
+  "per": 42.54,
+  "eps": 134,
+  "pbr": 1.19,
+  "roe": 2.805107808247854,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:35:16.306846"
+}

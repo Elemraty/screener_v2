@@ -1,0 +1,21 @@
+{
+  "ticker": "115180",
+  "name": "큐리언트",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1920354430,
+  "operating_profit": -6723189387,
+  "net_income": -6229043834,
+  "total_assets": 58680397729,
+  "total_debt": 4360101785,
+  "total_equity": 54320295944,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -9.100258675874162,
+  "debt_ratio": 8.026653222756602,
+  "operating_margin": -350.101485536709,
+  "net_margin": -324.3694880845511,
+  "roe": -45.86899777145293,
+  "cached_at": "2025-06-09T16:36:40.114216"
+}

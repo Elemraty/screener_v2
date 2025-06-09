@@ -1,0 +1,23 @@
+{
+  "ticker": "104460",
+  "name": "디와이피엔에프",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 93817528791,
+  "operating_profit": 12227127144,
+  "net_income": 10234830834,
+  "total_assets": 301341759346,
+  "total_debt": 163218617426,
+  "total_equity": 138123141920,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 123.60823139607947,
+  "operating_profit_yoy": 156.694565249982,
+  "net_income_yoy": 205.05056470594414,
+  "debt_ratio": 118.16891446078972,
+  "operating_margin": 13.032881276630853,
+  "net_margin": 10.909294847022059,
+  "roe": 29.639727830483164,
+  "cached_at": "2025-06-09T16:12:46.522313"
+}

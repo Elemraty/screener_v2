@@ -1,0 +1,23 @@
+{
+  "ticker": "014970",
+  "name": "삼륭물산",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 22145660685,
+  "operating_profit": 1109435332,
+  "net_income": 998529769,
+  "total_assets": 105433956249,
+  "total_debt": 53873669856,
+  "total_equity": 51560286393,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -4.474043217716861,
+  "operating_profit_yoy": 5.17921672913273,
+  "net_income_yoy": 46.1162105294556,
+  "debt_ratio": 104.48675448651905,
+  "operating_margin": 5.00971882383919,
+  "net_margin": 4.50891839806946,
+  "roe": 7.7465028909192695,
+  "cached_at": "2025-06-09T16:16:37.324431"
+}

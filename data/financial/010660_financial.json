@@ -1,0 +1,23 @@
+{
+  "ticker": "010660",
+  "name": "화천기계",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 45816716656,
+  "operating_profit": -992072396,
+  "net_income": -725531956,
+  "total_assets": 172209726953,
+  "total_debt": 34775721438,
+  "total_equity": 137434005515,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -1.463129947000985,
+  "operating_profit_yoy": -1558.951728207363,
+  "net_income_yoy": -163.7487111641505,
+  "debt_ratio": 25.303578475855794,
+  "operating_margin": -2.165306613847201,
+  "net_margin": -1.5835529233738463,
+  "roe": -2.111651925682434,
+  "cached_at": "2025-06-09T16:05:57.528239"
+}

@@ -1,0 +1,22 @@
+{
+  "ticker": "006120",
+  "name": "SK디스커버리",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2406122030707,
+  "operating_profit": 110687087184,
+  "net_income": 73472521194,
+  "total_assets": 15549429281399,
+  "total_debt": 9052173007520,
+  "total_equity": 6497256273879,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 11.470579065743959,
+  "operating_profit_yoy": 180.44320154051587,
+  "debt_ratio": 139.32300998981006,
+  "operating_margin": 4.600227493510642,
+  "net_margin": 3.05356587306635,
+  "roe": 4.5232952555300905,
+  "cached_at": "2025-06-09T15:57:32.357888"
+}

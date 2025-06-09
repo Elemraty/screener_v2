@@ -1,0 +1,23 @@
+{
+  "ticker": "001630",
+  "name": "종근당홀딩스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 246620552040,
+  "operating_profit": 11901742355,
+  "net_income": 7842375329,
+  "total_assets": 1513738333198,
+  "total_debt": 664341648408,
+  "total_equity": 849396684790,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -1.348680849122319,
+  "operating_profit_yoy": -4.9767992619607515,
+  "net_income_yoy": -36.238701191200896,
+  "debt_ratio": 78.21335546797525,
+  "operating_margin": 4.825932898353754,
+  "net_margin": 3.179935842381873,
+  "roe": 3.693150900836824,
+  "cached_at": "2025-06-09T16:03:37.774881"
+}

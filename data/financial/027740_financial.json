@@ -1,0 +1,21 @@
+{
+  "ticker": "027740",
+  "name": "마니커",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 76558389395,
+  "operating_profit": -3391943019,
+  "net_income": -3874206695,
+  "total_assets": 152742977284,
+  "total_debt": 114793449766,
+  "total_equity": 37949527518,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -4.266670592035826,
+  "debt_ratio": 302.48979967287295,
+  "operating_margin": -4.430530795912389,
+  "net_margin": -5.060460030070882,
+  "roe": -40.83536158032438,
+  "cached_at": "2025-06-09T16:00:00.254961"
+}

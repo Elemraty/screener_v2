@@ -1,0 +1,21 @@
+{
+  "ticker": "012340",
+  "name": "뉴인텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 20605849389,
+  "operating_profit": -563406927,
+  "net_income": -915144797,
+  "total_assets": 77027715834,
+  "total_debt": 52085005740,
+  "total_equity": 24942710094,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 4.746702006055448,
+  "debt_ratio": 208.8185507657771,
+  "operating_margin": -2.7342087014416547,
+  "net_margin": -4.441189391049956,
+  "roe": -14.675948099483211,
+  "cached_at": "2025-06-09T16:10:37.972541"
+}

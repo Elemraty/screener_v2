@@ -1,0 +1,23 @@
+{
+  "ticker": "090850",
+  "name": "현대이지웰",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 42942669261,
+  "operating_profit": 8514571160,
+  "net_income": 7438883721,
+  "total_assets": 233384324698,
+  "total_debt": 132661631287,
+  "total_equity": 100722693411,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 14.600322932592347,
+  "operating_profit_yoy": 12.486620664227521,
+  "net_income_yoy": 11.400638024623543,
+  "debt_ratio": 131.70977343275842,
+  "operating_margin": 19.827764101596795,
+  "net_margin": 17.32282563942969,
+  "roe": 29.54203653250438,
+  "cached_at": "2025-06-09T16:41:41.624516"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "002800",
+  "name": "신신제약",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 25309929048,
+  "operating_profit": 1273197114,
+  "net_income": 994449403,
+  "total_assets": 131931492040,
+  "total_debt": 65650315950,
+  "total_equity": 66281176090,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 2.42869422468015,
+  "operating_profit_yoy": 104.53294450866304,
+  "net_income_yoy": 187.71291745123898,
+  "debt_ratio": 99.04820617675313,
+  "operating_margin": 5.030425457082063,
+  "net_margin": 3.9290880709860456,
+  "roe": 6.001398657438941,
+  "cached_at": "2025-06-09T16:19:31.982446"
+}

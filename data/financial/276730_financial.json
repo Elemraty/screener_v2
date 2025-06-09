@@ -1,0 +1,21 @@
+{
+  "ticker": "276730",
+  "name": "한울앤제주",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 3401422545,
+  "operating_profit": -531991913,
+  "net_income": -968603762,
+  "total_assets": 40832933369,
+  "total_debt": 33502756115,
+  "total_equity": 7330177254,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -32.37462718619045,
+  "debt_ratio": 457.0524689115519,
+  "operating_margin": -15.64027714763089,
+  "net_margin": -28.476431527856533,
+  "roe": -52.85568020726611,
+  "cached_at": "2025-06-09T16:41:09.582416"
+}

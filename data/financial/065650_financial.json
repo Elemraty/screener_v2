@@ -1,0 +1,21 @@
+{
+  "ticker": "065650",
+  "name": "하이퍼코퍼레이션",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 18934057459,
+  "operating_profit": -2338356485,
+  "net_income": 477545254,
+  "total_assets": 54578710624,
+  "total_debt": 36613798873,
+  "total_equity": 17964911751,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 30.055890558058152,
+  "debt_ratio": 203.8072848922396,
+  "operating_margin": -12.35000205351389,
+  "net_margin": 2.5221495975391504,
+  "roe": 10.63284385960689,
+  "cached_at": "2025-06-09T16:40:22.895204"
+}

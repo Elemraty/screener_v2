@@ -1,0 +1,23 @@
+{
+  "ticker": "151910",
+  "name": "퓨처코어",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 15215639794,
+  "operating_profit": 1520428003,
+  "net_income": 675784079,
+  "total_assets": 65067707605,
+  "total_debt": 39406483592,
+  "total_equity": 25661224013,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -3.29705185965824,
+  "operating_profit_yoy": 215.25736382197968,
+  "net_income_yoy": -78.01387486081357,
+  "debt_ratio": 153.56431778950466,
+  "operating_margin": 9.99253415291516,
+  "net_margin": 4.441378004140731,
+  "roe": 10.533933668287174,
+  "cached_at": "2025-06-09T16:39:03.250304"
+}

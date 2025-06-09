@@ -1,0 +1,21 @@
+{
+  "ticker": "037070",
+  "name": "파세코",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 34297262467,
+  "operating_profit": -2288059318,
+  "net_income": -2067400240,
+  "total_assets": 119430865167,
+  "total_debt": 40548496080,
+  "total_equity": 78882369087,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 19.129914257833526,
+  "debt_ratio": 51.40375035551828,
+  "operating_margin": -6.671259317566572,
+  "net_margin": -6.027887041973693,
+  "roe": -10.483459175623123,
+  "cached_at": "2025-06-09T16:38:07.095521"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "182360",
+  "name": "큐브엔터",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 41319871246,
+  "operating_profit": -942098560,
+  "net_income": 1003891042,
+  "total_assets": 309122703587,
+  "total_debt": 144447907780,
+  "total_equity": 164674795807,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -16.61505319100488,
+  "operating_profit_yoy": -116.27561095447147,
+  "net_income_yoy": -76.84818387896846,
+  "debt_ratio": 87.71707113533873,
+  "operating_margin": -2.2800133001169516,
+  "net_margin": 2.4295599471336264,
+  "roe": 2.438481340342009,
+  "cached_at": "2025-06-09T16:36:42.205199"
+}

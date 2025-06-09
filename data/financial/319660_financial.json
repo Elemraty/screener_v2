@@ -1,0 +1,13 @@
+{
+  "ticker": "319660",
+  "name": "피에스케이",
+  "market": "KOSDAQ",
+  "bps": 16285,
+  "per": 6.7,
+  "eps": 2732,
+  "pbr": 1.12,
+  "roe": 16.776174393613754,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:39:29.487899"
+}

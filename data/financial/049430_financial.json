@@ -1,0 +1,23 @@
+{
+  "ticker": "049430",
+  "name": "코메론",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 17844175201,
+  "operating_profit": 3888756325,
+  "net_income": 4564932950,
+  "total_assets": 247051964758,
+  "total_debt": 10866021865,
+  "total_equity": 236185942893,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -4.225033722044458,
+  "operating_profit_yoy": 1.218038125276677,
+  "net_income_yoy": -14.008360406690167,
+  "debt_ratio": 4.600621752465034,
+  "operating_margin": 21.792861150467026,
+  "net_margin": 25.582202027158857,
+  "roe": 7.731083220423604,
+  "cached_at": "2025-06-09T16:36:04.437603"
+}

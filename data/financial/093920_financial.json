@@ -1,0 +1,23 @@
+{
+  "ticker": "093920",
+  "name": "서원인텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 54788735475,
+  "operating_profit": 1245133851,
+  "net_income": 2182274464,
+  "total_assets": 254052701972,
+  "total_debt": 38966025202,
+  "total_equity": 215086676770,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -9.074873559790175,
+  "operating_profit_yoy": -33.410169149108015,
+  "net_income_yoy": -45.167231051410994,
+  "debt_ratio": 18.116429054165817,
+  "operating_margin": 2.2726092146590102,
+  "net_margin": 3.9830714198464534,
+  "roe": 4.05840937573941,
+  "cached_at": "2025-06-09T16:17:30.271523"
+}

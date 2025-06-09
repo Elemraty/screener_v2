@@ -1,0 +1,21 @@
+{
+  "ticker": "001770",
+  "name": "SHD",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 29193568440,
+  "operating_profit": 745895365,
+  "net_income": 665087934,
+  "total_assets": 88064322792,
+  "total_debt": 33889037209,
+  "total_equity": 54175285583,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 17.030832205110215,
+  "debt_ratio": 62.554422822709135,
+  "operating_margin": 2.554998942773986,
+  "net_margin": 2.2782001979885402,
+  "roe": 4.910637216529613,
+  "cached_at": "2025-06-09T15:57:26.572011"
+}

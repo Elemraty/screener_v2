@@ -1,0 +1,23 @@
+{
+  "ticker": "003310",
+  "name": "대주산업",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 25549495654,
+  "operating_profit": 2575311463,
+  "net_income": 2043871368,
+  "total_assets": 114256533887,
+  "total_debt": 30107673341,
+  "total_equity": 84148860546,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -2.9947199027436477,
+  "operating_profit_yoy": 60.31152538412301,
+  "net_income_yoy": 4.443982043494188,
+  "debt_ratio": 35.77906242062735,
+  "operating_margin": 10.079695888622412,
+  "net_margin": 7.999654457680122,
+  "roe": 9.715503476759341,
+  "cached_at": "2025-06-09T16:11:21.494808"
+}

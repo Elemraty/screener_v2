@@ -1,0 +1,21 @@
+{
+  "ticker": "102280",
+  "name": "쌍방울",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 18640269748,
+  "operating_profit": -1684369310,
+  "net_income": -1647997954,
+  "total_assets": 126333696816,
+  "total_debt": 27257525117,
+  "total_equity": 99076171699,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -7.697550502223249,
+  "debt_ratio": 27.51168585702945,
+  "operating_margin": -9.036185273985769,
+  "net_margin": -8.841062797263548,
+  "roe": -6.653458347206742,
+  "cached_at": "2025-06-09T16:01:57.633686"
+}

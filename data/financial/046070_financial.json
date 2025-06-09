@@ -1,0 +1,22 @@
+{
+  "ticker": "046070",
+  "name": "코다코",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 66702813373,
+  "operating_profit": 659424981,
+  "net_income": -3068796838,
+  "total_assets": 363414094914,
+  "total_debt": 353418985529,
+  "total_equity": 9995109385,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 0.7752480741893386,
+  "net_income_yoy": -554.5194547531133,
+  "debt_ratio": 3535.9191372071214,
+  "operating_margin": 0.9886014512049388,
+  "net_margin": -4.6007007543135945,
+  "roe": -122.8119361096917,
+  "cached_at": "2025-06-09T16:35:56.069613"
+}

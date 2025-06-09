@@ -1,0 +1,23 @@
+{
+  "ticker": "011150",
+  "name": "CJ씨푸드",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 52528283248,
+  "operating_profit": -1000475233,
+  "net_income": 230991938,
+  "total_assets": 176878437980,
+  "total_debt": 92891876246,
+  "total_equity": 83986561734,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 0.06171480618488712,
+  "operating_profit_yoy": -175.03856725323584,
+  "net_income_yoy": -83.8184401201721,
+  "debt_ratio": 110.60326119814819,
+  "operating_margin": -1.9046410260097217,
+  "net_margin": 0.4397477391549722,
+  "roe": 1.1001376088312391,
+  "cached_at": "2025-06-09T15:55:47.479685"
+}

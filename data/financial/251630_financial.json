@@ -1,0 +1,21 @@
+{
+  "ticker": "251630",
+  "name": "브이원텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 5248537750,
+  "operating_profit": -3572148285,
+  "net_income": -3476233013,
+  "total_assets": 194585510822,
+  "total_debt": 59723037042,
+  "total_equity": 134862473780,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -71.09432599354287,
+  "debt_ratio": 44.284399780049775,
+  "operating_margin": -68.05987601022781,
+  "net_margin": -66.23240945537641,
+  "roe": -10.310453058041185,
+  "cached_at": "2025-06-09T16:15:49.508439"
+}

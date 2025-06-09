@@ -1,0 +1,22 @@
+{
+  "ticker": "100790",
+  "name": "미래에셋벤처투자",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 18427313683,
+  "operating_profit": -1373272870,
+  "net_income": -1453826598,
+  "total_assets": 1050779836405,
+  "total_debt": 704826128936,
+  "total_equity": 345953707469,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -73.50638512503991,
+  "operating_profit_yoy": -109.1095470449317,
+  "debt_ratio": 203.73423198511543,
+  "operating_margin": -7.452376909754915,
+  "net_margin": -7.889519997378773,
+  "roe": -1.6809492907432115,
+  "cached_at": "2025-06-09T16:14:42.990646"
+}

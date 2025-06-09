@@ -1,0 +1,21 @@
+{
+  "ticker": "014130",
+  "name": "한익스프레스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 156132063011,
+  "operating_profit": -2569200140,
+  "net_income": -5858926203,
+  "total_assets": 384339700265,
+  "total_debt": 288589317897,
+  "total_equity": 95750382368,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -10.12139787524562,
+  "debt_ratio": 301.39756182681026,
+  "operating_margin": -1.6455301303608547,
+  "net_margin": -3.752545178748596,
+  "roe": -24.47583417675444,
+  "cached_at": "2025-06-09T16:05:14.241866"
+}

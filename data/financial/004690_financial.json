@@ -1,0 +1,23 @@
+{
+  "ticker": "004690",
+  "name": "삼천리",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1814086613731,
+  "operating_profit": 96885590765,
+  "net_income": 89579809335,
+  "total_assets": 4750524016442,
+  "total_debt": 2910806275716,
+  "total_equity": 1839717740726,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 3.330903640018157,
+  "operating_profit_yoy": 10.096402466376864,
+  "net_income_yoy": 5.688058026282405,
+  "debt_ratio": 158.22026451554035,
+  "operating_margin": 5.340736767013407,
+  "net_margin": 4.938011705558137,
+  "roe": 19.476859379450133,
+  "cached_at": "2025-06-09T16:01:08.176132"
+}

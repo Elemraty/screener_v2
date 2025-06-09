@@ -1,0 +1,13 @@
+{
+  "ticker": "347000",
+  "name": "센코",
+  "market": "KOSDAQ",
+  "bps": 1234,
+  "per": 32.53,
+  "eps": 77,
+  "pbr": 2.03,
+  "roe": 6.239870340356564,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:18:15.097244"
+}

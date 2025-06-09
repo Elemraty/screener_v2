@@ -1,0 +1,23 @@
+{
+  "ticker": "048870",
+  "name": "시너지이노베이션",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 27242106360,
+  "operating_profit": 4788466775,
+  "net_income": 2550893926,
+  "total_assets": 318635949152,
+  "total_debt": 82692552936,
+  "total_equity": 235943396216,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 19.811588051060426,
+  "operating_profit_yoy": -8.631379260212002,
+  "net_income_yoy": -74.309415746633,
+  "debt_ratio": 35.04762339705288,
+  "operating_margin": 17.577446882121343,
+  "net_margin": 9.363791082416139,
+  "roe": 4.324586264181302,
+  "cached_at": "2025-06-09T16:19:12.515502"
+}

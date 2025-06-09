@@ -1,0 +1,22 @@
+{
+  "ticker": "064090",
+  "name": "인크레더블버즈",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1588424305,
+  "operating_profit": -1375754563,
+  "net_income": -8921556837,
+  "total_assets": 92034976182,
+  "total_debt": 4120717498,
+  "total_equity": 87914258684,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 268.8385438275551,
+  "net_income_yoy": -174.97840386121393,
+  "debt_ratio": 4.6872004151357896,
+  "operating_margin": -86.6112762609736,
+  "net_margin": -561.6608112150487,
+  "roe": -40.59208128714476,
+  "cached_at": "2025-06-09T16:33:00.433947"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "078070",
+  "name": "유비쿼스홀딩스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 28976003954,
+  "operating_profit": 4485668189,
+  "net_income": 5632015016,
+  "total_assets": 384883893761,
+  "total_debt": 26123427224,
+  "total_equity": 358760466537,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -2.469787890898534,
+  "operating_profit_yoy": 98.455944157346,
+  "net_income_yoy": -40.90580908839143,
+  "debt_ratio": 7.281579120509315,
+  "operating_margin": 15.48063078718891,
+  "net_margin": 19.436824432178224,
+  "roe": 6.279415422065913,
+  "cached_at": "2025-06-09T16:31:20.251128"
+}

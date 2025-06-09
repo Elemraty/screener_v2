@@ -1,0 +1,23 @@
+{
+  "ticker": "000210",
+  "name": "DL",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1386570600197,
+  "operating_profit": 105352621600,
+  "net_income": -19466337945,
+  "total_assets": 12678943959164,
+  "total_debt": 7898985773404,
+  "total_equity": 4779958185760,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -1.2490718695013392,
+  "operating_profit_yoy": -38.871755439555486,
+  "net_income_yoy": -160.63812355201227,
+  "debt_ratio": 165.2521939822803,
+  "operating_margin": 7.598071211450163,
+  "net_margin": -1.40391970969486,
+  "roe": -1.6289965048641868,
+  "cached_at": "2025-06-09T15:55:57.464999"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "900110",
+  "name": "이스트아시아홀딩스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 65341422,
+  "operating_profit": 2634356,
+  "net_income": 2929769,
+  "total_assets": 1729931918,
+  "total_debt": 85077709,
+  "total_equity": 1644854209,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -1.400382873266126,
+  "operating_profit_yoy": 453.98313460770095,
+  "net_income_yoy": 94.00555045303535,
+  "debt_ratio": 5.172355612703424,
+  "operating_margin": 4.0316784045501795,
+  "net_margin": 4.483785186064669,
+  "roe": 0.7124689796747816,
+  "cached_at": "2025-06-09T16:32:22.715860"
+}

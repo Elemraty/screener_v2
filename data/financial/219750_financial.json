@@ -1,0 +1,23 @@
+{
+  "ticker": "219750",
+  "name": "한국비티비",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 10023011324,
+  "operating_profit": 344504423,
+  "net_income": 278894002,
+  "total_assets": 44084151837,
+  "total_debt": 15570192764,
+  "total_equity": 28513959073,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 61.819944648936165,
+  "operating_profit_yoy": 22.417234459471082,
+  "net_income_yoy": -14.993024629903317,
+  "debt_ratio": 54.60550996842627,
+  "operating_margin": 3.4371349274552614,
+  "net_margin": 2.7825370338771456,
+  "roe": 3.912385527186732,
+  "cached_at": "2025-06-09T16:40:30.237979"
+}

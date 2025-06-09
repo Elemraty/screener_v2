@@ -1,0 +1,23 @@
+{
+  "ticker": "290650",
+  "name": "엘앤씨바이오",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 17756351704,
+  "operating_profit": -433110640,
+  "net_income": -642269705,
+  "total_assets": 432052682666,
+  "total_debt": 138713080979,
+  "total_equity": 293339601687,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 7.210392198237114,
+  "operating_profit_yoy": -126.0286033645578,
+  "net_income_yoy": -134.31693435604666,
+  "debt_ratio": 47.287539827987494,
+  "operating_margin": -2.4391870989040645,
+  "net_margin": -3.6171265117220837,
+  "roe": -0.8758036096132923,
+  "cached_at": "2025-06-09T16:24:38.627206"
+}

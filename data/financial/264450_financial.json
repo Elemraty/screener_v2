@@ -1,0 +1,23 @@
+{
+  "ticker": "264450",
+  "name": "유비쿼스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 21478129184,
+  "operating_profit": 2883351930,
+  "net_income": 3369128416,
+  "total_assets": 200881111086,
+  "total_debt": 23241290188,
+  "total_equity": 177639820898,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -20.840562108831307,
+  "operating_profit_yoy": 5.510567434756575,
+  "net_income_yoy": -49.8513978360419,
+  "debt_ratio": 13.083378529944053,
+  "operating_margin": 13.424595342074463,
+  "net_margin": 15.68632159317587,
+  "roe": 7.586426059131276,
+  "cached_at": "2025-06-09T16:31:20.240070"
+}

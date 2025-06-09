@@ -1,0 +1,22 @@
+{
+  "ticker": "067990",
+  "name": "도이치모터스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 578211358606,
+  "operating_profit": 7939811277,
+  "net_income": -1721898867,
+  "total_assets": 1718591762124,
+  "total_debt": 1325921848504,
+  "total_equity": 392669913620,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 21.455926969685947,
+  "operating_profit_yoy": 52.866085316526146,
+  "debt_ratio": 337.66830676697566,
+  "operating_margin": 1.373167641698004,
+  "net_margin": -0.29779748207494516,
+  "roe": -1.7540420666568715,
+  "cached_at": "2025-06-09T16:11:54.011963"
+}

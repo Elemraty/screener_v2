@@ -1,0 +1,21 @@
+{
+  "ticker": "200780",
+  "name": "비씨월드제약",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 15822547982,
+  "operating_profit": -694857194,
+  "net_income": -1875927454,
+  "total_assets": 173732860446,
+  "total_debt": 100141138569,
+  "total_equity": 73591721877,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -2.9466505304436397,
+  "debt_ratio": 136.07663472852863,
+  "operating_margin": -4.391563196967273,
+  "net_margin": -11.856038964988995,
+  "roe": -10.196404737670871,
+  "cached_at": "2025-06-09T16:16:02.197745"
+}

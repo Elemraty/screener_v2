@@ -1,0 +1,13 @@
+{
+  "ticker": "321820",
+  "name": "아티스트컴퍼니",
+  "market": "KOSDAQ",
+  "bps": 1737,
+  "per": 0.0,
+  "eps": 0,
+  "pbr": 7.93,
+  "roe": 0.0,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:21:41.497656"
+}

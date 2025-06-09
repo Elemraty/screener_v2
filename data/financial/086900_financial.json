@@ -1,0 +1,21 @@
+{
+  "ticker": "086900",
+  "name": "메디톡스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 63956982000,
+  "operating_profit": 5476435000,
+  "net_income": 3343366000,
+  "total_assets": 603178818000,
+  "total_debt": 138525231000,
+  "total_equity": 464653587000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 17.162069475587316,
+  "debt_ratio": 29.812581862194897,
+  "operating_margin": 8.562685149840247,
+  "net_margin": 5.227523087315158,
+  "roe": 2.8781579168138434,
+  "cached_at": "2025-06-09T16:14:09.331632"
+}

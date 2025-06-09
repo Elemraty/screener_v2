@@ -1,0 +1,23 @@
+{
+  "ticker": "003570",
+  "name": "SNT다이내믹스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 150135859394,
+  "operating_profit": 17703227938,
+  "net_income": 17769448301,
+  "total_assets": 1099146626671,
+  "total_debt": 313653477353,
+  "total_equity": 785493149318,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 31.634318363852955,
+  "operating_profit_yoy": 60.429475738415505,
+  "net_income_yoy": 37.96016289115121,
+  "debt_ratio": 39.93077185018454,
+  "operating_margin": 11.79147207699501,
+  "net_margin": 11.835579036696235,
+  "roe": 9.048811344276254,
+  "cached_at": "2025-06-09T15:57:46.226689"
+}

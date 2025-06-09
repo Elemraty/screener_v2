@@ -1,0 +1,18 @@
+{
+  "ticker": "226950",
+  "name": "올릭스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 0,
+  "operating_profit": -8242590698,
+  "net_income": -13265115922,
+  "total_assets": 68964652062,
+  "total_debt": 42994851454,
+  "total_equity": 25969800608,
+  "data_source": "f_data_financial",
+  "debt_ratio": 165.55711036439544,
+  "roe": -204.31602263305294,
+  "cached_at": "2025-06-09T16:26:15.087171"
+}

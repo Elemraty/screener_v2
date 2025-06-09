@@ -1,0 +1,13 @@
+{
+  "ticker": "318000",
+  "name": "KBG",
+  "market": "KOSDAQ",
+  "bps": 5163,
+  "per": 10.23,
+  "eps": 433,
+  "pbr": 0.86,
+  "roe": 8.386596939763704,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:07:08.550653"
+}

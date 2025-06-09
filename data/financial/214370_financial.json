@@ -1,0 +1,23 @@
+{
+  "ticker": "214370",
+  "name": "케어젠",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 21291683667,
+  "operating_profit": 10165915643,
+  "net_income": 8430096284,
+  "total_assets": 249958539230,
+  "total_debt": 38068551824,
+  "total_equity": 211889987406,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 4.122977389568505,
+  "operating_profit_yoy": 9.889418505284464,
+  "net_income_yoy": -11.466554609991952,
+  "debt_ratio": 17.966187213488894,
+  "operating_margin": 47.74594532773452,
+  "net_margin": 39.593375591362054,
+  "roe": 15.914100306867617,
+  "cached_at": "2025-06-09T16:35:18.846074"
+}

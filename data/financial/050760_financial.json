@@ -1,0 +1,22 @@
+{
+  "ticker": "050760",
+  "name": "에스폴리텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 15878659067,
+  "operating_profit": -1918045293,
+  "net_income": -1373963566,
+  "total_assets": 113950580148,
+  "total_debt": 50496374047,
+  "total_equity": 63454206101,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -11.082039782999098,
+  "net_income_yoy": -201.19929753863553,
+  "debt_ratio": 79.57923855610922,
+  "operating_margin": -12.079390866110344,
+  "net_margin": -8.652894178296549,
+  "roe": -8.661134701224146,
+  "cached_at": "2025-06-09T16:23:00.098276"
+}

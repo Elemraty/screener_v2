@@ -1,0 +1,23 @@
+{
+  "ticker": "196700",
+  "name": "웹스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 8097345846,
+  "operating_profit": 503877194,
+  "net_income": 210123763,
+  "total_assets": 71003096021,
+  "total_debt": 33761865902,
+  "total_equity": 37241230119,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -10.89823413392037,
+  "operating_profit_yoy": 71.13602644571036,
+  "net_income_yoy": 36.32670786498628,
+  "debt_ratio": 90.6572253228959,
+  "operating_margin": 6.222745126403485,
+  "net_margin": 2.5949708336071486,
+  "roe": 2.256893903113018,
+  "cached_at": "2025-06-09T16:30:42.492114"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "208860",
+  "name": "엔지스테크널러지",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2217382422,
+  "operating_profit": -400509972,
+  "net_income": 690378058,
+  "total_assets": 58727243896,
+  "total_debt": 5836148551,
+  "total_equity": 52891095345,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 26.670040863248513,
+  "operating_profit_yoy": -549.8855499438146,
+  "net_income_yoy": 280.3081642892262,
+  "debt_ratio": 11.034274319583956,
+  "operating_margin": -18.062286776800292,
+  "net_margin": 31.13482145210223,
+  "roe": 5.221128838393506,
+  "cached_at": "2025-06-09T16:24:29.050442"
+}

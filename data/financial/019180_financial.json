@@ -1,0 +1,23 @@
+{
+  "ticker": "019180",
+  "name": "티에이치엔",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 170386393571,
+  "operating_profit": 3383103702,
+  "net_income": 3993890484,
+  "total_assets": 463155832590,
+  "total_debt": 315320080400,
+  "total_equity": 147835752190,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 19.243889290911742,
+  "operating_profit_yoy": -55.536209567392525,
+  "net_income_yoy": -49.172832694591996,
+  "debt_ratio": 213.29081479204532,
+  "operating_margin": 1.9855480423618808,
+  "net_margin": 2.3440196134767923,
+  "roe": 10.806291238311587,
+  "cached_at": "2025-06-09T16:04:26.028044"
+}

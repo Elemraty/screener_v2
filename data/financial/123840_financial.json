@@ -1,0 +1,21 @@
+{
+  "ticker": "123840",
+  "name": "뉴온",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 8908720827,
+  "operating_profit": -5760405918,
+  "net_income": -10573992497,
+  "total_assets": 119170353139,
+  "total_debt": 37940739464,
+  "total_equity": 81229613675,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 106.8126219200091,
+  "debt_ratio": 46.708014168085356,
+  "operating_margin": -64.66030342472645,
+  "net_margin": -118.69260135476463,
+  "roe": -52.069643168840294,
+  "cached_at": "2025-06-09T16:10:37.537139"
+}

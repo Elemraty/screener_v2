@@ -1,0 +1,23 @@
+{
+  "ticker": "079170",
+  "name": "한창산업",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 21755350451,
+  "operating_profit": 833401600,
+  "net_income": 738144443,
+  "total_assets": 82832185562,
+  "total_debt": 15868030837,
+  "total_equity": 66964154725,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 25.729998637697093,
+  "operating_profit_yoy": -8.668292986012782,
+  "net_income_yoy": 80.54535341003319,
+  "debt_ratio": 23.696305735754958,
+  "operating_margin": 3.8307891287574827,
+  "net_margin": 3.3929329001733946,
+  "roe": 4.40919143103542,
+  "cached_at": "2025-06-09T16:41:17.499048"
+}

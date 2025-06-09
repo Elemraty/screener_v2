@@ -1,0 +1,23 @@
+{
+  "ticker": "123700",
+  "name": "SJM",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 53232656407,
+  "operating_profit": 3612553908,
+  "net_income": 4728297519,
+  "total_assets": 283775215332,
+  "total_debt": 53883983593,
+  "total_equity": 229891231739,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 4.3198461100602215,
+  "operating_profit_yoy": -12.855884220248704,
+  "net_income_yoy": -6.253808132491068,
+  "debt_ratio": 23.438903339373788,
+  "operating_margin": 6.7863491169397205,
+  "net_margin": 8.8823249451407,
+  "roe": 8.227016721313023,
+  "cached_at": "2025-06-09T15:57:28.666550"
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "026910",
+  "name": "광진실업",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 14131095929,
+  "operating_profit": -1550874033,
+  "net_income": -1658370369,
+  "total_assets": 100224490234,
+  "total_debt": 77106486163,
+  "total_equity": 23118004071,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 7.445435772371578,
+  "debt_ratio": 333.53435671258904,
+  "operating_margin": -10.97490273077319,
+  "net_margin": -11.73561043907906,
+  "roe": -28.694006003404343,
+  "cached_at": "2025-06-09T16:08:52.066213"
+}

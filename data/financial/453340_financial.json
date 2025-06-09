@@ -1,0 +1,13 @@
+{
+  "ticker": "453340",
+  "name": "현대그린푸드",
+  "market": "KOSPI",
+  "bps": 20095,
+  "per": 7.83,
+  "eps": 2190,
+  "pbr": 0.85,
+  "roe": 10.898233391390894,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:05:36.508279"
+}

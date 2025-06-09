@@ -1,0 +1,23 @@
+{
+  "ticker": "016450",
+  "name": "한세예스24홀딩스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 853105196168,
+  "operating_profit": 20731663258,
+  "net_income": -5417038,
+  "total_assets": 3005562891899,
+  "total_debt": 2031879324619,
+  "total_equity": 973683567280,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 26.779763115250365,
+  "operating_profit_yoy": -50.419098341920574,
+  "net_income_yoy": -100.0270404026971,
+  "debt_ratio": 208.6796360644235,
+  "operating_margin": 2.4301414820965834,
+  "net_margin": -0.0006349789011170476,
+  "roe": -0.0022253792431282697,
+  "cached_at": "2025-06-09T16:05:06.885444"
+}

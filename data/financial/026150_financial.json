@@ -1,0 +1,23 @@
+{
+  "ticker": "026150",
+  "name": "특수건설",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 45860440228,
+  "operating_profit": 652553838,
+  "net_income": 16719668274,
+  "total_assets": 205741183121,
+  "total_debt": 80188266749,
+  "total_equity": 125552916372,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -19.937694011034434,
+  "operating_profit_yoy": -29.544318111279978,
+  "net_income_yoy": 2145.7242776279713,
+  "debt_ratio": 63.86810363799966,
+  "operating_margin": 1.4229122850887606,
+  "net_margin": 36.457714297718056,
+  "roe": 53.267319492480425,
+  "cached_at": "2025-06-09T16:37:34.617604"
+}

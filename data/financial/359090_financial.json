@@ -1,0 +1,13 @@
+{
+  "ticker": "359090",
+  "name": "씨엔알리서치",
+  "market": "KOSDAQ",
+  "bps": 827,
+  "per": 14.93,
+  "eps": 68,
+  "pbr": 1.23,
+  "roe": 8.222490931076178,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:20:23.870537"
+}

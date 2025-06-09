@@ -1,0 +1,13 @@
+{
+  "ticker": "336370",
+  "name": "솔루스첨단소재",
+  "market": "KOSPI",
+  "bps": 8495,
+  "per": 168.24,
+  "eps": 51,
+  "pbr": 1.01,
+  "roe": 0.6003531489111242,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:01:34.061387"
+}

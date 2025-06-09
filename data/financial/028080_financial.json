@@ -1,0 +1,22 @@
+{
+  "ticker": "028080",
+  "name": "휴맥스홀딩스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 99399455666,
+  "operating_profit": -7083277075,
+  "net_income": -19133600414,
+  "total_assets": 619717258381,
+  "total_debt": 470899379125,
+  "total_equity": 148817879256,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -46.22143083432228,
+  "operating_profit_yoy": -214.86508739737752,
+  "debt_ratio": 316.42661586041544,
+  "operating_margin": -7.126072298424935,
+  "net_margin": -19.249200396320408,
+  "roe": -51.42823028968429,
+  "cached_at": "2025-06-09T16:42:02.651109"
+}

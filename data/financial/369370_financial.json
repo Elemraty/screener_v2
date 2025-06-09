@@ -1,0 +1,13 @@
+{
+  "ticker": "369370",
+  "name": "블리츠웨이엔터테인먼트",
+  "market": "KOSDAQ",
+  "bps": 628,
+  "per": 0.0,
+  "eps": 0,
+  "pbr": 1.92,
+  "roe": 0.0,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:15:54.826619"
+}

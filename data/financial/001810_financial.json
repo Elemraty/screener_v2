@@ -1,0 +1,22 @@
+{
+  "ticker": "001810",
+  "name": "무림SP",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 46765449101,
+  "operating_profit": 523653588,
+  "net_income": -131785222,
+  "total_assets": 337501356375,
+  "total_debt": 135135606105,
+  "total_equity": 202365750270,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 5.89957079256811,
+  "net_income_yoy": -229.63746879228015,
+  "debt_ratio": 66.77790383239241,
+  "operating_margin": 1.119744593640185,
+  "net_margin": -0.2818003986562421,
+  "roe": -0.2604891822339893,
+  "cached_at": "2025-06-09T16:14:36.709960"
+}

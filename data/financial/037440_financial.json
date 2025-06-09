@@ -1,0 +1,23 @@
+{
+  "ticker": "037440",
+  "name": "희림",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 57308199194,
+  "operating_profit": 2411953724,
+  "net_income": 955825484,
+  "total_assets": 209228341572,
+  "total_debt": 128037246559,
+  "total_equity": 81191095013,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 1.8679436417206707,
+  "operating_profit_yoy": 35.063450106445245,
+  "net_income_yoy": -69.81436808192335,
+  "debt_ratio": 157.69863251443914,
+  "operating_margin": 4.20874108403763,
+  "net_margin": 1.6678686426079015,
+  "roe": 4.709016346420538,
+  "cached_at": "2025-06-09T16:42:13.075838"
+}

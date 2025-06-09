@@ -1,0 +1,23 @@
+{
+  "ticker": "002230",
+  "name": "피에스텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 25745366513,
+  "operating_profit": 1752323839,
+  "net_income": 896995288,
+  "total_assets": 175684031594,
+  "total_debt": 49778961712,
+  "total_equity": 125905069882,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 49.895227795691575,
+  "operating_profit_yoy": 236.77524217083453,
+  "net_income_yoy": -53.323851080241546,
+  "debt_ratio": 39.53690010946624,
+  "operating_margin": 6.806365868262828,
+  "net_margin": 3.4841037805659765,
+  "roe": 2.8497511302465472,
+  "cached_at": "2025-06-09T16:39:31.579597"
+}

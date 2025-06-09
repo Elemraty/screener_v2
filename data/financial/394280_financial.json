@@ -1,0 +1,13 @@
+{
+  "ticker": "394280",
+  "name": "오픈엣지테크놀로지",
+  "market": "KOSDAQ",
+  "bps": 2446,
+  "per": 0.0,
+  "eps": 0,
+  "pbr": 4.75,
+  "roe": 0.0,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:26:10.956186"
+}

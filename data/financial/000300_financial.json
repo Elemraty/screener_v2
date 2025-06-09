@@ -1,0 +1,21 @@
+{
+  "ticker": "000300",
+  "name": "DH오토넥스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 9776989657,
+  "operating_profit": 153515314,
+  "net_income": 411184753,
+  "total_assets": 68713879698,
+  "total_debt": 41037034647,
+  "total_equity": 27676845051,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 6.897780549042354,
+  "debt_ratio": 148.27208293207278,
+  "operating_margin": 1.5701695448771198,
+  "net_margin": 4.205637598333812,
+  "roe": 5.942653539336751,
+  "cached_at": "2025-06-09T15:55:55.349944"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "049960",
+  "name": "쎌바이오텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 11228890889,
+  "operating_profit": 1361886709,
+  "net_income": 2069780316,
+  "total_assets": 132556629860,
+  "total_debt": 9278000628,
+  "total_equity": 123278629232,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -13.874285109410256,
+  "operating_profit_yoy": 27.137927191023458,
+  "net_income_yoy": -36.53330546324353,
+  "debt_ratio": 7.526041363211124,
+  "operating_margin": 12.12841697779899,
+  "net_margin": 18.432633609679026,
+  "roe": 6.7157797872812095,
+  "cached_at": "2025-06-09T16:20:06.355837"
+}

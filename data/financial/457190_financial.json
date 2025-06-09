@@ -1,0 +1,13 @@
+{
+  "ticker": "457190",
+  "name": "이수스페셜티케미컬",
+  "market": "KOSPI",
+  "bps": 4063,
+  "per": 113.13,
+  "eps": 358,
+  "pbr": 9.97,
+  "roe": 8.811223234063501,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:02:56.896315"
+}

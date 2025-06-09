@@ -1,0 +1,21 @@
+{
+  "ticker": "000650",
+  "name": "천일고속",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 10785348673,
+  "operating_profit": -2064885058,
+  "net_income": -2093049247,
+  "total_assets": 52962029010,
+  "total_debt": 40986019189,
+  "total_equity": 11976009821,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 0.23005428163342945,
+  "debt_ratio": 342.23434851506875,
+  "operating_margin": -19.145278660941443,
+  "net_margin": -19.40641244394566,
+  "roe": -69.90806715371347,
+  "cached_at": "2025-06-09T16:03:47.834955"
+}

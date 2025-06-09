@@ -1,0 +1,20 @@
+{
+  "ticker": "163280",
+  "name": "에어레인",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 6006516246,
+  "operating_profit": 1155141675,
+  "net_income": 1022553966,
+  "total_assets": 83954256776,
+  "total_debt": 18590894352,
+  "total_equity": 65363362424,
+  "data_source": "f_data_financial",
+  "debt_ratio": 28.44237759894346,
+  "operating_margin": 19.231475079573105,
+  "net_margin": 17.024077254114864,
+  "roe": 6.2576582848775875,
+  "cached_at": "2025-06-09T16:23:05.374115"
+}

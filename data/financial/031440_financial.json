@@ -1,0 +1,23 @@
+{
+  "ticker": "031440",
+  "name": "신세계푸드",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 358620031751,
+  "operating_profit": 7880639509,
+  "net_income": 5379150159,
+  "total_assets": 812583799059,
+  "total_debt": 516950714204,
+  "total_equity": 295633084855,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -6.075095470396441,
+  "operating_profit_yoy": 69.6799164594897,
+  "net_income_yoy": 14.348410075787355,
+  "debt_ratio": 174.8622670082918,
+  "operating_margin": 2.197490048317142,
+  "net_margin": 1.4999580845319025,
+  "roe": 7.278143664655568,
+  "cached_at": "2025-06-09T16:01:43.223380"
+}

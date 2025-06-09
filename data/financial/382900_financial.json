@@ -1,0 +1,13 @@
+{
+  "ticker": "382900",
+  "name": "범한퓨얼셀",
+  "market": "KOSDAQ",
+  "bps": 19116,
+  "per": 170.21,
+  "eps": 97,
+  "pbr": 0.86,
+  "roe": 0.5074283322870894,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:15:27.020719"
+}

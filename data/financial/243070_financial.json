@@ -1,0 +1,23 @@
+{
+  "ticker": "243070",
+  "name": "휴온스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 145835893952,
+  "operating_profit": 12845346825,
+  "net_income": 12349288403,
+  "total_assets": 604863655022,
+  "total_debt": 248675985485,
+  "total_equity": 356187669537,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -1.3025114557713713,
+  "operating_profit_yoy": 20.142314910395243,
+  "net_income_yoy": 25.96017720598198,
+  "debt_ratio": 69.8160005954861,
+  "operating_margin": 8.808083165882248,
+  "net_margin": 8.467934791872713,
+  "roe": 13.868294114787915,
+  "cached_at": "2025-06-09T16:42:06.782438"
+}

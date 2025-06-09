@@ -1,0 +1,23 @@
+{
+  "ticker": "280360",
+  "name": "롯데웰푸드",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 975125609765,
+  "operating_profit": 16385805173,
+  "net_income": 22746757528,
+  "total_assets": 4398181446029,
+  "total_debt": 2160352228870,
+  "total_equity": 2237829217159,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 2.5310440621820973,
+  "operating_profit_yoy": -56.11118855532088,
+  "net_income_yoy": 13.31450390754345,
+  "debt_ratio": 96.53785071287255,
+  "operating_margin": 1.6803789182553506,
+  "net_margin": 2.3327002490973285,
+  "roe": 4.065861211138851,
+  "cached_at": "2025-06-09T15:59:53.355899"
+}

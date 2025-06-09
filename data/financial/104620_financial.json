@@ -1,0 +1,23 @@
+{
+  "ticker": "104620",
+  "name": "노랑풍선",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 31417102346,
+  "operating_profit": 355299235,
+  "net_income": 132667149,
+  "total_assets": 119756925590,
+  "total_debt": 83116408345,
+  "total_equity": 36640517245,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -18.076073745232634,
+  "operating_profit_yoy": -91.12834245405365,
+  "net_income_yoy": -95.74052314154271,
+  "debt_ratio": 226.8428903152074,
+  "operating_margin": 1.1309102637380446,
+  "net_margin": 0.42227684634605095,
+  "roe": 1.448310875230386,
+  "cached_at": "2025-06-09T16:10:20.677011"
+}

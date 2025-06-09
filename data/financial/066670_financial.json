@@ -1,0 +1,23 @@
+{
+  "ticker": "066670",
+  "name": "디티씨",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 51003541697,
+  "operating_profit": 1806894269,
+  "net_income": 1687635053,
+  "total_assets": 322530179602,
+  "total_debt": 71410839266,
+  "total_equity": 251119340336,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 1864.930105813377,
+  "operating_profit_yoy": 153.36284598489692,
+  "net_income_yoy": 26.971152665271948,
+  "debt_ratio": 28.437012923995276,
+  "operating_margin": 3.5426839173921145,
+  "net_margin": 3.3088585554035475,
+  "roe": 2.6881801309957707,
+  "cached_at": "2025-06-09T16:12:57.420786"
+}

@@ -1,0 +1,18 @@
+{
+  "ticker": "291230",
+  "name": "엔피",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 0,
+  "operating_profit": -1648860479,
+  "net_income": -1705272237,
+  "total_assets": 49635459045,
+  "total_debt": 18614030183,
+  "total_equity": 31021428862,
+  "data_source": "f_data_financial",
+  "debt_ratio": 60.00378082455589,
+  "roe": -21.98831323451886,
+  "cached_at": "2025-06-09T16:24:34.759396"
+}

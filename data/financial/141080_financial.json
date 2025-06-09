@@ -1,0 +1,23 @@
+{
+  "ticker": "141080",
+  "name": "리가켐바이오",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 51575560164,
+  "operating_profit": 11377928009,
+  "net_income": 26472888882,
+  "total_assets": 739838192269,
+  "total_debt": 170458600298,
+  "total_equity": 569379591971,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 66.07365226203787,
+  "operating_profit_yoy": 297.6216488016199,
+  "net_income_yoy": 181.1905709690048,
+  "debt_ratio": 29.93760273492238,
+  "operating_margin": 22.06069691307367,
+  "net_margin": 51.32835939701186,
+  "roe": 18.597708281295994,
+  "cached_at": "2025-06-09T16:13:37.272416"
+}

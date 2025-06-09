@@ -1,0 +1,19 @@
+{
+  "ticker": "121890",
+  "name": "에스디시스템",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 0,
+  "operating_profit": 0,
+  "net_income": 0,
+  "total_assets": 14913780657,
+  "total_debt": 3964340805,
+  "total_equity": 10949439852,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -100.0,
+  "debt_ratio": 36.20587773059352,
+  "roe": 0.0,
+  "cached_at": "2025-06-09T16:22:21.972686"
+}

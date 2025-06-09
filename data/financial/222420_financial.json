@@ -1,0 +1,21 @@
+{
+  "ticker": "222420",
+  "name": "쎄노텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 7474348782,
+  "operating_profit": 157025650,
+  "net_income": -629304729,
+  "total_assets": 83853712726,
+  "total_debt": 49919154768,
+  "total_equity": 33934557958,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 13.065461786718103,
+  "debt_ratio": 147.10418455953885,
+  "operating_margin": 2.1008606178260627,
+  "net_margin": -8.419525865792009,
+  "roe": -7.417862696533435,
+  "cached_at": "2025-06-09T16:20:02.300984"
+}

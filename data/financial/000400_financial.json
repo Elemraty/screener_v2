@@ -1,0 +1,20 @@
+{
+  "ticker": "000400",
+  "name": "롯데손해보험",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 0,
+  "operating_profit": 13009597777,
+  "net_income": 11279341182,
+  "total_assets": 15585381496677,
+  "total_debt": 15079741541668,
+  "total_equity": 505639955009,
+  "data_source": "f_data_financial",
+  "operating_profit_yoy": -74.5645266845903,
+  "net_income_yoy": -72.39963078688302,
+  "debt_ratio": 2982.3081408587645,
+  "roe": 8.922824290496772,
+  "cached_at": "2025-06-09T15:59:49.418365"
+}

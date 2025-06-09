@@ -1,0 +1,23 @@
+{
+  "ticker": "037460",
+  "name": "삼지전자",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 891841280931,
+  "operating_profit": 24935209455,
+  "net_income": 17384421076,
+  "total_assets": 1381123773257,
+  "total_debt": 742841412119,
+  "total_equity": 638282361138,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 13.513553348495089,
+  "operating_profit_yoy": 21.272113788022562,
+  "net_income_yoy": 18.104851008980294,
+  "debt_ratio": 116.38131606748159,
+  "operating_margin": 2.7959245650717066,
+  "net_margin": 1.9492729757757197,
+  "roe": 10.8945019536527,
+  "cached_at": "2025-06-09T16:16:53.589867"
+}

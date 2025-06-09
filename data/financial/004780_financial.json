@@ -1,0 +1,23 @@
+{
+  "ticker": "004780",
+  "name": "대륙제관",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 66395292563,
+  "operating_profit": 1322647678,
+  "net_income": 1302087670,
+  "total_assets": 208646382456,
+  "total_debt": 58440404828,
+  "total_equity": 150205977628,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -0.24332270012421553,
+  "operating_profit_yoy": -60.7593604262769,
+  "net_income_yoy": -43.077383365805986,
+  "debt_ratio": 38.90684362291723,
+  "operating_margin": 1.9920805029136506,
+  "net_margin": 1.9611144401005507,
+  "roe": 3.4674723085248957,
+  "cached_at": "2025-06-09T16:10:54.795444"
+}

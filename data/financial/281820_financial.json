@@ -1,0 +1,23 @@
+{
+  "ticker": "281820",
+  "name": "케이씨텍",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 77662728341,
+  "operating_profit": 7835488904,
+  "net_income": 7828216368,
+  "total_assets": 545602998590,
+  "total_debt": 61195277324,
+  "total_equity": 484407721266,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -15.21718060168099,
+  "operating_profit_yoy": -21.769091999254663,
+  "net_income_yoy": -33.259179806558805,
+  "debt_ratio": 12.633010300510092,
+  "operating_margin": 10.08912392260556,
+  "net_margin": 10.079759667504879,
+  "roe": 6.464154904501481,
+  "cached_at": "2025-06-09T16:03:52.473551"
+}

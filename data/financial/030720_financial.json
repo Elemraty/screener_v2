@@ -1,0 +1,23 @@
+{
+  "ticker": "030720",
+  "name": "동원수산",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 45098013226,
+  "operating_profit": 2211429141,
+  "net_income": 1811713130,
+  "total_assets": 116280099319,
+  "total_debt": 65351818373,
+  "total_equity": 50928280946,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 0.2825535633440124,
+  "operating_profit_yoy": -12.532841089489821,
+  "net_income_yoy": -10.982069737687928,
+  "debt_ratio": 128.32127289411847,
+  "operating_margin": 4.903606573349139,
+  "net_margin": 4.017279255564872,
+  "roe": 14.229525099588466,
+  "cached_at": "2025-06-09T15:59:29.260373"
+}

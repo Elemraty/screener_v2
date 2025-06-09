@@ -1,0 +1,13 @@
+{
+  "ticker": "311390",
+  "name": "네오크레마",
+  "market": "KOSDAQ",
+  "bps": 5634,
+  "per": 111.82,
+  "eps": 55,
+  "pbr": 1.09,
+  "roe": 0.9762158324458644,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:10:01.267466"
+}

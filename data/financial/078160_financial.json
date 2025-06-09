@@ -1,0 +1,21 @@
+{
+  "ticker": "078160",
+  "name": "메디포스트",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 19224728163,
+  "operating_profit": -13666279360,
+  "net_income": -16521397100,
+  "total_assets": 398371050752,
+  "total_debt": 161897353894,
+  "total_equity": 236473696858,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 6.622487571173652,
+  "debt_ratio": 68.46315511835452,
+  "operating_margin": -71.08698361884869,
+  "net_margin": -85.93826118070766,
+  "roe": -27.946274481294093,
+  "cached_at": "2025-06-09T16:14:11.567239"
+}

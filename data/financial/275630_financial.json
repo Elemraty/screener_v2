@@ -1,0 +1,22 @@
+{
+  "ticker": "275630",
+  "name": "에스에스알",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2358449169,
+  "operating_profit": -728006500,
+  "net_income": -525768767,
+  "total_assets": 29681267888,
+  "total_debt": 3661899336,
+  "total_equity": 26019368552,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 5.8093604850254055,
+  "net_income_yoy": -7992.580773533875,
+  "debt_ratio": 14.073744059859305,
+  "operating_margin": -30.868017406060112,
+  "net_margin": -22.292987014976877,
+  "roe": -8.082729078520797,
+  "cached_at": "2025-06-09T16:22:31.596384"
+}

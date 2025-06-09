@@ -1,0 +1,23 @@
+{
+  "ticker": "006200",
+  "name": "한국전자홀딩스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 75304411650,
+  "operating_profit": -312941749,
+  "net_income": 689143551,
+  "total_assets": 522237278880,
+  "total_debt": 127231581246,
+  "total_equity": 395005697634,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 3.9635540660797997,
+  "operating_profit_yoy": -167.6167210865082,
+  "net_income_yoy": -51.500338420877334,
+  "debt_ratio": 32.21006228722524,
+  "operating_margin": -0.41556894495702495,
+  "net_margin": 0.9151436627683951,
+  "roe": 0.6978568209297467,
+  "cached_at": "2025-06-09T16:04:53.271223"
+}

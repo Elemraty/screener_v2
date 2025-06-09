@@ -1,0 +1,23 @@
+{
+  "ticker": "294870",
+  "name": "HDC현대산업개발",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 905748210984,
+  "operating_profit": 53999321011,
+  "net_income": 54185742285,
+  "total_assets": 7766195438777,
+  "total_debt": 4641958450312,
+  "total_equity": 3124236988465,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -5.200455680800897,
+  "operating_profit_yoy": 29.81544730227117,
+  "net_income_yoy": 77.82912053632802,
+  "debt_ratio": 148.5789479943609,
+  "operating_margin": 5.961846830736262,
+  "net_margin": 5.9824288503018845,
+  "roe": 6.937468890491888,
+  "cached_at": "2025-06-09T15:56:14.746298"
+}

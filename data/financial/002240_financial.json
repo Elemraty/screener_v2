@@ -1,0 +1,23 @@
+{
+  "ticker": "002240",
+  "name": "고려제강",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 442691999788,
+  "operating_profit": 8267953533,
+  "net_income": 6064208181,
+  "total_assets": 2632551398042,
+  "total_debt": 705392448725,
+  "total_equity": 1927158949317,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 1.9770054899997502,
+  "operating_profit_yoy": -49.1135041180087,
+  "net_income_yoy": -76.67473369309714,
+  "debt_ratio": 36.60271245270124,
+  "operating_margin": 1.8676537043722106,
+  "net_margin": 1.369848152644294,
+  "roe": 1.2586835524177604,
+  "cached_at": "2025-06-09T15:58:06.429500"
+}

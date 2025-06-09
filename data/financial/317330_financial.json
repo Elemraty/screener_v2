@@ -1,0 +1,13 @@
+{
+  "ticker": "317330",
+  "name": "덕산테코피아",
+  "market": "KOSDAQ",
+  "bps": 9681,
+  "per": 0.0,
+  "eps": 0,
+  "pbr": 1.87,
+  "roe": 0.0,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:11:44.012874"
+}

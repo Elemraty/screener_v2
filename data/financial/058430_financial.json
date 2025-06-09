@@ -1,0 +1,23 @@
+{
+  "ticker": "058430",
+  "name": "포스코스틸리온",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 277226732511,
+  "operating_profit": 11869517978,
+  "net_income": 10098776828,
+  "total_assets": 531448521555,
+  "total_debt": 149046623264,
+  "total_equity": 382401898291,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -11.228135555152496,
+  "operating_profit_yoy": -4.692104354867787,
+  "net_income_yoy": 15.689198786608017,
+  "debt_ratio": 38.97643393772554,
+  "operating_margin": 4.28151999285604,
+  "net_margin": 3.6427860821824942,
+  "roe": 10.563521648959009,
+  "cached_at": "2025-06-09T16:04:34.199043"
+}

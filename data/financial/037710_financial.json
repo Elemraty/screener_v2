@@ -1,0 +1,23 @@
+{
+  "ticker": "037710",
+  "name": "광주신세계",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 45468432783,
+  "operating_profit": 12893409598,
+  "net_income": 11290297467,
+  "total_assets": 1230836540939,
+  "total_debt": 399222472629,
+  "total_equity": 831614068310,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 3.0424780148909925,
+  "operating_profit_yoy": -1.6165878470791095,
+  "net_income_yoy": -12.993337327313782,
+  "debt_ratio": 48.00573821944799,
+  "operating_margin": 28.356837499841564,
+  "net_margin": 24.83106800905898,
+  "roe": 5.430546642840739,
+  "cached_at": "2025-06-09T15:58:08.524593"
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "208340",
+  "name": "파멥신",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1898860543,
+  "operating_profit": -1112019144,
+  "net_income": -400253455,
+  "total_assets": 61858377044,
+  "total_debt": 14139970297,
+  "total_equity": 47718406747,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 4304.85962683297,
+  "debt_ratio": 29.632108993012352,
+  "operating_margin": -58.562444098349985,
+  "net_margin": -21.078612459219446,
+  "roe": -3.3551284067141527,
+  "cached_at": "2025-06-09T16:38:05.062453"
+}

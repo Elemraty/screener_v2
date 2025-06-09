@@ -1,0 +1,23 @@
+{
+  "ticker": "234100",
+  "name": "폴라리스세원",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 55006940200,
+  "operating_profit": 778513639,
+  "net_income": 1000744181,
+  "total_assets": 404175232467,
+  "total_debt": 74536378190,
+  "total_equity": 329638854277,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 39.985836188837574,
+  "operating_profit_yoy": -36.43075341479416,
+  "net_income_yoy": -74.31254930057187,
+  "debt_ratio": 22.611526894631805,
+  "operating_margin": 1.4153007532674942,
+  "net_margin": 1.8193053046786267,
+  "roe": 1.2143522136611493,
+  "cached_at": "2025-06-09T16:38:49.075393"
+}

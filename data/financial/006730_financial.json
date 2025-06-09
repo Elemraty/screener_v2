@@ -1,0 +1,22 @@
+{
+  "ticker": "006730",
+  "name": "서부T&D",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 46131855592,
+  "operating_profit": 12924924864,
+  "net_income": -513309414,
+  "total_assets": 2856263093338,
+  "total_debt": 1633291960918,
+  "total_equity": 1222971132420,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 11.492571742766833,
+  "operating_profit_yoy": 19.962949493579796,
+  "debt_ratio": 133.551145862786,
+  "operating_margin": 28.017353080939994,
+  "net_margin": -1.1127005567255266,
+  "roe": -0.1678892985754356,
+  "cached_at": "2025-06-09T16:17:18.730822"
+}

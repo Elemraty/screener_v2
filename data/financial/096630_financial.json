@@ -1,0 +1,23 @@
+{
+  "ticker": "096630",
+  "name": "에스코넥",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 83671220419,
+  "operating_profit": 4579440456,
+  "net_income": 14276079452,
+  "total_assets": 193867230895,
+  "total_debt": 126021809548,
+  "total_equity": 67845421347,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 1.1406152121094193,
+  "operating_profit_yoy": 3.9691272204910977,
+  "net_income_yoy": 162.05571655668538,
+  "debt_ratio": 185.7484367345188,
+  "operating_margin": 5.4731369198005675,
+  "net_margin": 17.06211452457576,
+  "roe": 84.16827056896898,
+  "cached_at": "2025-06-09T16:22:53.098890"
+}

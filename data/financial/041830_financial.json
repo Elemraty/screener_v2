@@ -1,0 +1,23 @@
+{
+  "ticker": "041830",
+  "name": "인바디",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 55583707371,
+  "operating_profit": 7002128143,
+  "net_income": 6844961090,
+  "total_assets": 309617996862,
+  "total_debt": 36232166791,
+  "total_equity": 273385830071,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 14.772612878975245,
+  "operating_profit_yoy": -29.976229715132764,
+  "net_income_yoy": -21.730950825956775,
+  "debt_ratio": 13.253125365564951,
+  "operating_margin": 12.597447119285283,
+  "net_margin": 12.314689706306384,
+  "roe": 10.015092718188534,
+  "cached_at": "2025-06-09T16:32:47.269262"
+}

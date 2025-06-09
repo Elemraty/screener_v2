@@ -1,0 +1,23 @@
+{
+  "ticker": "216050",
+  "name": "인크로스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 10169820107,
+  "operating_profit": 2007678097,
+  "net_income": 2366356506,
+  "total_assets": 233046764253,
+  "total_debt": 113486644932,
+  "total_equity": 119560119321,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 20.172463015503418,
+  "operating_profit_yoy": 155.6087497832261,
+  "net_income_yoy": 86.65469832369814,
+  "debt_ratio": 94.92015027795875,
+  "operating_margin": 19.741530094697477,
+  "net_margin": 23.268420494195475,
+  "roe": 7.916875692125089,
+  "cached_at": "2025-06-09T16:33:02.028403"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "099440",
+  "name": "스맥",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 42378527319,
+  "operating_profit": 4287847766,
+  "net_income": 3964695898,
+  "total_assets": 299901669189,
+  "total_debt": 166579768305,
+  "total_equity": 133321900884,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -0.6704029304006598,
+  "operating_profit_yoy": -15.891203216532501,
+  "net_income_yoy": -39.57479749181201,
+  "debt_ratio": 124.94553948037152,
+  "operating_margin": 10.117972561254117,
+  "net_margin": 9.355435756783525,
+  "roe": 11.895107620613905,
+  "cached_at": "2025-06-09T16:18:55.257170"
+}

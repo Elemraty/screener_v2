@@ -1,0 +1,22 @@
+{
+  "ticker": "084180",
+  "name": "수성웹툰",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 30875467687,
+  "operating_profit": 2882956055,
+  "net_income": 0,
+  "total_assets": 252389544046,
+  "total_debt": 141303006927,
+  "total_equity": 111086537119,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 96.76480714223995,
+  "operating_profit_yoy": 390.27963129620645,
+  "debt_ratio": 127.20083872596642,
+  "operating_margin": 9.337368049695511,
+  "net_margin": 0.0,
+  "roe": 0.0,
+  "cached_at": "2025-06-09T16:18:48.490139"
+}

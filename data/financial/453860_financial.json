@@ -1,0 +1,13 @@
+{
+  "ticker": "453860",
+  "name": "에이에스텍",
+  "market": "KOSDAQ",
+  "bps": 10021,
+  "per": 11.47,
+  "eps": 1677,
+  "pbr": 1.92,
+  "roe": 16.734856800718493,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:23:17.284421"
+}

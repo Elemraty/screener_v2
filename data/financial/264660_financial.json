@@ -1,0 +1,23 @@
+{
+  "ticker": "264660",
+  "name": "씨앤지하이테크",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 80890321697,
+  "operating_profit": 4455563288,
+  "net_income": 4428548247,
+  "total_assets": 209070266419,
+  "total_debt": 84864829683,
+  "total_equity": 124205436736,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 129.32875815758123,
+  "operating_profit_yoy": 4505.583492161084,
+  "net_income_yoy": 204.57007371914352,
+  "debt_ratio": 68.3261795241549,
+  "operating_margin": 5.508153750073718,
+  "net_margin": 5.474756626124585,
+  "roe": 14.262010950174192,
+  "cached_at": "2025-06-09T16:20:16.977276"
+}

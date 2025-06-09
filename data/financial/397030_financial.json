@@ -1,0 +1,13 @@
+{
+  "ticker": "397030",
+  "name": "에이프릴바이오",
+  "market": "KOSDAQ",
+  "bps": 4056,
+  "per": 18.82,
+  "eps": 913,
+  "pbr": 4.24,
+  "roe": 22.509861932938858,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:23:41.931324"
+}

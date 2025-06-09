@@ -1,0 +1,23 @@
+{
+  "ticker": "005850",
+  "name": "에스엘",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1233719936813,
+  "operating_profit": 119305554004,
+  "net_income": 104013844769,
+  "total_assets": 3890740842218,
+  "total_debt": 1447881665691,
+  "total_equity": 2442859176527,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -0.9700167907768509,
+  "operating_profit_yoy": -14.054335175375222,
+  "net_income_yoy": -14.268568867953736,
+  "debt_ratio": 59.26996036461855,
+  "operating_margin": 9.670391994490695,
+  "net_margin": 8.43091220830014,
+  "roe": 17.03149256714436,
+  "cached_at": "2025-06-09T16:02:13.885381"
+}

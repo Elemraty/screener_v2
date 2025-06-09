@@ -1,0 +1,21 @@
+{
+  "ticker": "054090",
+  "name": "삼진엘앤디",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 39773005474,
+  "operating_profit": -3018554763,
+  "net_income": -4141377291,
+  "total_assets": 140165914493,
+  "total_debt": 96589663118,
+  "total_equity": 43576251375,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -29.597622954640713,
+  "debt_ratio": 221.65665946523836,
+  "operating_margin": -7.589456031863769,
+  "net_margin": -10.412532926905055,
+  "roe": -38.01499358318772,
+  "cached_at": "2025-06-09T16:16:55.741496"
+}

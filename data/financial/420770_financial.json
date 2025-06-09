@@ -1,0 +1,13 @@
+{
+  "ticker": "420770",
+  "name": "기가비스",
+  "market": "KOSDAQ",
+  "bps": 16227,
+  "per": 97.96,
+  "eps": 269,
+  "pbr": 1.62,
+  "roe": 1.6577309422567326,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:09:23.285336"
+}

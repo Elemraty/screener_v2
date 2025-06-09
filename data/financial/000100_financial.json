@@ -1,0 +1,23 @@
+{
+  "ticker": "000100",
+  "name": "유한양행",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 491563987277,
+  "operating_profit": 6419671960,
+  "net_income": 10008638224,
+  "total_assets": 2990618974058,
+  "total_debt": 868501166171,
+  "total_equity": 2122117807887,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 10.564827008341737,
+  "operating_profit_yoy": 1012.3311770552208,
+  "net_income_yoy": -7.4276516591120885,
+  "debt_ratio": 40.92615230611394,
+  "operating_margin": 1.3059687296381348,
+  "net_margin": 2.036080445893213,
+  "roe": 1.886537719405057,
+  "cached_at": "2025-06-09T16:02:50.382708"
+}

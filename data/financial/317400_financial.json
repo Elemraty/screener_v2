@@ -1,0 +1,13 @@
+{
+  "ticker": "317400",
+  "name": "자이에스앤디",
+  "market": "KOSPI",
+  "bps": 11167,
+  "per": 1201.67,
+  "eps": 3,
+  "pbr": 0.32,
+  "roe": 0.02686486970538193,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:03:21.542327"
+}

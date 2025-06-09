@@ -1,0 +1,23 @@
+{
+  "ticker": "282330",
+  "name": "BGF리테일",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2016470142403,
+  "operating_profit": 22625658073,
+  "net_income": 13360723881,
+  "total_assets": 3346641830138,
+  "total_debt": 2219280946912,
+  "total_equity": 1127360883226,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 3.2065442752095885,
+  "operating_profit_yoy": -30.65143370693709,
+  "net_income_yoy": -42.90762016230353,
+  "debt_ratio": 196.85630217729533,
+  "operating_margin": 1.1220428012902444,
+  "net_margin": 0.6625798022021891,
+  "roe": 4.740531299176396,
+  "cached_at": "2025-06-09T15:55:43.045812"
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "215790",
+  "name": "이노인스트루먼트",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 10837390085,
+  "operating_profit": -5213359961,
+  "net_income": -4042032742,
+  "total_assets": 77479285688,
+  "total_debt": 37028627651,
+  "total_equity": 40450658037,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 5.3300273225557415,
+  "debt_ratio": 91.540235555946,
+  "operating_margin": -48.10530875155815,
+  "net_margin": -37.29710484071774,
+  "roe": -39.97000729434635,
+  "cached_at": "2025-06-09T16:32:03.209447"
+}

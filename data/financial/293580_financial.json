@@ -1,0 +1,21 @@
+{
+  "ticker": "293580",
+  "name": "나우IB",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 14089461547,
+  "operating_profit": 8823677119,
+  "net_income": 7077906833,
+  "total_assets": 179329100074,
+  "total_debt": 73423358266,
+  "total_equity": 105905741808,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 254.67971120555092,
+  "debt_ratio": 69.32896839447254,
+  "operating_margin": 62.6260775797978,
+  "net_margin": 50.235467192194186,
+  "roe": 26.732853997026034,
+  "cached_at": "2025-06-09T16:09:43.225693"
+}

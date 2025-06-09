@@ -1,0 +1,21 @@
+{
+  "ticker": "214610",
+  "name": "더바이오메드",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2425869637,
+  "operating_profit": -2188316975,
+  "net_income": 0,
+  "total_assets": 50133615587,
+  "total_debt": 26912711885,
+  "total_equity": 23220903702,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -1.916296329101641,
+  "debt_ratio": 115.89864128622189,
+  "operating_margin": -90.207525648667,
+  "net_margin": 0.0,
+  "roe": 0.0,
+  "cached_at": "2025-06-09T16:11:37.280208"
+}

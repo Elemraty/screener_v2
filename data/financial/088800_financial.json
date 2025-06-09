@@ -1,0 +1,21 @@
+{
+  "ticker": "088800",
+  "name": "에이스테크",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 53018060875,
+  "operating_profit": -1906486069,
+  "net_income": -3429770019,
+  "total_assets": 297527509903,
+  "total_debt": 198124516614,
+  "total_equity": 99402993289,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 73.25085439830438,
+  "debt_ratio": 199.31443717995623,
+  "operating_margin": -3.595918140980104,
+  "net_margin": -6.469059717378809,
+  "roe": -13.801475812819575,
+  "cached_at": "2025-06-09T16:23:13.995377"
+}

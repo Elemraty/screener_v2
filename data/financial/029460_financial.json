@@ -1,0 +1,23 @@
+{
+  "ticker": "029460",
+  "name": "케이씨",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 236738436172,
+  "operating_profit": 25542758527,
+  "net_income": 26545224338,
+  "total_assets": 1089846426572,
+  "total_debt": 203544107687,
+  "total_equity": 886302318885,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 16.515054820258747,
+  "operating_profit_yoy": 139.4890338986607,
+  "net_income_yoy": 60.08070266935346,
+  "debt_ratio": 22.965539336855823,
+  "operating_margin": 10.789442956547267,
+  "net_margin": 11.21289164836496,
+  "roe": 11.980212066417627,
+  "cached_at": "2025-06-09T16:03:51.424852"
+}

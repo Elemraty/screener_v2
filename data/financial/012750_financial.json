@@ -1,0 +1,23 @@
+{
+  "ticker": "012750",
+  "name": "에스원",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 674118164316,
+  "operating_profit": 55050914109,
+  "net_income": 42025088320,
+  "total_assets": 2311067182045,
+  "total_debt": 699476729035,
+  "total_equity": 1611590453010,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 1.7045781156389994,
+  "operating_profit_yoy": 12.818384834375474,
+  "net_income_yoy": 3.36587045636334,
+  "debt_ratio": 43.402883637624754,
+  "operating_margin": 8.166359701174631,
+  "net_margin": 6.23408336172652,
+  "roe": 10.43071165915854,
+  "cached_at": "2025-06-09T16:02:14.936744"
+}

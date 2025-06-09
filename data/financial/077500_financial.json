@@ -1,0 +1,23 @@
+{
+  "ticker": "077500",
+  "name": "유니퀘스트",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 176863906109,
+  "operating_profit": 9856330136,
+  "net_income": 6445102729,
+  "total_assets": 509725932423,
+  "total_debt": 273968586192,
+  "total_equity": 235757346231,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 2.7234348505627226,
+  "operating_profit_yoy": 15.770877120065553,
+  "net_income_yoy": 18.003057439596404,
+  "debt_ratio": 116.20786820511621,
+  "operating_margin": 5.572833006371358,
+  "net_margin": 3.6441028985461443,
+  "roe": 10.935146381712242,
+  "cached_at": "2025-06-09T16:02:43.773875"
+}

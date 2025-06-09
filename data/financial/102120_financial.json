@@ -1,0 +1,21 @@
+{
+  "ticker": "102120",
+  "name": "어보브반도체",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 61745605469,
+  "operating_profit": 4169042491,
+  "net_income": 4363666723,
+  "total_assets": 301553587826,
+  "total_debt": 144799594308,
+  "total_equity": 156753993518,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 0.5643912797075323,
+  "debt_ratio": 92.37378331377103,
+  "operating_margin": 6.751966329155374,
+  "net_margin": 7.067169703584529,
+  "roe": 11.13506999105301,
+  "cached_at": "2025-06-09T16:22:14.841101"
+}

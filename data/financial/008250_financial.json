@@ -1,0 +1,22 @@
+{
+  "ticker": "008250",
+  "name": "이건산업",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 77536615196,
+  "operating_profit": 881323773,
+  "net_income": -1154185619,
+  "total_assets": 439242713811,
+  "total_debt": 239425884654,
+  "total_equity": 199816829157,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 2.385767349471357,
+  "operating_profit_yoy": -47.55029847235072,
+  "debt_ratio": 119.8226824357614,
+  "operating_margin": 1.1366549478232397,
+  "net_margin": -1.488568486104798,
+  "roe": -2.3104873075393138,
+  "cached_at": "2025-06-09T16:02:53.727993"
+}

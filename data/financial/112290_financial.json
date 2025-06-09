@@ -1,0 +1,21 @@
+{
+  "ticker": "112290",
+  "name": "와이씨켐",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 18937120994,
+  "operating_profit": -1283093330,
+  "net_income": -1806411220,
+  "total_assets": 127126285703,
+  "total_debt": 79741120537,
+  "total_equity": 47385165166,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 19.130899110093758,
+  "debt_ratio": 168.28287979508022,
+  "operating_margin": -6.775545925943721,
+  "net_margin": -9.538996030982428,
+  "roe": -15.248748959061507,
+  "cached_at": "2025-06-09T16:26:25.376422"
+}

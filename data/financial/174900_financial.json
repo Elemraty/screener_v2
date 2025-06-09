@@ -1,0 +1,21 @@
+{
+  "ticker": "174900",
+  "name": "앱클론",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 412642287,
+  "operating_profit": -5759636201,
+  "net_income": -5978293002,
+  "total_assets": 32960629371,
+  "total_debt": 9334013823,
+  "total_equity": 23626615548,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -5.632120074137282,
+  "debt_ratio": 39.50635165682935,
+  "operating_margin": -1395.7939800290028,
+  "net_margin": -1448.7834112842631,
+  "roe": -101.21285445821823,
+  "cached_at": "2025-06-09T16:22:10.653066"
+}

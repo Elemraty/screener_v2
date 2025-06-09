@@ -1,0 +1,23 @@
+{
+  "ticker": "001500",
+  "name": "현대차증권",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 425447000000,
+  "operating_profit": 27100000000,
+  "net_income": 19286000000,
+  "total_assets": 13594375000000,
+  "total_debt": 12127716000000,
+  "total_equity": 1466659000000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -10.226392719308052,
+  "operating_profit_yoy": 106.24048706240488,
+  "net_income_yoy": 89.33830748085607,
+  "debt_ratio": 826.8940496734414,
+  "operating_margin": 6.369771087820575,
+  "net_margin": 4.53311458301504,
+  "roe": 5.2598456764660355,
+  "cached_at": "2025-06-09T16:05:47.018177"
+}

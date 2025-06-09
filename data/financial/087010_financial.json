@@ -1,0 +1,21 @@
+{
+  "ticker": "087010",
+  "name": "펩트론",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1620246555,
+  "operating_profit": -4352570259,
+  "net_income": -3321703406,
+  "total_assets": 164845678485,
+  "total_debt": 16458816931,
+  "total_equity": 148386861554,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 239.48418986237354,
+  "debt_ratio": 11.091828992562398,
+  "operating_margin": -268.6362915303344,
+  "net_margin": -205.01221840277265,
+  "roe": -8.954171201447473,
+  "cached_at": "2025-06-09T16:38:34.452684"
+}

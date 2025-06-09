@@ -1,0 +1,23 @@
+{
+  "ticker": "010060",
+  "name": "OCI홀딩스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 948132888000,
+  "operating_profit": 48710926000,
+  "net_income": -14940516000,
+  "total_assets": 7966385578000,
+  "total_debt": 3195458874000,
+  "total_equity": 4770926704000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 9.64076270102112,
+  "operating_profit_yoy": -50.92919657903923,
+  "net_income_yoy": -107.79645651704739,
+  "debt_ratio": 66.97773980306364,
+  "operating_margin": 5.137563164036137,
+  "net_margin": -1.5757829086084818,
+  "roe": -1.2526301011896661,
+  "cached_at": "2025-06-09T15:57:20.300186"
+}

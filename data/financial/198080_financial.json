@@ -1,0 +1,23 @@
+{
+  "ticker": "198080",
+  "name": "엔피디",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 72864569469,
+  "operating_profit": 7221687512,
+  "net_income": 5869615739,
+  "total_assets": 217598638973,
+  "total_debt": 95043510650,
+  "total_equity": 122555128323,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 0.6129930187862787,
+  "operating_profit_yoy": 41.26583142269842,
+  "net_income_yoy": 33.351729602214284,
+  "debt_ratio": 77.55163896488135,
+  "operating_margin": 9.911109836547439,
+  "net_margin": 8.055514198155263,
+  "roe": 19.157470827431528,
+  "cached_at": "2025-06-09T16:24:35.772968"
+}

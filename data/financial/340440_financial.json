@@ -1,0 +1,13 @@
+{
+  "ticker": "340440",
+  "name": "세림B&G",
+  "market": "KOSDAQ",
+  "bps": 1198,
+  "per": 16.21,
+  "eps": 82,
+  "pbr": 1.11,
+  "roe": 6.844741235392321,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:17:59.142750"
+}

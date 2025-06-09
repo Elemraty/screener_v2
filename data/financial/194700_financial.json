@@ -1,0 +1,23 @@
+{
+  "ticker": "194700",
+  "name": "노바렉스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 90706472156,
+  "operating_profit": 8418578655,
+  "net_income": 7225321095,
+  "total_assets": 303849575373,
+  "total_debt": 79901629443,
+  "total_equity": 223947945930,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 60.39884133760398,
+  "operating_profit_yoy": 136.27609787659196,
+  "net_income_yoy": 86.63642853314775,
+  "debt_ratio": 35.67866144571608,
+  "operating_margin": 9.281122344303556,
+  "net_margin": 7.9656069994362175,
+  "roe": 12.905358100062122,
+  "cached_at": "2025-06-09T16:10:22.757778"
+}

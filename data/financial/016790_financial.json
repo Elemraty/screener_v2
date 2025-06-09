@@ -1,0 +1,21 @@
+{
+  "ticker": "016790",
+  "name": "현대사료",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 27829206876,
+  "operating_profit": 3079198187,
+  "net_income": 2844168346,
+  "total_assets": 109241705534,
+  "total_debt": 25714150577,
+  "total_equity": 83527554957,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -20.970343628853925,
+  "debt_ratio": 30.785230802263573,
+  "operating_margin": 11.064627895146774,
+  "net_margin": 10.220084096082594,
+  "roe": 13.620263863651596,
+  "cached_at": "2025-06-09T16:41:39.021616"
+}

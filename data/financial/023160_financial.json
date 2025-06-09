@@ -1,0 +1,23 @@
+{
+  "ticker": "023160",
+  "name": "태광",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 62634581448,
+  "operating_profit": 7403807457,
+  "net_income": 10238093343,
+  "total_assets": 674702392379,
+  "total_debt": 61233389968,
+  "total_equity": 613469002411,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -14.626446600115607,
+  "operating_profit_yoy": -42.399742549280994,
+  "net_income_yoy": -38.56989216988935,
+  "debt_ratio": 9.981496983115058,
+  "operating_margin": 11.820638512842512,
+  "net_margin": 16.34575198925819,
+  "roe": 6.675540770772885,
+  "cached_at": "2025-06-09T16:37:10.499203"
+}

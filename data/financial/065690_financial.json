@@ -1,0 +1,21 @@
+{
+  "ticker": "065690",
+  "name": "파커스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 13479809846,
+  "operating_profit": -9721478084,
+  "net_income": 8414741458,
+  "total_assets": 92545857762,
+  "total_debt": 38638797738,
+  "total_equity": 53907060024,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -20.965307406785392,
+  "debt_ratio": 71.67669266474111,
+  "operating_margin": -72.11880727594055,
+  "net_margin": 62.42477864401768,
+  "roe": 62.43888243397927,
+  "cached_at": "2025-06-09T16:38:19.677664"
+}

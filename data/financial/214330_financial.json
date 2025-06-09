@@ -1,0 +1,23 @@
+{
+  "ticker": "214330",
+  "name": "금호에이치티",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 102885153281,
+  "operating_profit": 2637543854,
+  "net_income": 1562878227,
+  "total_assets": 422837717330,
+  "total_debt": 116535589616,
+  "total_equity": 306302127714,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -12.97935858237148,
+  "operating_profit_yoy": -33.39642207215297,
+  "net_income_yoy": -64.79060299724114,
+  "debt_ratio": 38.04596151052906,
+  "operating_margin": 2.563580623529168,
+  "net_margin": 1.5190512694591278,
+  "roe": 2.0409629389963473,
+  "cached_at": "2025-06-09T15:58:18.282072"
+}

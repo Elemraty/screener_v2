@@ -1,0 +1,23 @@
+{
+  "ticker": "008500",
+  "name": "일정실업",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 10004558944,
+  "operating_profit": 1151572643,
+  "net_income": 12122295412,
+  "total_assets": 44590347039,
+  "total_debt": 26291428022,
+  "total_equity": 18298919017,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -12.727166332117335,
+  "operating_profit_yoy": 91.64632611672359,
+  "net_income_yoy": 1793.8796318529573,
+  "debt_ratio": 143.67749262989156,
+  "operating_margin": 11.510478867143151,
+  "net_margin": 121.16771443752714,
+  "roe": 264.98385835224883,
+  "cached_at": "2025-06-09T16:03:17.326281"
+}

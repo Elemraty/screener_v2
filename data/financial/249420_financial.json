@@ -1,0 +1,22 @@
+{
+  "ticker": "249420",
+  "name": "일동제약",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 135977247982,
+  "operating_profit": 4194856883,
+  "net_income": 499510717,
+  "total_assets": 574454617792,
+  "total_debt": 415224876068,
+  "total_equity": 159229741724,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -10.008264896441975,
+  "operating_profit_yoy": 4274.811608657779,
+  "debt_ratio": 260.77092857923975,
+  "operating_margin": 3.084969688131425,
+  "net_margin": 0.36734874724492345,
+  "roe": 1.2548176278922165,
+  "cached_at": "2025-06-09T16:03:13.131662"
+}

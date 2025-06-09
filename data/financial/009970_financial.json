@@ -1,0 +1,23 @@
+{
+  "ticker": "009970",
+  "name": "영원무역홀딩스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1005672845770,
+  "operating_profit": 132497139872,
+  "net_income": 108690386425,
+  "total_assets": 6533066047051,
+  "total_debt": 1575292596604,
+  "total_equity": 4957773450447,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 12.69779894870775,
+  "operating_profit_yoy": 12.405586038734073,
+  "net_income_yoy": -13.615383580158868,
+  "debt_ratio": 31.77419485478848,
+  "operating_margin": 13.174974389464866,
+  "net_margin": 10.807728068045876,
+  "roe": 8.769290288179691,
+  "cached_at": "2025-06-09T16:02:26.523297"
+}

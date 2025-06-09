@@ -1,0 +1,23 @@
+{
+  "ticker": "042700",
+  "name": "한미반도체",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 147391786483,
+  "operating_profit": 69632218786,
+  "net_income": 54748867394,
+  "total_assets": 685889992173,
+  "total_debt": 164197370004,
+  "total_equity": 521692622169,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 90.63137096180644,
+  "operating_profit_yoy": 142.57290326851154,
+  "net_income_yoy": -21.33928853095034,
+  "debt_ratio": 31.473968200150047,
+  "operating_margin": 47.242943753878244,
+  "net_margin": 37.14512775806179,
+  "roe": 41.97787361176394,
+  "cached_at": "2025-06-09T16:05:02.201194"
+}

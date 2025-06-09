@@ -1,0 +1,21 @@
+{
+  "ticker": "123420",
+  "name": "위메이드플레이",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 32397146852,
+  "operating_profit": 1758378762,
+  "net_income": 4090447337,
+  "total_assets": 409703023858,
+  "total_debt": 149763643717,
+  "total_equity": 259939380141,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 6.724064292510246,
+  "debt_ratio": 57.61483451863395,
+  "operating_margin": 5.4275728971838415,
+  "net_margin": 12.625949302530884,
+  "roe": 6.294463478032765,
+  "cached_at": "2025-06-09T16:30:52.996624"
+}

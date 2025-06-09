@@ -1,0 +1,23 @@
+{
+  "ticker": "083930",
+  "name": "아바코",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 26082579703,
+  "operating_profit": -3382318422,
+  "net_income": -1050221053,
+  "total_assets": 434969221176,
+  "total_debt": 241407931556,
+  "total_equity": 193561289620,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -43.6942942588158,
+  "operating_profit_yoy": -213.16775006165756,
+  "net_income_yoy": -120.50567508730498,
+  "debt_ratio": 124.7191171488538,
+  "operating_margin": -12.967729651415455,
+  "net_margin": -4.026522932005856,
+  "roe": -2.1703121632673485,
+  "cached_at": "2025-06-09T16:20:43.593713"
+}

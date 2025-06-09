@@ -1,0 +1,22 @@
+{
+  "ticker": "002620",
+  "name": "제일파마홀딩스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 182043254689,
+  "operating_profit": 7118868706,
+  "net_income": 4611176799,
+  "total_assets": 872543636855,
+  "total_debt": 428924935821,
+  "total_equity": 443618701034,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -3.594858683503266,
+  "operating_profit_yoy": 2729.2448597457364,
+  "debt_ratio": 96.68774892069443,
+  "operating_margin": 3.9105369315450713,
+  "net_margin": 2.5330116223628645,
+  "roe": 4.157783960191154,
+  "cached_at": "2025-06-09T16:03:30.436777"
+}

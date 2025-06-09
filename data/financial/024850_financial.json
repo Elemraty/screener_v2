@@ -1,0 +1,22 @@
+{
+  "ticker": "024850",
+  "name": "HLB이노베이션",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 7549598039,
+  "operating_profit": -9825474678,
+  "net_income": -9420320925,
+  "total_assets": 291811213981,
+  "total_debt": 49507934780,
+  "total_equity": 242303279201,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 23.10545035612186,
+  "net_income_yoy": -7023.982433617091,
+  "debt_ratio": 20.432218228021274,
+  "operating_margin": -130.14566639499466,
+  "net_margin": -124.77910580584752,
+  "roe": -15.551289204279364,
+  "cached_at": "2025-06-09T16:06:48.348431"
+}

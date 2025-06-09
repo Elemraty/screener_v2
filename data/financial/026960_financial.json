@@ -1,0 +1,23 @@
+{
+  "ticker": "026960",
+  "name": "동서",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 128789889398,
+  "operating_profit": 11767385914,
+  "net_income": 44253331345,
+  "total_assets": 1738137860103,
+  "total_debt": 75409787862,
+  "total_equity": 1662728072241,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 7.359006304590743,
+  "operating_profit_yoy": 3.1960440762833997,
+  "net_income_yoy": -16.777699638181666,
+  "debt_ratio": 4.535304907696893,
+  "operating_margin": 9.13688641942629,
+  "net_margin": 34.36087378586352,
+  "roe": 10.645957588327963,
+  "cached_at": "2025-06-09T15:59:19.847184"
+}

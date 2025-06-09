@@ -1,0 +1,21 @@
+{
+  "ticker": "000180",
+  "name": "성창기업지주",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 32452337610,
+  "operating_profit": -2269274750,
+  "net_income": -1544042627,
+  "total_assets": 714519011207,
+  "total_debt": 137750305280,
+  "total_equity": 576768705927,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -14.525224556505577,
+  "debt_ratio": 23.88311013833588,
+  "operating_margin": -6.992638796228769,
+  "net_margin": -4.75787798572702,
+  "roe": -1.0708227482754067,
+  "cached_at": "2025-06-09T16:01:24.643915"
+}

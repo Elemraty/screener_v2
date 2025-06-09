@@ -1,0 +1,23 @@
+{
+  "ticker": "069330",
+  "name": "유아이디",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 12168041730,
+  "operating_profit": -191693004,
+  "net_income": -207641364,
+  "total_assets": 43625467991,
+  "total_debt": 24345051227,
+  "total_equity": 19280416764,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -17.991267766828123,
+  "operating_profit_yoy": -223.64738418863004,
+  "net_income_yoy": -221.9436904923148,
+  "debt_ratio": 126.2682831237164,
+  "operating_margin": -1.5753808891646528,
+  "net_margin": -1.7064484870072845,
+  "roe": -4.307818996686912,
+  "cached_at": "2025-06-09T16:31:24.476641"
+}

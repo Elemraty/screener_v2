@@ -1,0 +1,22 @@
+{
+  "ticker": "009730",
+  "name": "이렘",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 26662253817,
+  "operating_profit": -2886151899,
+  "net_income": -3928504950,
+  "total_assets": 129956208805,
+  "total_debt": 75792187205,
+  "total_equity": 54164021600,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -5.108351445680848,
+  "operating_profit_yoy": -1299.5885565457634,
+  "debt_ratio": 139.93087102121677,
+  "operating_margin": -10.824860939399555,
+  "net_margin": -14.734331827173452,
+  "roe": -29.01191480213131,
+  "cached_at": "2025-06-09T16:32:11.677668"
+}

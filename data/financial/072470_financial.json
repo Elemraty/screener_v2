@@ -1,0 +1,23 @@
+{
+  "ticker": "072470",
+  "name": "우리산업홀딩스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 174334398584,
+  "operating_profit": 5442971151,
+  "net_income": 2687466881,
+  "total_assets": 519534903226,
+  "total_debt": 321895700915,
+  "total_equity": 197639202311,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 11.175819255442288,
+  "operating_profit_yoy": 49.94912503363642,
+  "net_income_yoy": -37.45560862062174,
+  "debt_ratio": 162.87037042806577,
+  "operating_margin": 3.1221441065042588,
+  "net_margin": 1.5415585809963321,
+  "roe": 5.439137275551377,
+  "cached_at": "2025-06-09T16:30:04.214501"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "137400",
+  "name": "피엔티",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 151819119343,
+  "operating_profit": 14155189228,
+  "net_income": 10314301445,
+  "total_assets": 1685047457188,
+  "total_debt": 1052346702890,
+  "total_equity": 632700754298,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -25.75307382042169,
+  "operating_profit_yoy": -62.83129348686847,
+  "net_income_yoy": -69.36929513863217,
+  "debt_ratio": 166.32613375933295,
+  "operating_margin": 9.323719758918928,
+  "net_margin": 6.793809297297552,
+  "roe": 6.520808691903027,
+  "cached_at": "2025-06-09T16:39:35.772752"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "068050",
+  "name": "팬엔터테인먼트",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 10069815208,
+  "operating_profit": -616489273,
+  "net_income": -1092966573,
+  "total_assets": 119902138177,
+  "total_debt": 50847915713,
+  "total_equity": 69054222464,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -22.914016674927538,
+  "operating_profit_yoy": -243.1531056000946,
+  "net_income_yoy": -324.7553553102085,
+  "debt_ratio": 73.63476685224936,
+  "operating_margin": -6.122150806801578,
+  "net_margin": -10.853889077643538,
+  "roe": -6.331062947351529,
+  "cached_at": "2025-06-09T16:38:28.150156"
+}

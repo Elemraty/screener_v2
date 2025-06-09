@@ -1,0 +1,13 @@
+{
+  "ticker": "333430",
+  "name": "일승",
+  "market": "KOSDAQ",
+  "bps": 1237,
+  "per": 83.33,
+  "eps": 57,
+  "pbr": 3.84,
+  "roe": 4.607922392886015,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:33:16.680177"
+}

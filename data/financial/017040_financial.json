@@ -1,0 +1,23 @@
+{
+  "ticker": "017040",
+  "name": "광명전기",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 16508283536,
+  "operating_profit": -3270497280,
+  "net_income": -3606328138,
+  "total_assets": 157468382170,
+  "total_debt": 89119140971,
+  "total_equity": 68349241199,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -53.80320801522169,
+  "operating_profit_yoy": -537.221589179141,
+  "net_income_yoy": -647.1589918424424,
+  "debt_ratio": 130.38790103247538,
+  "operating_margin": -19.811249745425986,
+  "net_margin": -21.845566985420355,
+  "roe": -21.10530021833081,
+  "cached_at": "2025-06-09T15:58:07.472486"
+}

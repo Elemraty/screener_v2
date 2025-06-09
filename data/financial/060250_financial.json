@@ -1,0 +1,23 @@
+{
+  "ticker": "060250",
+  "name": "NHN KCP",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 281071276334,
+  "operating_profit": 10907327097,
+  "net_income": 9944553677,
+  "total_assets": 531186272891,
+  "total_debt": 266182742794,
+  "total_equity": 265003530097,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 4.81320164079595,
+  "operating_profit_yoy": -2.295015437971326,
+  "net_income_yoy": -20.780712200132335,
+  "debt_ratio": 100.44497999576396,
+  "operating_margin": 3.8806267361303424,
+  "net_margin": 3.5380896286188923,
+  "roe": 15.010447103644193,
+  "cached_at": "2025-06-09T16:07:49.172715"
+}

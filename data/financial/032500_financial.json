@@ -1,0 +1,21 @@
+{
+  "ticker": "032500",
+  "name": "케이엠더블유",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 26131205608,
+  "operating_profit": -7013598377,
+  "net_income": -5743133392,
+  "total_assets": 259701212591,
+  "total_debt": 121696998133,
+  "total_equity": 138004214458,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 32.393559781396085,
+  "debt_ratio": 88.18353744554453,
+  "operating_margin": -26.839934146983275,
+  "net_margin": -21.978065146147543,
+  "roe": -16.64625508592089,
+  "cached_at": "2025-06-09T16:35:37.195305"
+}

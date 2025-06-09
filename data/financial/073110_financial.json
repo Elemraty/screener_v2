@@ -1,0 +1,23 @@
+{
+  "ticker": "073110",
+  "name": "엘엠에스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 14733016793,
+  "operating_profit": -1449540395,
+  "net_income": -1589547359,
+  "total_assets": 148698516565,
+  "total_debt": 76432519324,
+  "total_equity": 72265997241,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -37.49096968499877,
+  "operating_profit_yoy": -130.37840095383785,
+  "net_income_yoy": -131.14738078927545,
+  "debt_ratio": 105.76553599489544,
+  "operating_margin": -9.83872084968172,
+  "net_margin": -10.789014777714982,
+  "roe": -8.798314115552937,
+  "cached_at": "2025-06-09T16:24:40.649211"
+}

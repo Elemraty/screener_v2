@@ -1,0 +1,13 @@
+{
+  "ticker": "383930",
+  "name": "디티앤씨알오",
+  "market": "KOSDAQ",
+  "bps": 2245,
+  "per": 0.0,
+  "eps": 0,
+  "pbr": 2.07,
+  "roe": 0.0,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:12:59.610088"
+}

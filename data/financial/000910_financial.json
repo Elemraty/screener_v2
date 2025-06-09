@@ -1,0 +1,21 @@
+{
+  "ticker": "000910",
+  "name": "유니온",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 50419319975,
+  "operating_profit": 1043294158,
+  "net_income": 3500073993,
+  "total_assets": 306123370391,
+  "total_debt": 203049927955,
+  "total_equity": 103073442436,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -7.699153937908399,
+  "debt_ratio": 196.9953881001666,
+  "operating_margin": 2.0692348855901046,
+  "net_margin": 6.941930186157771,
+  "roe": 13.582835346450192,
+  "cached_at": "2025-06-09T16:02:42.200855"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "131220",
+  "name": "대한과학",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 15699887414,
+  "operating_profit": 928059434,
+  "net_income": 824457841,
+  "total_assets": 67960284651,
+  "total_debt": 14958817693,
+  "total_equity": 53001466958,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 12.886333656622039,
+  "operating_profit_yoy": 9.23583382359583,
+  "net_income_yoy": 8.052606955585473,
+  "debt_ratio": 28.223403146282404,
+  "operating_margin": 5.911248976043135,
+  "net_margin": 5.25136148597352,
+  "roe": 6.22215110878592,
+  "cached_at": "2025-06-09T16:11:27.263179"
+}

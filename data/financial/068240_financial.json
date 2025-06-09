@@ -1,0 +1,23 @@
+{
+  "ticker": "068240",
+  "name": "다원시스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 43974585683,
+  "operating_profit": -14215729785,
+  "net_income": -19430652879,
+  "total_assets": 756026477999,
+  "total_debt": 517525819547,
+  "total_equity": 238500658452,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -18.797403636084688,
+  "operating_profit_yoy": -750.8820608544813,
+  "net_income_yoy": -277.40739930742427,
+  "debt_ratio": 216.99135881050654,
+  "operating_margin": -32.32714888430573,
+  "net_margin": -44.18609653100526,
+  "roe": -32.588007102564134,
+  "cached_at": "2025-06-09T16:10:48.468335"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "000890",
+  "name": "보해양조",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 20521153537,
+  "operating_profit": 974364338,
+  "net_income": 759250382,
+  "total_assets": 140033191825,
+  "total_debt": 52276450823,
+  "total_equity": 87756741002,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -7.2806123256842215,
+  "operating_profit_yoy": -10.356510091874371,
+  "net_income_yoy": -34.65148352754641,
+  "debt_ratio": 59.56972675387821,
+  "operating_margin": 4.748097304779695,
+  "net_margin": 3.6998426069521786,
+  "roe": 3.4607045491021435,
+  "cached_at": "2025-06-09T16:00:31.646254"
+}

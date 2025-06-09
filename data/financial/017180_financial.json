@@ -1,0 +1,21 @@
+{
+  "ticker": "017180",
+  "name": "명문제약",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 45874936288,
+  "operating_profit": -911561309,
+  "net_income": -2172670142,
+  "total_assets": 258906219593,
+  "total_debt": 157970505981,
+  "total_equity": 100935713612,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 3.7169057310585174,
+  "debt_ratio": 156.50605749739236,
+  "operating_margin": -1.9870573841831076,
+  "net_margin": -4.736072282171929,
+  "roe": -8.610114554108414,
+  "cached_at": "2025-06-09T16:00:08.051218"
+}

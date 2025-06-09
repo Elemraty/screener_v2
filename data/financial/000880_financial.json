@@ -1,0 +1,22 @@
+{
+  "ticker": "000880",
+  "name": "한화",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 16642591000000,
+  "operating_profit": 1072563000000,
+  "net_income": 465740000000,
+  "total_assets": 258341802000000,
+  "total_debt": 220385982000000,
+  "total_equity": 37955820000000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 33.832696574368114,
+  "operating_profit_yoy": 354.91727142014923,
+  "debt_ratio": 580.6381788089416,
+  "operating_margin": 6.444687609038762,
+  "net_margin": 2.7984825199393533,
+  "roe": 4.9082327822189065,
+  "cached_at": "2025-06-09T16:05:21.581360"
+}

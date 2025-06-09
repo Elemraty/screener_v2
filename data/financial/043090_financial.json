@@ -1,0 +1,21 @@
+{
+  "ticker": "043090",
+  "name": "더테크놀로지",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2011765810,
+  "operating_profit": -1189448356,
+  "net_income": -2212518549,
+  "total_assets": 37733807934,
+  "total_debt": 9312057462,
+  "total_equity": 28421750472,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -24.116064679502223,
+  "debt_ratio": 32.763842153824676,
+  "operating_margin": -59.12459343366612,
+  "net_margin": -109.97893184197221,
+  "roe": -31.1383853880455,
+  "cached_at": "2025-06-09T16:11:41.966880"
+}

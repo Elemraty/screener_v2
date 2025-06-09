@@ -1,0 +1,20 @@
+{
+  "ticker": "289930",
+  "name": "웨이비스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 6493074074,
+  "operating_profit": -2387041375,
+  "net_income": -2275404861,
+  "total_assets": 63264710534,
+  "total_debt": 31777654941,
+  "total_equity": 31487055593,
+  "data_source": "f_data_financial",
+  "debt_ratio": 100.92291687020938,
+  "operating_margin": -36.76288531126343,
+  "net_margin": -35.04356850187999,
+  "roe": -28.9059083886631,
+  "cached_at": "2025-06-09T16:30:38.296484"
+}

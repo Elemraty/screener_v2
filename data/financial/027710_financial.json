@@ -1,0 +1,23 @@
+{
+  "ticker": "027710",
+  "name": "팜스토리",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 356387157417,
+  "operating_profit": 3684233091,
+  "net_income": 4059091948,
+  "total_assets": 966282611032,
+  "total_debt": 658536372894,
+  "total_equity": 307746238138,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -1.4193030464551004,
+  "operating_profit_yoy": -75.69837892725606,
+  "net_income_yoy": 27.881354212221822,
+  "debt_ratio": 213.98681487657964,
+  "operating_margin": 1.0337726863398637,
+  "net_margin": 1.1389557293307724,
+  "roe": 5.275894805485572,
+  "cached_at": "2025-06-09T16:38:24.954555"
+}

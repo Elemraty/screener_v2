@@ -1,0 +1,21 @@
+{
+  "ticker": "019170",
+  "name": "신풍제약",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 55409794557,
+  "operating_profit": -1763204970,
+  "net_income": -1256562957,
+  "total_assets": 336921415220,
+  "total_debt": 80267957461,
+  "total_equity": 256653457759,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 2.6002765061373223,
+  "debt_ratio": 31.27483968533647,
+  "operating_margin": -3.182117862188052,
+  "net_margin": -2.267763248440445,
+  "roe": -1.9583807176756205,
+  "cached_at": "2025-06-09T16:01:47.141684"
+}

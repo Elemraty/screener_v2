@@ -1,0 +1,23 @@
+{
+  "ticker": "010950",
+  "name": "S-Oil",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 8990533000000,
+  "operating_profit": -21541000000,
+  "net_income": -44558000000,
+  "total_assets": 24131683000000,
+  "total_debt": 15478831000000,
+  "total_equity": 8652852000000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -3.4157638259012857,
+  "operating_profit_yoy": -104.74360611839526,
+  "net_income_yoy": -126.80938370546862,
+  "debt_ratio": 178.88704209895187,
+  "operating_margin": -0.23959647331253886,
+  "net_margin": -0.4956102157680752,
+  "roe": -2.059806408337968,
+  "cached_at": "2025-06-09T15:57:22.376861"
+}

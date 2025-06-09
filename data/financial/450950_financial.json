@@ -1,0 +1,13 @@
+{
+  "ticker": "450950",
+  "name": "아스테라시스",
+  "market": "KOSDAQ",
+  "bps": 600,
+  "per": 70.46,
+  "eps": 173,
+  "pbr": 20.32,
+  "roe": 28.833333333333332,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:20:49.153523"
+}

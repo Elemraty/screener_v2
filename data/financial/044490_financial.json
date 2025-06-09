@@ -1,0 +1,23 @@
+{
+  "ticker": "044490",
+  "name": "태웅",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 85649442138,
+  "operating_profit": 942664452,
+  "net_income": 1501111227,
+  "total_assets": 832668520703,
+  "total_debt": 226737032723,
+  "total_equity": 605931487980,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -4.953185982275632,
+  "operating_profit_yoy": -85.35517325329872,
+  "net_income_yoy": -77.55290442493879,
+  "debt_ratio": 37.41958244798857,
+  "operating_margin": 1.100607813044668,
+  "net_margin": 1.7526223049782172,
+  "roe": 0.9909445254309326,
+  "cached_at": "2025-06-09T16:37:13.089766"
+}

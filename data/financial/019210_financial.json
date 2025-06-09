@@ -1,0 +1,23 @@
+{
+  "ticker": "019210",
+  "name": "와이지-원",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 141615905535,
+  "operating_profit": 9079176654,
+  "net_income": 4240466794,
+  "total_assets": 1150364042952,
+  "total_debt": 741978241018,
+  "total_equity": 408385801934,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 6.841514131959658,
+  "operating_profit_yoy": -39.904091075156835,
+  "net_income_yoy": -43.813533403410574,
+  "debt_ratio": 181.68561137635058,
+  "operating_margin": 6.4111277753021225,
+  "net_margin": 2.9943435929603117,
+  "roe": 4.153392967060407,
+  "cached_at": "2025-06-09T16:29:55.816771"
+}

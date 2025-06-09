@@ -1,0 +1,13 @@
+{
+  "ticker": "476080",
+  "name": "M83",
+  "market": "KOSDAQ",
+  "bps": 6426,
+  "per": 31.48,
+  "eps": 412,
+  "pbr": 2.02,
+  "roe": 6.411453470276999,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:07:44.933388"
+}

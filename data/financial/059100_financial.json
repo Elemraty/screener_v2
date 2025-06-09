@@ -1,0 +1,23 @@
+{
+  "ticker": "059100",
+  "name": "아이컴포넌트",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 8744354034,
+  "operating_profit": 913784434,
+  "net_income": 966147913,
+  "total_assets": 60065867100,
+  "total_debt": 19771533360,
+  "total_equity": 40294333740,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 6.313931607109202,
+  "operating_profit_yoy": 935.3912385010751,
+  "net_income_yoy": 161.16318177709533,
+  "debt_ratio": 49.067775850510934,
+  "operating_margin": 10.449993566671731,
+  "net_margin": 11.048819721198402,
+  "roe": 9.59090594954704,
+  "cached_at": "2025-06-09T16:21:23.645813"
+}

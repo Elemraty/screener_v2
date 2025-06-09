@@ -1,0 +1,22 @@
+{
+  "ticker": "024830",
+  "name": "세원물산",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 45458030115,
+  "operating_profit": -1622380259,
+  "net_income": 2150708099,
+  "total_assets": 485546263570,
+  "total_debt": 103246709448,
+  "total_equity": 382299554122,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 8.09144863402025,
+  "net_income_yoy": 11.285419096650461,
+  "debt_ratio": 27.00675643870925,
+  "operating_margin": -3.5689629640696983,
+  "net_margin": 4.731195112412759,
+  "roe": 2.2502857519040296,
+  "cached_at": "2025-06-09T16:18:04.085405"
+}

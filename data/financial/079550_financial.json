@@ -1,0 +1,23 @@
+{
+  "ticker": "079550",
+  "name": "LIG넥스원",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 907622648219,
+  "operating_profit": 113596925936,
+  "net_income": 82832206480,
+  "total_assets": 6617935592018,
+  "total_debt": 5347900423867,
+  "total_equity": 1270035168151,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 18.870891532101886,
+  "operating_profit_yoy": 69.57225286641928,
+  "net_income_yoy": 36.74363098871147,
+  "debt_ratio": 421.082861166185,
+  "operating_margin": 12.515876081200458,
+  "net_margin": 9.126282452574216,
+  "roe": 26.088161511493425,
+  "cached_at": "2025-06-09T15:56:59.833672"
+}

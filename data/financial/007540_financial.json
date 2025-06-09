@@ -1,0 +1,23 @@
+{
+  "ticker": "007540",
+  "name": "샘표",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 100587153116,
+  "operating_profit": 1203631409,
+  "net_income": 1494405277,
+  "total_assets": 487093764524,
+  "total_debt": 145579958846,
+  "total_equity": 341513805678,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 1.9255644717900644,
+  "operating_profit_yoy": -65.3444563634598,
+  "net_income_yoy": -67.10529461840842,
+  "debt_ratio": 42.627840053781505,
+  "operating_margin": 1.1966055025058095,
+  "net_margin": 1.4856820485580389,
+  "roe": 1.75033073586374,
+  "cached_at": "2025-06-09T16:01:13.613274"
+}

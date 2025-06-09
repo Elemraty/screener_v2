@@ -1,0 +1,22 @@
+{
+  "ticker": "081000",
+  "name": "일진다이아",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 30056278068,
+  "operating_profit": -2248234865,
+  "net_income": 1204613601,
+  "total_assets": 604231414536,
+  "total_debt": 66234257606,
+  "total_equity": 537997156930,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 4.781225641802056,
+  "net_income_yoy": -62.630517188072496,
+  "debt_ratio": 12.311265357600744,
+  "operating_margin": -7.4800840606862335,
+  "net_margin": 4.007860182404006,
+  "roe": 0.8956282281296404,
+  "cached_at": "2025-06-09T16:03:18.414158"
+}

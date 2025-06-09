@@ -1,0 +1,23 @@
+{
+  "ticker": "022220",
+  "name": "TKG애강",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 11178579471,
+  "operating_profit": -2043548409,
+  "net_income": -1531402729,
+  "total_assets": 160211961656,
+  "total_debt": 63762980035,
+  "total_equity": 96448981621,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -30.008234482533467,
+  "operating_profit_yoy": -921.2049013973478,
+  "net_income_yoy": -388.7506726441909,
+  "debt_ratio": 66.11057884007433,
+  "operating_margin": -18.28093108164119,
+  "net_margin": -13.699439476839052,
+  "roe": -6.351141103874819,
+  "cached_at": "2025-06-09T16:08:19.060207"
+}

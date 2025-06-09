@@ -1,0 +1,21 @@
+{
+  "ticker": "040910",
+  "name": "아이씨디",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 17452108766,
+  "operating_profit": -6958981914,
+  "net_income": -6956181409,
+  "total_assets": 196036155926,
+  "total_debt": 105896684379,
+  "total_equity": 90139471547,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 3.0759566966481744,
+  "debt_ratio": 117.48092435153,
+  "operating_margin": -39.874733806136994,
+  "net_margin": -39.858687006076615,
+  "roe": -30.86852536237889,
+  "cached_at": "2025-06-09T16:21:04.126142"
+}

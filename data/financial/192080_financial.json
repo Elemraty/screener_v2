@@ -1,0 +1,23 @@
+{
+  "ticker": "192080",
+  "name": "더블유게임즈",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 161979965731,
+  "operating_profit": 54753566142,
+  "net_income": 45797662529,
+  "total_assets": 1744959979836,
+  "total_debt": 162550426359,
+  "total_equity": 1582409553477,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 0.9338110615219941,
+  "operating_profit_yoy": -11.239275228654733,
+  "net_income_yoy": -24.22306638888805,
+  "debt_ratio": 10.272336008199071,
+  "operating_margin": 33.8026779391528,
+  "net_margin": 28.2736586110014,
+  "roe": 11.576690099821407,
+  "cached_at": "2025-06-09T15:59:11.455658"
+}

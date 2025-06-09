@@ -1,0 +1,21 @@
+{
+  "ticker": "051980",
+  "name": "중앙첨단소재",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 3340954118,
+  "operating_profit": -1626072541,
+  "net_income": -2007041215,
+  "total_assets": 119730954012,
+  "total_debt": 24340962966,
+  "total_equity": 95389991046,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -9.953237340863385,
+  "debt_ratio": 25.51731339849066,
+  "operating_margin": -48.67090308840931,
+  "net_margin": -60.073893388319796,
+  "roe": -8.416150134796187,
+  "cached_at": "2025-06-09T16:34:22.690006"
+}

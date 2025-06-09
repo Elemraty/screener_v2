@@ -1,0 +1,23 @@
+{
+  "ticker": "005670",
+  "name": "푸드웰",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 69815889185,
+  "operating_profit": 3409193207,
+  "net_income": 2001724012,
+  "total_assets": 238194943347,
+  "total_debt": 118480394329,
+  "total_equity": 119714549018,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 7.761841932502667,
+  "operating_profit_yoy": 9.104101845240088,
+  "net_income_yoy": -46.10961596860553,
+  "debt_ratio": 98.96908546277493,
+  "operating_margin": 4.883119368380784,
+  "net_margin": 2.867146770408923,
+  "roe": 6.688323277061422,
+  "cached_at": "2025-06-09T16:38:53.293294"
+}

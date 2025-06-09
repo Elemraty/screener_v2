@@ -1,0 +1,21 @@
+{
+  "ticker": "005950",
+  "name": "이수화학",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 400627912000,
+  "operating_profit": 15557000,
+  "net_income": -13816482000,
+  "total_assets": 882391894000,
+  "total_debt": 669654222000,
+  "total_equity": 212737672000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -20.91653446930636,
+  "debt_ratio": 314.7793316079909,
+  "operating_margin": 0.003883154302039744,
+  "net_margin": -3.4487067890566747,
+  "roe": -25.978439775349237,
+  "cached_at": "2025-06-09T16:02:57.928453"
+}

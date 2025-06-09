@@ -1,0 +1,23 @@
+{
+  "ticker": "122640",
+  "name": "예스티",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 25084833029,
+  "operating_profit": 2217551474,
+  "net_income": 1311846938,
+  "total_assets": 206395237660,
+  "total_debt": 79134283313,
+  "total_equity": 127260954347,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 8.271383983296253,
+  "operating_profit_yoy": -10.990497625909567,
+  "net_income_yoy": 2.473963949932312,
+  "debt_ratio": 62.18268888446811,
+  "operating_margin": 8.840208230353136,
+  "net_margin": 5.2296418974900245,
+  "roe": 4.123328933784395,
+  "cached_at": "2025-06-09T16:25:09.106055"
+}

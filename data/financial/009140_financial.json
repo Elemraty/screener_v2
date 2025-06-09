@@ -1,0 +1,22 @@
+{
+  "ticker": "009140",
+  "name": "경인전자",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 7530062194,
+  "operating_profit": 52780180,
+  "net_income": -615820644,
+  "total_assets": 81029986554,
+  "total_debt": 5780718341,
+  "total_equity": 75249268213,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 35.262050208855115,
+  "net_income_yoy": -200.43305745785486,
+  "debt_ratio": 7.682092435287401,
+  "operating_margin": 0.7009262160152617,
+  "net_margin": -8.178161456497527,
+  "roe": -3.273497051197164,
+  "cached_at": "2025-06-09T15:58:03.011566"
+}

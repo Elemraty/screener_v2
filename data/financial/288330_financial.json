@@ -1,0 +1,18 @@
+{
+  "ticker": "288330",
+  "name": "브릿지바이오테라퓨틱스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 0,
+  "operating_profit": -4978626878,
+  "net_income": -4925669916,
+  "total_assets": 28990507486,
+  "total_debt": 5342436998,
+  "total_equity": 23648070488,
+  "data_source": "f_data_financial",
+  "debt_ratio": 22.59142876249025,
+  "roe": -83.31622520322725,
+  "cached_at": "2025-06-09T16:15:46.475367"
+}

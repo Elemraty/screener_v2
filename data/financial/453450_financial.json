@@ -1,0 +1,13 @@
+{
+  "ticker": "453450",
+  "name": "그리드위즈",
+  "market": "KOSDAQ",
+  "bps": 16432,
+  "per": 0.0,
+  "eps": 0,
+  "pbr": 1.11,
+  "roe": 0.0,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:09:08.677064"
+}

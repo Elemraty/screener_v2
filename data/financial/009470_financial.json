@@ -1,0 +1,23 @@
+{
+  "ticker": "009470",
+  "name": "삼화전기",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 61704426707,
+  "operating_profit": 5737836094,
+  "net_income": 1153955440,
+  "total_assets": 185143150511,
+  "total_debt": 74575209501,
+  "total_equity": 110567941010,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 5.778786291469484,
+  "operating_profit_yoy": -25.44433274278226,
+  "net_income_yoy": -81.0566006351196,
+  "debt_ratio": 67.44740728621804,
+  "operating_margin": 9.298905119475126,
+  "net_margin": 1.8701339621539512,
+  "roe": 4.1746474772307955,
+  "cached_at": "2025-06-09T16:01:10.264997"
+}

@@ -1,0 +1,22 @@
+{
+  "ticker": "223250",
+  "name": "드림씨아이에스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 14170286886,
+  "operating_profit": 1327053313,
+  "net_income": 966015121,
+  "total_assets": 119637734047,
+  "total_debt": 41930279532,
+  "total_equity": 77707454515,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 18.75911283258691,
+  "operating_profit_yoy": 316.82770337580035,
+  "debt_ratio": 53.95914689742685,
+  "operating_margin": 9.365041961931666,
+  "net_margin": 6.8171881682537165,
+  "roe": 4.972573748705298,
+  "cached_at": "2025-06-09T16:12:25.439777"
+}

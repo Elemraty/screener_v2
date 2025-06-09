@@ -1,0 +1,23 @@
+{
+  "ticker": "002310",
+  "name": "아세아제지",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 211064951119,
+  "operating_profit": 13251675093,
+  "net_income": 11998579152,
+  "total_assets": 1052775981220,
+  "total_debt": 216895291458,
+  "total_equity": 835880689762,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -3.239169627737226,
+  "operating_profit_yoy": -8.591112421546065,
+  "net_income_yoy": -11.675841337351578,
+  "debt_ratio": 25.948116054667626,
+  "operating_margin": 6.278482060969283,
+  "net_margin": 5.6847804850532055,
+  "roe": 5.741766402291863,
+  "cached_at": "2025-06-09T16:02:05.749305"
+}

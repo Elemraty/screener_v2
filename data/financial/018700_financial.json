@@ -1,0 +1,21 @@
+{
+  "ticker": "018700",
+  "name": "바른손",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 16977558284,
+  "operating_profit": 753591516,
+  "net_income": 1600764239,
+  "total_assets": 45462007302,
+  "total_debt": 14866525836,
+  "total_equity": 30595481466,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 18.500372027246858,
+  "debt_ratio": 48.590592870783226,
+  "operating_margin": 4.438750869789092,
+  "net_margin": 9.428707074494882,
+  "roe": 20.928113071583983,
+  "cached_at": "2025-06-09T16:15:01.772665"
+}

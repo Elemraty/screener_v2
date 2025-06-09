@@ -1,0 +1,23 @@
+{
+  "ticker": "200130",
+  "name": "콜마비앤에이치",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 136729459249,
+  "operating_profit": 3580682439,
+  "net_income": 1441351931,
+  "total_assets": 690279184946,
+  "total_debt": 306452319582,
+  "total_equity": 383826865364,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -14.663868177413663,
+  "operating_profit_yoy": -62.45383180423364,
+  "net_income_yoy": -78.26960671851715,
+  "debt_ratio": 79.84128971571015,
+  "operating_margin": 2.618808308514676,
+  "net_margin": 1.054163410662755,
+  "roe": 1.5020855089266376,
+  "cached_at": "2025-06-09T16:36:29.613561"
+}

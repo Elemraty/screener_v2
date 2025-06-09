@@ -1,0 +1,23 @@
+{
+  "ticker": "293480",
+  "name": "하나제약",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 57480805572,
+  "operating_profit": 5629072045,
+  "net_income": 4240738689,
+  "total_assets": 390017447795,
+  "total_debt": 85752408488,
+  "total_equity": 304265039307,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 0.7268429871615689,
+  "operating_profit_yoy": -27.385913041209754,
+  "net_income_yoy": -30.193819817785062,
+  "debt_ratio": 28.183457647093256,
+  "operating_margin": 9.79295956099479,
+  "net_margin": 7.377660502144641,
+  "roe": 5.575058769366063,
+  "cached_at": "2025-06-09T16:04:39.657823"
+}

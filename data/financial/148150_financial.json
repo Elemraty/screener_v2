@@ -1,0 +1,23 @@
+{
+  "ticker": "148150",
+  "name": "세경하이테크",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 53946418162,
+  "operating_profit": -3148925733,
+  "net_income": 13361949978,
+  "total_assets": 341442091085,
+  "total_debt": 88081762476,
+  "total_equity": 253360328609,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -25.630564714447356,
+  "operating_profit_yoy": -131.9365028221875,
+  "net_income_yoy": 341.61569646316616,
+  "debt_ratio": 34.76541215413908,
+  "operating_margin": -5.837135884617658,
+  "net_margin": 24.76892893588289,
+  "roe": 21.09556780473066,
+  "cached_at": "2025-06-09T16:17:55.412996"
+}

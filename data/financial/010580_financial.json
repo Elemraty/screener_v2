@@ -1,0 +1,23 @@
+{
+  "ticker": "010580",
+  "name": "에스엠벡셀",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 42184204951,
+  "operating_profit": 840028571,
+  "net_income": 792601036,
+  "total_assets": 104695867347,
+  "total_debt": 36586470935,
+  "total_equity": 68109396412,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 5.840510129525134,
+  "operating_profit_yoy": -3.0057294264272283,
+  "net_income_yoy": -10.509300782971797,
+  "debt_ratio": 53.717215042818864,
+  "operating_margin": 1.9913343678653037,
+  "net_margin": 1.8789047628624582,
+  "roe": 4.654870415855595,
+  "cached_at": "2025-06-09T16:02:14.760123"
+}

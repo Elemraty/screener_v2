@@ -1,0 +1,23 @@
+{
+  "ticker": "072990",
+  "name": "에이치시티",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 25671039802,
+  "operating_profit": 1438195974,
+  "net_income": 715390407,
+  "total_assets": 168714822665,
+  "total_debt": 76518627890,
+  "total_equity": 92196194775,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 28.94157630769547,
+  "operating_profit_yoy": -18.807833462931043,
+  "net_income_yoy": -44.955535229148744,
+  "debt_ratio": 82.99542955838874,
+  "operating_margin": 5.602406389039029,
+  "net_margin": 2.786760538403531,
+  "roe": 3.103774114521203,
+  "cached_at": "2025-06-09T16:23:22.791403"
+}

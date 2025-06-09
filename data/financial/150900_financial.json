@@ -1,0 +1,21 @@
+{
+  "ticker": "150900",
+  "name": "파수",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 8432863130,
+  "operating_profit": -2714604680,
+  "net_income": -2660544678,
+  "total_assets": 46703659130,
+  "total_debt": 13823988692,
+  "total_equity": 32879670438,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 3.595388356624074,
+  "debt_ratio": 42.044182644918514,
+  "operating_margin": -32.19078310832255,
+  "net_margin": -31.549719673915778,
+  "roe": -32.36704799723455,
+  "cached_at": "2025-06-09T16:38:08.170091"
+}

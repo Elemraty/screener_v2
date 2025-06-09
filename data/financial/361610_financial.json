@@ -1,0 +1,13 @@
+{
+  "ticker": "361610",
+  "name": "SK아이이테크놀로지",
+  "market": "KOSPI",
+  "bps": 32604,
+  "per": 0.0,
+  "eps": 0,
+  "pbr": 0.65,
+  "roe": 0.0,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T15:57:37.940583"
+}

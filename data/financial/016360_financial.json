@@ -1,0 +1,20 @@
+{
+  "ticker": "016360",
+  "name": "삼성증권",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 0,
+  "operating_profit": 334641949311,
+  "net_income": 248413515879,
+  "total_assets": 67451043083644,
+  "total_debt": 60184104151859,
+  "total_equity": 7266938931785,
+  "data_source": "f_data_financial",
+  "operating_profit_yoy": 0.9094201864035645,
+  "net_income_yoy": -1.8685572925790428,
+  "debt_ratio": 828.1905863914533,
+  "roe": 13.673626169745805,
+  "cached_at": "2025-06-09T16:00:54.416965"
+}

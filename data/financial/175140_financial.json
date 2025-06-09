@@ -1,0 +1,21 @@
+{
+  "ticker": "175140",
+  "name": "휴먼테크놀로지",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 12688650307,
+  "operating_profit": -1993396590,
+  "net_income": -1689173985,
+  "total_assets": 75902202669,
+  "total_debt": 19642289315,
+  "total_equity": 56259913354,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 89.92249559304801,
+  "debt_ratio": 34.91347238913489,
+  "operating_margin": -15.710075869143425,
+  "net_margin": -13.312479610759912,
+  "roe": -12.0097873195882,
+  "cached_at": "2025-06-09T16:42:02.569974"
+}

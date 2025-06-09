@@ -1,0 +1,23 @@
+{
+  "ticker": "060380",
+  "name": "동양에스텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 43285393881,
+  "operating_profit": 489702346,
+  "net_income": 868067556,
+  "total_assets": 174574234415,
+  "total_debt": 54664257637,
+  "total_equity": 119909976778,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -7.873512724637932,
+  "operating_profit_yoy": -58.647544224147474,
+  "net_income_yoy": 45.5709037786127,
+  "debt_ratio": 45.58774766356998,
+  "operating_margin": 1.131333926049714,
+  "net_margin": 2.0054514425500836,
+  "roe": 2.8957308785310856,
+  "cached_at": "2025-06-09T16:12:08.253395"
+}

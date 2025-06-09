@@ -1,0 +1,23 @@
+{
+  "ticker": "140860",
+  "name": "파크시스템스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 50909652662,
+  "operating_profit": 13150053946,
+  "net_income": 14953670796,
+  "total_assets": 305265941169,
+  "total_debt": 104770858616,
+  "total_equity": 200495082553,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 98.3669190955497,
+  "operating_profit_yoy": 2480.616620642196,
+  "net_income_yoy": 448.42830383427474,
+  "debt_ratio": 52.25607395548182,
+  "operating_margin": 25.83017808686695,
+  "net_margin": 29.372957806804536,
+  "roe": 29.8334913865971,
+  "cached_at": "2025-06-09T16:38:20.796587"
+}

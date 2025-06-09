@@ -1,0 +1,23 @@
+{
+  "ticker": "131180",
+  "name": "딜리",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 7501646717,
+  "operating_profit": 156787783,
+  "net_income": 338444915,
+  "total_assets": 68320381320,
+  "total_debt": 4896012923,
+  "total_equity": 63424368397,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -6.280566874032589,
+  "operating_profit_yoy": -71.7857454758719,
+  "net_income_yoy": -62.78645917654689,
+  "debt_ratio": 7.719450814793741,
+  "operating_margin": 2.0900448783424097,
+  "net_margin": 4.511608287724702,
+  "roe": 2.134478740925127,
+  "cached_at": "2025-06-09T16:13:00.632746"
+}

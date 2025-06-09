@@ -1,0 +1,23 @@
+{
+  "ticker": "000020",
+  "name": "동화약품",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 125674434732,
+  "operating_profit": 2269124391,
+  "net_income": -800079071,
+  "total_assets": 625144182384,
+  "total_debt": 228101166692,
+  "total_equity": 397043015692,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 5.710259153188524,
+  "operating_profit_yoy": -65.29332209885867,
+  "net_income_yoy": -127.35289314390623,
+  "debt_ratio": 57.449988458919506,
+  "operating_margin": 1.805557666393244,
+  "net_margin": -0.6366283426745972,
+  "roe": -0.8060376728758769,
+  "cached_at": "2025-06-09T15:59:33.277111"
+}

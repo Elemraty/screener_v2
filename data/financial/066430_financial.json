@@ -1,0 +1,21 @@
+{
+  "ticker": "066430",
+  "name": "와이오엠",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 8490739572,
+  "operating_profit": -227867144,
+  "net_income": -233639465,
+  "total_assets": 50384445712,
+  "total_debt": 8828446724,
+  "total_equity": 41555998988,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -1.7245595021775362,
+  "debt_ratio": 21.24469857300113,
+  "operating_margin": -2.6837137338594137,
+  "net_margin": -2.75169745837542,
+  "roe": -2.248912028970521,
+  "cached_at": "2025-06-09T16:29:52.405290"
+}

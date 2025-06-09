@@ -1,0 +1,22 @@
+{
+  "ticker": "033310",
+  "name": "엠투엔",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 21577003488,
+  "operating_profit": 768437072,
+  "net_income": -1603802969,
+  "total_assets": 182025845510,
+  "total_debt": 38943949699,
+  "total_equity": 143081895811,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -7.421305531639888,
+  "operating_profit_yoy": -38.83456578549793,
+  "debt_ratio": 27.21794359675099,
+  "operating_margin": 3.5613706621837666,
+  "net_margin": -7.432927236128739,
+  "roe": -4.4835944055941175,
+  "cached_at": "2025-06-09T16:25:00.601541"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "052400",
+  "name": "코나아이",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 58315077057,
+  "operating_profit": 12682698116,
+  "net_income": 9012645334,
+  "total_assets": 433568800983,
+  "total_debt": 238653730040,
+  "total_equity": 194915070943,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 7.4305250245790155,
+  "operating_profit_yoy": 243.16535458929985,
+  "net_income_yoy": 71.32905813689538,
+  "debt_ratio": 122.43985489956839,
+  "operating_margin": 21.748574735832573,
+  "net_margin": 15.455086040940321,
+  "roe": 18.495533034765923,
+  "cached_at": "2025-06-09T16:35:51.920575"
+}

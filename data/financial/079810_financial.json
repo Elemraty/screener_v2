@@ -1,0 +1,23 @@
+{
+  "ticker": "079810",
+  "name": "디이엔티",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 16043415082,
+  "operating_profit": 1240742937,
+  "net_income": 1501179754,
+  "total_assets": 238451578433,
+  "total_debt": 71681162053,
+  "total_equity": 166770416380,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -62.77542695057934,
+  "operating_profit_yoy": -13.460826296915652,
+  "net_income_yoy": -71.57382772489889,
+  "debt_ratio": 42.981941047426915,
+  "operating_margin": 7.7336585175812,
+  "net_margin": 9.356983823751198,
+  "roe": 3.600590048487831,
+  "cached_at": "2025-06-09T16:12:48.013387"
+}

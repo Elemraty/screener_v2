@@ -1,0 +1,23 @@
+{
+  "ticker": "002460",
+  "name": "HS화성",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 151094894171,
+  "operating_profit": 10574679460,
+  "net_income": 6879620051,
+  "total_assets": 790675688034,
+  "total_debt": 406662202198,
+  "total_equity": 384013485836,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -19.76071200762213,
+  "operating_profit_yoy": -28.22550606846763,
+  "net_income_yoy": -37.792662975264605,
+  "debt_ratio": 105.8978960889078,
+  "operating_margin": 6.998700729114129,
+  "net_margin": 4.5531783775658665,
+  "roe": 7.166019220416721,
+  "cached_at": "2025-06-09T15:56:24.725770"
+}

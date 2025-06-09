@@ -1,0 +1,23 @@
+{
+  "ticker": "033790",
+  "name": "피노",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 55430829850,
+  "operating_profit": 53427582,
+  "net_income": -2173014226,
+  "total_assets": 138389268027,
+  "total_debt": 84491448510,
+  "total_equity": 53897819517,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 1181.9020075483302,
+  "operating_profit_yoy": -80.15966897566508,
+  "net_income_yoy": -922.5042541700617,
+  "debt_ratio": 156.76227585301555,
+  "operating_margin": 0.09638604030388695,
+  "net_margin": -3.9202267616781854,
+  "roe": -16.12691753004669,
+  "cached_at": "2025-06-09T16:39:21.660647"
+}

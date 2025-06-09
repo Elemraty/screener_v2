@@ -1,0 +1,21 @@
+{
+  "ticker": "294630",
+  "name": "서남",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 728390536,
+  "operating_profit": -817352257,
+  "net_income": -833110386,
+  "total_assets": 12681022594,
+  "total_debt": 5603797530,
+  "total_equity": 7077225064,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 75.40101952372599,
+  "debt_ratio": 79.18071672617928,
+  "operating_margin": -112.21346470102955,
+  "net_margin": -114.37688229381389,
+  "roe": -47.086838610676125,
+  "cached_at": "2025-06-09T16:17:16.666524"
+}

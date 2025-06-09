@@ -1,0 +1,23 @@
+{
+  "ticker": "049070",
+  "name": "인탑스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 161679738617,
+  "operating_profit": 255893005,
+  "net_income": 2669150474,
+  "total_assets": 924029548873,
+  "total_debt": 164832526891,
+  "total_equity": 759197021982,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -9.404516399920071,
+  "operating_profit_yoy": -95.82297320550526,
+  "net_income_yoy": -82.68532273489217,
+  "debt_ratio": 21.711429591844215,
+  "operating_margin": 0.15827153556091525,
+  "net_margin": 1.6508874252468324,
+  "roe": 1.4063018672184853,
+  "cached_at": "2025-06-09T16:33:02.507585"
+}

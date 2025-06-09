@@ -1,0 +1,21 @@
+{
+  "ticker": "253840",
+  "name": "수젠텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1888781076,
+  "operating_profit": -3969769089,
+  "net_income": -3136276292,
+  "total_assets": 105048522852,
+  "total_debt": 10834107249,
+  "total_equity": 94214415603,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -3.6342009945178666,
+  "debt_ratio": 11.49941564638333,
+  "operating_margin": -210.17624220415473,
+  "net_margin": -166.04763420448415,
+  "roe": -13.315483716273812,
+  "cached_at": "2025-06-09T16:18:48.479254"
+}

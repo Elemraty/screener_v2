@@ -1,0 +1,22 @@
+{
+  "ticker": "038530",
+  "name": "케이바이오",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 20542003217,
+  "operating_profit": 341299286,
+  "net_income": 47995377,
+  "total_assets": 120242902576,
+  "total_debt": 12972499981,
+  "total_equity": 107270402595,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 28.034909277367028,
+  "net_income_yoy": -77.61118558493175,
+  "debt_ratio": 12.09327052679922,
+  "operating_margin": 1.6614703171575305,
+  "net_margin": 0.23364506612617184,
+  "roe": 0.17896969094525286,
+  "cached_at": "2025-06-09T16:35:20.894861"
+}

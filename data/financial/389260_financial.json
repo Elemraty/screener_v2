@@ -1,0 +1,13 @@
+{
+  "ticker": "389260",
+  "name": "대명에너지",
+  "market": "KOSDAQ",
+  "bps": 7551,
+  "per": 49.67,
+  "eps": 457,
+  "pbr": 3.01,
+  "roe": 6.052178519401403,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:10:56.903554"
+}

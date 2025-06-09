@@ -1,0 +1,23 @@
+{
+  "ticker": "045300",
+  "name": "성우테크론",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 11543781871,
+  "operating_profit": 502891640,
+  "net_income": 1052454026,
+  "total_assets": 97261494489,
+  "total_debt": 25401143068,
+  "total_equity": 71860351421,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 1.8581273816265398,
+  "operating_profit_yoy": -32.15818418837652,
+  "net_income_yoy": 1.997475664929249,
+  "debt_ratio": 35.347924920635634,
+  "operating_margin": 4.356385503639426,
+  "net_margin": 9.117064388092334,
+  "roe": 5.858329413582231,
+  "cached_at": "2025-06-09T16:17:50.704135"
+}

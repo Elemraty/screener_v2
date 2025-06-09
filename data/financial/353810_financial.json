@@ -1,0 +1,13 @@
+{
+  "ticker": "353810",
+  "name": "이지바이오",
+  "market": "KOSDAQ",
+  "bps": 2538,
+  "per": 8.95,
+  "eps": 579,
+  "pbr": 2.04,
+  "roe": 22.81323877068558,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:32:37.379589"
+}

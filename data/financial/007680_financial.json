@@ -1,0 +1,22 @@
+{
+  "ticker": "007680",
+  "name": "대원",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 36595108559,
+  "operating_profit": 1359287379,
+  "net_income": 452853768,
+  "total_assets": 485700638098,
+  "total_debt": 197684626238,
+  "total_equity": 288016011860,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -57.1233481197553,
+  "operating_profit_yoy": 4856.083865461911,
+  "debt_ratio": 68.63667924618419,
+  "operating_margin": 3.7143963565745572,
+  "net_margin": 1.2374707599784607,
+  "roe": 0.6289286002892436,
+  "cached_at": "2025-06-09T16:11:16.798166"
+}

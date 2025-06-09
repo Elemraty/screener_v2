@@ -1,0 +1,23 @@
+{
+  "ticker": "261200",
+  "name": "덴티스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 32480862105,
+  "operating_profit": 1023517753,
+  "net_income": -527619354,
+  "total_assets": 214299096056,
+  "total_debt": 156278180174,
+  "total_equity": 58020915882,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 13.682232686688689,
+  "operating_profit_yoy": -28.15775299711303,
+  "net_income_yoy": -118.5020921928605,
+  "debt_ratio": 269.34800631522376,
+  "operating_margin": 3.151140969384686,
+  "net_margin": -1.6244007080057767,
+  "roe": -3.6374424359177335,
+  "cached_at": "2025-06-09T16:11:52.480368"
+}

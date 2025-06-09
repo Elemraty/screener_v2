@@ -1,0 +1,23 @@
+{
+  "ticker": "095270",
+  "name": "웨이브일렉트로",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 17209660010,
+  "operating_profit": -1002215938,
+  "net_income": -848601729,
+  "total_assets": 92629742165,
+  "total_debt": 42691971789,
+  "total_equity": 49937770376,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -11.165484124694547,
+  "operating_profit_yoy": -251.6460534507674,
+  "net_income_yoy": -141.90333150731274,
+  "debt_ratio": 85.49034421752575,
+  "operating_margin": -5.823566168173244,
+  "net_margin": -4.930961614040625,
+  "roe": -6.79727366769131,
+  "cached_at": "2025-06-09T16:30:36.730532"
+}

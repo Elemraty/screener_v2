@@ -1,0 +1,23 @@
+{
+  "ticker": "089850",
+  "name": "유비벨록스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 173965408540,
+  "operating_profit": 313985504,
+  "net_income": -1880137763,
+  "total_assets": 589368280848,
+  "total_debt": 308846925973,
+  "total_equity": 280521354875,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 41.14197964330555,
+  "operating_profit_yoy": -95.2344546638729,
+  "net_income_yoy": -138.78912776916778,
+  "debt_ratio": 110.09747408022533,
+  "operating_margin": 0.18048732022941508,
+  "net_margin": -1.080753799723178,
+  "roe": -2.6809192673945086,
+  "cached_at": "2025-06-09T16:31:16.071308"
+}

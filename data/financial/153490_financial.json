@@ -1,0 +1,23 @@
+{
+  "ticker": "153490",
+  "name": "우리이앤엘",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 32112034278,
+  "operating_profit": 602369420,
+  "net_income": 81403380,
+  "total_assets": 120619395147,
+  "total_debt": 30705600182,
+  "total_equity": 89913794965,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -6.645453579206206,
+  "operating_profit_yoy": -53.8420290078158,
+  "net_income_yoy": -96.87370150824869,
+  "debt_ratio": 34.15004359892997,
+  "operating_margin": 1.875836998631644,
+  "net_margin": 0.25349804778879914,
+  "roe": 0.3621396695876855,
+  "cached_at": "2025-06-09T16:30:07.381536"
+}

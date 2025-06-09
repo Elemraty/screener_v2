@@ -1,0 +1,23 @@
+{
+  "ticker": "272210",
+  "name": "한화시스템",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 690100705524,
+  "operating_profit": 58164352303,
+  "net_income": 40969845433,
+  "total_assets": 7212612803463,
+  "total_debt": 3799544705473,
+  "total_equity": 3413068097990,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 26.771978674548123,
+  "operating_profit_yoy": 48.13519250133089,
+  "net_income_yoy": -18.586668065572233,
+  "debt_ratio": 111.3234367550592,
+  "operating_margin": 8.428386152544977,
+  "net_margin": 5.936792283365542,
+  "roe": 4.80152686752751,
+  "cached_at": "2025-06-09T16:05:29.200639"
+}

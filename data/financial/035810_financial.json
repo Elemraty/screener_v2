@@ -1,0 +1,23 @@
+{
+  "ticker": "035810",
+  "name": "이지홀딩스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 845696915525,
+  "operating_profit": 17407667971,
+  "net_income": 7749298600,
+  "total_assets": 2777096752530,
+  "total_debt": 1590575079264,
+  "total_equity": 1186521673266,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 8.066810562695203,
+  "operating_profit_yoy": -24.047103456679952,
+  "net_income_yoy": -26.779658794885,
+  "debt_ratio": 134.0536051807473,
+  "operating_margin": 2.0583813954427748,
+  "net_margin": 0.9163210197106271,
+  "roe": 2.6124423260367116,
+  "cached_at": "2025-06-09T16:32:41.090157"
+}

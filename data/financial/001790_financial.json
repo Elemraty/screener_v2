@@ -1,0 +1,23 @@
+{
+  "ticker": "001790",
+  "name": "대한제당",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 329373127000,
+  "operating_profit": 8275925000,
+  "net_income": 38711175000,
+  "total_assets": 1250232086000,
+  "total_debt": 666512033000,
+  "total_equity": 583720053000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 1.2917134102712557,
+  "operating_profit_yoy": 52.16963206461642,
+  "net_income_yoy": 385.81363093189805,
+  "debt_ratio": 114.18350792892839,
+  "operating_margin": 2.51262908889346,
+  "net_margin": 11.752985239746046,
+  "roe": 26.527219547141378,
+  "cached_at": "2025-06-09T15:59:04.608765"
+}

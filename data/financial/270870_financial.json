@@ -1,0 +1,23 @@
+{
+  "ticker": "270870",
+  "name": "뉴트리",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 25583876261,
+  "operating_profit": 786509600,
+  "net_income": 610776833,
+  "total_assets": 132644587098,
+  "total_debt": 24325197174,
+  "total_equity": 108319389924,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -30.329021807670486,
+  "operating_profit_yoy": -88.35950372179138,
+  "net_income_yoy": -84.79901096463792,
+  "debt_ratio": 22.456918554533274,
+  "operating_margin": 3.0742393841192603,
+  "net_margin": 2.3873506374445173,
+  "roe": 2.2554662962135907,
+  "cached_at": "2025-06-09T16:10:39.555536"
+}

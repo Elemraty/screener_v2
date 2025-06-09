@@ -1,0 +1,18 @@
+{
+  "ticker": "236810",
+  "name": "엔비티",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 0,
+  "operating_profit": -1876337446,
+  "net_income": -2305263706,
+  "total_assets": 67738245983,
+  "total_debt": 44707837503,
+  "total_equity": 23030408480,
+  "data_source": "f_data_financial",
+  "debt_ratio": 194.12524767776068,
+  "roe": -40.038607356911285,
+  "cached_at": "2025-06-09T16:24:12.270303"
+}

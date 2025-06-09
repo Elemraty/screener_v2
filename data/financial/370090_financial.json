@@ -1,0 +1,13 @@
+{
+  "ticker": "370090",
+  "name": "퓨런티어",
+  "market": "KOSDAQ",
+  "bps": 5550,
+  "per": 2358.75,
+  "eps": 8,
+  "pbr": 3.4,
+  "roe": 0.14414414414414414,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:39:01.121764"
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "031860",
+  "name": "디에이치엑스컴퍼니",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 3771313041,
+  "operating_profit": -1974402085,
+  "net_income": -2664954359,
+  "total_assets": 55508906097,
+  "total_debt": 10927112808,
+  "total_equity": 44581793289,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 39.93222823590372,
+  "debt_ratio": 24.51025856489297,
+  "operating_margin": -52.35317417396007,
+  "net_margin": -70.66383325987073,
+  "roe": -23.91069683289339,
+  "cached_at": "2025-06-09T16:12:39.650035"
+}

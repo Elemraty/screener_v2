@@ -1,0 +1,23 @@
+{
+  "ticker": "108670",
+  "name": "LX하우시스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 781390000000,
+  "operating_profit": 7062000000,
+  "net_income": -2442000000,
+  "total_assets": 2373799000000,
+  "total_debt": 1517085000000,
+  "total_equity": 856714000000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -8.01310953572749,
+  "operating_profit_yoy": -78.19360815192219,
+  "net_income_yoy": -113.3830218666082,
+  "debt_ratio": 177.08184995225943,
+  "operating_margin": 0.9037740436913706,
+  "net_margin": -0.31251999641664213,
+  "roe": -1.1401704652894666,
+  "cached_at": "2025-06-09T15:57:04.028044"
+}

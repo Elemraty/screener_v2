@@ -1,0 +1,23 @@
+{
+  "ticker": "015890",
+  "name": "태경산업",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 169262069094,
+  "operating_profit": 12003703632,
+  "net_income": 6876399567,
+  "total_assets": 949574622663,
+  "total_debt": 418839230212,
+  "total_equity": 530735392451,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 7.9578451885081725,
+  "operating_profit_yoy": 16.566942546332086,
+  "net_income_yoy": 57.65102013451855,
+  "debt_ratio": 78.9167702341745,
+  "operating_margin": 7.091785948412175,
+  "net_margin": 4.062575628318226,
+  "roe": 5.182544571029235,
+  "cached_at": "2025-06-09T16:04:18.668222"
+}

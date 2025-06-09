@@ -1,0 +1,21 @@
+{
+  "ticker": "203400",
+  "name": "에이비온",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 439390433,
+  "operating_profit": -4987001767,
+  "net_income": -10438009075,
+  "total_assets": 49479566324,
+  "total_debt": 31783207015,
+  "total_equity": 17696359309,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 115.91028756790584,
+  "debt_ratio": 179.60308366272673,
+  "operating_margin": -1134.9818731715536,
+  "net_margin": -2375.5658501103503,
+  "roe": -235.9357400635835,
+  "cached_at": "2025-06-09T16:23:11.447835"
+}

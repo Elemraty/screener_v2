@@ -1,0 +1,21 @@
+{
+  "ticker": "069640",
+  "name": "한세엠케이",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 61543424363,
+  "operating_profit": -8118686225,
+  "net_income": -10778290329,
+  "total_assets": 284344922267,
+  "total_debt": 249619053539,
+  "total_equity": 34725868728,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -8.611086067497864,
+  "debt_ratio": 718.8273833959647,
+  "operating_margin": -13.191801250956987,
+  "net_margin": -17.5133094080477,
+  "roe": -124.15286613474179,
+  "cached_at": "2025-06-09T16:05:06.365138"
+}

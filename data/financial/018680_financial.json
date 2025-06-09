@@ -1,0 +1,23 @@
+{
+  "ticker": "018680",
+  "name": "서울제약",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 12888426126,
+  "operating_profit": -114766181,
+  "net_income": -164203073,
+  "total_assets": 71388587921,
+  "total_debt": 31380808411,
+  "total_equity": 40007779510,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -4.040808159751252,
+  "operating_profit_yoy": -117.06879959487313,
+  "net_income_yoy": -127.70300523611924,
+  "debt_ratio": 78.43676603735612,
+  "operating_margin": -0.8904592374431243,
+  "net_margin": -1.2740351024610437,
+  "roe": -1.6417114372364225,
+  "cached_at": "2025-06-09T16:17:28.155378"
+}

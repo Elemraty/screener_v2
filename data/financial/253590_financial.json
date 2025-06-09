@@ -1,0 +1,23 @@
+{
+  "ticker": "253590",
+  "name": "네오셈",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 14875063137,
+  "operating_profit": 1523600595,
+  "net_income": 1760337764,
+  "total_assets": 135946118335,
+  "total_debt": 20884706619,
+  "total_equity": 115061411716,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -47.72291829504399,
+  "operating_profit_yoy": -41.32401089202469,
+  "net_income_yoy": -50.47584866113588,
+  "debt_ratio": 18.15092158833286,
+  "operating_margin": 10.242649600660986,
+  "net_margin": 11.834153225349096,
+  "roe": 6.119645979470333,
+  "cached_at": "2025-06-09T16:09:55.037090"
+}

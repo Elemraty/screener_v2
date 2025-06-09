@@ -1,0 +1,13 @@
+{
+  "ticker": "313760",
+  "name": "캐리",
+  "market": "KOSDAQ",
+  "bps": 2581,
+  "per": 0.0,
+  "eps": 0,
+  "pbr": 1.93,
+  "roe": 0.0,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:35:06.198610"
+}

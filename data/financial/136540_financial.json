@@ -1,0 +1,23 @@
+{
+  "ticker": "136540",
+  "name": "윈스테크넷",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 18299680428,
+  "operating_profit": 2446795099,
+  "net_income": 2830869141,
+  "total_assets": 200962921264,
+  "total_debt": 26902415240,
+  "total_equity": 174060506024,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -22.930864911972716,
+  "operating_profit_yoy": -50.629648345301746,
+  "net_income_yoy": -41.802043030455884,
+  "debt_ratio": 15.455783655076019,
+  "operating_margin": 13.370698513708493,
+  "net_margin": 15.469500421813596,
+  "roe": 6.50548296259617,
+  "cached_at": "2025-06-09T16:30:59.317985"
+}

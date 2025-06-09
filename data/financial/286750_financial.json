@@ -1,0 +1,23 @@
+{
+  "ticker": "286750",
+  "name": "나노실리칸첨단소재",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1021545047,
+  "operating_profit": -796158587,
+  "net_income": -1305624770,
+  "total_assets": 28191093861,
+  "total_debt": 13140275445,
+  "total_equity": 15050818416,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -72.93978233879189,
+  "operating_profit_yoy": -341.65589599910174,
+  "net_income_yoy": -147.0124087262318,
+  "debt_ratio": 87.30605261326542,
+  "operating_margin": -77.9367086491292,
+  "net_margin": -127.80882975589425,
+  "roe": -34.69910363444518,
+  "cached_at": "2025-06-09T16:09:31.196636"
+}

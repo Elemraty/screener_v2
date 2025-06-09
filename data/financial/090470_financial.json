@@ -1,0 +1,22 @@
+{
+  "ticker": "090470",
+  "name": "제이스텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2657114157,
+  "operating_profit": -5620271577,
+  "net_income": -5063850542,
+  "total_assets": 196879459173,
+  "total_debt": 39834520081,
+  "total_equity": 157044939092,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -84.78754566330038,
+  "net_income_yoy": -982.0262388429816,
+  "debt_ratio": 25.365045388482184,
+  "operating_margin": -211.51788161580293,
+  "net_margin": -190.57707884546866,
+  "roe": -12.89783821440689,
+  "cached_at": "2025-06-09T16:33:50.199481"
+}

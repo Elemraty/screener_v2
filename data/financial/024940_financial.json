@@ -1,0 +1,23 @@
+{
+  "ticker": "024940",
+  "name": "PN풍년",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 15305267791,
+  "operating_profit": 782617877,
+  "net_income": 837880448,
+  "total_assets": 58601877762,
+  "total_debt": 8769190700,
+  "total_equity": 49832687062,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 9.185596013932695,
+  "operating_profit_yoy": 11.355027546151518,
+  "net_income_yoy": 10.349018595233916,
+  "debt_ratio": 17.59726640686603,
+  "operating_margin": 5.11338898271486,
+  "net_margin": 5.474457941158672,
+  "roe": 6.725549011294856,
+  "cached_at": "2025-06-09T16:07:53.392353"
+}

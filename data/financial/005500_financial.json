@@ -1,0 +1,23 @@
+{
+  "ticker": "005500",
+  "name": "삼진제약",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 70858720896,
+  "operating_profit": 4838794188,
+  "net_income": 3722214899,
+  "total_assets": 425085167733,
+  "total_debt": 173030892499,
+  "total_equity": 252054275234,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -2.342699567997941,
+  "operating_profit_yoy": -12.0464386549609,
+  "net_income_yoy": 20.11238187966471,
+  "debt_ratio": 68.64826725845576,
+  "operating_margin": 6.828791328454748,
+  "net_margin": 5.253008877288554,
+  "roe": 5.907005378971497,
+  "cached_at": "2025-06-09T16:01:08.162322"
+}

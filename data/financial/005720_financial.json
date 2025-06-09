@@ -1,0 +1,23 @@
+{
+  "ticker": "005720",
+  "name": "넥센",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 867367024433,
+  "operating_profit": 48875157597,
+  "net_income": 46214357579,
+  "total_assets": 5625249467235,
+  "total_debt": 3152989598781,
+  "total_equity": 2472259868454,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 13.580525197673389,
+  "operating_profit_yoy": -7.212555746181437,
+  "net_income_yoy": -6.397569602043729,
+  "debt_ratio": 127.53471586919731,
+  "operating_margin": 5.634887679635944,
+  "net_margin": 5.328120193318445,
+  "roe": 7.477265342320123,
+  "cached_at": "2025-06-09T15:58:29.266957"
+}

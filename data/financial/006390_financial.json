@@ -1,0 +1,23 @@
+{
+  "ticker": "006390",
+  "name": "한일현대시멘트",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 101108957750,
+  "operating_profit": 10921899165,
+  "net_income": 7904443964,
+  "total_assets": 925948796117,
+  "total_debt": 503787988454,
+  "total_equity": 422160807663,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -7.419018255951382,
+  "operating_profit_yoy": 90.79133252121996,
+  "net_income_yoy": 1.931731999381192,
+  "debt_ratio": 119.3355658103063,
+  "operating_margin": 10.80210834731901,
+  "net_margin": 7.817748436834224,
+  "roe": 7.4895099881559,
+  "cached_at": "2025-06-09T16:05:16.341987"
+}

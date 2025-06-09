@@ -1,0 +1,23 @@
+{
+  "ticker": "093190",
+  "name": "빅솔론",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 27678630182,
+  "operating_profit": 1136673111,
+  "net_income": 1658875781,
+  "total_assets": 236821250918,
+  "total_debt": 28168567324,
+  "total_equity": 208652683594,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 9.220895785571281,
+  "operating_profit_yoy": 31.67313926639799,
+  "net_income_yoy": 16.672367266528433,
+  "debt_ratio": 13.500218084331417,
+  "operating_margin": 4.106681232148556,
+  "net_margin": 5.99334493828673,
+  "roe": 3.1801666816380263,
+  "cached_at": "2025-06-09T16:16:23.932702"
+}

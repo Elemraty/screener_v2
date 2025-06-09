@@ -1,0 +1,19 @@
+{
+  "ticker": "023460",
+  "name": "CNH",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 52096537666,
+  "operating_profit": 537410465,
+  "net_income": -912619011,
+  "total_assets": 199351696466,
+  "total_debt": 214653356574,
+  "total_equity": -15301660108,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -8.654270575314982,
+  "operating_margin": 1.031566566756187,
+  "net_margin": -1.751784383159894,
+  "cached_at": "2025-06-09T16:06:19.527048"
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "060590",
+  "name": "씨티씨바이오",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 34096917885,
+  "operating_profit": 916455556,
+  "net_income": 635150790,
+  "total_assets": 148813777912,
+  "total_debt": 78560019822,
+  "total_equity": 70253758090,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 2.723286890800436,
+  "debt_ratio": 111.82322762201431,
+  "operating_margin": 2.687795885513656,
+  "net_margin": 1.862780654081984,
+  "roe": 3.6163234951008727,
+  "cached_at": "2025-06-09T16:20:31.246359"
+}

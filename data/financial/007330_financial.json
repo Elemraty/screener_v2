@@ -1,0 +1,19 @@
+{
+  "ticker": "007330",
+  "name": "푸른저축은행",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 0,
+  "operating_profit": -2476576368,
+  "net_income": -2137452613,
+  "total_assets": 1405310997008,
+  "total_debt": 1100561730638,
+  "total_equity": 304749266370,
+  "data_source": "f_data_financial",
+  "net_income_yoy": -351.62866043748375,
+  "debt_ratio": 361.13679410856855,
+  "roe": -2.805522898821212,
+  "cached_at": "2025-06-09T16:38:56.468662"
+}

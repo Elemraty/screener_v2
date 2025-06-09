@@ -1,0 +1,21 @@
+{
+  "ticker": "117730",
+  "name": "티로보틱스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 12691515284,
+  "operating_profit": 292627788,
+  "net_income": -4726878461,
+  "total_assets": 106829830383,
+  "total_debt": 72592525843,
+  "total_equity": 34237304540,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -17.645956610406376,
+  "debt_ratio": 212.02757290133331,
+  "operating_margin": 2.3056962187085053,
+  "net_margin": -37.24439797160473,
+  "roe": -55.22489021269196,
+  "cached_at": "2025-06-09T16:37:36.759350"
+}

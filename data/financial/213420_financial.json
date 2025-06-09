@@ -1,0 +1,23 @@
+{
+  "ticker": "213420",
+  "name": "덕산네오룩스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 37944208508,
+  "operating_profit": 9898148958,
+  "net_income": 8196379839,
+  "total_assets": 620245572295,
+  "total_debt": 207776808817,
+  "total_equity": 412468763478,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -27.70231160243518,
+  "operating_profit_yoy": -3.617707760404565,
+  "net_income_yoy": -4.907868971463259,
+  "debt_ratio": 50.37395003320834,
+  "operating_margin": 26.086059894787674,
+  "net_margin": 21.601135354482118,
+  "roe": 7.9486065998179996,
+  "cached_at": "2025-06-09T16:11:43.545035"
+}

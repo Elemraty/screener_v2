@@ -1,0 +1,23 @@
+{
+  "ticker": "293490",
+  "name": "카카오게임즈",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 122854093781,
+  "operating_profit": -12440478072,
+  "net_income": -33427927058,
+  "total_assets": 3157207996631,
+  "total_debt": 1711437497635,
+  "total_equity": 1445770498996,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -50.115608024758416,
+  "operating_profit_yoy": -201.442771097211,
+  "net_income_yoy": -8967.030447013398,
+  "debt_ratio": 118.3754613075512,
+  "operating_margin": -10.126221836918536,
+  "net_margin": -27.209453123791466,
+  "roe": -9.248473967677075,
+  "cached_at": "2025-06-09T16:35:02.060639"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "083450",
+  "name": "GST",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 74757521252,
+  "operating_profit": 9595567680,
+  "net_income": 7918177172,
+  "total_assets": 342412894462,
+  "total_debt": 71890957975,
+  "total_equity": 270521936487,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -1.2595419316619894,
+  "operating_profit_yoy": 12.235835839812093,
+  "net_income_yoy": 0.4994560165368256,
+  "debt_ratio": 26.574908825722805,
+  "operating_margin": 12.835588338535619,
+  "net_margin": 10.591813424777193,
+  "roe": 11.708000134592426,
+  "cached_at": "2025-06-09T16:06:39.983488"
+}

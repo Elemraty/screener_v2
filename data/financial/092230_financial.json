@@ -1,0 +1,23 @@
+{
+  "ticker": "092230",
+  "name": "KPX홀딩스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 295706279276,
+  "operating_profit": 13254077020,
+  "net_income": -14325172731,
+  "total_assets": 2001606681861,
+  "total_debt": 489823523916,
+  "total_equity": 1511783157945,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 1.6091437701910127,
+  "operating_profit_yoy": -26.632428433071897,
+  "net_income_yoy": -161.13810184208967,
+  "debt_ratio": 32.40038237903297,
+  "operating_margin": 4.482176385449425,
+  "net_margin": -4.8443924715002336,
+  "roe": -3.790271813974306,
+  "cached_at": "2025-06-09T15:56:46.745519"
+}

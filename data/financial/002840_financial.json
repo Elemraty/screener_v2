@@ -1,0 +1,23 @@
+{
+  "ticker": "002840",
+  "name": "미원상사",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 108230956514,
+  "operating_profit": 13487007965,
+  "net_income": 13075591553,
+  "total_assets": 484294916058,
+  "total_debt": 79561251542,
+  "total_equity": 404733664516,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 4.13323445430247,
+  "operating_profit_yoy": -15.464495029622649,
+  "net_income_yoy": 53.29387880280847,
+  "debt_ratio": 19.657680721257318,
+  "operating_margin": 12.461321972383582,
+  "net_margin": 12.081193749136489,
+  "roe": 12.922662678565592,
+  "cached_at": "2025-06-09T16:00:25.199722"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "000680",
+  "name": "LS네트웍스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 444191111927,
+  "operating_profit": 18027899416,
+  "net_income": 1791321356,
+  "total_assets": 10034987611860,
+  "total_debt": 9114598907526,
+  "total_equity": 920388704334,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 15.706172539964157,
+  "operating_profit_yoy": 0.18805847532621378,
+  "net_income_yoy": -70.27931229205903,
+  "debt_ratio": 990.2988666208579,
+  "operating_margin": 4.058590757881434,
+  "net_margin": 0.40327717234792226,
+  "roe": 0.7785064495315437,
+  "cached_at": "2025-06-09T15:57:01.929618"
+}

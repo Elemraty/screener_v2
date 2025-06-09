@@ -1,0 +1,23 @@
+{
+  "ticker": "010240",
+  "name": "흥국",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 33298260696,
+  "operating_profit": 3614413909,
+  "net_income": 3159655170,
+  "total_assets": 131263833860,
+  "total_debt": 21242270779,
+  "total_equity": 110021563081,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -5.686013414970493,
+  "operating_profit_yoy": 11.229071378999112,
+  "net_income_yoy": -8.376330470271053,
+  "debt_ratio": 19.307370468242695,
+  "operating_margin": 10.854662776528103,
+  "net_margin": 9.488949584623674,
+  "roe": 11.487403310835715,
+  "cached_at": "2025-06-09T16:42:10.988852"
+}

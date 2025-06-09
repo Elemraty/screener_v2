@@ -1,0 +1,22 @@
+{
+  "ticker": "163730",
+  "name": "핑거",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 20613973461,
+  "operating_profit": 200855863,
+  "net_income": 528351627,
+  "total_assets": 66805790062,
+  "total_debt": 18860827393,
+  "total_equity": 47944962669,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 26.71145124985792,
+  "net_income_yoy": 220.5044302602251,
+  "debt_ratio": 39.3384963571886,
+  "operating_margin": 0.9743675249218853,
+  "net_margin": 2.563075129594007,
+  "roe": 4.407984468755203,
+  "cached_at": "2025-06-09T16:39:48.665240"
+}

@@ -1,0 +1,13 @@
+{
+  "ticker": "347890",
+  "name": "엠투아이",
+  "market": "KOSDAQ",
+  "bps": 4504,
+  "per": 16.78,
+  "eps": 388,
+  "pbr": 1.45,
+  "roe": 8.6145648312611,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:24:58.508750"
+}

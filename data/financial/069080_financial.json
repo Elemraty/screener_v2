@@ -1,0 +1,23 @@
+{
+  "ticker": "069080",
+  "name": "웹젠",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 41554095291,
+  "operating_profit": 8902619828,
+  "net_income": 1268176341,
+  "total_assets": 757987124770,
+  "total_debt": 94937392219,
+  "total_equity": 663049732551,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -32.399746993243085,
+  "operating_profit_yoy": -50.51098738981992,
+  "net_income_yoy": -93.8581420840796,
+  "debt_ratio": 14.3182913073112,
+  "operating_margin": 21.42416954491649,
+  "net_margin": 3.051868491225865,
+  "roe": 0.7650565432676381,
+  "cached_at": "2025-06-09T16:30:42.495496"
+}

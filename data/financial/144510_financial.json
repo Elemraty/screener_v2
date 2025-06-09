@@ -1,0 +1,21 @@
+{
+  "ticker": "144510",
+  "name": "지씨셀",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 39548791513,
+  "operating_profit": -5694913340,
+  "net_income": -17898674921,
+  "total_assets": 571899932332,
+  "total_debt": 128361534413,
+  "total_equity": 443538397919,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -3.7356313664046015,
+  "debt_ratio": 28.940343162000975,
+  "operating_margin": -14.399715192632465,
+  "net_margin": -45.257198099508464,
+  "roe": -16.141714002645333,
+  "cached_at": "2025-06-09T16:34:31.139043"
+}

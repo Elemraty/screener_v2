@@ -1,0 +1,21 @@
+{
+  "ticker": "009810",
+  "name": "플레이그램",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 67288898262,
+  "operating_profit": -1447590872,
+  "net_income": 453487596,
+  "total_assets": 332777753426,
+  "total_debt": 126639536273,
+  "total_equity": 206138217153,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 9.595792718102182,
+  "debt_ratio": 61.434283279458825,
+  "operating_margin": -2.1513071389036202,
+  "net_margin": 0.6739411815516344,
+  "roe": 0.8799680180864516,
+  "cached_at": "2025-06-09T16:04:38.635206"
+}

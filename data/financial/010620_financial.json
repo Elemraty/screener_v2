@@ -1,0 +1,22 @@
+{
+  "ticker": "010620",
+  "name": "HD현대미포",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1183823024000,
+  "operating_profit": 68484088000,
+  "net_income": 51697353000,
+  "total_assets": 5197532558000,
+  "total_debt": 3070456802000,
+  "total_equity": 2127075756000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 18.323894649179895,
+  "net_income_yoy": 2319.6423707156796,
+  "debt_ratio": 144.351078862092,
+  "operating_margin": 5.784993754269134,
+  "net_margin": 4.3669832358320475,
+  "roe": 9.721769965958844,
+  "cached_at": "2025-06-09T15:56:17.891059"
+}

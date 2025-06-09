@@ -1,0 +1,21 @@
+{
+  "ticker": "950200",
+  "name": "소마젠",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 7791296,
+  "operating_profit": -1258433,
+  "net_income": -1341111,
+  "total_assets": 38774597,
+  "total_debt": 19464182,
+  "total_equity": 19310415,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 10.578250761394091,
+  "debt_ratio": 100.79629049919434,
+  "operating_margin": -16.15178014030015,
+  "net_margin": -17.21293864332712,
+  "roe": -27.78005547783411,
+  "cached_at": "2025-06-09T16:18:32.173260"
+}

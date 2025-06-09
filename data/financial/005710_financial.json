@@ -1,0 +1,23 @@
+{
+  "ticker": "005710",
+  "name": "대원산업",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 259795833571,
+  "operating_profit": 20662726884,
+  "net_income": 25048362380,
+  "total_assets": 743744702610,
+  "total_debt": 210589738299,
+  "total_equity": 533154964311,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 33.5105912718568,
+  "operating_profit_yoy": 321.08206734817975,
+  "net_income_yoy": 181.14329418127005,
+  "debt_ratio": 39.49878598076014,
+  "operating_margin": 7.953448136554912,
+  "net_margin": 9.641556616093498,
+  "roe": 18.79255680372042,
+  "cached_at": "2025-06-09T16:11:18.885811"
+}

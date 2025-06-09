@@ -1,0 +1,23 @@
+{
+  "ticker": "225590",
+  "name": "패션플랫폼",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 23174904268,
+  "operating_profit": 1617097084,
+  "net_income": 1158565189,
+  "total_assets": 101497510751,
+  "total_debt": 25452702600,
+  "total_equity": 76044808151,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -6.262869763494594,
+  "operating_profit_yoy": 75.50656350202011,
+  "net_income_yoy": 35.666599910589206,
+  "debt_ratio": 33.47066449225475,
+  "operating_margin": 6.977794019338816,
+  "net_margin": 4.999223192476145,
+  "roe": 6.094118544947712,
+  "cached_at": "2025-06-09T16:38:25.944035"
+}

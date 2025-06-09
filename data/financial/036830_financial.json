@@ -1,0 +1,23 @@
+{
+  "ticker": "036830",
+  "name": "솔브레인홀딩스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 148569669074,
+  "operating_profit": 23174876825,
+  "net_income": 12634883674,
+  "total_assets": 2056194921717,
+  "total_debt": 555515390938,
+  "total_equity": 1500679530779,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 9.036189231217362,
+  "operating_profit_yoy": -10.936943745715288,
+  "net_income_yoy": -40.35280514568533,
+  "debt_ratio": 37.01758966817073,
+  "operating_margin": 15.598659517412663,
+  "net_margin": 8.504349341793835,
+  "roe": 3.3677766411436973,
+  "cached_at": "2025-06-09T16:18:41.667068"
+}

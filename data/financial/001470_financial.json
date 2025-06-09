@@ -1,0 +1,19 @@
+{
+  "ticker": "001470",
+  "name": "삼부토건",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 4949792774,
+  "operating_profit": -29387752639,
+  "net_income": -29657478798,
+  "total_assets": 309659306723,
+  "total_debt": 331671226438,
+  "total_equity": -22011919715,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -95.74654981604328,
+  "operating_margin": -593.716827770374,
+  "net_margin": -599.1660692096683,
+  "cached_at": "2025-06-09T16:00:41.082156"
+}

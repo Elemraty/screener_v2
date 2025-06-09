@@ -1,0 +1,23 @@
+{
+  "ticker": "051900",
+  "name": "LG생활건강",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1697877264205,
+  "operating_profit": 142369362877,
+  "net_income": 103459072938,
+  "total_assets": 7562817193435,
+  "total_debt": 1821819436913,
+  "total_equity": 5740997756522,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -1.7830708021278174,
+  "operating_profit_yoy": -5.736707897078885,
+  "net_income_yoy": -8.497534617379088,
+  "debt_ratio": 31.733498499339095,
+  "operating_margin": 8.385138659811306,
+  "net_margin": 6.093436499748574,
+  "roe": 7.208438485834029,
+  "cached_at": "2025-06-09T15:56:51.970139"
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "123010",
+  "name": "아이윈플러스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 10783040817,
+  "operating_profit": 115530313,
+  "net_income": 18517033,
+  "total_assets": 53961778687,
+  "total_debt": 23552276017,
+  "total_equity": 30409502670,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 7.99679194795857,
+  "debt_ratio": 77.45038211438793,
+  "operating_margin": 1.07140754598518,
+  "net_margin": 0.17172366602570005,
+  "roe": 0.24356903433698937,
+  "cached_at": "2025-06-09T16:21:19.845859"
+}

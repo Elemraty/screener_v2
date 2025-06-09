@@ -1,0 +1,23 @@
+{
+  "ticker": "126600",
+  "name": "BGF에코머티리얼즈",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 99032129114,
+  "operating_profit": 4814782197,
+  "net_income": 2788517509,
+  "total_assets": 712577721355,
+  "total_debt": 219010608342,
+  "total_equity": 493567113013,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 13.529756835794782,
+  "operating_profit_yoy": -14.598370173576036,
+  "net_income_yoy": -48.94293999799386,
+  "debt_ratio": 44.37301484797904,
+  "operating_margin": 4.861838516525788,
+  "net_margin": 2.8157705321977087,
+  "roe": 2.2598892312556114,
+  "cached_at": "2025-06-09T16:06:12.661193"
+}

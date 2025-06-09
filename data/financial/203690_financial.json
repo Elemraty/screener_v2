@@ -1,0 +1,21 @@
+{
+  "ticker": "203690",
+  "name": "아크솔루션스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 5516090643,
+  "operating_profit": -1891539800,
+  "net_income": -3179510680,
+  "total_assets": 56896682770,
+  "total_debt": 30523482842,
+  "total_equity": 26373199928,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -29.387600280281045,
+  "debt_ratio": 115.73674383590333,
+  "operating_margin": -34.291311046536045,
+  "net_margin": -57.64065324116538,
+  "roe": -48.22335838927706,
+  "cached_at": "2025-06-09T16:21:39.397012"
+}

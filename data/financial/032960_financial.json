@@ -1,0 +1,23 @@
+{
+  "ticker": "032960",
+  "name": "동일기연",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 6097337596,
+  "operating_profit": 54607229,
+  "net_income": 552950237,
+  "total_assets": 70231763391,
+  "total_debt": 4274290906,
+  "total_equity": 65957472485,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -4.5142159596828435,
+  "operating_profit_yoy": -86.66223629831657,
+  "net_income_yoy": -52.63237624412859,
+  "debt_ratio": 6.480374012166788,
+  "operating_margin": 0.895591364923334,
+  "net_margin": 9.068716112467655,
+  "roe": 3.3533743254079456,
+  "cached_at": "2025-06-09T16:12:15.797838"
+}

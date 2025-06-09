@@ -1,0 +1,13 @@
+{
+  "ticker": "323230",
+  "name": "엠에프엠코리아",
+  "market": "KOSDAQ",
+  "bps": 526,
+  "per": 0.0,
+  "eps": 0,
+  "pbr": 0.31,
+  "roe": 0.0,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:24:54.729946"
+}

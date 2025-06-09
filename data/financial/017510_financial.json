@@ -1,0 +1,23 @@
+{
+  "ticker": "017510",
+  "name": "세명전기",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 5023379673,
+  "operating_profit": 2950214344,
+  "net_income": 2362635348,
+  "total_assets": 90713104971,
+  "total_debt": 10989193557,
+  "total_equity": 79723911414,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 69.4670699844069,
+  "operating_profit_yoy": 414.0515798819847,
+  "net_income_yoy": 158.1712787890571,
+  "debt_ratio": 13.784062224360746,
+  "operating_margin": 58.72967078035155,
+  "net_margin": 47.03278473452548,
+  "roe": 11.854086464629265,
+  "cached_at": "2025-06-09T16:17:59.719859"
+}

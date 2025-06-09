@@ -1,0 +1,23 @@
+{
+  "ticker": "030210",
+  "name": "다올투자증권",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 437161616100,
+  "operating_profit": 6014934002,
+  "net_income": 9490443780,
+  "total_assets": 9981835694402,
+  "total_debt": 9208325255220,
+  "total_equity": 773510439182,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 19.7469879101539,
+  "operating_profit_yoy": -7.500447537813781,
+  "net_income_yoy": 41.57265265570438,
+  "debt_ratio": 1190.4590796418927,
+  "operating_margin": 1.375906250795837,
+  "net_margin": 2.1709233909111263,
+  "roe": 4.9077262822910575,
+  "cached_at": "2025-06-09T15:58:40.296848"
+}

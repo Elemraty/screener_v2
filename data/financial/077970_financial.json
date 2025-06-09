@@ -1,0 +1,23 @@
+{
+  "ticker": "077970",
+  "name": "STX엔진",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 139139478662,
+  "operating_profit": 15451790399,
+  "net_income": 10546665313,
+  "total_assets": 946467824382,
+  "total_debt": 661132779827,
+  "total_equity": 285335044555,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 20.460823387529658,
+  "operating_profit_yoy": 126.79862614120063,
+  "net_income_yoy": 339.0784893005828,
+  "debt_ratio": 231.70402389867073,
+  "operating_margin": 11.105252475852488,
+  "net_margin": 7.579922976871388,
+  "roe": 14.7849561619019,
+  "cached_at": "2025-06-09T15:57:51.213933"
+}

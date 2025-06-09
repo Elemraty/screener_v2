@@ -1,0 +1,13 @@
+{
+  "ticker": "377480",
+  "name": "마음AI",
+  "market": "KOSDAQ",
+  "bps": 2133,
+  "per": 0.0,
+  "eps": 0,
+  "pbr": 9.92,
+  "roe": 0.0,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:13:50.408506"
+}

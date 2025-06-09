@@ -1,0 +1,23 @@
+{
+  "ticker": "051600",
+  "name": "한전KPS",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 288014489664,
+  "operating_profit": 7799816484,
+  "net_income": 11231232515,
+  "total_assets": 1679087095186,
+  "total_debt": 457716441213,
+  "total_equity": 1221370653973,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -15.993798622157884,
+  "operating_profit_yoy": -85.06971041739469,
+  "net_income_yoy": -74.21422429759632,
+  "debt_ratio": 37.47563769639404,
+  "operating_margin": 2.708133362699678,
+  "net_margin": 3.899537321230764,
+  "roe": 3.6782388633510696,
+  "cached_at": "2025-06-09T16:05:17.189858"
+}

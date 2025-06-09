@@ -1,0 +1,23 @@
+{
+  "ticker": "210540",
+  "name": "디와이파워",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 93631406934,
+  "operating_profit": 9849147148,
+  "net_income": 8852809229,
+  "total_assets": 366965245251,
+  "total_debt": 68437548468,
+  "total_equity": 298527696783,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -9.968559629947205,
+  "operating_profit_yoy": 3.3902716127859334,
+  "net_income_yoy": 17.398153238189096,
+  "debt_ratio": 22.925024781786764,
+  "operating_margin": 10.519063496442579,
+  "net_margin": 9.45495696250754,
+  "roe": 11.861960313096327,
+  "cached_at": "2025-06-09T15:59:44.274818"
+}

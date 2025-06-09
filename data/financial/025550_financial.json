@@ -1,0 +1,23 @@
+{
+  "ticker": "025550",
+  "name": "한국선재",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 53367273953,
+  "operating_profit": 254228069,
+  "net_income": -518434102,
+  "total_assets": 293520320644,
+  "total_debt": 152725461466,
+  "total_equity": 140794859178,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 0.7203051298368957,
+  "operating_profit_yoy": -86.28229028341072,
+  "net_income_yoy": -141.77638965442114,
+  "debt_ratio": 108.4737485144374,
+  "operating_margin": 0.4763744710361185,
+  "net_margin": -0.9714457261890115,
+  "roe": -1.4728779304209376,
+  "cached_at": "2025-06-09T16:40:31.256286"
+}

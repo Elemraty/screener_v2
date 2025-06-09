@@ -1,0 +1,22 @@
+{
+  "ticker": "171120",
+  "name": "라이온켐텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 25100273600,
+  "operating_profit": -2020206109,
+  "net_income": 0,
+  "total_assets": 159382958355,
+  "total_debt": 31140418475,
+  "total_equity": 128242539880,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -5.047958674218556,
+  "operating_profit_yoy": -310.47712154051,
+  "debt_ratio": 24.28244052569368,
+  "operating_margin": -8.048542184018265,
+  "net_margin": 0.0,
+  "roe": 0.0,
+  "cached_at": "2025-06-09T16:13:10.031921"
+}

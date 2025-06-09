@@ -1,0 +1,23 @@
+{
+  "ticker": "011780",
+  "name": "금호석유화학",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1908229062934,
+  "operating_profit": 120608366574,
+  "net_income": 124833104482,
+  "total_assets": 8400956724579,
+  "total_debt": 2302087867983,
+  "total_equity": 6098868856596,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 14.437246489897216,
+  "operating_profit_yoy": 53.43233125826221,
+  "net_income_yoy": 21.70089387281817,
+  "debt_ratio": 37.746144770653075,
+  "operating_margin": 6.320434423557016,
+  "net_margin": 6.541830166346105,
+  "roe": 8.187295540679909,
+  "cached_at": "2025-06-09T15:58:16.905307"
+}

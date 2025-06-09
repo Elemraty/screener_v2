@@ -1,0 +1,21 @@
+{
+  "ticker": "950160",
+  "name": "코오롱티슈진",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 886776,
+  "operating_profit": -3731468,
+  "net_income": -4013917,
+  "total_assets": 210761895,
+  "total_debt": 85501588,
+  "total_equity": 125260307,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -2.8563290792572693,
+  "debt_ratio": 68.25912377813349,
+  "operating_margin": -420.7903687064151,
+  "net_margin": -452.6415915631456,
+  "roe": -12.817841808419006,
+  "cached_at": "2025-06-09T16:36:19.166418"
+}

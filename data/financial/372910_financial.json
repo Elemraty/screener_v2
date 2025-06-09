@@ -1,0 +1,13 @@
+{
+  "ticker": "372910",
+  "name": "한컴라이프케어",
+  "market": "KOSPI",
+  "bps": 4866,
+  "per": 10.98,
+  "eps": 266,
+  "pbr": 0.6,
+  "roe": 5.466502260583642,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:05:21.400798"
+}

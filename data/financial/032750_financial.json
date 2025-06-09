@@ -1,0 +1,23 @@
+{
+  "ticker": "032750",
+  "name": "삼진",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 40636113852,
+  "operating_profit": 2613637684,
+  "net_income": 2614898393,
+  "total_assets": 126930249442,
+  "total_debt": 18833897321,
+  "total_equity": 108096352121,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 1.6505014696748699,
+  "operating_profit_yoy": 52.5336548611133,
+  "net_income_yoy": 57.38484530227541,
+  "debt_ratio": 17.423249676286826,
+  "operating_margin": 6.431810122195934,
+  "net_margin": 6.434912557149708,
+  "roe": 9.676176269382179,
+  "cached_at": "2025-06-09T16:16:55.733655"
+}

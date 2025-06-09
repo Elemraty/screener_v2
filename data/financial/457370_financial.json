@@ -1,0 +1,13 @@
+{
+  "ticker": "457370",
+  "name": "한켐",
+  "market": "KOSDAQ",
+  "bps": 6867,
+  "per": 9.28,
+  "eps": 856,
+  "pbr": 1.16,
+  "roe": 12.465414300276684,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:41:19.599327"
+}

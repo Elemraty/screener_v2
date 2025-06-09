@@ -1,0 +1,13 @@
+{
+  "ticker": "402490",
+  "name": "그린리소스",
+  "market": "KOSDAQ",
+  "bps": 7177,
+  "per": 47.9,
+  "eps": 281,
+  "pbr": 1.88,
+  "roe": 3.9152849379963772,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:09:10.734365"
+}

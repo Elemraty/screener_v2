@@ -1,0 +1,22 @@
+{
+  "ticker": "247540",
+  "name": "에코프로비엠",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 629788701177,
+  "operating_profit": 2269955889,
+  "net_income": -9968769341,
+  "total_assets": 4657488840913,
+  "total_debt": 2696093761265,
+  "total_equity": 1961395079648,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -35.104050937268724,
+  "operating_profit_yoy": -66.03975737693287,
+  "debt_ratio": 137.4579649577204,
+  "operating_margin": 0.36043134542708105,
+  "net_margin": -1.582875228210598,
+  "roe": -2.0329956864761862,
+  "cached_at": "2025-06-09T15:47:01.605359"
+}

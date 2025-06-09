@@ -1,0 +1,23 @@
+{
+  "ticker": "121440",
+  "name": "골프존홀딩스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 70086190946,
+  "operating_profit": 2545235672,
+  "net_income": 8452758308,
+  "total_assets": 1095637405490,
+  "total_debt": 352486536187,
+  "total_equity": 743150869303,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -16.54847233064706,
+  "operating_profit_yoy": -56.39789732968339,
+  "net_income_yoy": 160.13999059719538,
+  "debt_ratio": 47.43135623559137,
+  "operating_margin": 3.6315793990874075,
+  "net_margin": 12.060518903806145,
+  "roe": 4.549686292328678,
+  "cached_at": "2025-06-09T16:08:47.874887"
+}

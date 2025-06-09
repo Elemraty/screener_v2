@@ -1,0 +1,13 @@
+{
+  "ticker": "403870",
+  "name": "HPSP",
+  "market": "KOSDAQ",
+  "bps": 3458,
+  "per": 21.07,
+  "eps": 1056,
+  "pbr": 6.43,
+  "roe": 30.537883169462116,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:06:54.652291"
+}

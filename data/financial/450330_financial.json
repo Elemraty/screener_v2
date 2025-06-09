@@ -1,0 +1,13 @@
+{
+  "ticker": "450330",
+  "name": "하스",
+  "market": "KOSDAQ",
+  "bps": 5801,
+  "per": 32.28,
+  "eps": 259,
+  "pbr": 1.44,
+  "roe": 4.464747457334942,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:40:11.902050"
+}

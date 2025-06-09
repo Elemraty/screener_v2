@@ -1,0 +1,22 @@
+{
+  "ticker": "055490",
+  "name": "테이팩스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 31082413276,
+  "operating_profit": -542798746,
+  "net_income": -1145438547,
+  "total_assets": 187021619501,
+  "total_debt": 34408463175,
+  "total_equity": 152613156326,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -11.308313682815163,
+  "net_income_yoy": -495.19916009721356,
+  "debt_ratio": 22.54619719776937,
+  "operating_margin": -1.7463211147093174,
+  "net_margin": -3.6851660674766196,
+  "roe": -3.0022013162566563,
+  "cached_at": "2025-06-09T16:04:24.227827"
+}

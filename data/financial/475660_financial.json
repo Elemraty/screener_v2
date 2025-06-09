@@ -1,0 +1,13 @@
+{
+  "ticker": "475660",
+  "name": "에스켐",
+  "market": "KOSDAQ",
+  "bps": 4823,
+  "per": 26.12,
+  "eps": 196,
+  "pbr": 1.06,
+  "roe": 4.063860667634253,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:22:52.024911"
+}

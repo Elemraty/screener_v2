@@ -1,0 +1,23 @@
+{
+  "ticker": "118000",
+  "name": "메타케어",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 5994001551,
+  "operating_profit": 533238154,
+  "net_income": -8121360,
+  "total_assets": 173953329641,
+  "total_debt": 58238141556,
+  "total_equity": 115715188085,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 22.66576437104506,
+  "operating_profit_yoy": 49.063550511670286,
+  "net_income_yoy": -100.06447274162589,
+  "debt_ratio": 50.32886565696153,
+  "operating_margin": 8.896196463463344,
+  "net_margin": -0.1354914564318904,
+  "roe": -0.028073618111511364,
+  "cached_at": "2025-06-09T16:00:07.327499"
+}

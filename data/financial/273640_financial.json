@@ -1,0 +1,23 @@
+{
+  "ticker": "273640",
+  "name": "와이엠텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 8181040015,
+  "operating_profit": 1452082926,
+  "net_income": 1368958528,
+  "total_assets": 60580768416,
+  "total_debt": 5484039667,
+  "total_equity": 55096728749,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 11.93858143891633,
+  "operating_profit_yoy": 165.31975551391446,
+  "net_income_yoy": 65.68724761339956,
+  "debt_ratio": 9.95347598944254,
+  "operating_margin": 17.74936833627014,
+  "net_margin": 16.733306834950127,
+  "roe": 9.93858299091738,
+  "cached_at": "2025-06-09T16:29:50.616415"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "012630",
+  "name": "HDC",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1565685498947,
+  "operating_profit": 154846534009,
+  "net_income": 109476675222,
+  "total_assets": 12713604388724,
+  "total_debt": 7559597695992,
+  "total_equity": 5154006692732,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 14.222109692463981,
+  "operating_profit_yoy": 104.78802125947296,
+  "net_income_yoy": 173.61762956502832,
+  "debt_ratio": 146.67419246180413,
+  "operating_margin": 9.890015211429235,
+  "net_margin": 6.9922519749738,
+  "roe": 8.496432523176981,
+  "cached_at": "2025-06-09T15:56:13.162524"
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "126880",
+  "name": "제이엔케이글로벌",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 36612638117,
+  "operating_profit": -170235922,
+  "net_income": 1156008759,
+  "total_assets": 296959971200,
+  "total_debt": 137587872329,
+  "total_equity": 159372098871,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 32.89226350511976,
+  "debt_ratio": 86.33121688405903,
+  "operating_margin": -0.4649649158194803,
+  "net_margin": 3.1574036137626513,
+  "roe": 2.9014081315091524,
+  "cached_at": "2025-06-09T16:33:58.620144"
+}

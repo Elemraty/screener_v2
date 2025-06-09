@@ -1,0 +1,22 @@
+{
+  "ticker": "263690",
+  "name": "디알젬",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 23338074436,
+  "operating_profit": 1821363965,
+  "net_income": 1152198367,
+  "total_assets": 122719029342,
+  "total_debt": 36606831009,
+  "total_equity": 86112198333,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -19.09562736644409,
+  "operating_profit_yoy": -43.94652998455667,
+  "debt_ratio": 42.51062186037758,
+  "operating_margin": 7.804259815841819,
+  "net_margin": 4.936989853895931,
+  "roe": 5.352079678859869,
+  "cached_at": "2025-06-09T16:12:33.427150"
+}

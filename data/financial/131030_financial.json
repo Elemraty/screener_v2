@@ -1,0 +1,23 @@
+{
+  "ticker": "131030",
+  "name": "옵투스제약",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 18728931851,
+  "operating_profit": 920215729,
+  "net_income": 1174825179,
+  "total_assets": 160185353231,
+  "total_debt": 15107610847,
+  "total_equity": 145077742384,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 0.2656379348585869,
+  "operating_profit_yoy": -58.8301752375449,
+  "net_income_yoy": -51.10960342503796,
+  "debt_ratio": 10.413458742011796,
+  "operating_margin": 4.913338017997361,
+  "net_margin": 6.272782603655383,
+  "roe": 3.239160355529674,
+  "cached_at": "2025-06-09T16:26:16.848981"
+}

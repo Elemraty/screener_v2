@@ -1,0 +1,23 @@
+{
+  "ticker": "003100",
+  "name": "선광",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 45946892933,
+  "operating_profit": 9891630106,
+  "net_income": 8897941367,
+  "total_assets": 641241483295,
+  "total_debt": 238043056855,
+  "total_equity": 403198426440,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 3.8778425187889987,
+  "operating_profit_yoy": 16.900326251820562,
+  "net_income_yoy": 29.794918233162072,
+  "debt_ratio": 59.03868697027844,
+  "operating_margin": 21.528398275861715,
+  "net_margin": 19.365708536538094,
+  "roe": 8.827357235060147,
+  "cached_at": "2025-06-09T16:17:39.713222"
+}

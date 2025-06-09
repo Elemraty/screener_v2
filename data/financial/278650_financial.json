@@ -1,0 +1,21 @@
+{
+  "ticker": "278650",
+  "name": "HLB바이오스텝",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 13577782274,
+  "operating_profit": -2547028928,
+  "net_income": -1834793878,
+  "total_assets": 158652242715,
+  "total_debt": 42885941939,
+  "total_equity": 115766300776,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 17.3921569103179,
+  "debt_ratio": 37.04527280523666,
+  "operating_margin": -18.758799313473215,
+  "net_margin": -13.513207392590424,
+  "roe": -6.339647602803524,
+  "cached_at": "2025-06-09T16:06:46.277825"
+}

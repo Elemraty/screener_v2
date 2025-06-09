@@ -1,0 +1,13 @@
+{
+  "ticker": "418250",
+  "name": "시큐레터",
+  "market": "KOSDAQ",
+  "bps": 863,
+  "per": 0.0,
+  "eps": 0,
+  "pbr": 7.59,
+  "roe": 0.0,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:19:19.261197"
+}

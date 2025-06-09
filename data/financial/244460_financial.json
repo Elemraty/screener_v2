@@ -1,0 +1,21 @@
+{
+  "ticker": "244460",
+  "name": "올리패스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 404282983,
+  "operating_profit": -1876088617,
+  "net_income": -1917257018,
+  "total_assets": 29981806046,
+  "total_debt": 16091581916,
+  "total_equity": 13890224130,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -3.840293682724727,
+  "debt_ratio": 115.84825245004883,
+  "operating_margin": -464.05332301607166,
+  "net_margin": -474.2363885249159,
+  "roe": -55.21169421187734,
+  "cached_at": "2025-06-09T16:26:14.517520"
+}

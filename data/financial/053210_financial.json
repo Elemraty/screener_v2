@@ -1,0 +1,20 @@
+{
+  "ticker": "053210",
+  "name": "스카이라이프",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 0,
+  "operating_profit": 5106712056,
+  "net_income": 1623686484,
+  "total_assets": 999637286935,
+  "total_debt": 443961003697,
+  "total_equity": 555676283238,
+  "data_source": "f_data_financial",
+  "operating_profit_yoy": 77.96758894833911,
+  "net_income_yoy": 28.26317391226947,
+  "debt_ratio": 79.89561856230031,
+  "roe": 1.1688002766924381,
+  "cached_at": "2025-06-09T16:01:36.160150"
+}

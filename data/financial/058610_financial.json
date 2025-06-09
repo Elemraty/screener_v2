@@ -1,0 +1,23 @@
+{
+  "ticker": "058610",
+  "name": "에스피지",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 93295288620,
+  "operating_profit": 4089414047,
+  "net_income": 3117701392,
+  "total_assets": 404110692158,
+  "total_debt": 150114570627,
+  "total_equity": 253996121531,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -4.629314500790304,
+  "operating_profit_yoy": 33.07624006920058,
+  "net_income_yoy": 19.779437503841436,
+  "debt_ratio": 59.10112710468244,
+  "operating_margin": 4.383301780282332,
+  "net_margin": 3.341756521809665,
+  "roe": 4.909840942779101,
+  "cached_at": "2025-06-09T16:23:03.689855"
+}

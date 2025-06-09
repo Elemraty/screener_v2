@@ -1,0 +1,23 @@
+{
+  "ticker": "138070",
+  "name": "신진에스엠",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 13212590504,
+  "operating_profit": 397988786,
+  "net_income": 264082993,
+  "total_assets": 105853227282,
+  "total_debt": 27588842085,
+  "total_equity": 78264385197,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -9.084541687625059,
+  "operating_profit_yoy": -17.191828451639168,
+  "net_income_yoy": -14.261292787652602,
+  "debt_ratio": 35.250825794588266,
+  "operating_margin": 3.0121934519919638,
+  "net_margin": 1.9987223014294668,
+  "roe": 1.3496968887458798,
+  "cached_at": "2025-06-09T16:19:39.807947"
+}

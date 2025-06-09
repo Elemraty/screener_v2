@@ -1,0 +1,21 @@
+{
+  "ticker": "041520",
+  "name": "이엘씨",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 7950021772,
+  "operating_profit": -836134673,
+  "net_income": 221173348,
+  "total_assets": 190939810279,
+  "total_debt": 15160772194,
+  "total_equity": 175779038085,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 37.49030277929521,
+  "debt_ratio": 8.624903378222399,
+  "operating_margin": -10.517388467348212,
+  "net_margin": 2.782047072864293,
+  "roe": 0.5032985739586289,
+  "cached_at": "2025-06-09T16:32:28.464668"
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "042940",
+  "name": "상지건설",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2281987253,
+  "operating_profit": -1099514615,
+  "net_income": -1704514129,
+  "total_assets": 191784292105,
+  "total_debt": 105656417039,
+  "total_equity": 86127875066,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -78.71082695890316,
+  "debt_ratio": 122.67389269505979,
+  "operating_margin": -48.182329395334264,
+  "net_margin": -74.69428791765472,
+  "roe": -7.916201939006746,
+  "cached_at": "2025-06-09T16:17:10.437899"
+}

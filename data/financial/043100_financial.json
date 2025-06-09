@@ -1,0 +1,21 @@
+{
+  "ticker": "043100",
+  "name": "알파녹스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 6683178028,
+  "operating_profit": -551221332,
+  "net_income": -691484275,
+  "total_assets": 56422567998,
+  "total_debt": 26781507083,
+  "total_equity": 29641060915,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -3.1741769029529077,
+  "debt_ratio": 90.35272779135612,
+  "operating_margin": -8.247892390275856,
+  "net_margin": -10.346638561818063,
+  "roe": -9.331437588997646,
+  "cached_at": "2025-06-09T16:21:58.109045"
+}

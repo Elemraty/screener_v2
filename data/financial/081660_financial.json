@@ -1,0 +1,23 @@
+{
+  "ticker": "081660",
+  "name": "미스토홀딩스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1237498940466,
+  "operating_profit": 162674986283,
+  "net_income": 151455846234,
+  "total_assets": 5765347803459,
+  "total_debt": 3069038742837,
+  "total_equity": 2696309060622,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 4.640214285206912,
+  "operating_profit_yoy": -0.35764841111621815,
+  "net_income_yoy": 22.805601673008667,
+  "debt_ratio": 113.8237002448457,
+  "operating_margin": 13.145464692013565,
+  "net_margin": 12.23886674011752,
+  "roe": 22.468618074377762,
+  "cached_at": "2025-06-09T16:00:24.145234"
+}

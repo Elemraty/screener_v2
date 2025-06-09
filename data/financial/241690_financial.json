@@ -1,0 +1,23 @@
+{
+  "ticker": "241690",
+  "name": "유니테크노",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 25099474154,
+  "operating_profit": 1083948560,
+  "net_income": 452876128,
+  "total_assets": 236691148666,
+  "total_debt": 96620317037,
+  "total_equity": 140070831629,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 9.383505883331345,
+  "operating_profit_yoy": 21.657819452561554,
+  "net_income_yoy": -49.77346483331148,
+  "debt_ratio": 68.97961260979328,
+  "operating_margin": 4.318610634427397,
+  "net_margin": 1.804325163233856,
+  "roe": 1.2932774732130237,
+  "cached_at": "2025-06-09T16:31:09.794886"
+}

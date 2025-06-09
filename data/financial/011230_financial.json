@@ -1,0 +1,21 @@
+{
+  "ticker": "011230",
+  "name": "삼화전자",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 8124953951,
+  "operating_profit": -2071486767,
+  "net_income": -2305270011,
+  "total_assets": 70744844494,
+  "total_debt": 53024211911,
+  "total_equity": 17720632583,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -7.304545387160277,
+  "debt_ratio": 299.22301962215454,
+  "operating_margin": -25.49536624444556,
+  "net_margin": -28.372714785863774,
+  "roe": -52.03584014741152,
+  "cached_at": "2025-06-09T16:01:10.447245"
+}

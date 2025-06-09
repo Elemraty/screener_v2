@@ -1,0 +1,23 @@
+{
+  "ticker": "057050",
+  "name": "현대홈쇼핑",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 959912795443,
+  "operating_profit": 48063695054,
+  "net_income": 33836538768,
+  "total_assets": 5003643387229,
+  "total_debt": 1339435314298,
+  "total_equity": 3664208072931,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -3.6596580793085143,
+  "operating_profit_yoy": -17.425573504697333,
+  "net_income_yoy": -71.73805730095265,
+  "debt_ratio": 36.554564796496,
+  "operating_margin": 5.007089735877371,
+  "net_margin": 3.5249596555679235,
+  "roe": 3.693735518783916,
+  "cached_at": "2025-06-09T16:05:50.159183"
+}

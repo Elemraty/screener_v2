@@ -1,0 +1,22 @@
+{
+  "ticker": "013720",
+  "name": "CBI",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 6378934022,
+  "operating_profit": 283618539,
+  "net_income": -1342001904,
+  "total_assets": 78032500516,
+  "total_debt": 20799494045,
+  "total_equity": 57233006471,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -4.8574598282850046,
+  "operating_profit_yoy": -4.357610375838417,
+  "debt_ratio": 36.34178130330986,
+  "operating_margin": 4.446174517902859,
+  "net_margin": -21.038027660603383,
+  "roe": -9.379216551763662,
+  "cached_at": "2025-06-09T16:06:13.202745"
+}

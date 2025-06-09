@@ -1,0 +1,21 @@
+{
+  "ticker": "079980",
+  "name": "휴비스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 240103034736,
+  "operating_profit": 6364069095,
+  "net_income": 3317292707,
+  "total_assets": 778130354245,
+  "total_debt": 539724705195,
+  "total_equity": 238405649050,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 7.161496870302564,
+  "debt_ratio": 226.38922665872124,
+  "operating_margin": 2.650557541681,
+  "net_margin": 1.3816121527357852,
+  "roe": 5.565795475432338,
+  "cached_at": "2025-06-09T16:06:03.270536"
+}

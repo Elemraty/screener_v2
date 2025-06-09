@@ -1,0 +1,21 @@
+{
+  "ticker": "011810",
+  "name": "STX",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 179751000000,
+  "operating_profit": -2925000000,
+  "net_income": -5211000000,
+  "total_assets": 626045000000,
+  "total_debt": 515442000000,
+  "total_equity": 110603000000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 1.1024180076606882,
+  "debt_ratio": 466.02895039013407,
+  "operating_margin": -1.6272510305923193,
+  "net_margin": -2.8990102975783167,
+  "roe": -18.845781759988427,
+  "cached_at": "2025-06-09T15:57:49.966288"
+}

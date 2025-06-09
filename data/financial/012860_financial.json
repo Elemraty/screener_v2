@@ -1,0 +1,23 @@
+{
+  "ticker": "012860",
+  "name": "모베이스전자",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 264377290490,
+  "operating_profit": 8084275352,
+  "net_income": 5476293757,
+  "total_assets": 771101667973,
+  "total_debt": 536889073734,
+  "total_equity": 234212594239,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 18.84313177395731,
+  "operating_profit_yoy": 2.3778024968073685,
+  "net_income_yoy": -27.915035071048443,
+  "debt_ratio": 229.2315131380752,
+  "operating_margin": 3.0578554372111566,
+  "net_margin": 2.07139340404396,
+  "roe": 9.352688782246728,
+  "cached_at": "2025-06-09T16:14:24.145387"
+}

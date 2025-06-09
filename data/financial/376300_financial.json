@@ -1,0 +1,13 @@
+{
+  "ticker": "376300",
+  "name": "디어유",
+  "market": "KOSDAQ",
+  "bps": 8258,
+  "per": 53.16,
+  "eps": 1027,
+  "pbr": 6.61,
+  "roe": 12.436425284572536,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:12:37.546790"
+}

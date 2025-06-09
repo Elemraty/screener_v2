@@ -1,0 +1,23 @@
+{
+  "ticker": "049520",
+  "name": "유아이엘",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 115577091794,
+  "operating_profit": 7518018504,
+  "net_income": 7413024549,
+  "total_assets": 285059746237,
+  "total_debt": 90023473609,
+  "total_equity": 195036272628,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -6.460317105124435,
+  "operating_profit_yoy": -7.490247660493276,
+  "net_income_yoy": -9.039420016884003,
+  "debt_ratio": 46.15729802256073,
+  "operating_margin": 6.504765250020148,
+  "net_margin": 6.413922027223768,
+  "roe": 15.203376170214533,
+  "cached_at": "2025-06-09T16:31:24.476497"
+}

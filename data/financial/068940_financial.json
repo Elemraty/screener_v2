@@ -1,0 +1,21 @@
+{
+  "ticker": "068940",
+  "name": "셀피글로벌",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 6727812637,
+  "operating_profit": -1822555199,
+  "net_income": -2030233982,
+  "total_assets": 25355710922,
+  "total_debt": 9627690120,
+  "total_equity": 15728020802,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -2.307220252694031,
+  "debt_ratio": 61.213615121717844,
+  "operating_margin": -27.089862594816495,
+  "net_margin": -30.17673189700036,
+  "roe": -51.63355281783025,
+  "cached_at": "2025-06-09T16:18:27.927245"
+}

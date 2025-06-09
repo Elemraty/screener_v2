@@ -1,0 +1,23 @@
+{
+  "ticker": "064850",
+  "name": "에프앤가이드",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 9886636958,
+  "operating_profit": 2090251181,
+  "net_income": 1681675757,
+  "total_assets": 86479850411,
+  "total_debt": 25574613261,
+  "total_equity": 60905237150,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 29.513418633129685,
+  "operating_profit_yoy": 45.35912545718548,
+  "net_income_yoy": 39.84713259790416,
+  "debt_ratio": 41.99082781340094,
+  "operating_margin": 21.142186062659306,
+  "net_margin": 17.00958338152827,
+  "roe": 11.044539587676493,
+  "cached_at": "2025-06-09T16:23:56.051928"
+}

@@ -1,0 +1,20 @@
+{
+  "ticker": "295310",
+  "name": "에이치브이엠",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 12972807048,
+  "operating_profit": 1125964339,
+  "net_income": 586315909,
+  "total_assets": 120879586851,
+  "total_debt": 53751593834,
+  "total_equity": 67127993017,
+  "data_source": "f_data_financial",
+  "debt_ratio": 80.0732919579281,
+  "operating_margin": 8.679419456667155,
+  "net_margin": 4.519576270814816,
+  "roe": 3.493719282514625,
+  "cached_at": "2025-06-09T16:23:22.287588"
+}

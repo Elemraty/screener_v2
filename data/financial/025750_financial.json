@@ -1,0 +1,22 @@
+{
+  "ticker": "025750",
+  "name": "한솔홈데코",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 74329885989,
+  "operating_profit": 1182478046,
+  "net_income": 638317149,
+  "total_assets": 288169142778,
+  "total_debt": 164211430513,
+  "total_equity": 123957712265,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -8.372041029596422,
+  "operating_profit_yoy": -32.981240935569346,
+  "debt_ratio": 132.47375053352434,
+  "operating_margin": 1.5908514190039167,
+  "net_margin": 0.8587624486528391,
+  "roe": 2.0597900278617245,
+  "cached_at": "2025-06-09T16:05:10.379616"
+}

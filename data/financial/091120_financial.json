@@ -1,0 +1,23 @@
+{
+  "ticker": "091120",
+  "name": "이엠텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 53404682338,
+  "operating_profit": -3950272016,
+  "net_income": -2974257591,
+  "total_assets": 339555072450,
+  "total_debt": 139563617908,
+  "total_equity": 199991454542,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -13.817082141809433,
+  "operating_profit_yoy": -1237.6460522107814,
+  "net_income_yoy": -594.5248282795286,
+  "debt_ratio": 69.7847906689885,
+  "operating_margin": -7.396864550187936,
+  "net_margin": -5.569282431408964,
+  "roe": -5.94876935679345,
+  "cached_at": "2025-06-09T16:32:33.096602"
+}

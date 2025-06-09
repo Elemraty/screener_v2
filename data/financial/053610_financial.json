@@ -1,0 +1,21 @@
+{
+  "ticker": "053610",
+  "name": "프로텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 30403196116,
+  "operating_profit": 2918324517,
+  "net_income": 2416482101,
+  "total_assets": 379180127650,
+  "total_debt": 57663559193,
+  "total_equity": 321516568457,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 20.16210496230304,
+  "debt_ratio": 17.934863969758993,
+  "operating_margin": 9.598742533072704,
+  "net_margin": 7.948118651013473,
+  "roe": 3.006354680378698,
+  "cached_at": "2025-06-09T16:39:08.936023"
+}

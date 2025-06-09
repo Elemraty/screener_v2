@@ -1,0 +1,23 @@
+{
+  "ticker": "015760",
+  "name": "한국전력",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 24223984000000,
+  "operating_profit": 3753607000000,
+  "net_income": 2361708000000,
+  "total_assets": 249913097000000,
+  "total_debt": 206801975000000,
+  "total_equity": 43111122000000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 3.997987699430672,
+  "operating_profit_yoy": 188.88499803362163,
+  "net_income_yoy": 296.30295250320927,
+  "debt_ratio": 479.69518167492834,
+  "operating_margin": 15.49541561784387,
+  "net_margin": 9.749461525403914,
+  "roe": 21.912749104511825,
+  "cached_at": "2025-06-09T16:04:52.507268"
+}

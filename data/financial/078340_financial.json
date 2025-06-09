@@ -1,0 +1,23 @@
+{
+  "ticker": "078340",
+  "name": "컴투스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 168004789392,
+  "operating_profit": 1673617444,
+  "net_income": 2047565907,
+  "total_assets": 1638426464006,
+  "total_debt": 584875013311,
+  "total_equity": 1053551450695,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 6.485743300946445,
+  "operating_profit_yoy": 44.30963511374355,
+  "net_income_yoy": -49.42008481122811,
+  "debt_ratio": 55.514613256445465,
+  "operating_margin": 0.996172460354689,
+  "net_margin": 1.2187544857560473,
+  "roe": 0.7773956955397954,
+  "cached_at": "2025-06-09T16:35:14.099384"
+}

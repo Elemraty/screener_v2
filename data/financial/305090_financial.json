@@ -1,0 +1,13 @@
+{
+  "ticker": "305090",
+  "name": "마이크로디지탈",
+  "market": "KOSDAQ",
+  "bps": 1703,
+  "per": 324.64,
+  "eps": 28,
+  "pbr": 5.34,
+  "roe": 1.6441573693482088,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:13:52.025659"
+}

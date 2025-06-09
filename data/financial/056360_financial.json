@@ -1,0 +1,21 @@
+{
+  "ticker": "056360",
+  "name": "코위버",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 8758373758,
+  "operating_profit": -1858536452,
+  "net_income": -1958300011,
+  "total_assets": 147775622585,
+  "total_debt": 23360465533,
+  "total_equity": 124415157052,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 54.49081470225219,
+  "debt_ratio": 18.77622155252062,
+  "operating_margin": -21.220108930637853,
+  "net_margin": -22.35917380451212,
+  "roe": -6.296017486620277,
+  "cached_at": "2025-06-09T16:36:21.226001"
+}

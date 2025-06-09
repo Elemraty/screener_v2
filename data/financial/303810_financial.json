@@ -1,0 +1,13 @@
+{
+  "ticker": "303810",
+  "name": "동국생명과학",
+  "market": "KOSDAQ",
+  "bps": 7553,
+  "per": 52.17,
+  "eps": 175,
+  "pbr": 1.21,
+  "roe": 2.3169601482854496,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:11:58.183905"
+}

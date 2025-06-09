@@ -1,0 +1,21 @@
+{
+  "ticker": "179530",
+  "name": "애드바이오텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 3454333892,
+  "operating_profit": -200489251,
+  "net_income": -600553151,
+  "total_assets": 25328717424,
+  "total_debt": 19937078907,
+  "total_equity": 5391638517,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 17.88176986795682,
+  "debt_ratio": 369.77773721546396,
+  "operating_margin": -5.803991659993243,
+  "net_margin": -17.385498037431756,
+  "roe": -44.55440765225174,
+  "cached_at": "2025-06-09T16:22:03.857593"
+}

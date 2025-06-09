@@ -1,0 +1,23 @@
+{
+  "ticker": "042660",
+  "name": "한화오션",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 3143089504964,
+  "operating_profit": 258608169144,
+  "net_income": 215725914107,
+  "total_assets": 18177673452550,
+  "total_debt": 13089100938517,
+  "total_equity": 5088572514033,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 37.635845556136125,
+  "operating_profit_yoy": 388.5273626964789,
+  "net_income_yoy": 322.8189212902998,
+  "debt_ratio": 257.2253987227373,
+  "operating_margin": 8.22783343380996,
+  "net_margin": 6.863498916155455,
+  "roe": 16.957676323729874,
+  "cached_at": "2025-06-09T16:05:30.793751"
+}

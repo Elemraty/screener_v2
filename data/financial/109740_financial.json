@@ -1,0 +1,21 @@
+{
+  "ticker": "109740",
+  "name": "디에스케이",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 3097436279,
+  "operating_profit": -5647949112,
+  "net_income": -4687590824,
+  "total_assets": 162790757019,
+  "total_debt": 33987947198,
+  "total_equity": 128802809821,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -33.51411571690767,
+  "debt_ratio": 26.387582107279933,
+  "operating_margin": -182.34270549137582,
+  "net_margin": -151.33776458230733,
+  "roe": -14.557417902651176,
+  "cached_at": "2025-06-09T16:12:38.053944"
+}

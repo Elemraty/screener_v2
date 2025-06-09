@@ -1,0 +1,22 @@
+{
+  "ticker": "008770",
+  "name": "호텔신라",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 971789251566,
+  "operating_profit": -2470361690,
+  "net_income": -6180000177,
+  "total_assets": 3647811716270,
+  "total_debt": 2369632845880,
+  "total_equity": 1278178870390,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -0.9213595288173337,
+  "operating_profit_yoy": -120.37781099613754,
+  "debt_ratio": 185.3913329952774,
+  "operating_margin": -0.2542075543662486,
+  "net_margin": -0.6359403715405552,
+  "roe": -1.9340016707096241,
+  "cached_at": "2025-06-09T16:05:52.539636"
+}

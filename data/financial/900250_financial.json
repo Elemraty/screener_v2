@@ -1,0 +1,23 @@
+{
+  "ticker": "900250",
+  "name": "크리스탈신소재",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 112775664,
+  "operating_profit": 13119831,
+  "net_income": 9984544,
+  "total_assets": 2793657865,
+  "total_debt": 349068668,
+  "total_equity": 2444589197,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 2.213525430366947,
+  "operating_profit_yoy": -46.994372523661944,
+  "net_income_yoy": -47.89088306623734,
+  "debt_ratio": 14.279236299840361,
+  "operating_margin": 11.633565730989622,
+  "net_margin": 8.853456185369922,
+  "roe": 1.633737727754509,
+  "cached_at": "2025-06-09T16:36:50.629828"
+}

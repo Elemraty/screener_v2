@@ -1,0 +1,23 @@
+{
+  "ticker": "039240",
+  "name": "경남스틸",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 92668922727,
+  "operating_profit": 1478755922,
+  "net_income": 1005327705,
+  "total_assets": 177737763166,
+  "total_debt": 67748041406,
+  "total_equity": 109989721760,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -4.224343865970825,
+  "operating_profit_yoy": 9.610728066111495,
+  "net_income_yoy": -29.21692066076539,
+  "debt_ratio": 61.59488388726696,
+  "operating_margin": 1.5957409220741379,
+  "net_margin": 1.0848596006254079,
+  "roe": 3.656078727769299,
+  "cached_at": "2025-06-09T16:08:35.821626"
+}

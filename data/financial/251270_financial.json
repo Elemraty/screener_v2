@@ -1,0 +1,22 @@
+{
+  "ticker": "251270",
+  "name": "넷마블",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 623876973162,
+  "operating_profit": 49710408219,
+  "net_income": 80248406228,
+  "total_assets": 7971296117211,
+  "total_debt": 2510070065600,
+  "total_equity": 5461226051611,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 6.575170444064038,
+  "operating_profit_yoy": 1246.0557376990132,
+  "debt_ratio": 45.96165846054949,
+  "operating_margin": 7.96798252819821,
+  "net_margin": 12.862857531233512,
+  "roe": 5.877684275993492,
+  "cached_at": "2025-06-09T15:58:33.156474"
+}

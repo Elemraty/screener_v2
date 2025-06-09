@@ -1,0 +1,23 @@
+{
+  "ticker": "049120",
+  "name": "파인디앤씨",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 28904369630,
+  "operating_profit": 625728937,
+  "net_income": -504678740,
+  "total_assets": 103687259770,
+  "total_debt": 69030176866,
+  "total_equity": 34657082904,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 80.0210290834042,
+  "operating_profit_yoy": 6.214394754024899,
+  "net_income_yoy": -176.62279263979366,
+  "debt_ratio": 199.1805745948479,
+  "operating_margin": 2.1648247133905754,
+  "net_margin": -1.7460292213956163,
+  "roe": -5.824826531395713,
+  "cached_at": "2025-06-09T16:38:13.404034"
+}

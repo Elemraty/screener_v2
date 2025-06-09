@@ -1,0 +1,23 @@
+{
+  "ticker": "024900",
+  "name": "디와이덕양",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 434953193413,
+  "operating_profit": 3081106518,
+  "net_income": 3274956052,
+  "total_assets": 546233022317,
+  "total_debt": 442886923204,
+  "total_equity": 103346099113,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -6.807275312936312,
+  "operating_profit_yoy": 81.80308694934597,
+  "net_income_yoy": 15.753567809204183,
+  "debt_ratio": 428.54730561212716,
+  "operating_margin": 0.7083765712404839,
+  "net_margin": 0.7529444780717679,
+  "roe": 12.67568328212996,
+  "cached_at": "2025-06-09T15:59:43.205567"
+}

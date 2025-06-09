@@ -1,0 +1,21 @@
+{
+  "ticker": "041910",
+  "name": "폴라리스AI파마",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 12768189803,
+  "operating_profit": 735995501,
+  "net_income": 985053132,
+  "total_assets": 135685378754,
+  "total_debt": 6142350523,
+  "total_equity": 129543028231,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -10.00301797376033,
+  "debt_ratio": 4.741552368257915,
+  "operating_margin": 5.764290101851958,
+  "net_margin": 7.714900445547519,
+  "roe": 3.0416245334128265,
+  "cached_at": "2025-06-09T16:38:47.986947"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "000050",
+  "name": "경방",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 102272642013,
+  "operating_profit": 10828769795,
+  "net_income": 4311542311,
+  "total_assets": 1218051363577,
+  "total_debt": 457878834435,
+  "total_equity": 760172529142,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 4.423657124618585,
+  "operating_profit_yoy": -16.911817993851198,
+  "net_income_yoy": 159.89375298024578,
+  "debt_ratio": 60.233541318811376,
+  "operating_margin": 10.588139293031603,
+  "net_margin": 4.2157337740937155,
+  "roe": 2.268717769039299,
+  "cached_at": "2025-06-09T15:58:00.975843"
+}

@@ -1,0 +1,22 @@
+{
+  "ticker": "008290",
+  "name": "원풍물산",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 5261529049,
+  "operating_profit": -926081764,
+  "net_income": -1110070349,
+  "total_assets": 24314805785,
+  "total_debt": 6453649125,
+  "total_equity": 17861156660,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -27.358551265158138,
+  "operating_profit_yoy": -1382.00040965018,
+  "debt_ratio": 36.132313532935555,
+  "operating_margin": -17.601000685836944,
+  "net_margin": -21.097866013131274,
+  "roe": -24.85998796451965,
+  "cached_at": "2025-06-09T16:30:34.175114"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "009300",
+  "name": "삼아제약",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 24499974497,
+  "operating_profit": 7436992685,
+  "net_income": 6282973422,
+  "total_assets": 256053031755,
+  "total_debt": 34641683236,
+  "total_equity": 221411348519,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -18.210189894970863,
+  "operating_profit_yoy": -35.09497969445315,
+  "net_income_yoy": -32.89441818550871,
+  "debt_ratio": 15.645848086701521,
+  "operating_margin": 30.355103781478032,
+  "net_margin": 25.644816172234563,
+  "roe": 11.350770344928076,
+  "cached_at": "2025-06-09T16:16:45.150081"
+}

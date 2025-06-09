@@ -1,0 +1,21 @@
+{
+  "ticker": "101360",
+  "name": "에코앤드림",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 30083534265,
+  "operating_profit": 392075669,
+  "net_income": 494345887,
+  "total_assets": 433880641104,
+  "total_debt": 211649019843,
+  "total_equity": 222231621261,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 57.53884371987208,
+  "debt_ratio": 95.23803077260042,
+  "operating_margin": 1.3032899178210968,
+  "net_margin": 1.6432440505341004,
+  "roe": 0.8897849625448493,
+  "cached_at": "2025-06-09T16:23:48.556190"
+}

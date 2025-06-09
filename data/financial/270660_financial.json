@@ -1,0 +1,21 @@
+{
+  "ticker": "270660",
+  "name": "에브리봇",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 4001041513,
+  "operating_profit": -2088208370,
+  "net_income": -895530847,
+  "total_assets": 114472170795,
+  "total_debt": 48489790650,
+  "total_equity": 65982380145,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -39.830584770052994,
+  "debt_ratio": 73.48899894705367,
+  "operating_margin": -52.19161968740112,
+  "net_margin": -22.382443273589697,
+  "roe": -5.428909021056958,
+  "cached_at": "2025-06-09T16:22:19.020195"
+}

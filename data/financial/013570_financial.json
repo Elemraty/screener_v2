@@ -1,0 +1,23 @@
+{
+  "ticker": "013570",
+  "name": "디와이",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 312201945344,
+  "operating_profit": 16561983632,
+  "net_income": 13409392394,
+  "total_assets": 1043346597548,
+  "total_debt": 454533523221,
+  "total_equity": 588813074327,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 5.795790406634094,
+  "operating_profit_yoy": 51.06857530597839,
+  "net_income_yoy": 49.88063656553099,
+  "debt_ratio": 77.19487610571852,
+  "operating_margin": 5.304894437397295,
+  "net_margin": 4.295102126677926,
+  "roe": 9.109439296555452,
+  "cached_at": "2025-06-09T15:59:41.855234"
+}

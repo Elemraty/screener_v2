@@ -1,0 +1,23 @@
+{
+  "ticker": "071950",
+  "name": "코아스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 20326287350,
+  "operating_profit": 47774601,
+  "net_income": -1047702841,
+  "total_assets": 77698343713,
+  "total_debt": 76280992978,
+  "total_equity": 1417350735,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -13.923371449940426,
+  "operating_profit_yoy": -94.23451494055597,
+  "net_income_yoy": -414.7951060187201,
+  "debt_ratio": 5381.941893020573,
+  "operating_margin": 0.2350385005257736,
+  "net_margin": -5.154423053061877,
+  "roe": -295.6792034965149,
+  "cached_at": "2025-06-09T16:04:05.405898"
+}

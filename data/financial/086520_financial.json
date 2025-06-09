@@ -1,0 +1,21 @@
+{
+  "ticker": "086520",
+  "name": "에코프로",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 806827475329,
+  "operating_profit": 1373792359,
+  "net_income": -10758797059,
+  "total_assets": 8471946278182,
+  "total_debt": 4665654549335,
+  "total_equity": 3806291728847,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -20.94529430102916,
+  "debt_ratio": 122.57742920688631,
+  "operating_margin": 0.17027089446102572,
+  "net_margin": -1.333469346047355,
+  "roe": -1.130632944128962,
+  "cached_at": "2025-06-09T16:23:50.837470"
+}

@@ -1,0 +1,22 @@
+{
+  "ticker": "103590",
+  "name": "일진전기",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 457428128000,
+  "operating_profit": 34043295000,
+  "net_income": 0,
+  "total_assets": 1305626964000,
+  "total_debt": 796670365000,
+  "total_equity": 508956599000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 34.03535167693246,
+  "operating_profit_yoy": 86.42801270278923,
+  "debt_ratio": 156.53011800324452,
+  "operating_margin": 7.442326546215365,
+  "net_margin": 0.0,
+  "roe": 0.0,
+  "cached_at": "2025-06-09T16:03:19.444331"
+}

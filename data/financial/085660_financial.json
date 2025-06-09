@@ -1,0 +1,21 @@
+{
+  "ticker": "085660",
+  "name": "차바이오텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 304140291421,
+  "operating_profit": -12509187910,
+  "net_income": -26975929004,
+  "total_assets": 2195292409909,
+  "total_debt": 1504422887767,
+  "total_equity": 690869522142,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 30.86723060500587,
+  "debt_ratio": 217.75788908774354,
+  "operating_margin": -4.112966372049803,
+  "net_margin": -8.869567684690326,
+  "roe": -15.61853759034715,
+  "cached_at": "2025-06-09T16:34:49.498452"
+}

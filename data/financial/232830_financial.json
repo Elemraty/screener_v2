@@ -1,0 +1,21 @@
+{
+  "ticker": "232830",
+  "name": "아이티센피엔에스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 55866558654,
+  "operating_profit": -1128201122,
+  "net_income": -2083813707,
+  "total_assets": 115441095978,
+  "total_debt": 106397038917,
+  "total_equity": 9044057061,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 1275.949183144888,
+  "debt_ratio": 1176.4304249672182,
+  "operating_margin": -2.0194569867589682,
+  "net_margin": -3.72998401406062,
+  "roe": -92.16278459745114,
+  "cached_at": "2025-06-09T16:21:31.342099"
+}

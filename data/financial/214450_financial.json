@@ -1,0 +1,23 @@
+{
+  "ticker": "214450",
+  "name": "파마리서치",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 116909970307,
+  "operating_profit": 44733584603,
+  "net_income": 36026848814,
+  "total_assets": 889453939690,
+  "total_debt": 295403717009,
+  "total_equity": 594050222681,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 56.47134669735048,
+  "operating_profit_yoy": 67.74027780196337,
+  "net_income_yoy": 96.81116749519332,
+  "debt_ratio": 49.72706106830791,
+  "operating_margin": 38.26327599393939,
+  "net_margin": 30.815890825560228,
+  "roe": 24.2584532004097,
+  "cached_at": "2025-06-09T16:38:04.036626"
+}

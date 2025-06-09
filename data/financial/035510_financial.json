@@ -1,0 +1,23 @@
+{
+  "ticker": "035510",
+  "name": "신세계 I&C",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 172108164976,
+  "operating_profit": 10664383045,
+  "net_income": 9393934501,
+  "total_assets": 519885893790,
+  "total_debt": 107507246031,
+  "total_equity": 412378647759,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 9.553127777819936,
+  "operating_profit_yoy": 49.319014879055814,
+  "net_income_yoy": 36.240198330077014,
+  "debt_ratio": 26.070032145269746,
+  "operating_margin": 6.196326040944727,
+  "net_margin": 5.458157375804895,
+  "roe": 9.111950438801527,
+  "cached_at": "2025-06-09T16:01:42.225645"
+}

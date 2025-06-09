@@ -1,0 +1,23 @@
+{
+  "ticker": "004720",
+  "name": "팜젠사이언스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 42877260571,
+  "operating_profit": 2043544338,
+  "net_income": -710161733,
+  "total_assets": 340194413198,
+  "total_debt": 91544388188,
+  "total_equity": 248650025010,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 0.8742256253459146,
+  "operating_profit_yoy": -32.14579712110961,
+  "net_income_yoy": -136.46168503240895,
+  "debt_ratio": 36.81656102158781,
+  "operating_margin": 4.766032882665432,
+  "net_margin": -1.6562665700716832,
+  "roe": -1.1424277684612165,
+  "cached_at": "2025-06-09T16:04:29.456516"
+}

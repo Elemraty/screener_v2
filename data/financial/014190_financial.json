@@ -1,0 +1,23 @@
+{
+  "ticker": "014190",
+  "name": "원익큐브",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 73076237650,
+  "operating_profit": 635830734,
+  "net_income": 622243675,
+  "total_assets": 159408574286,
+  "total_debt": 51912911062,
+  "total_equity": 107495663224,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 17.315443400038653,
+  "operating_profit_yoy": -49.3345325270336,
+  "net_income_yoy": -43.623696992113416,
+  "debt_ratio": 48.29302829996371,
+  "operating_margin": 0.8700923233696337,
+  "net_margin": 0.8514993313972288,
+  "roe": 2.3154187111841544,
+  "cached_at": "2025-06-09T16:30:24.572351"
+}

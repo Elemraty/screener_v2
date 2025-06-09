@@ -1,0 +1,23 @@
+{
+  "ticker": "072020",
+  "name": "중앙백신",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 13241834045,
+  "operating_profit": 2286702890,
+  "net_income": 2114360423,
+  "total_assets": 123122610325,
+  "total_debt": 20777441129,
+  "total_equity": 102345169196,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 16.768353396550207,
+  "operating_profit_yoy": 57.87300307386709,
+  "net_income_yoy": 26.663704323538727,
+  "debt_ratio": 20.301340348765628,
+  "operating_margin": 17.26877774052333,
+  "net_margin": 15.967277763901322,
+  "roe": 8.263645229608498,
+  "cached_at": "2025-06-09T16:34:20.591620"
+}

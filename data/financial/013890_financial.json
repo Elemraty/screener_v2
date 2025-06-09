@@ -1,0 +1,21 @@
+{
+  "ticker": "013890",
+  "name": "지누스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 249928021652,
+  "operating_profit": 27501637920,
+  "net_income": 18651281329,
+  "total_assets": 1190330419210,
+  "total_debt": 500993175406,
+  "total_equity": 689337243804,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 64.16015119733036,
+  "debt_ratio": 72.67751451254068,
+  "operating_margin": 11.003823316095907,
+  "net_margin": 7.462661131679768,
+  "roe": 10.82273241241156,
+  "cached_at": "2025-06-09T16:03:39.345691"
+}

@@ -1,0 +1,14 @@
+{
+  "per": 0.0,
+  "pbr": 0.0,
+  "eps": 0.0,
+  "bps": 0.0,
+  "dividend_yield": 6.06,
+  "dps": 19005.0,
+  "market_cap": 0.0,
+  "date": "20250609",
+  "source": "pykrx_fundamental",
+  "sales_yoy": 5,
+  "op_income_yoy": 5,
+  "cached_at": "2025-06-09T16:00:57.689583"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "101930",
+  "name": "인화정공",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 28520545227,
+  "operating_profit": 2659271392,
+  "net_income": -2330269828,
+  "total_assets": 443421529461,
+  "total_debt": 169272264162,
+  "total_equity": 274149265299,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 31.017519051683262,
+  "operating_profit_yoy": 131.01360271425565,
+  "net_income_yoy": -104.39316923636225,
+  "debt_ratio": 61.74456239282048,
+  "operating_margin": 9.32405524100046,
+  "net_margin": -8.170495372556786,
+  "roe": -3.4000015655099407,
+  "cached_at": "2025-06-09T16:33:14.590531"
+}

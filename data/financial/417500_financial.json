@@ -1,0 +1,13 @@
+{
+  "ticker": "417500",
+  "name": "제이아이테크",
+  "market": "KOSDAQ",
+  "bps": 2272,
+  "per": 10.07,
+  "eps": 337,
+  "pbr": 1.49,
+  "roe": 14.83274647887324,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:33:53.988718"
+}

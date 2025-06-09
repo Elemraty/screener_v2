@@ -1,0 +1,22 @@
+{
+  "ticker": "067310",
+  "name": "하나마이크론",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 311772740280,
+  "operating_profit": 11740572299,
+  "net_income": 574196269,
+  "total_assets": 1965629934700,
+  "total_debt": 1368855665653,
+  "total_equity": 596774269047,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 15.917578093651152,
+  "operating_profit_yoy": 8.445801194160252,
+  "debt_ratio": 229.3757852259534,
+  "operating_margin": 3.7657468989931284,
+  "net_margin": 0.1841714155266814,
+  "roe": 0.38486663972087454,
+  "cached_at": "2025-06-09T16:40:06.708817"
+}

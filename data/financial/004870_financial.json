@@ -1,0 +1,22 @@
+{
+  "ticker": "004870",
+  "name": "티웨이홀딩스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1096394000,
+  "operating_profit": -1446254252,
+  "net_income": -14071490135,
+  "total_assets": 171778601557,
+  "total_debt": 37377692631,
+  "total_equity": 134400908926,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 59.04277888305345,
+  "net_income_yoy": -338.09898033009296,
+  "debt_ratio": 27.810595128921218,
+  "operating_margin": -131.91008451341398,
+  "net_margin": -1283.4337049454848,
+  "roe": -41.87915170349821,
+  "cached_at": "2025-06-09T16:04:27.579297"
+}

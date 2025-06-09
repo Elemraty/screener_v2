@@ -1,0 +1,21 @@
+{
+  "ticker": "153460",
+  "name": "네이블",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2997681803,
+  "operating_profit": -474017854,
+  "net_income": -276856245,
+  "total_assets": 34504587087,
+  "total_debt": 2143822903,
+  "total_equity": 32360764184,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 53.30347455630435,
+  "debt_ratio": 6.624759819670642,
+  "operating_margin": -15.812814206151419,
+  "net_margin": -9.235678207170944,
+  "roe": -3.422122461952056,
+  "cached_at": "2025-06-09T16:10:05.954435"
+}

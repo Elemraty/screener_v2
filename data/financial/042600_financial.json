@@ -1,0 +1,21 @@
+{
+  "ticker": "042600",
+  "name": "새로닉스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 50934498793,
+  "operating_profit": -138274985,
+  "net_income": -16777610198,
+  "total_assets": 233015153784,
+  "total_debt": 122681621266,
+  "total_equity": 110333532518,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 8.620664695701663,
+  "debt_ratio": 111.19160101756509,
+  "operating_margin": -0.27147608846011323,
+  "net_margin": -32.93958043287111,
+  "roe": -60.825063115831526,
+  "cached_at": "2025-06-09T16:17:11.393222"
+}

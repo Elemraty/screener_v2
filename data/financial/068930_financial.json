@@ -1,0 +1,23 @@
+{
+  "ticker": "068930",
+  "name": "디지털대성",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 60390724019,
+  "operating_profit": 5185664788,
+  "net_income": 2324550837,
+  "total_assets": 344008740370,
+  "total_debt": 194210643779,
+  "total_equity": 149798096591,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 28.006602253303804,
+  "operating_profit_yoy": 323.73044293862006,
+  "net_income_yoy": 531.2515001908974,
+  "debt_ratio": 129.6482720399722,
+  "operating_margin": 8.586856462208496,
+  "net_margin": 3.84918524286719,
+  "roe": 6.2071572066681675,
+  "cached_at": "2025-06-09T16:12:52.169213"
+}

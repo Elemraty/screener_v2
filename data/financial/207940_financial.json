@@ -1,0 +1,23 @@
+{
+  "ticker": "207940",
+  "name": "삼성바이오로직스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1298272949854,
+  "operating_profit": 486688724699,
+  "net_income": 375553550929,
+  "total_assets": 17436977088253,
+  "total_debt": 6156868520968,
+  "total_equity": 11280108567285,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 37.10723406623888,
+  "operating_profit_yoy": 119.9233441576086,
+  "net_income_yoy": 109.38325462766821,
+  "debt_ratio": 54.58164240390722,
+  "operating_margin": 37.48739621770073,
+  "net_margin": 28.927164428037543,
+  "roe": 13.317373629477103,
+  "cached_at": "2025-06-09T16:00:48.253163"
+}

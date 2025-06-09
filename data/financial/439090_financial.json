@@ -1,0 +1,13 @@
+{
+  "ticker": "439090",
+  "name": "마녀공장",
+  "market": "KOSDAQ",
+  "bps": 6948,
+  "per": 17.77,
+  "eps": 999,
+  "pbr": 2.55,
+  "roe": 14.378238341968913,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:13:48.296581"
+}

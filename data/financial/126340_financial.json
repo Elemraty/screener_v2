@@ -1,0 +1,23 @@
+{
+  "ticker": "126340",
+  "name": "비나텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 15739378515,
+  "operating_profit": -2409395108,
+  "net_income": -2579438378,
+  "total_assets": 180217363219,
+  "total_debt": 98962500434,
+  "total_equity": 81254862785,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 16.788354899449786,
+  "operating_profit_yoy": -662.0973576109774,
+  "net_income_yoy": -297.4682790559223,
+  "debt_ratio": 121.79271128160578,
+  "operating_margin": -15.30807017382414,
+  "net_margin": -16.38843856218169,
+  "roe": -12.69801358141571,
+  "cached_at": "2025-06-09T16:15:55.864291"
+}

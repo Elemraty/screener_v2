@@ -1,0 +1,23 @@
+{
+  "ticker": "051390",
+  "name": "YW",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 5778207582,
+  "operating_profit": 1345741332,
+  "net_income": 983729635,
+  "total_assets": 96817573257,
+  "total_debt": 16615192917,
+  "total_equity": 80202380340,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -4.342072993425184,
+  "operating_profit_yoy": -23.478246567991324,
+  "net_income_yoy": -27.67741644359065,
+  "debt_ratio": 20.71658328164777,
+  "operating_margin": 23.28994437984869,
+  "net_margin": 17.02482337367851,
+  "roe": 4.906236602104321,
+  "cached_at": "2025-06-09T16:08:25.305968"
+}

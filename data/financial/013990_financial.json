@@ -1,0 +1,23 @@
+{
+  "ticker": "013990",
+  "name": "아가방컴퍼니",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 44370580498,
+  "operating_profit": 1355120374,
+  "net_income": 863247184,
+  "total_assets": 222821527551,
+  "total_debt": 54431881515,
+  "total_equity": 168389646036,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -1.3646991148157372,
+  "operating_profit_yoy": -33.37172764015127,
+  "net_income_yoy": -28.903472024209044,
+  "debt_ratio": 32.32495749968084,
+  "operating_margin": 3.0540965630618286,
+  "net_margin": 1.9455395316248136,
+  "roe": 2.050594450006615,
+  "cached_at": "2025-06-09T16:20:34.700794"
+}

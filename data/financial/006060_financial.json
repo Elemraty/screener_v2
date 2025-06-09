@@ -1,0 +1,23 @@
+{
+  "ticker": "006060",
+  "name": "화승인더",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 485530052115,
+  "operating_profit": 23732723302,
+  "net_income": 5671651176,
+  "total_assets": 1768690411480,
+  "total_debt": 1178657616908,
+  "total_equity": 590032794572,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 17.586759019128895,
+  "operating_profit_yoy": 97.06749797876893,
+  "net_income_yoy": 414.8734113582893,
+  "debt_ratio": 199.76137390176402,
+  "operating_margin": 4.888002956484102,
+  "net_margin": 1.1681359683698105,
+  "roe": 3.8449735188798253,
+  "cached_at": "2025-06-09T16:05:54.947242"
+}

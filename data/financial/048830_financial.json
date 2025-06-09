@@ -1,0 +1,21 @@
+{
+  "ticker": "048830",
+  "name": "엔피케이",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 19940815995,
+  "operating_profit": -81731603,
+  "net_income": -197112460,
+  "total_assets": 69700294124,
+  "total_debt": 25366381648,
+  "total_equity": 44333912476,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 26.062803502062117,
+  "debt_ratio": 57.21665477129274,
+  "operating_margin": -0.4098709050847946,
+  "net_margin": -0.9884874322566557,
+  "roe": -1.7784350533619708,
+  "cached_at": "2025-06-09T16:24:36.730817"
+}

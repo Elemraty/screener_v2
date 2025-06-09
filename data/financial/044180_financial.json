@@ -1,0 +1,23 @@
+{
+  "ticker": "044180",
+  "name": "KD",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 10685947183,
+  "operating_profit": 222090401,
+  "net_income": -2267518395,
+  "total_assets": 298745060758,
+  "total_debt": 261791244706,
+  "total_equity": 36953816052,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -73.69487526018814,
+  "operating_profit_yoy": -90.80182642421684,
+  "net_income_yoy": -216.90457660892065,
+  "debt_ratio": 708.4281751514305,
+  "operating_margin": 2.0783408077602887,
+  "net_margin": -21.219629445739137,
+  "roe": -24.54434899831979,
+  "cached_at": "2025-06-09T16:07:21.949395"
+}

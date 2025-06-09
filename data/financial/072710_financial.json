@@ -1,0 +1,23 @@
+{
+  "ticker": "072710",
+  "name": "농심홀딩스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 191082086546,
+  "operating_profit": 25262947847,
+  "net_income": 23327508852,
+  "total_assets": 1666884747599,
+  "total_debt": 437432374170,
+  "total_equity": 1229452373429,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -14.61203347841149,
+  "operating_profit_yoy": -29.360579580072756,
+  "net_income_yoy": -27.57490011871926,
+  "debt_ratio": 35.579448510883,
+  "operating_margin": 13.220992246658527,
+  "net_margin": 12.208108710590341,
+  "roe": 7.589560801591197,
+  "cached_at": "2025-06-09T15:58:39.284188"
+}

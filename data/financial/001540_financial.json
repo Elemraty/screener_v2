@@ -1,0 +1,23 @@
+{
+  "ticker": "001540",
+  "name": "안국약품",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 75751750608,
+  "operating_profit": 5856358524,
+  "net_income": 3504313515,
+  "total_assets": 304480711028,
+  "total_debt": 142694191924,
+  "total_equity": 161786519104,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 15.23057879553338,
+  "operating_profit_yoy": 91.1526347233655,
+  "net_income_yoy": -54.409594933774244,
+  "debt_ratio": 88.19906177242925,
+  "operating_margin": 7.730987702588514,
+  "net_margin": 4.626049545883255,
+  "roe": 8.66404329460194,
+  "cached_at": "2025-06-09T16:21:43.259556"
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "173940",
+  "name": "에프엔씨엔터",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 11340266731,
+  "operating_profit": -3746094698,
+  "net_income": -4022962056,
+  "total_assets": 113024284146,
+  "total_debt": 85609732857,
+  "total_equity": 27414551289,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -38.33134674043828,
+  "debt_ratio": 312.2784391198503,
+  "operating_margin": -33.033567788662275,
+  "net_margin": -35.47502145608924,
+  "roe": -58.698200289190225,
+  "cached_at": "2025-06-09T16:23:58.272091"
+}

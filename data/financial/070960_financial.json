@@ -1,0 +1,23 @@
+{
+  "ticker": "070960",
+  "name": "모나용평",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 70662016551,
+  "operating_profit": 13320342227,
+  "net_income": 7876703213,
+  "total_assets": 1013122823191,
+  "total_debt": 613443544677,
+  "total_equity": 399679278514,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 26.285549555897347,
+  "operating_profit_yoy": 33.4637624907882,
+  "net_income_yoy": 35.88937890141535,
+  "debt_ratio": 153.48395017068975,
+  "operating_margin": 18.85078133509833,
+  "net_margin": 11.147011644247407,
+  "roe": 7.883023850809012,
+  "cached_at": "2025-06-09T16:00:10.452470"
+}

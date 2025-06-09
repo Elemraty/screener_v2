@@ -1,0 +1,21 @@
+{
+  "ticker": "140910",
+  "name": "에이리츠",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 390234721,
+  "operating_profit": -423235848,
+  "net_income": -344764584,
+  "total_assets": 82342166365,
+  "total_debt": 52410619946,
+  "total_equity": 29931546419,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -68.60251446347505,
+  "debt_ratio": 175.1016108968252,
+  "operating_margin": -108.45673775911908,
+  "net_margin": -88.34800325212477,
+  "roe": -4.6073741620132225,
+  "cached_at": "2025-06-09T16:02:16.858245"
+}

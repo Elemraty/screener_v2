@@ -1,0 +1,23 @@
+{
+  "ticker": "006400",
+  "name": "삼성SDI",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 3176817731170,
+  "operating_profit": -434068787207,
+  "net_income": -215955155323,
+  "total_assets": 40710066512032,
+  "total_debt": 19173119213294,
+  "total_equity": 21536947298738,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -38.08451189495599,
+  "operating_profit_yoy": -262.34073864046945,
+  "net_income_yoy": -175.3274038225309,
+  "debt_ratio": 89.02431225439962,
+  "operating_margin": -13.663635245675096,
+  "net_margin": -6.797845315584575,
+  "roe": -4.010877722408771,
+  "cached_at": "2025-06-09T16:00:42.656575"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "009520",
+  "name": "포스코엠텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 86307683079,
+  "operating_profit": -795713321,
+  "net_income": -765485108,
+  "total_assets": 152204374320,
+  "total_debt": 41989516905,
+  "total_equity": 110214857415,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 5.058157315200051,
+  "operating_profit_yoy": -152.6372235730078,
+  "net_income_yoy": -148.94972040958422,
+  "debt_ratio": 38.09787345357062,
+  "operating_margin": -0.9219495792415837,
+  "net_margin": -0.8869257992933591,
+  "roe": -2.7781557802780195,
+  "cached_at": "2025-06-09T16:38:39.666036"
+}

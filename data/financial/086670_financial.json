@@ -1,0 +1,23 @@
+{
+  "ticker": "086670",
+  "name": "비엠티",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 36597570765,
+  "operating_profit": 2776806768,
+  "net_income": 3588020744,
+  "total_assets": 245460160519,
+  "total_debt": 122894271498,
+  "total_equity": 122565889021,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 16.979644073972832,
+  "operating_profit_yoy": 0.5200143092541465,
+  "net_income_yoy": 40.61095147519116,
+  "debt_ratio": 100.2679232204188,
+  "operating_margin": 7.587407333209101,
+  "net_margin": 9.80398608158822,
+  "roe": 11.70968781823217,
+  "cached_at": "2025-06-09T16:16:11.084790"
+}

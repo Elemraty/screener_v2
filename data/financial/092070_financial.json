@@ -1,0 +1,23 @@
+{
+  "ticker": "092070",
+  "name": "디엔에프",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 17280462497,
+  "operating_profit": -534111832,
+  "net_income": -443205702,
+  "total_assets": 159429434821,
+  "total_debt": 9700428457,
+  "total_equity": 149729006364,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -11.222824915788499,
+  "operating_profit_yoy": -143.24710009962078,
+  "net_income_yoy": -123.1916418209821,
+  "debt_ratio": 6.478656803089769,
+  "operating_margin": -3.090842227704989,
+  "net_margin": -2.5647791665121424,
+  "roe": -1.1840209529542751,
+  "cached_at": "2025-06-09T16:12:42.257959"
+}

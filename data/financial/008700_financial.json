@@ -1,0 +1,23 @@
+{
+  "ticker": "008700",
+  "name": "아남전자",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 35497293,
+  "operating_profit": 1355675,
+  "net_income": 1422637,
+  "total_assets": 150732489,
+  "total_debt": 60146394,
+  "total_equity": 90586095,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -18.27059877844599,
+  "operating_profit_yoy": 88.76903111536888,
+  "net_income_yoy": 211.2637074118481,
+  "debt_ratio": 66.39693873546486,
+  "operating_margin": 3.8190940362691883,
+  "net_margin": 4.007733772826001,
+  "roe": 6.281922186843356,
+  "cached_at": "2025-06-09T16:02:01.104066"
+}

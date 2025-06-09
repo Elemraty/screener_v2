@@ -1,0 +1,23 @@
+{
+  "ticker": "008260",
+  "name": "NI스틸",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 53888518646,
+  "operating_profit": 6690250141,
+  "net_income": 3925255145,
+  "total_assets": 472905044870,
+  "total_debt": 217417331201,
+  "total_equity": 255487713669,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -29.752300912676844,
+  "operating_profit_yoy": -50.21980540538142,
+  "net_income_yoy": -59.64968868531013,
+  "debt_ratio": 85.09893805800677,
+  "operating_margin": 12.414982465836625,
+  "net_margin": 7.284028664408947,
+  "roe": 6.145509055805961,
+  "cached_at": "2025-06-09T15:57:16.610270"
+}

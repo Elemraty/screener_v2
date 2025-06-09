@@ -1,0 +1,21 @@
+{
+  "ticker": "019490",
+  "name": "엑시큐어하이트론",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1155477737,
+  "operating_profit": -5888296604,
+  "net_income": -6893861142,
+  "total_assets": 68920647991,
+  "total_debt": 34627253275,
+  "total_equity": 34293394716,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 18.73119875665541,
+  "debt_ratio": 100.97353604612447,
+  "operating_margin": -509.5984470707288,
+  "net_margin": -596.6243157482834,
+  "roe": -80.41036705862876,
+  "cached_at": "2025-06-09T16:02:21.228258"
+}

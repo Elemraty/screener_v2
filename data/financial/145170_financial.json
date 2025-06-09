@@ -1,0 +1,20 @@
+{
+  "ticker": "145170",
+  "name": "노브랜드",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 163203540770,
+  "operating_profit": 9884696604,
+  "net_income": 4649085590,
+  "total_assets": 381957154746,
+  "total_debt": 223145505141,
+  "total_equity": 158811649605,
+  "data_source": "f_data_financial",
+  "debt_ratio": 140.50953169746214,
+  "operating_margin": 6.056667984875608,
+  "net_margin": 2.848642601787591,
+  "roe": 11.709684022710709,
+  "cached_at": "2025-06-09T16:10:24.884619"
+}

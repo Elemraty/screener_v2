@@ -1,0 +1,23 @@
+{
+  "ticker": "042670",
+  "name": "HD현대인프라코어",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1018500784229,
+  "operating_profit": 67821716541,
+  "net_income": 39893034950,
+  "total_assets": 4456218417368,
+  "total_debt": 2574763639447,
+  "total_equity": 1881454777921,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -3.0555346192068678,
+  "operating_profit_yoy": -26.92036346940545,
+  "net_income_yoy": -40.945149524367295,
+  "debt_ratio": 136.8496160344658,
+  "operating_margin": 6.658975387273826,
+  "net_margin": 3.9168389035850204,
+  "roe": 8.481316780641764,
+  "cached_at": "2025-06-09T15:56:18.940993"
+}

@@ -1,0 +1,13 @@
+{
+  "ticker": "389020",
+  "name": "자람테크놀로지",
+  "market": "KOSDAQ",
+  "bps": 6860,
+  "per": 112.07,
+  "eps": 323,
+  "pbr": 5.28,
+  "roe": 4.708454810495627,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:33:23.274194"
+}

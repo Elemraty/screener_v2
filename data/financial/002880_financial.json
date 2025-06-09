@@ -1,0 +1,23 @@
+{
+  "ticker": "002880",
+  "name": "대유에이텍",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 147391469430,
+  "operating_profit": 10796293700,
+  "net_income": 1525333501,
+  "total_assets": 350963258282,
+  "total_debt": 305332063779,
+  "total_equity": 45631194503,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -1.8828196988716073,
+  "operating_profit_yoy": -18.723074030795495,
+  "net_income_yoy": -82.23800554092584,
+  "debt_ratio": 669.130113959489,
+  "operating_margin": 7.324910825403934,
+  "net_margin": 1.034885876977039,
+  "roe": 13.370971482236502,
+  "cached_at": "2025-06-09T15:59:00.751182"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "073010",
+  "name": "케이에스피",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 21745032724,
+  "operating_profit": 2808859226,
+  "net_income": 2023900026,
+  "total_assets": 118206739706,
+  "total_debt": 45653131716,
+  "total_equity": 72553607990,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 1.6613725309104765,
+  "operating_profit_yoy": -28.21177579717388,
+  "net_income_yoy": -47.305370746469286,
+  "debt_ratio": 62.92331006101355,
+  "operating_margin": 12.917245338977398,
+  "net_margin": 9.307413107574774,
+  "roe": 11.158094446682526,
+  "cached_at": "2025-06-09T16:35:28.831710"
+}

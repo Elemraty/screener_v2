@@ -1,0 +1,23 @@
+{
+  "ticker": "008830",
+  "name": "대동기어",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 60666544462,
+  "operating_profit": 519619037,
+  "net_income": -2520155128,
+  "total_assets": 263672044307,
+  "total_debt": 180899548597,
+  "total_equity": 82772495710,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -15.96943051426477,
+  "operating_profit_yoy": -80.0860802372627,
+  "net_income_yoy": -321.72468712729864,
+  "debt_ratio": 218.55031317503816,
+  "operating_margin": 0.8565166214889267,
+  "net_margin": -4.154110227225092,
+  "roe": -12.178707945835358,
+  "cached_at": "2025-06-09T16:10:52.686120"
+}

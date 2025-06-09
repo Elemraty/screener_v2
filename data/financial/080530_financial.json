@@ -1,0 +1,22 @@
+{
+  "ticker": "080530",
+  "name": "코디",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 23214712041,
+  "operating_profit": 2023467603,
+  "net_income": 1600142614,
+  "total_assets": 81663924882,
+  "total_debt": 37229722970,
+  "total_equity": 44434201912,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 28.957529843346364,
+  "operating_profit_yoy": 1222.7185672830904,
+  "debt_ratio": 83.78618579384377,
+  "operating_margin": 8.71631575453665,
+  "net_margin": 6.892795444431764,
+  "roe": 14.404603167344042,
+  "cached_at": "2025-06-09T16:35:58.217545"
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "058110",
+  "name": "멕아이씨에스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2909256745,
+  "operating_profit": -1063399393,
+  "net_income": -1123010672,
+  "total_assets": 58450353067,
+  "total_debt": 20281550608,
+  "total_equity": 38168802459,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -0.28656865956390165,
+  "debt_ratio": 53.13646041105415,
+  "operating_margin": -36.55227043221996,
+  "net_margin": -38.601291341166935,
+  "roe": -11.768885578281484,
+  "cached_at": "2025-06-09T16:14:17.865820"
+}

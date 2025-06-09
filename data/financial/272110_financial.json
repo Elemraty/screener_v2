@@ -1,0 +1,23 @@
+{
+  "ticker": "272110",
+  "name": "케이엔제이",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 19289814977,
+  "operating_profit": 5539275890,
+  "net_income": 4557924324,
+  "total_assets": 159866814279,
+  "total_debt": 84587779952,
+  "total_equity": 75279034327,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 53.91168505888386,
+  "operating_profit_yoy": 167.29987968972733,
+  "net_income_yoy": 48.053002078615826,
+  "debt_ratio": 112.36565493728878,
+  "operating_margin": 28.71606542937138,
+  "net_margin": 23.628657555474696,
+  "roe": 24.218824615635267,
+  "cached_at": "2025-06-09T16:35:35.090292"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "084370",
+  "name": "유진테크",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 83153710266,
+  "operating_profit": 9202641861,
+  "net_income": 8122731230,
+  "total_assets": 566215159895,
+  "total_debt": 127030634606,
+  "total_equity": 439184525289,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 21.56173094128695,
+  "operating_profit_yoy": 131.7363583981622,
+  "net_income_yoy": 26.240240749332667,
+  "debt_ratio": 28.924205497087822,
+  "operating_margin": 11.067024948810719,
+  "net_margin": 9.768332890999373,
+  "roe": 7.398012236114136,
+  "cached_at": "2025-06-09T16:31:43.900538"
+}

@@ -1,0 +1,22 @@
+{
+  "ticker": "198940",
+  "name": "한주라이트메탈",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 62198704402,
+  "operating_profit": 1853248611,
+  "net_income": 469496140,
+  "total_assets": 211749929331,
+  "total_debt": 162684229912,
+  "total_equity": 49065699419,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 3.0223762948512256,
+  "operating_profit_yoy": 656.7841192961037,
+  "debt_ratio": 331.564069886677,
+  "operating_margin": 2.9795614375215327,
+  "net_margin": 0.7548326681623024,
+  "roe": 3.8274896358101786,
+  "cached_at": "2025-06-09T16:41:13.729268"
+}

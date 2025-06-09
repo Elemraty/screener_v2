@@ -1,0 +1,23 @@
+{
+  "ticker": "069260",
+  "name": "TKG휴켐스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 269267135442,
+  "operating_profit": 12619387954,
+  "net_income": 13969026425,
+  "total_assets": 1141634776721,
+  "total_debt": 288111198618,
+  "total_equity": 853523578103,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -10.487082473590947,
+  "operating_profit_yoy": -59.98558145509563,
+  "net_income_yoy": -54.02551653918963,
+  "debt_ratio": 33.75550553135766,
+  "operating_margin": 4.686568204205599,
+  "net_margin": 5.187794790504213,
+  "roe": 6.54652163496028,
+  "cached_at": "2025-06-09T15:57:53.349021"
+}

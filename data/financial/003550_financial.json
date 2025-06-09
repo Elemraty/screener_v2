@@ -1,0 +1,23 @@
+{
+  "ticker": "003550",
+  "name": "LG",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1936098000000,
+  "operating_profit": 638042000000,
+  "net_income": 608471000000,
+  "total_assets": 32552692000000,
+  "total_debt": 3623727000000,
+  "total_equity": 28928965000000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 19.23342209697325,
+  "operating_profit_yoy": 50.97012029491657,
+  "net_income_yoy": 65.18558133979084,
+  "debt_ratio": 12.526293284256798,
+  "operating_margin": 32.95504669701637,
+  "net_margin": 31.42769632528932,
+  "roe": 8.413311710253028,
+  "cached_at": "2025-06-09T15:56:50.940796"
+}

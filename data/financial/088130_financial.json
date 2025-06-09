@@ -1,0 +1,21 @@
+{
+  "ticker": "088130",
+  "name": "동아엘텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 26510254160,
+  "operating_profit": -3131178289,
+  "net_income": -4820840253,
+  "total_assets": 496464199576,
+  "total_debt": 356421572456,
+  "total_equity": 140042627120,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -21.897283785671263,
+  "debt_ratio": 254.50934460875888,
+  "operating_margin": -11.811196792388655,
+  "net_margin": -18.184813408065796,
+  "roe": -13.769636723164608,
+  "cached_at": "2025-06-09T16:12:06.179689"
+}

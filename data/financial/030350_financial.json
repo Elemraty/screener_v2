@@ -1,0 +1,21 @@
+{
+  "ticker": "030350",
+  "name": "드래곤플라이",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 4257633657,
+  "operating_profit": -497283977,
+  "net_income": -719346914,
+  "total_assets": 23493057620,
+  "total_debt": 10964819970,
+  "total_equity": 12528237650,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -62.96889324350635,
+  "debt_ratio": 87.5208491116067,
+  "operating_margin": -11.679820695291914,
+  "net_margin": -16.895462878007777,
+  "roe": -22.967218026870682,
+  "cached_at": "2025-06-09T16:12:23.439675"
+}

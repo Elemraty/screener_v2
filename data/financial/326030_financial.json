@@ -1,0 +1,13 @@
+{
+  "ticker": "326030",
+  "name": "SK바이오팜",
+  "market": "KOSPI",
+  "bps": 6975,
+  "per": 30.25,
+  "eps": 3074,
+  "pbr": 13.33,
+  "roe": 44.07168458781362,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T15:57:35.784812"
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "047080",
+  "name": "한빛소프트",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 8368710310,
+  "operating_profit": -187938818,
+  "net_income": 514484767,
+  "total_assets": 26243695528,
+  "total_debt": 8849629457,
+  "total_equity": 17394066071,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 39.5834569676125,
+  "debt_ratio": 50.87729011076032,
+  "operating_margin": -2.2457321503341654,
+  "net_margin": 6.147718679964679,
+  "roe": 11.83127084604484,
+  "cached_at": "2025-06-09T16:40:57.024552"
+}

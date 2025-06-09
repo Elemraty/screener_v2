@@ -1,0 +1,22 @@
+{
+  "ticker": "036580",
+  "name": "팜스코",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 374500885402,
+  "operating_profit": 20030421919,
+  "net_income": 1342385474,
+  "total_assets": 1183929524951,
+  "total_debt": 1019320211631,
+  "total_equity": 164609313320,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -7.664942548694043,
+  "operating_profit_yoy": -14.045228175047765,
+  "debt_ratio": 619.2360511518839,
+  "operating_margin": 5.348564636235444,
+  "net_margin": 0.35844654213809,
+  "roe": 3.2619915530305548,
+  "cached_at": "2025-06-09T16:04:29.146671"
+}

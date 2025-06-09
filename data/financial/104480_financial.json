@@ -1,0 +1,22 @@
+{
+  "ticker": "104480",
+  "name": "티케이케미칼",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 87024986031,
+  "operating_profit": -1575607401,
+  "net_income": 61466581314,
+  "total_assets": 1543840820702,
+  "total_debt": 367860140736,
+  "total_equity": 1175980679966,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -5.846962677443912,
+  "net_income_yoy": 563.3277546607507,
+  "debt_ratio": 31.281138117561213,
+  "operating_margin": -1.8105230151243434,
+  "net_margin": 70.63095797809655,
+  "roe": 20.9073439253363,
+  "cached_at": "2025-06-09T16:37:55.579442"
+}

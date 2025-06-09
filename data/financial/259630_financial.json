@@ -1,0 +1,23 @@
+{
+  "ticker": "259630",
+  "name": "엠플러스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 23214278317,
+  "operating_profit": 2380255260,
+  "net_income": 3584723760,
+  "total_assets": 315608669595,
+  "total_debt": 228630296982,
+  "total_equity": 86978372613,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 7.617415509228009,
+  "operating_profit_yoy": -17.608396317682452,
+  "net_income_yoy": -3.0498822001942427,
+  "debt_ratio": 262.8587890454832,
+  "operating_margin": 10.253410541119084,
+  "net_margin": 15.441891886748332,
+  "roe": 16.485586714526406,
+  "cached_at": "2025-06-09T16:25:00.692673"
+}

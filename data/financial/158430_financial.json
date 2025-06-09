@@ -1,0 +1,23 @@
+{
+  "ticker": "158430",
+  "name": "아톤",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 17012573963,
+  "operating_profit": 2096143804,
+  "net_income": 5547406745,
+  "total_assets": 140034713034,
+  "total_debt": 37565759324,
+  "total_equity": 102468953710,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 18.961268999668768,
+  "operating_profit_yoy": -29.511464808597264,
+  "net_income_yoy": 104.2517921322208,
+  "debt_ratio": 36.66062545179861,
+  "operating_margin": 12.321144399188643,
+  "net_margin": 32.60768627407495,
+  "roe": 21.65497565516227,
+  "cached_at": "2025-06-09T16:21:39.705879"
+}

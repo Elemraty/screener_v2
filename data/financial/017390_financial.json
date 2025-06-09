@@ -1,0 +1,23 @@
+{
+  "ticker": "017390",
+  "name": "서울가스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 788891935814,
+  "operating_profit": 24850545883,
+  "net_income": 25351126121,
+  "total_assets": 1939235356627,
+  "total_debt": 825713801783,
+  "total_equity": 1113521554844,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 9.090730034783622,
+  "operating_profit_yoy": 15.825177832051063,
+  "net_income_yoy": -7.869730329575974,
+  "debt_ratio": 74.15337387866543,
+  "operating_margin": 3.1500570299731274,
+  "net_margin": 3.213510617882286,
+  "roe": 9.106649444087894,
+  "cached_at": "2025-06-09T16:01:15.971198"
+}

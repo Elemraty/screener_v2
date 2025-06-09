@@ -1,0 +1,23 @@
+{
+  "ticker": "123570",
+  "name": "이엠넷",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 7747700347,
+  "operating_profit": -322418907,
+  "net_income": 670032916,
+  "total_assets": 131600994632,
+  "total_debt": 33226019881,
+  "total_equity": 98374974751,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -10.10107188661532,
+  "operating_profit_yoy": -145.58299165095096,
+  "net_income_yoy": -40.91512539100074,
+  "debt_ratio": 33.774870047082025,
+  "operating_margin": -4.161478794476666,
+  "net_margin": 8.648152174076332,
+  "roe": 2.7244039155118114,
+  "cached_at": "2025-06-09T16:32:30.523491"
+}

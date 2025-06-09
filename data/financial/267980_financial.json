@@ -1,0 +1,23 @@
+{
+  "ticker": "267980",
+  "name": "매일유업",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 458805548589,
+  "operating_profit": 12998222686,
+  "net_income": 10450210868,
+  "total_assets": 1017906032255,
+  "total_debt": 442480180353,
+  "total_equity": 575425851902,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 3.2682199784318966,
+  "operating_profit_yoy": -33.29930646699948,
+  "net_income_yoy": -33.63964194641632,
+  "debt_ratio": 76.89612465106246,
+  "operating_margin": 2.833056994618839,
+  "net_margin": 2.277699321670877,
+  "roe": 7.264331856803515,
+  "cached_at": "2025-06-09T16:13:56.186894"
+}

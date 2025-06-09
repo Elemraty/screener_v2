@@ -1,0 +1,23 @@
+{
+  "ticker": "057030",
+  "name": "YBM넷",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 13515957643,
+  "operating_profit": 534049318,
+  "net_income": 818632875,
+  "total_assets": 83334923629,
+  "total_debt": 31690586285,
+  "total_equity": 51644337344,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -8.576930141483064,
+  "operating_profit_yoy": -37.973912938474896,
+  "net_income_yoy": -18.088369648264123,
+  "debt_ratio": 61.363138564274344,
+  "operating_margin": 3.9512503080134134,
+  "net_margin": 6.056787810547594,
+  "roe": 6.340543161951197,
+  "cached_at": "2025-06-09T16:08:23.231527"
+}

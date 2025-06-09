@@ -1,0 +1,23 @@
+{
+  "ticker": "219130",
+  "name": "타이거일렉",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 17015530857,
+  "operating_profit": 1001902339,
+  "net_income": 797202890,
+  "total_assets": 78479668965,
+  "total_debt": 24720844893,
+  "total_equity": 53758824072,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 29.087558085623,
+  "operating_profit_yoy": 2413.119635302268,
+  "net_income_yoy": 29.173648734703804,
+  "debt_ratio": 45.984720312875524,
+  "operating_margin": 5.8881638628854684,
+  "net_margin": 4.685148507559137,
+  "roe": 5.931698869992351,
+  "cached_at": "2025-06-09T16:37:04.788546"
+}

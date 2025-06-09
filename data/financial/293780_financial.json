@@ -1,0 +1,21 @@
+{
+  "ticker": "293780",
+  "name": "압타바이오",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 382701179,
+  "operating_profit": -2631487692,
+  "net_income": -2579441019,
+  "total_assets": 71930813373,
+  "total_debt": 20198459910,
+  "total_equity": 51732353463,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -39.94317870118434,
+  "debt_ratio": 39.044154301710506,
+  "operating_margin": -687.6089848680607,
+  "net_margin": -674.0091644713747,
+  "roe": -19.944509355019907,
+  "cached_at": "2025-06-09T16:22:01.890133"
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "033170",
+  "name": "시그네틱스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 25057059212,
+  "operating_profit": -13009802867,
+  "net_income": -11077533446,
+  "total_assets": 100129527097,
+  "total_debt": 45060363525,
+  "total_equity": 55069163572,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -27.38631900286582,
+  "debt_ratio": 81.82503710281703,
+  "operating_margin": -51.92070927768536,
+  "net_margin": -44.209232026298174,
+  "roe": -80.462696198512,
+  "cached_at": "2025-06-09T16:19:10.419831"
+}

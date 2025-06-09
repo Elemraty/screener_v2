@@ -1,0 +1,23 @@
+{
+  "ticker": "005880",
+  "name": "대한해운",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 330519402029,
+  "operating_profit": 63907397450,
+  "net_income": 62115072847,
+  "total_assets": 4450138193143,
+  "total_debt": 2107376479629,
+  "total_equity": 2342761713514,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -35.847986451862404,
+  "operating_profit_yoy": -49.578937702606815,
+  "net_income_yoy": -24.611145077939366,
+  "debt_ratio": 89.95266003677614,
+  "operating_margin": 19.3354450775609,
+  "net_margin": 18.793169921549712,
+  "roe": 10.60544441864404,
+  "cached_at": "2025-06-09T15:59:07.897301"
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "023440",
+  "name": "제이스코홀딩스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 7860310869,
+  "operating_profit": -2620045847,
+  "net_income": -3418165477,
+  "total_assets": 125884073064,
+  "total_debt": 60752307726,
+  "total_equity": 65131765338,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 3.620854693700304,
+  "debt_ratio": 93.27600351491643,
+  "operating_margin": -33.332598298791275,
+  "net_margin": -43.48639047446306,
+  "roe": -20.992309723290923,
+  "cached_at": "2025-06-09T16:33:49.683608"
+}

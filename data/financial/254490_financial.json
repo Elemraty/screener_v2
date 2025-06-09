@@ -1,0 +1,23 @@
+{
+  "ticker": "254490",
+  "name": "미래반도체",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 159314767324,
+  "operating_profit": 5391513525,
+  "net_income": 4313381568,
+  "total_assets": 156345933214,
+  "total_debt": 66153276445,
+  "total_equity": 90192656769,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 34.792608580037076,
+  "operating_profit_yoy": 67.04378147724232,
+  "net_income_yoy": 91.61968597294401,
+  "debt_ratio": 73.34663243641965,
+  "operating_margin": 3.384189435518696,
+  "net_margin": 2.707458724920229,
+  "roe": 19.12963526087213,
+  "cached_at": "2025-06-09T16:14:38.836997"
+}

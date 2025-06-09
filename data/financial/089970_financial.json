@@ -1,0 +1,21 @@
+{
+  "ticker": "089970",
+  "name": "브이엠",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 17908198957,
+  "operating_profit": 1879761454,
+  "net_income": 1565220803,
+  "total_assets": 166557219991,
+  "total_debt": 40423213708,
+  "total_equity": 126134006283,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 117.62287525230958,
+  "debt_ratio": 32.047831428825496,
+  "operating_margin": 10.496652726014274,
+  "net_margin": 8.74024689338278,
+  "roe": 4.963675852769472,
+  "cached_at": "2025-06-09T16:15:48.516521"
+}

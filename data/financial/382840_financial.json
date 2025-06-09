@@ -1,0 +1,13 @@
+{
+  "ticker": "382840",
+  "name": "원준",
+  "market": "KOSDAQ",
+  "bps": 7847,
+  "per": 37.48,
+  "eps": 246,
+  "pbr": 1.17,
+  "roe": 3.1349560341531792,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:30:29.389209"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "003720",
+  "name": "삼영",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 31347377484,
+  "operating_profit": 2263500469,
+  "net_income": 0,
+  "total_assets": 136394984630,
+  "total_debt": 60435820071,
+  "total_equity": 75959164559,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 5.328577213914909,
+  "operating_profit_yoy": 38.42582919638333,
+  "net_income_yoy": -100.0,
+  "debt_ratio": 79.56356605799357,
+  "operating_margin": 7.220701221833667,
+  "net_margin": 0.0,
+  "roe": 0.0,
+  "cached_at": "2025-06-09T16:01:03.109737"
+}

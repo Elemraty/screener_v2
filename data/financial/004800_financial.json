@@ -1,0 +1,23 @@
+{
+  "ticker": "004800",
+  "name": "효성",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 553897669909,
+  "operating_profit": 81820624098,
+  "net_income": 72166150913,
+  "total_assets": 4476123527503,
+  "total_debt": 1961349444090,
+  "total_equity": 2514774083413,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -33.80949533931046,
+  "operating_profit_yoy": 220.72244422600673,
+  "net_income_yoy": 2021.7534133128754,
+  "debt_ratio": 77.99306733064851,
+  "operating_margin": 14.771794239799263,
+  "net_margin": 13.028787596246108,
+  "roe": 11.478748948304347,
+  "cached_at": "2025-06-09T16:05:59.649629"
+}

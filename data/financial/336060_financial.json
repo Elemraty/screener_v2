@@ -1,0 +1,13 @@
+{
+  "ticker": "336060",
+  "name": "웨이버스",
+  "market": "KOSDAQ",
+  "bps": 816,
+  "per": 18.24,
+  "eps": 68,
+  "pbr": 1.52,
+  "roe": 8.333333333333332,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:30:36.280296"
+}

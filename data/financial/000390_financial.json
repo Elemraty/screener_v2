@@ -1,0 +1,23 @@
+{
+  "ticker": "000390",
+  "name": "삼화페인트",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 133269135309,
+  "operating_profit": -3567511808,
+  "net_income": -1458117297,
+  "total_assets": 617620597812,
+  "total_debt": 298445199275,
+  "total_equity": 319175398537,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -5.0753393188004985,
+  "operating_profit_yoy": -215.78673267929406,
+  "net_income_yoy": -145.0010784807508,
+  "debt_ratio": 93.50507609389047,
+  "operating_margin": -2.676922754641057,
+  "net_margin": -1.094114772801058,
+  "roe": -1.8273554962989664,
+  "cached_at": "2025-06-09T16:01:11.522985"
+}

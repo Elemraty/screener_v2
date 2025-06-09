@@ -1,0 +1,21 @@
+{
+  "ticker": "033640",
+  "name": "네패스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 129369699780,
+  "operating_profit": 3635514289,
+  "net_income": 8481842290,
+  "total_assets": 700627794953,
+  "total_debt": 473669713199,
+  "total_equity": 226958081754,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 6.408499423016112,
+  "debt_ratio": 208.7036114943952,
+  "operating_margin": 2.810174480718734,
+  "net_margin": 6.5562819612504475,
+  "roe": 14.94873806554899,
+  "cached_at": "2025-06-09T16:10:08.068968"
+}

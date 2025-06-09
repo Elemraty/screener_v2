@@ -1,0 +1,21 @@
+{
+  "ticker": "225220",
+  "name": "제놀루션",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2068700556,
+  "operating_profit": -2484966579,
+  "net_income": -2254375184,
+  "total_assets": 104417876024,
+  "total_debt": 26024869597,
+  "total_equity": 78393006427,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 63.8527500442708,
+  "debt_ratio": 33.19794811190779,
+  "operating_margin": -120.12210137386361,
+  "net_margin": -108.97542312063844,
+  "roe": -11.502940309346531,
+  "cached_at": "2025-06-09T16:33:41.263313"
+}

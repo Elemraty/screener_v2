@@ -1,0 +1,23 @@
+{
+  "ticker": "044960",
+  "name": "이글벳",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 10727817646,
+  "operating_profit": 1267491205,
+  "net_income": 1059502227,
+  "total_assets": 61851117540,
+  "total_debt": 12938270177,
+  "total_equity": 48912847363,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 1.3263012498488047,
+  "operating_profit_yoy": -14.600397032145718,
+  "net_income_yoy": -26.962454574102846,
+  "debt_ratio": 26.451680641244206,
+  "operating_margin": 11.814995806463953,
+  "net_margin": 9.876213988359957,
+  "roe": 8.664408507131464,
+  "cached_at": "2025-06-09T16:31:56.435145"
+}

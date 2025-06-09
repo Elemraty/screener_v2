@@ -1,0 +1,23 @@
+{
+  "ticker": "036530",
+  "name": "SNT홀딩스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 466634311462,
+  "operating_profit": 53077318303,
+  "net_income": 46153736764,
+  "total_assets": 2938833492173,
+  "total_debt": 795353608380,
+  "total_equity": 2143479883793,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 20.829474647110313,
+  "operating_profit_yoy": 46.22322936248753,
+  "net_income_yoy": -3.4339723590009474,
+  "debt_ratio": 37.10571834117613,
+  "operating_margin": 11.374499688354424,
+  "net_margin": 9.890772202197672,
+  "roe": 8.612861191368596,
+  "cached_at": "2025-06-09T15:57:48.866527"
+}

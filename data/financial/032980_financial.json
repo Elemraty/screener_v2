@@ -1,0 +1,21 @@
+{
+  "ticker": "032980",
+  "name": "바이온",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 9181523667,
+  "operating_profit": 81482483,
+  "net_income": -635864714,
+  "total_assets": 83932277390,
+  "total_debt": 57542519519,
+  "total_equity": 26389757871,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 172.9813180121824,
+  "debt_ratio": 218.04868313033717,
+  "operating_margin": 0.8874614492675358,
+  "net_margin": -6.925481402236199,
+  "roe": -9.63805302205912,
+  "cached_at": "2025-06-09T16:15:16.593144"
+}

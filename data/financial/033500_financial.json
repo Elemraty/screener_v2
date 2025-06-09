@@ -1,0 +1,23 @@
+{
+  "ticker": "033500",
+  "name": "동성화인텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 172366177699,
+  "operating_profit": 12532753420,
+  "net_income": 9024528720,
+  "total_assets": 477256109160,
+  "total_debt": 263660534941,
+  "total_equity": 213595574219,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 25.56673454888161,
+  "operating_profit_yoy": 23.764481253831594,
+  "net_income_yoy": 3.815807833512741,
+  "debt_ratio": 123.43913768113393,
+  "operating_margin": 7.271005012297555,
+  "net_margin": 5.235672589873968,
+  "roe": 16.90021668847339,
+  "cached_at": "2025-06-09T16:12:03.938157"
+}

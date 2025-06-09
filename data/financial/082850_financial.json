@@ -1,0 +1,23 @@
+{
+  "ticker": "082850",
+  "name": "우리바이오",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 298302714943,
+  "operating_profit": 775421393,
+  "net_income": -528168576,
+  "total_assets": 843474784182,
+  "total_debt": 577225062982,
+  "total_equity": 266249721200,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 2.0964350911804264,
+  "operating_profit_yoy": -73.52783107333056,
+  "net_income_yoy": -113.77302036293185,
+  "debt_ratio": 216.79837273835236,
+  "operating_margin": 0.25994446384712533,
+  "net_margin": -0.17705791786069497,
+  "roe": -0.7934935272337856,
+  "cached_at": "2025-06-09T16:30:02.618724"
+}

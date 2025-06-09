@@ -1,0 +1,23 @@
+{
+  "ticker": "014710",
+  "name": "사조씨푸드",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 47395258910,
+  "operating_profit": 4066738341,
+  "net_income": 4061285261,
+  "total_assets": 387301721466,
+  "total_debt": 148609910046,
+  "total_equity": 238691811420,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 12.011780403116656,
+  "operating_profit_yoy": 34.31351724768721,
+  "net_income_yoy": -12.208318144423401,
+  "debt_ratio": 62.260162659919374,
+  "operating_margin": 8.580474997979074,
+  "net_margin": 8.568969458974943,
+  "roe": 6.805906305438855,
+  "cached_at": "2025-06-09T16:00:39.512989"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "005300",
+  "name": "롯데칠성",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 910342704536,
+  "operating_profit": 25032401553,
+  "net_income": 5425760412,
+  "total_assets": 4489214823393,
+  "total_debt": 2940028604411,
+  "total_equity": 1549186218982,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -2.8336450560478177,
+  "operating_profit_yoy": -31.903788497448705,
+  "net_income_yoy": -66.36594320424895,
+  "debt_ratio": 189.77890252231583,
+  "operating_margin": 2.749777795578531,
+  "net_margin": 0.59601295039383,
+  "roe": 1.4009317525598366,
+  "cached_at": "2025-06-09T15:59:57.556299"
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "056080",
+  "name": "유진로봇",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1430043985,
+  "operating_profit": -2518905227,
+  "net_income": -2333009164,
+  "total_assets": 53245510671,
+  "total_debt": 19874763792,
+  "total_equity": 33370746879,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -85.68448496784715,
+  "debt_ratio": 59.55744372178575,
+  "operating_margin": -176.14180077125388,
+  "net_margin": -163.14247592880858,
+  "roe": -27.96472218568351,
+  "cached_at": "2025-06-09T16:31:39.157880"
+}

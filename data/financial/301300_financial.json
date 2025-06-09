@@ -1,0 +1,13 @@
+{
+  "ticker": "301300",
+  "name": "바이브컴퍼니",
+  "market": "KOSDAQ",
+  "bps": 4777,
+  "per": 0.0,
+  "eps": 0,
+  "pbr": 1.04,
+  "roe": 0.0,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:15:03.997508"
+}

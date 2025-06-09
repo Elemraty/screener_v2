@@ -1,0 +1,13 @@
+{
+  "ticker": "331920",
+  "name": "셀레믹스",
+  "market": "KOSDAQ",
+  "bps": 3330,
+  "per": 2.24,
+  "eps": 1502,
+  "pbr": 1.01,
+  "roe": 45.1051051051051,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:18:15.844007"
+}

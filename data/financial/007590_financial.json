@@ -1,0 +1,23 @@
+{
+  "ticker": "007590",
+  "name": "동방아그로",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 104057744442,
+  "operating_profit": 19177039795,
+  "net_income": 15244618221,
+  "total_assets": 250229364098,
+  "total_debt": 72564324696,
+  "total_equity": 177665039402,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 6.752343440899389,
+  "operating_profit_yoy": -5.05970702705355,
+  "net_income_yoy": -0.2146773208172581,
+  "debt_ratio": 40.84333357887581,
+  "operating_margin": 18.42922878814556,
+  "net_margin": 14.650152473271309,
+  "roe": 34.32215650825086,
+  "cached_at": "2025-06-09T15:59:17.704600"
+}

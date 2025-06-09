@@ -1,0 +1,13 @@
+{
+  "ticker": "372170",
+  "name": "윤성에프앤씨",
+  "market": "KOSDAQ",
+  "bps": 24722,
+  "per": 5.9,
+  "eps": 4649,
+  "pbr": 1.11,
+  "roe": 18.805112854947012,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:31:50.699121"
+}

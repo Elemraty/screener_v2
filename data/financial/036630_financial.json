@@ -1,0 +1,22 @@
+{
+  "ticker": "036630",
+  "name": "세종텔레콤",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 77132428104,
+  "operating_profit": -2274491390,
+  "net_income": -358614176,
+  "total_assets": 472324779721,
+  "total_debt": 245089964378,
+  "total_equity": 227234815343,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -15.3790392138742,
+  "net_income_yoy": -102.3081241319426,
+  "debt_ratio": 107.85757631727712,
+  "operating_margin": -2.9488134185705057,
+  "net_margin": -0.46493308303022635,
+  "roe": -0.6312662528559968,
+  "cached_at": "2025-06-09T16:18:05.934396"
+}

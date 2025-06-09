@@ -1,0 +1,21 @@
+{
+  "ticker": "053950",
+  "name": "경남제약",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 13094128058,
+  "operating_profit": 105724461,
+  "net_income": -1567627949,
+  "total_assets": 160219383247,
+  "total_debt": 46729107203,
+  "total_equity": 113490276044,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -26.02981521279294,
+  "debt_ratio": 41.17454713466658,
+  "operating_margin": 0.8074188715101689,
+  "net_margin": -11.971991888701902,
+  "roe": -5.525153356371195,
+  "cached_at": "2025-06-09T16:08:37.471448"
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "046970",
+  "name": "우리로",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 8886178872,
+  "operating_profit": -1084991055,
+  "net_income": -1841687339,
+  "total_assets": 58207569594,
+  "total_debt": 20267060958,
+  "total_equity": 37940508636,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -11.998430424270556,
+  "debt_ratio": 53.41800014449337,
+  "operating_margin": -12.209871876637147,
+  "net_margin": -20.725301229340367,
+  "roe": -19.4165803802905,
+  "cached_at": "2025-06-09T16:30:02.281688"
+}

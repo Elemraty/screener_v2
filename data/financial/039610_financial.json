@@ -1,0 +1,23 @@
+{
+  "ticker": "039610",
+  "name": "화성밸브",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 18867552594,
+  "operating_profit": 995127019,
+  "net_income": 746128337,
+  "total_assets": 130638394707,
+  "total_debt": 35218201891,
+  "total_equity": 95420192816,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -14.813970735317017,
+  "operating_profit_yoy": -55.24000558299538,
+  "net_income_yoy": -57.229839519262484,
+  "debt_ratio": 36.908541946579085,
+  "operating_margin": 5.27427716998365,
+  "net_margin": 3.9545581403985244,
+  "roe": 3.1277586639916732,
+  "cached_at": "2025-06-09T16:41:50.034391"
+}

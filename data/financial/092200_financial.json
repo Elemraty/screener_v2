@@ -1,0 +1,23 @@
+{
+  "ticker": "092200",
+  "name": "디아이씨",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 193106427950,
+  "operating_profit": 8310771335,
+  "net_income": 2644666833,
+  "total_assets": 741097240848,
+  "total_debt": 563720814199,
+  "total_equity": 177376426649,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 11.091108737739397,
+  "operating_profit_yoy": 71.34582769586063,
+  "net_income_yoy": 6.5978897420889915,
+  "debt_ratio": 317.81044688340387,
+  "operating_margin": 4.303725890031927,
+  "net_margin": 1.369538477344094,
+  "roe": 5.963964621371878,
+  "cached_at": "2025-06-09T15:59:40.626656"
+}

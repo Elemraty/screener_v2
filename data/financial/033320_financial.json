@@ -1,0 +1,23 @@
+{
+  "ticker": "033320",
+  "name": "제이씨현시스템",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 70585141485,
+  "operating_profit": 3933266450,
+  "net_income": 3632359498,
+  "total_assets": 167688959709,
+  "total_debt": 52427343441,
+  "total_equity": 115261616268,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -0.5479008151833442,
+  "operating_profit_yoy": 57.97769609665404,
+  "net_income_yoy": 82.59275490391403,
+  "debt_ratio": 45.48551819636019,
+  "operating_margin": 5.572371702103701,
+  "net_margin": 5.146068168995468,
+  "roe": 12.60561708437,
+  "cached_at": "2025-06-09T16:33:52.365422"
+}

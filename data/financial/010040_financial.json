@@ -1,0 +1,23 @@
+{
+  "ticker": "010040",
+  "name": "한국내화",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 104393329925,
+  "operating_profit": -1392645921,
+  "net_income": -974105575,
+  "total_assets": 313199437160,
+  "total_debt": 137847300401,
+  "total_equity": 175352136759,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 11.8254846644541,
+  "operating_profit_yoy": -232.13938913707142,
+  "net_income_yoy": -189.94682168607176,
+  "debt_ratio": 78.61170268512565,
+  "operating_margin": -1.3340372627260075,
+  "net_margin": -0.9331109331408751,
+  "roe": -2.22205578558484,
+  "cached_at": "2025-06-09T16:04:47.774053"
+}

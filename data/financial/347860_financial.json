@@ -1,0 +1,13 @@
+{
+  "ticker": "347860",
+  "name": "알체라",
+  "market": "KOSDAQ",
+  "bps": 244,
+  "per": 0.0,
+  "eps": 0,
+  "pbr": 7.04,
+  "roe": 0.0,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:21:54.745901"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "003030",
+  "name": "세아제강지주",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 947007867708,
+  "operating_profit": 65022890014,
+  "net_income": 59701935293,
+  "total_assets": 5776151587967,
+  "total_debt": 3070701184476,
+  "total_equity": 2705450403491,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 7.295618275736215,
+  "operating_profit_yoy": -4.918997528003621,
+  "net_income_yoy": -1.2904472197657113,
+  "debt_ratio": 113.5005535682227,
+  "operating_margin": 6.866140423032803,
+  "net_margin": 6.304270252526399,
+  "roe": 8.826912548973453,
+  "cached_at": "2025-06-09T16:01:28.799409"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "087600",
+  "name": "픽셀플러스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 10646086575,
+  "operating_profit": -886234159,
+  "net_income": -835618444,
+  "total_assets": 107293743893,
+  "total_debt": 20527879617,
+  "total_equity": 86765864276,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -24.721844132148128,
+  "operating_profit_yoy": -576.2747488404525,
+  "net_income_yoy": -197.64688871305748,
+  "debt_ratio": 23.658935214085275,
+  "operating_margin": -8.324506406712178,
+  "net_margin": -7.84906677315838,
+  "roe": -3.852291225230785,
+  "cached_at": "2025-06-09T16:39:42.694347"
+}

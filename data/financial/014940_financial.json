@@ -1,0 +1,23 @@
+{
+  "ticker": "014940",
+  "name": "오리엔탈정공",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 51042979991,
+  "operating_profit": 8196893371,
+  "net_income": 6911934320,
+  "total_assets": 222137897229,
+  "total_debt": 109638503358,
+  "total_equity": 112499393871,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 18.388355325415006,
+  "operating_profit_yoy": 95.27269145402568,
+  "net_income_yoy": 69.51951983849996,
+  "debt_ratio": 97.45697250930925,
+  "operating_margin": 16.058806465541966,
+  "net_margin": 13.541400445700322,
+  "roe": 24.575898881466784,
+  "cached_at": "2025-06-09T16:25:49.804264"
+}

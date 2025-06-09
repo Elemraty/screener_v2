@@ -1,0 +1,13 @@
+{
+  "ticker": "389650",
+  "name": "넥스트바이오메디컬",
+  "market": "KOSDAQ",
+  "bps": 5588,
+  "per": 105.16,
+  "eps": 397,
+  "pbr": 7.47,
+  "roe": 7.104509663564781,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:10:12.844670"
+}

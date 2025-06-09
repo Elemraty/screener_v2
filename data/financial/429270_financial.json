@@ -1,0 +1,13 @@
+{
+  "ticker": "429270",
+  "name": "시지트로닉스",
+  "market": "KOSDAQ",
+  "bps": 5221,
+  "per": 0.0,
+  "eps": 0,
+  "pbr": 1.05,
+  "roe": 0.0,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:19:16.753551"
+}

@@ -1,0 +1,22 @@
+{
+  "ticker": "042040",
+  "name": "케이피엠테크",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 14279952786,
+  "operating_profit": -6821623560,
+  "net_income": -12694826082,
+  "total_assets": 165234627931,
+  "total_debt": 89281586405,
+  "total_equity": 75953041526,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 117.62868059981275,
+  "net_income_yoy": -5245.1961964356715,
+  "debt_ratio": 117.54840176405234,
+  "operating_margin": -47.77063105340158,
+  "net_margin": -88.8996362400158,
+  "roe": -66.85618285690033,
+  "cached_at": "2025-06-09T16:35:45.581428"
+}

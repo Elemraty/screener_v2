@@ -1,0 +1,23 @@
+{
+  "ticker": "024880",
+  "name": "케이피에프",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 206714083436,
+  "operating_profit": 13817982910,
+  "net_income": 9250415092,
+  "total_assets": 651802805295,
+  "total_debt": 390999879365,
+  "total_equity": 260802925930,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 2.0825349613279753,
+  "operating_profit_yoy": 14.48237020362415,
+  "net_income_yoy": -1.6815032808235486,
+  "debt_ratio": 149.92158464891804,
+  "operating_margin": 6.684587078111752,
+  "net_margin": 4.47498058102267,
+  "roe": 14.18759403716633,
+  "cached_at": "2025-06-09T16:35:45.526743"
+}

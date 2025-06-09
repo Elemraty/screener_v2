@@ -1,0 +1,23 @@
+{
+  "ticker": "149950",
+  "name": "아바텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 17971143245,
+  "operating_profit": -1161694333,
+  "net_income": -513980345,
+  "total_assets": 154137033491,
+  "total_debt": 11092772072,
+  "total_equity": 143044261419,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -22.65233987760391,
+  "operating_profit_yoy": -130.3674254390543,
+  "net_income_yoy": -112.4698161773319,
+  "debt_ratio": 7.7547830034980985,
+  "operating_margin": -6.4642205404667905,
+  "net_margin": -2.8600314292358755,
+  "roe": -1.4372623966912386,
+  "cached_at": "2025-06-09T16:20:43.615656"
+}

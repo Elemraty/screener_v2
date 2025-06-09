@@ -1,0 +1,23 @@
+{
+  "ticker": "090150",
+  "name": "아이윈",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 29752475372,
+  "operating_profit": 1444013319,
+  "net_income": 1492847141,
+  "total_assets": 129673688776,
+  "total_debt": 87280021474,
+  "total_equity": 42393667302,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 5.951363936385268,
+  "operating_profit_yoy": -39.13367838040066,
+  "net_income_yoy": 11.435756109934525,
+  "debt_ratio": 205.8798566593516,
+  "operating_margin": 4.8534224495450164,
+  "net_margin": 5.017556093517233,
+  "roe": 14.085567359534117,
+  "cached_at": "2025-06-09T16:21:19.046268"
+}

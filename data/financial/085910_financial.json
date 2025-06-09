@@ -1,0 +1,23 @@
+{
+  "ticker": "085910",
+  "name": "네오티스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 17307065065,
+  "operating_profit": 1680722423,
+  "net_income": 1441713749,
+  "total_assets": 123585670548,
+  "total_debt": 46993216453,
+  "total_equity": 76592454095,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 21.743976372202468,
+  "operating_profit_yoy": 79.38951357755839,
+  "net_income_yoy": -9.957413123021219,
+  "debt_ratio": 61.35489064590208,
+  "operating_margin": 9.711192606532215,
+  "net_margin": 8.330203553204242,
+  "roe": 7.52927303889126,
+  "cached_at": "2025-06-09T16:10:01.749593"
+}

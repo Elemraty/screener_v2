@@ -1,0 +1,23 @@
+{
+  "ticker": "012790",
+  "name": "신일제약",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 19248837454,
+  "operating_profit": 1968187623,
+  "net_income": 2015709141,
+  "total_assets": 166851301987,
+  "total_debt": 20526197152,
+  "total_equity": 146325104835,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -15.456590409908422,
+  "operating_profit_yoy": -46.89304493980458,
+  "net_income_yoy": -44.96397123001844,
+  "debt_ratio": 14.027802799216085,
+  "operating_margin": 10.224968794627133,
+  "net_margin": 10.471848732771786,
+  "roe": 5.510220937884763,
+  "cached_at": "2025-06-09T16:19:38.178463"
+}

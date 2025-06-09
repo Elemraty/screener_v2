@@ -1,0 +1,22 @@
+{
+  "ticker": "114190",
+  "name": "강원에너지",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 53558409481,
+  "operating_profit": 1295811945,
+  "net_income": -670356945,
+  "total_assets": 165352927447,
+  "total_debt": 94390452301,
+  "total_equity": 70962475146,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -34.82806854188696,
+  "operating_profit_yoy": -35.403051643276164,
+  "debt_ratio": 133.01459976811503,
+  "operating_margin": 2.4194369428757834,
+  "net_margin": -1.2516371406395312,
+  "roe": -3.7786559367935832,
+  "cached_at": "2025-06-09T16:08:33.716536"
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "088290",
+  "name": "이원컴포텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 14324161383,
+  "operating_profit": 1117992176,
+  "net_income": -4911528209,
+  "total_assets": 36645379819,
+  "total_debt": 26317683405,
+  "total_equity": 10327696414,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 32.048855113607246,
+  "debt_ratio": 254.8262686084026,
+  "operating_margin": 7.804939822353857,
+  "net_margin": -34.28841715529002,
+  "roe": -190.22744325993315,
+  "cached_at": "2025-06-09T16:32:36.865267"
+}

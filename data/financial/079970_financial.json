@@ -1,0 +1,21 @@
+{
+  "ticker": "079970",
+  "name": "투비소프트",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 7260997424,
+  "operating_profit": -814918453,
+  "net_income": -786777956,
+  "total_assets": 29048733088,
+  "total_debt": 9457334906,
+  "total_equity": 19591398182,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -1.904197167228583,
+  "debt_ratio": 48.27289414539653,
+  "operating_margin": -11.223230162655405,
+  "net_margin": -10.835673256120963,
+  "roe": -16.063742846549225,
+  "cached_at": "2025-06-09T16:37:29.894310"
+}

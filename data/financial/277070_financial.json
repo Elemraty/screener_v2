@@ -1,0 +1,23 @@
+{
+  "ticker": "277070",
+  "name": "린드먼아시아",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1576765447,
+  "operating_profit": 215490203,
+  "net_income": 505207760,
+  "total_assets": 69034520838,
+  "total_debt": 10318073032,
+  "total_equity": 58716447806,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 24.367665592299637,
+  "operating_profit_yoy": -34.74675057277622,
+  "net_income_yoy": 65.9685925294709,
+  "debt_ratio": 17.572713298479947,
+  "operating_margin": 13.666598504552338,
+  "net_margin": 32.04076807753639,
+  "roe": 3.4416779548327843,
+  "cached_at": "2025-06-09T16:13:44.113990"
+}

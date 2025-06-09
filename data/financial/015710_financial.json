@@ -1,0 +1,23 @@
+{
+  "ticker": "015710",
+  "name": "코콤",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 26361836903,
+  "operating_profit": 2012638079,
+  "net_income": 2120837122,
+  "total_assets": 151518188361,
+  "total_debt": 26581161520,
+  "total_equity": 124937026841,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 31.84766784971089,
+  "operating_profit_yoy": 458.9448591000015,
+  "net_income_yoy": 1869.7485996319863,
+  "debt_ratio": 21.275647573899995,
+  "operating_margin": 7.634665544763157,
+  "net_margin": 8.045103722490017,
+  "roe": 6.790099542544949,
+  "cached_at": "2025-06-09T16:36:27.464609"
+}

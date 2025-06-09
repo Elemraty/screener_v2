@@ -1,0 +1,20 @@
+{
+  "ticker": "088350",
+  "name": "한화생명",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 0,
+  "operating_profit": 371359000000,
+  "net_income": 295728000000,
+  "total_assets": 165129292000000,
+  "total_debt": 151137591000000,
+  "total_equity": 13991701000000,
+  "data_source": "f_data_financial",
+  "operating_profit_yoy": -7.3714196029941785,
+  "net_income_yoy": -19.709470099823513,
+  "debt_ratio": 1080.1945453236885,
+  "roe": 8.454383066076097,
+  "cached_at": "2025-06-09T16:05:24.478716"
+}

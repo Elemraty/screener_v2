@@ -1,0 +1,23 @@
+{
+  "ticker": "247660",
+  "name": "나노씨엠에스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1490282630,
+  "operating_profit": -408344771,
+  "net_income": -533245003,
+  "total_assets": 30800167302,
+  "total_debt": 11847334873,
+  "total_equity": 18952832429,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -33.214942536634176,
+  "operating_profit_yoy": -269.09529965820366,
+  "net_income_yoy": -615.7765736892133,
+  "debt_ratio": 62.50957432025951,
+  "operating_margin": -27.40049187851032,
+  "net_margin": -35.78146804274301,
+  "roe": -11.254149056561577,
+  "cached_at": "2025-06-09T16:09:31.680792"
+}

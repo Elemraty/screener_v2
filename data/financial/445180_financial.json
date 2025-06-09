@@ -1,0 +1,13 @@
+{
+  "ticker": "445180",
+  "name": "퓨릿",
+  "market": "KOSDAQ",
+  "bps": 5562,
+  "per": 8.01,
+  "eps": 705,
+  "pbr": 1.02,
+  "roe": 12.675296655879182,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:39:02.825518"
+}

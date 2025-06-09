@@ -1,0 +1,20 @@
+{
+  "ticker": "003460",
+  "name": "유화증권",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 0,
+  "operating_profit": 5831704871,
+  "net_income": 6987987225,
+  "total_assets": 792297247226,
+  "total_debt": 287053936742,
+  "total_equity": 505243310484,
+  "data_source": "f_data_financial",
+  "operating_profit_yoy": -32.439426418463945,
+  "net_income_yoy": -24.493955710277483,
+  "debt_ratio": 56.81499008210825,
+  "roe": 5.532373872149502,
+  "cached_at": "2025-06-09T16:02:51.639597"
+}

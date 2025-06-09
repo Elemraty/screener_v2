@@ -1,0 +1,23 @@
+{
+  "ticker": "092300",
+  "name": "현우산업",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 50599310539,
+  "operating_profit": 966586401,
+  "net_income": 83734153,
+  "total_assets": 185339857993,
+  "total_debt": 79599245321,
+  "total_equity": 105740612672,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -10.304968599094067,
+  "operating_profit_yoy": -73.87527353234933,
+  "net_income_yoy": -97.62504613072281,
+  "debt_ratio": 75.27783631054919,
+  "operating_margin": 1.9102758332151433,
+  "net_margin": 0.1654847706580131,
+  "roe": 0.3167530464751041,
+  "cached_at": "2025-06-09T16:41:43.623593"
+}

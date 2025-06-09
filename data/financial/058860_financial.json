@@ -1,0 +1,23 @@
+{
+  "ticker": "058860",
+  "name": "KTis",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 153298905704,
+  "operating_profit": 6473349533,
+  "net_income": 4548697432,
+  "total_assets": 463596231196,
+  "total_debt": 254715306469,
+  "total_equity": 208880924727,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 5.484603190900206,
+  "operating_profit_yoy": 51.886997241886924,
+  "net_income_yoy": 35.06539381488692,
+  "debt_ratio": 121.9428278584576,
+  "operating_margin": 4.22269780940197,
+  "net_margin": 2.9672080248132597,
+  "roe": 8.710603781451058,
+  "cached_at": "2025-06-09T15:56:49.892100"
+}

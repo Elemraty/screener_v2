@@ -1,0 +1,23 @@
+{
+  "ticker": "007700",
+  "name": "F&F홀딩스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 505722934717,
+  "operating_profit": 115599412598,
+  "net_income": 75637604921,
+  "total_assets": 3997281089552,
+  "total_debt": 613211057223,
+  "total_equity": 3384070032329,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -0.48245529052373115,
+  "operating_profit_yoy": -7.496776695081808,
+  "net_income_yoy": -17.466492469924887,
+  "debt_ratio": 18.120519119427712,
+  "operating_margin": 22.85824997489759,
+  "net_margin": 14.95633275230565,
+  "roe": 8.940430215499335,
+  "cached_at": "2025-06-09T15:56:04.782471"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "016670",
+  "name": "디모아",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 6673743224,
+  "operating_profit": 2388570117,
+  "net_income": 138094016,
+  "total_assets": 107324618974,
+  "total_debt": 44852324380,
+  "total_equity": 62472294594,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -7.657721531393946,
+  "operating_profit_yoy": 61.60576311033328,
+  "net_income_yoy": -83.75412039711817,
+  "debt_ratio": 71.79554500357305,
+  "operating_margin": 35.79056066182267,
+  "net_margin": 2.0692138034827097,
+  "roe": 0.8841936535064484,
+  "cached_at": "2025-06-09T16:12:28.381173"
+}

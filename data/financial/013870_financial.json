@@ -1,0 +1,23 @@
+{
+  "ticker": "013870",
+  "name": "지엠비코리아",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 179718313013,
+  "operating_profit": 1388974531,
+  "net_income": 2626939391,
+  "total_assets": 672586687158,
+  "total_debt": 388680557757,
+  "total_equity": 283906129401,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 1.1587288521450745,
+  "operating_profit_yoy": -73.89932035333106,
+  "net_income_yoy": -42.18119951642374,
+  "debt_ratio": 136.9046024392142,
+  "operating_margin": 0.7728619903635129,
+  "net_margin": 1.461698224826971,
+  "roe": 3.7011379733751495,
+  "cached_at": "2025-06-09T16:03:39.715526"
+}

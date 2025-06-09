@@ -1,0 +1,21 @@
+{
+  "ticker": "038680",
+  "name": "에스넷",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 79392139445,
+  "operating_profit": -765348225,
+  "net_income": -2854319006,
+  "total_assets": 257329472051,
+  "total_debt": 149790587814,
+  "total_equity": 107538884237,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 6.623748501075011,
+  "debt_ratio": 139.28969867669764,
+  "operating_margin": -0.9640100775092546,
+  "net_margin": -3.5952161334276282,
+  "roe": -10.616881609853781,
+  "cached_at": "2025-06-09T16:22:19.962175"
+}

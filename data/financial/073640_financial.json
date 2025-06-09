@@ -1,0 +1,21 @@
+{
+  "ticker": "073640",
+  "name": "테라사이언스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 3748570408,
+  "operating_profit": -2972908018,
+  "net_income": -5719499302,
+  "total_assets": 85323743718,
+  "total_debt": 23271313718,
+  "total_equity": 62052430000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -26.33929219214529,
+  "debt_ratio": 37.50266301899861,
+  "operating_margin": -79.30778121855141,
+  "net_margin": -152.5781479199043,
+  "roe": -36.86881755960242,
+  "cached_at": "2025-06-09T16:37:17.114906"
+}

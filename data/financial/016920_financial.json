@@ -1,0 +1,23 @@
+{
+  "ticker": "016920",
+  "name": "카스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 38947040473,
+  "operating_profit": 583739836,
+  "net_income": 119717368,
+  "total_assets": 177273148798,
+  "total_debt": 107479701009,
+  "total_equity": 69793447789,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 0.8423090973518566,
+  "operating_profit_yoy": 36.09374917089194,
+  "net_income_yoy": -73.29398763261814,
+  "debt_ratio": 153.9968355395385,
+  "operating_margin": 1.498804091172671,
+  "net_margin": 0.30738501962169357,
+  "roe": 0.6861238227515587,
+  "cached_at": "2025-06-09T16:34:59.995772"
+}

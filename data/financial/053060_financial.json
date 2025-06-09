@@ -1,0 +1,23 @@
+{
+  "ticker": "053060",
+  "name": "세동",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 41951431682,
+  "operating_profit": 2076294772,
+  "net_income": 3069078123,
+  "total_assets": 119052888793,
+  "total_debt": 81590613020,
+  "total_equity": 37462275773,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -3.2097547927992798,
+  "operating_profit_yoy": -30.201561287599745,
+  "net_income_yoy": 2.153666539924015,
+  "debt_ratio": 217.79406439265068,
+  "operating_margin": 4.949282274175331,
+  "net_margin": 7.315788758448599,
+  "roe": 32.76979905435389,
+  "cached_at": "2025-06-09T16:17:57.615631"
+}

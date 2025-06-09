@@ -1,0 +1,22 @@
+{
+  "ticker": "029480",
+  "name": "광무",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1452201363,
+  "operating_profit": -1110169602,
+  "net_income": -40582471901,
+  "total_assets": 235914767308,
+  "total_debt": 43227532915,
+  "total_equity": 192687234393,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -10.300066989332013,
+  "net_income_yoy": -143.74711666908087,
+  "debt_ratio": 22.434040870000874,
+  "operating_margin": -76.44735986933514,
+  "net_margin": -2794.548534038251,
+  "roe": -84.24527349482638,
+  "cached_at": "2025-06-09T16:08:50.552055"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "005800",
+  "name": "신영와코루",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 46198003790,
+  "operating_profit": 1975911780,
+  "net_income": 1993592286,
+  "total_assets": 408297443826,
+  "total_debt": 38598232120,
+  "total_equity": 369699211706,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -4.705954718342564,
+  "operating_profit_yoy": 39.05089156357542,
+  "net_income_yoy": 4.656948976919839,
+  "debt_ratio": 10.440442093962293,
+  "operating_margin": 4.277050127494264,
+  "net_margin": 4.315321274620814,
+  "roe": 2.156988408820722,
+  "cached_at": "2025-06-09T16:01:44.290663"
+}

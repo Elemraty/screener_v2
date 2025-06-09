@@ -1,0 +1,21 @@
+{
+  "ticker": "040160",
+  "name": "누리플렉스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 18732828690,
+  "operating_profit": 299925336,
+  "net_income": -392533568,
+  "total_assets": 160021111674,
+  "total_debt": 82847362113,
+  "total_equity": 77173749561,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 27.27777222845709,
+  "debt_ratio": 107.35173888047962,
+  "operating_margin": 1.601068055248414,
+  "net_margin": -2.0954313654164953,
+  "roe": -2.0345444933434624,
+  "cached_at": "2025-06-09T16:10:33.276513"
+}

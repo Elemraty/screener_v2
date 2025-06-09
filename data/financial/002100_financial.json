@@ -1,0 +1,23 @@
+{
+  "ticker": "002100",
+  "name": "경농",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 136707759793,
+  "operating_profit": 33607355765,
+  "net_income": 26326166215,
+  "total_assets": 512696388593,
+  "total_debt": 215293393924,
+  "total_equity": 297402994669,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -0.012313576749500843,
+  "operating_profit_yoy": -8.352639857624277,
+  "net_income_yoy": -4.842117655950173,
+  "debt_ratio": 72.39113182556035,
+  "operating_margin": 24.58335636242416,
+  "net_margin": 19.257258150424324,
+  "roe": 35.40807145442524,
+  "cached_at": "2025-06-09T15:57:58.841140"
+}

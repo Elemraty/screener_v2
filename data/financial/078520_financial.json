@@ -1,0 +1,23 @@
+{
+  "ticker": "078520",
+  "name": "에이블씨엔씨",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 60283629780,
+  "operating_profit": 5239745142,
+  "net_income": 4548685970,
+  "total_assets": 172107746296,
+  "total_debt": 81126733079,
+  "total_equity": 90981013217,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -9.81027285413174,
+  "operating_profit_yoy": 2.6077306341899753,
+  "net_income_yoy": 12.616120500148442,
+  "debt_ratio": 89.16886085397134,
+  "operating_margin": 8.691820915764373,
+  "net_margin": 7.545474595010361,
+  "roe": 19.99839662875976,
+  "cached_at": "2025-06-09T16:02:17.310684"
+}

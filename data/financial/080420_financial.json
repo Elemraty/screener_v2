@@ -1,0 +1,23 @@
+{
+  "ticker": "080420",
+  "name": "모다이노칩",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 95548819175,
+  "operating_profit": 8026361571,
+  "net_income": 1944671158,
+  "total_assets": 963628171623,
+  "total_debt": 581792609274,
+  "total_equity": 381835562349,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -3.4081248519802765,
+  "operating_profit_yoy": -37.83185481037668,
+  "net_income_yoy": -70.83943540480493,
+  "debt_ratio": 152.36731898278194,
+  "operating_margin": 8.400272907925238,
+  "net_margin": 2.0352644593527494,
+  "roe": 2.0371818130680652,
+  "cached_at": "2025-06-09T16:14:20.200234"
+}

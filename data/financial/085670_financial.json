@@ -1,0 +1,23 @@
+{
+  "ticker": "085670",
+  "name": "뉴프렉스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 36630391897,
+  "operating_profit": 672434335,
+  "net_income": 749080337,
+  "total_assets": 162083871830,
+  "total_debt": 59569222915,
+  "total_equity": 102514648915,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -28.08915384552566,
+  "operating_profit_yoy": -86.09693612479855,
+  "net_income_yoy": -86.73228532934817,
+  "debt_ratio": 58.10801046042874,
+  "operating_margin": 1.8357279302137957,
+  "net_margin": 2.0449694862842813,
+  "roe": 2.922822620681654,
+  "cached_at": "2025-06-09T16:10:41.686304"
+}

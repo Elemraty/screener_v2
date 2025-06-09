@@ -1,0 +1,22 @@
+{
+  "ticker": "004990",
+  "name": "롯데지주",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 3585252425700,
+  "operating_profit": 17954717273,
+  "net_income": -91865265093,
+  "total_assets": 22872947309134,
+  "total_debt": 13819396430133,
+  "total_equity": 9053550879001,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -4.079960717675313,
+  "operating_profit_yoy": -74.10674497539597,
+  "debt_ratio": 152.6406226112453,
+  "operating_margin": 0.5007936719963154,
+  "net_margin": -2.5623095443569452,
+  "roe": -4.058750707684176,
+  "cached_at": "2025-06-09T15:59:57.125098"
+}

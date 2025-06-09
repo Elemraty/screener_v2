@@ -1,0 +1,23 @@
+{
+  "ticker": "299170",
+  "name": "더블유에스아이",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 12824290462,
+  "operating_profit": 1049289521,
+  "net_income": 823493160,
+  "total_assets": 88326371622,
+  "total_debt": 41765614020,
+  "total_equity": 46560757602,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 64.077608815053,
+  "operating_profit_yoy": 3.899379896801025,
+  "net_income_yoy": 87.77066391250987,
+  "debt_ratio": 89.70131967570471,
+  "operating_margin": 8.182047374154369,
+  "net_margin": 6.4213545571204484,
+  "roe": 7.074568391169195,
+  "cached_at": "2025-06-09T16:11:39.330553"
+}

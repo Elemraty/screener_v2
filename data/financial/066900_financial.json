@@ -1,0 +1,22 @@
+{
+  "ticker": "066900",
+  "name": "디에이피",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 146240866409,
+  "operating_profit": -1449179114,
+  "net_income": -3192195879,
+  "total_assets": 389401318217,
+  "total_debt": 346421446415,
+  "total_equity": 42979871802,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 19.968104353559625,
+  "operating_profit_yoy": -246.59569354195128,
+  "debt_ratio": 806.0085614282353,
+  "operating_margin": -0.9909535888190104,
+  "net_margin": -2.1828343590855153,
+  "roe": -29.70875198237754,
+  "cached_at": "2025-06-09T16:12:41.728643"
+}

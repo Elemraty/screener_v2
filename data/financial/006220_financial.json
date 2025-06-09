@@ -1,0 +1,20 @@
+{
+  "ticker": "006220",
+  "name": "제주은행",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 0,
+  "operating_profit": 1267000000,
+  "net_income": 2904000000,
+  "total_assets": 7608523000000,
+  "total_debt": 7019328000000,
+  "total_equity": 589195000000,
+  "data_source": "f_data_financial",
+  "operating_profit_yoy": -76.05367605367606,
+  "net_income_yoy": -33.22602897217751,
+  "debt_ratio": 1191.34208538769,
+  "roe": 1.9715034920527161,
+  "cached_at": "2025-06-09T16:03:31.299891"
+}

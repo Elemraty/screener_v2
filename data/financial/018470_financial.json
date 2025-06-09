@@ -1,0 +1,23 @@
+{
+  "ticker": "018470",
+  "name": "조일알미늄",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 137266483688,
+  "operating_profit": 11951356466,
+  "net_income": 8464106126,
+  "total_assets": 449073761076,
+  "total_debt": 240998675198,
+  "total_equity": 208075085878,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 7.290404181559484,
+  "operating_profit_yoy": 158.676043806469,
+  "net_income_yoy": 222.405866920609,
+  "debt_ratio": 115.82293679278067,
+  "operating_margin": 8.706682173898217,
+  "net_margin": 6.166185581936009,
+  "roe": 16.27125340890208,
+  "cached_at": "2025-06-09T16:03:35.718972"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "103230",
+  "name": "에스앤더블류",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 12538682849,
+  "operating_profit": -76178643,
+  "net_income": 1845649404,
+  "total_assets": 82806076898,
+  "total_debt": 31376062158,
+  "total_equity": 51430014740,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 17.309814952644608,
+  "operating_profit_yoy": -107.20815480630132,
+  "net_income_yoy": 60.06670509442529,
+  "debt_ratio": 61.00729761914122,
+  "operating_margin": -0.6075490058836243,
+  "net_margin": 14.719643412523162,
+  "roe": 14.354648065574324,
+  "cached_at": "2025-06-09T16:22:27.510128"
+}

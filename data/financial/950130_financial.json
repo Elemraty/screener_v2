@@ -1,0 +1,23 @@
+{
+  "ticker": "950130",
+  "name": "엑세스바이오",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 14942592,
+  "operating_profit": -5679968,
+  "net_income": -4671658,
+  "total_assets": 490584231,
+  "total_debt": 50428778,
+  "total_equity": 440155453,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -43.4610265643567,
+  "operating_profit_yoy": -448.3847858034853,
+  "net_income_yoy": -338.6307761227118,
+  "debt_ratio": 11.457038111487398,
+  "operating_margin": -38.01193260178689,
+  "net_margin": -31.264040402093556,
+  "roe": -4.2454618868484175,
+  "cached_at": "2025-06-09T16:24:01.276675"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "146320",
+  "name": "비씨엔씨",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 19844680477,
+  "operating_profit": -65224552,
+  "net_income": -1197350003,
+  "total_assets": 177120900778,
+  "total_debt": 101101141619,
+  "total_equity": 76019759159,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 11.886980541236024,
+  "operating_profit_yoy": -116.1260353817165,
+  "net_income_yoy": -313.5592128262548,
+  "debt_ratio": 132.9932411487134,
+  "operating_margin": -0.3286752441068291,
+  "net_margin": -6.03360686198868,
+  "roe": -6.300204137693564,
+  "cached_at": "2025-06-09T16:16:01.674552"
+}

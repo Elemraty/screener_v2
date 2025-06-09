@@ -1,0 +1,23 @@
+{
+  "ticker": "187270",
+  "name": "신화콘텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 13157316244,
+  "operating_profit": 2092748270,
+  "net_income": 3663263338,
+  "total_assets": 103320706385,
+  "total_debt": 31744493578,
+  "total_equity": 71576212807,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -3.823323049278171,
+  "operating_profit_yoy": -7.99213553890441,
+  "net_income_yoy": 92.87863309276156,
+  "debt_ratio": 44.350619197465356,
+  "operating_margin": 15.905586148347957,
+  "net_margin": 27.84202545614514,
+  "roe": 20.471959576166572,
+  "cached_at": "2025-06-09T16:19:51.311937"
+}

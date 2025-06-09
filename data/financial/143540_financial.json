@@ -1,0 +1,21 @@
+{
+  "ticker": "143540",
+  "name": "영우디에스피",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 8119245309,
+  "operating_profit": -170321364,
+  "net_income": -517553870,
+  "total_assets": 67303219108,
+  "total_debt": 43062496775,
+  "total_equity": 24240722333,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 43.64003125679652,
+  "debt_ratio": 177.64527056348095,
+  "operating_margin": -2.09774871330963,
+  "net_margin": -6.374408584826267,
+  "roe": -8.540238411879836,
+  "cached_at": "2025-06-09T16:25:04.237671"
+}

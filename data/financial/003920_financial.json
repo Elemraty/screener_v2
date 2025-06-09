@@ -1,0 +1,21 @@
+{
+  "ticker": "003920",
+  "name": "남양유업",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 215610389379,
+  "operating_profit": 77699514,
+  "net_income": 1216146001,
+  "total_assets": 726829460990,
+  "total_debt": 107970650823,
+  "total_equity": 618858810167,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -7.942521169214844,
+  "debt_ratio": 17.4467340610153,
+  "operating_margin": 0.03603699906288828,
+  "net_margin": 0.5640479591464669,
+  "roe": 0.7860571626486637,
+  "cached_at": "2025-06-09T15:58:27.126862"
+}

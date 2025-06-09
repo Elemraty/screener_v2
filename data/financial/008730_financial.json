@@ -1,0 +1,22 @@
+{
+  "ticker": "008730",
+  "name": "율촌화학",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 132830824561,
+  "operating_profit": 10209238835,
+  "net_income": 8620291960,
+  "total_assets": 666587452315,
+  "total_debt": 373185281256,
+  "total_equity": 293402171059,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 16.23211725669542,
+  "net_income_yoy": -59.56539759828337,
+  "debt_ratio": 127.19240621466174,
+  "operating_margin": 7.685895851916212,
+  "net_margin": 6.489677368554839,
+  "roe": 11.752185648642051,
+  "cached_at": "2025-06-09T16:02:52.685571"
+}

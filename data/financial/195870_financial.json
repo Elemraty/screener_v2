@@ -1,0 +1,23 @@
+{
+  "ticker": "195870",
+  "name": "해성디에스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 137478273534,
+  "operating_profit": 354674816,
+  "net_income": 580608995,
+  "total_assets": 781691760182,
+  "total_debt": 238443039311,
+  "total_equity": 543248720871,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -11.24961534092046,
+  "operating_profit_yoy": -98.30161995761509,
+  "net_income_yoy": -97.02256051937343,
+  "debt_ratio": 43.89205720147857,
+  "operating_margin": 0.2579860852793476,
+  "net_margin": 0.4223278195710019,
+  "roe": 0.42750878019121674,
+  "cached_at": "2025-06-09T16:05:33.139063"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "097230",
+  "name": "HJ중공업",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 410066000000,
+  "operating_profit": 5454000000,
+  "net_income": 5556000000,
+  "total_assets": 2219384000000,
+  "total_debt": 1870649000000,
+  "total_equity": 348735000000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -12.30054257978831,
+  "operating_profit_yoy": -54.16421548029247,
+  "net_income_yoy": -60.69331446763353,
+  "debt_ratio": 536.4098814285919,
+  "operating_margin": 1.3300298000809625,
+  "net_margin": 1.3549038447469433,
+  "roe": 6.372747214933976,
+  "cached_at": "2025-06-09T15:56:20.503527"
+}

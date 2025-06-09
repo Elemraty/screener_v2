@@ -1,0 +1,23 @@
+{
+  "ticker": "098460",
+  "name": "고영",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 51125158085,
+  "operating_profit": 3187486031,
+  "net_income": 3208786003,
+  "total_assets": 385287154490,
+  "total_debt": 70413295738,
+  "total_equity": 314873858752,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -3.58509813561243,
+  "operating_profit_yoy": 46.226281647963944,
+  "net_income_yoy": -55.941044496763716,
+  "debt_ratio": 22.36238219872635,
+  "operating_margin": 6.234672224779293,
+  "net_margin": 6.276334632873145,
+  "roe": 4.076281233022008,
+  "cached_at": "2025-06-09T16:08:44.230207"
+}

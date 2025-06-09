@@ -1,0 +1,22 @@
+{
+  "ticker": "057680",
+  "name": "티사이언티픽",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 7045797822,
+  "operating_profit": -888485607,
+  "net_income": -3548078460,
+  "total_assets": 163303768955,
+  "total_debt": 23900359135,
+  "total_equity": 139403409820,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -23.73258024879481,
+  "net_income_yoy": -131.76045666827997,
+  "debt_ratio": 17.144745000040203,
+  "operating_margin": -12.610149048355703,
+  "net_margin": -50.357369734927374,
+  "roe": -10.180750857045284,
+  "cached_at": "2025-06-09T16:37:38.859895"
+}

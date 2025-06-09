@@ -1,0 +1,23 @@
+{
+  "ticker": "134790",
+  "name": "시디즈",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 55002250555,
+  "operating_profit": -320476237,
+  "net_income": 624445195,
+  "total_assets": 102566735839,
+  "total_debt": 37275879443,
+  "total_equity": 65290856396,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -5.033351375104333,
+  "operating_profit_yoy": -129.9480912035495,
+  "net_income_yoy": -63.79248270492837,
+  "debt_ratio": 57.09203631350083,
+  "operating_margin": -0.5826602252930303,
+  "net_margin": 1.135308444107356,
+  "roe": 3.8256211020583657,
+  "cached_at": "2025-06-09T16:01:38.236709"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "088390",
+  "name": "이녹스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 15361095570,
+  "operating_profit": 3353415205,
+  "net_income": 3022885439,
+  "total_assets": 324131093600,
+  "total_debt": 104282370313,
+  "total_equity": 219848723287,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 0.8092595833109728,
+  "operating_profit_yoy": 640.2069441828553,
+  "net_income_yoy": 1348.198757409874,
+  "debt_ratio": 47.43369383904281,
+  "operating_margin": 21.830573149672812,
+  "net_margin": 19.67884012715637,
+  "roe": 5.499937218291316,
+  "cached_at": "2025-06-09T16:32:05.317266"
+}

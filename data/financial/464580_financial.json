@@ -1,0 +1,13 @@
+{
+  "ticker": "464580",
+  "name": "닷밀",
+  "market": "KOSDAQ",
+  "bps": 3637,
+  "per": 49.85,
+  "eps": 130,
+  "pbr": 1.78,
+  "roe": 3.5743744844652183,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:10:50.591730"
+}

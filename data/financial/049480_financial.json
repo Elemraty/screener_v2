@@ -1,0 +1,22 @@
+{
+  "ticker": "049480",
+  "name": "오픈베이스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 39874897317,
+  "operating_profit": -1785250681,
+  "net_income": -1366429592,
+  "total_assets": 158422436801,
+  "total_debt": 68649541929,
+  "total_equity": 89772894872,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 3.660450238101798,
+  "net_income_yoy": -9282.409561541375,
+  "debt_ratio": 76.47023305517985,
+  "operating_margin": -4.477129224452919,
+  "net_margin": -3.4267915002691316,
+  "roe": -6.0883837775234175,
+  "cached_at": "2025-06-09T16:26:08.967331"
+}

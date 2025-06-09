@@ -1,0 +1,23 @@
+{
+  "ticker": "007390",
+  "name": "네이처셀",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 4077555972,
+  "operating_profit": -1705656526,
+  "net_income": -1240036528,
+  "total_assets": 70824490514,
+  "total_debt": 7310510024,
+  "total_equity": 63513980490,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -55.13396765276467,
+  "operating_profit_yoy": -2431.1811842737793,
+  "net_income_yoy": -842.1895250815261,
+  "debt_ratio": 11.510080091974409,
+  "operating_margin": -41.83036450541702,
+  "net_margin": -30.41126931218493,
+  "roe": -7.80953433202152,
+  "cached_at": "2025-06-09T16:10:07.593636"
+}

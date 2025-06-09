@@ -1,0 +1,22 @@
+{
+  "ticker": "115570",
+  "name": "스타플렉스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 22985768589,
+  "operating_profit": 1146382857,
+  "net_income": 793244924,
+  "total_assets": 96364536328,
+  "total_debt": 29635892654,
+  "total_equity": 66728643674,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 25.871581560953416,
+  "net_income_yoy": 2382.6361423621684,
+  "debt_ratio": 44.41255062636207,
+  "operating_margin": 4.987359254754741,
+  "net_margin": 3.4510263206061027,
+  "roe": 4.755048988409625,
+  "cached_at": "2025-06-09T16:18:59.452411"
+}

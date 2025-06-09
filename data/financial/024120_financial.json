@@ -1,0 +1,21 @@
+{
+  "ticker": "024120",
+  "name": "KB오토시스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 51262381018,
+  "operating_profit": 785365157,
+  "net_income": 69599084,
+  "total_assets": 244688470633,
+  "total_debt": 126925032911,
+  "total_equity": 117763437722,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 7.073445683754254,
+  "debt_ratio": 107.77966011032004,
+  "operating_margin": 1.5320497046835009,
+  "net_margin": 0.13577029123083717,
+  "roe": 0.23640303084324052,
+  "cached_at": "2025-06-09T16:07:10.397532"
+}

@@ -1,0 +1,19 @@
+{
+  "ticker": "084440",
+  "name": "유비온",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 0,
+  "operating_profit": 0,
+  "net_income": 0,
+  "total_assets": 0,
+  "total_debt": 0,
+  "total_equity": 0,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -100.0,
+  "operating_profit_yoy": -100.0,
+  "net_income_yoy": -100.0,
+  "cached_at": "2025-06-09T16:31:18.166676"
+}

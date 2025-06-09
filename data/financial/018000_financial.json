@@ -1,0 +1,21 @@
+{
+  "ticker": "018000",
+  "name": "유니슨",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 6104661614,
+  "operating_profit": -1812806493,
+  "net_income": -3416583974,
+  "total_assets": 240980018521,
+  "total_debt": 178327311969,
+  "total_equity": 62652706552,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 11.249097334835124,
+  "debt_ratio": 284.62826553389726,
+  "operating_margin": -29.695445998884484,
+  "net_margin": -55.96680356802493,
+  "roe": -21.812842011314103,
+  "cached_at": "2025-06-09T16:31:05.629947"
+}

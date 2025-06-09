@@ -1,0 +1,21 @@
+{
+  "ticker": "025980",
+  "name": "아난티",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 57255944083,
+  "operating_profit": -3224625922,
+  "net_income": -5775492889,
+  "total_assets": 1623075217614,
+  "total_debt": 915926599723,
+  "total_equity": 707148617891,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -0.09672608273728622,
+  "debt_ratio": 129.5239185299774,
+  "operating_margin": -5.631949614393716,
+  "net_margin": -10.087149869763156,
+  "roe": -3.2669188585702567,
+  "cached_at": "2025-06-09T16:20:37.375532"
+}

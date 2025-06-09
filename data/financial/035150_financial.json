@@ -1,0 +1,23 @@
+{
+  "ticker": "035150",
+  "name": "백산",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 134179836854,
+  "operating_profit": 19003831491,
+  "net_income": 13108172439,
+  "total_assets": 461311314734,
+  "total_debt": 203505002772,
+  "total_equity": 257806311962,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 12.729926724081375,
+  "operating_profit_yoy": -5.9751014723312785,
+  "net_income_yoy": -27.039161350669982,
+  "debt_ratio": 78.93716845924088,
+  "operating_margin": 14.162956176253156,
+  "net_margin": 9.769107450371175,
+  "roe": 20.338016302614207,
+  "cached_at": "2025-06-09T16:00:29.026268"
+}

@@ -1,0 +1,22 @@
+{
+  "ticker": "115160",
+  "name": "휴맥스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 97944620988,
+  "operating_profit": -6802983766,
+  "net_income": -18625401219,
+  "total_assets": 611432938210,
+  "total_debt": 460738581607,
+  "total_equity": 150694356603,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -46.56891937544092,
+  "operating_profit_yoy": -198.60908238046218,
+  "debt_ratio": 305.7437531126681,
+  "operating_margin": -6.945745154124889,
+  "net_margin": -19.016257382099575,
+  "roe": -49.43888182373834,
+  "cached_at": "2025-06-09T16:42:00.441479"
+}

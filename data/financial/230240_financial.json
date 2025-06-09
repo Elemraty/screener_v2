@@ -1,0 +1,21 @@
+{
+  "ticker": "230240",
+  "name": "에치에프알",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 26803892308,
+  "operating_profit": -3004352966,
+  "net_income": 261703369,
+  "total_assets": 258426914825,
+  "total_debt": 101401483989,
+  "total_equity": 157025430836,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -14.406333333648025,
+  "debt_ratio": 64.5764723899439,
+  "operating_margin": -11.208644369546688,
+  "net_margin": 0.9763633057199343,
+  "roe": 0.6666521915760955,
+  "cached_at": "2025-06-09T16:23:42.347004"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "005990",
+  "name": "매일홀딩스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 534864089508,
+  "operating_profit": 11811396592,
+  "net_income": 9891275283,
+  "total_assets": 1333720940610,
+  "total_debt": 547387566396,
+  "total_equity": 786333374214,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 0.12889563167164386,
+  "operating_profit_yoy": -46.95001780641397,
+  "net_income_yoy": -49.84487135054797,
+  "debt_ratio": 69.61265849146432,
+  "operating_margin": 2.2082986731946854,
+  "net_margin": 1.8493062961281597,
+  "roe": 5.03159377809041,
+  "cached_at": "2025-06-09T16:13:56.722602"
+}

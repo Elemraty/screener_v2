@@ -1,0 +1,13 @@
+{
+  "ticker": "307950",
+  "name": "현대오토에버",
+  "market": "KOSPI",
+  "bps": 62189,
+  "per": 23.03,
+  "eps": 6228,
+  "pbr": 2.31,
+  "roe": 10.014632812876876,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:05:42.036639"
+}

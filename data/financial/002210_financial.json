@@ -1,0 +1,22 @@
+{
+  "ticker": "002210",
+  "name": "동성제약",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 26344570260,
+  "operating_profit": 742863157,
+  "net_income": -1306790662,
+  "total_assets": 168603891128,
+  "total_debt": 112670971518,
+  "total_equity": 55932919610,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 16.005277621954583,
+  "operating_profit_yoy": 604.4309739427551,
+  "debt_ratio": 201.43946052452452,
+  "operating_margin": 2.8197960705698755,
+  "net_margin": -4.960379497949723,
+  "roe": -9.345413549743359,
+  "cached_at": "2025-06-09T15:59:20.851652"
+}

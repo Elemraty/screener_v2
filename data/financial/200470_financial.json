@@ -1,0 +1,21 @@
+{
+  "ticker": "200470",
+  "name": "에이팩트",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 23377163171,
+  "operating_profit": -3392810598,
+  "net_income": -3833428283,
+  "total_assets": 152069226163,
+  "total_debt": 100765259477,
+  "total_equity": 51303966686,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 7.414713305697784,
+  "debt_ratio": 196.40832081020582,
+  "operating_margin": -14.513354649502011,
+  "net_margin": -16.398175668104464,
+  "roe": -29.887967973018963,
+  "cached_at": "2025-06-09T16:23:39.797364"
+}

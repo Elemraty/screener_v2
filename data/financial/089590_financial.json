@@ -1,0 +1,23 @@
+{
+  "ticker": "089590",
+  "name": "제주항공",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 384683880277,
+  "operating_profit": -32569861773,
+  "net_income": -32739680824,
+  "total_assets": 2078566112266,
+  "total_debt": 1787690686809,
+  "total_equity": 290875425457,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -30.798671672228807,
+  "operating_profit_yoy": -141.256067873419,
+  "net_income_yoy": -169.37000676365346,
+  "debt_ratio": 614.5897969896648,
+  "operating_margin": -8.466656245004954,
+  "net_margin": -8.510801336522103,
+  "roe": -45.02227133497036,
+  "cached_at": "2025-06-09T16:03:32.301670"
+}

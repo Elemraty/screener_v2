@@ -1,0 +1,21 @@
+{
+  "ticker": "079190",
+  "name": "케스피온",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 10161984277,
+  "operating_profit": -1300354109,
+  "net_income": -1347041278,
+  "total_assets": 36148578282,
+  "total_debt": 19897062040,
+  "total_equity": 16251516242,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 43.25588311432789,
+  "debt_ratio": 122.43203491732386,
+  "operating_margin": -12.796261768906101,
+  "net_margin": -13.255691420904961,
+  "roe": -33.15484556496313,
+  "cached_at": "2025-06-09T16:35:16.757570"
+}

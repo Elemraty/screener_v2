@@ -1,0 +1,23 @@
+{
+  "ticker": "014470",
+  "name": "부방",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 85040265454,
+  "operating_profit": 1053787588,
+  "net_income": 264560129,
+  "total_assets": 270942342043,
+  "total_debt": 102037160943,
+  "total_equity": 168905181100,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -4.0526863800753326,
+  "operating_profit_yoy": -54.38607555506457,
+  "net_income_yoy": -90.39615517505626,
+  "debt_ratio": 60.41091237017122,
+  "operating_margin": 1.2391630980620763,
+  "net_margin": 0.31109983910281414,
+  "roe": 0.6265293397799744,
+  "cached_at": "2025-06-09T16:15:38.539328"
+}

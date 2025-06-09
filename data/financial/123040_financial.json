@@ -1,0 +1,23 @@
+{
+  "ticker": "123040",
+  "name": "엠에스오토텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 402332481124,
+  "operating_profit": 22704612345,
+  "net_income": -2678712129,
+  "total_assets": 1719132345373,
+  "total_debt": 1021210710929,
+  "total_equity": 697921634444,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -13.048888748845977,
+  "operating_profit_yoy": -38.03513188705578,
+  "net_income_yoy": -105.57300581997364,
+  "debt_ratio": 146.32168721099305,
+  "operating_margin": 5.643246173306692,
+  "net_margin": -0.6657956428266635,
+  "roe": -1.5352509489888497,
+  "cached_at": "2025-06-09T16:24:52.180174"
+}

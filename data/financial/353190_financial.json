@@ -1,0 +1,13 @@
+{
+  "ticker": "353190",
+  "name": "휴럼",
+  "market": "KOSDAQ",
+  "bps": 1053,
+  "per": 15.56,
+  "eps": 45,
+  "pbr": 0.66,
+  "roe": 4.273504273504273,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:41:56.257324"
+}

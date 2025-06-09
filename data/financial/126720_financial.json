@@ -1,0 +1,23 @@
+{
+  "ticker": "126720",
+  "name": "수산인더스트리",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 79267059687,
+  "operating_profit": 10544732078,
+  "net_income": 9412081898,
+  "total_assets": 629732464381,
+  "total_debt": 113564829639,
+  "total_equity": 516167634742,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 9.855182067379209,
+  "operating_profit_yoy": 12.381909770955634,
+  "net_income_yoy": -0.9689133516982196,
+  "debt_ratio": 22.001540196483642,
+  "operating_margin": 13.302792004191577,
+  "net_margin": 11.873888012454694,
+  "roe": 7.293817949437696,
+  "cached_at": "2025-06-09T16:01:36.160108"
+}

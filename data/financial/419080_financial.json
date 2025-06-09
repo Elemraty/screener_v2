@@ -1,0 +1,13 @@
+{
+  "ticker": "419080",
+  "name": "엔젯",
+  "market": "KOSDAQ",
+  "bps": 4016,
+  "per": 0.0,
+  "eps": 0,
+  "pbr": 1.93,
+  "roe": 0.0,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:24:27.893444"
+}

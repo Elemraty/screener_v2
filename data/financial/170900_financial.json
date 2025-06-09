@@ -1,0 +1,21 @@
+{
+  "ticker": "170900",
+  "name": "동아에스티",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 182087154062,
+  "operating_profit": -4807929968,
+  "net_income": -12342589196,
+  "total_assets": 1343953304972,
+  "total_debt": 652922686873,
+  "total_equity": 691030618099,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 17.200165443320216,
+  "debt_ratio": 94.48534837271994,
+  "operating_margin": -2.640455331825834,
+  "net_margin": -6.77839645502801,
+  "roe": -7.144452863726364,
+  "cached_at": "2025-06-09T15:59:21.923126"
+}

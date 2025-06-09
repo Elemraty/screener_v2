@@ -1,0 +1,23 @@
+{
+  "ticker": "001000",
+  "name": "신라섬유",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 947165947,
+  "operating_profit": 316507499,
+  "net_income": 151426909,
+  "total_assets": 30827872071,
+  "total_debt": 16287176578,
+  "total_equity": 14540695493,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 0.6380979118563168,
+  "operating_profit_yoy": 2.4131426969337566,
+  "net_income_yoy": 35.204462418700324,
+  "debt_ratio": 112.01098727251917,
+  "operating_margin": 33.41626670621849,
+  "net_margin": 15.987368367667889,
+  "roe": 4.165602919692475,
+  "cached_at": "2025-06-09T16:19:22.215961"
+}

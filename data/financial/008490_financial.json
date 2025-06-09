@@ -1,0 +1,23 @@
+{
+  "ticker": "008490",
+  "name": "서흥",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 180841453003,
+  "operating_profit": 11554277481,
+  "net_income": 6633268283,
+  "total_assets": 1013083756338,
+  "total_debt": 506376013460,
+  "total_equity": 506707742878,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 9.375215538648751,
+  "operating_profit_yoy": -4.410869194549805,
+  "net_income_yoy": 3.5322951924986024,
+  "debt_ratio": 99.9345323961075,
+  "operating_margin": 6.389175318563894,
+  "net_margin": 3.6680020940165527,
+  "roe": 5.23636622983051,
+  "cached_at": "2025-06-09T16:01:19.294884"
+}

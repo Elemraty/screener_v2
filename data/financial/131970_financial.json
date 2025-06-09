@@ -1,0 +1,23 @@
+{
+  "ticker": "131970",
+  "name": "두산테스나",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 59295766000,
+  "operating_profit": -19133061000,
+  "net_income": -16388250000,
+  "total_assets": 727398715000,
+  "total_debt": 308205818000,
+  "total_equity": 419192897000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -35.39172714477996,
+  "operating_profit_yoy": -270.09229850151416,
+  "net_income_yoy": -338.85856020684264,
+  "debt_ratio": 73.52362604560068,
+  "operating_margin": -32.26716221188541,
+  "net_margin": -27.638145361002675,
+  "roe": -15.637908101291135,
+  "cached_at": "2025-06-09T16:12:19.735279"
+}

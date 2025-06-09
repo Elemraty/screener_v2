@@ -1,0 +1,23 @@
+{
+  "ticker": "041460",
+  "name": "한국전자인증",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 9485764323,
+  "operating_profit": 2075665008,
+  "net_income": 1609567599,
+  "total_assets": 82744634072,
+  "total_debt": 22654070614,
+  "total_equity": 60090563458,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -0.8760213882428647,
+  "operating_profit_yoy": 83.24524909327033,
+  "net_income_yoy": 158.98291106056575,
+  "debt_ratio": 37.699880497599175,
+  "operating_margin": 21.8818951991793,
+  "net_margin": 16.968243614247342,
+  "roe": 10.714278624629635,
+  "cached_at": "2025-06-09T16:40:34.474549"
+}

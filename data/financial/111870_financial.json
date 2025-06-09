@@ -1,0 +1,21 @@
+{
+  "ticker": "111870",
+  "name": "KH 미래물산",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2295670301,
+  "operating_profit": -917611385,
+  "net_income": -15527856339,
+  "total_assets": 72152355126,
+  "total_debt": 11503609630,
+  "total_equity": 60648745496,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 16.28574300182388,
+  "debt_ratio": 18.967596997960502,
+  "operating_margin": -39.97139243384758,
+  "net_margin": -676.3974919323574,
+  "roe": -102.41172319070716,
+  "cached_at": "2025-06-09T16:07:26.151485"
+}

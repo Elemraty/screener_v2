@@ -1,0 +1,13 @@
+{
+  "ticker": "302440",
+  "name": "SK바이오사이언스",
+  "market": "KOSPI",
+  "bps": 23007,
+  "per": 0.0,
+  "eps": 0,
+  "pbr": 1.96,
+  "roe": 0.0,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T15:57:34.698791"
+}

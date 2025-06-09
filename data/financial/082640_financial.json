@@ -1,0 +1,20 @@
+{
+  "ticker": "082640",
+  "name": "동양생명",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 0,
+  "operating_profit": 58664816726,
+  "net_income": 46194080006,
+  "total_assets": 35160492438287,
+  "total_debt": 33679404361953,
+  "total_equity": 1481088076334,
+  "data_source": "f_data_financial",
+  "operating_profit_yoy": -41.16241219165474,
+  "net_income_yoy": -44.123928835542735,
+  "debt_ratio": 2273.963642008145,
+  "roe": 12.475714508576674,
+  "cached_at": "2025-06-09T15:59:25.024262"
+}

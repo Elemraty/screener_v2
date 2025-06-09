@@ -1,0 +1,23 @@
+{
+  "ticker": "114090",
+  "name": "GKL",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 109863217961,
+  "operating_profit": 20169551629,
+  "net_income": 16105010145,
+  "total_assets": 609633776465,
+  "total_debt": 193604341219,
+  "total_equity": 416029435246,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 12.17151026183394,
+  "operating_profit_yoy": 45.62580266338809,
+  "net_income_yoy": 57.8742019845691,
+  "debt_ratio": 46.53621230058419,
+  "operating_margin": 18.35878468092927,
+  "net_margin": 14.659146567795844,
+  "roe": 15.484491029320594,
+  "cached_at": "2025-06-09T15:56:05.893290"
+}

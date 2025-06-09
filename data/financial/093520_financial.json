@@ -1,0 +1,23 @@
+{
+  "ticker": "093520",
+  "name": "매커스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 66234722569,
+  "operating_profit": 9677702500,
+  "net_income": 7634912139,
+  "total_assets": 250409535522,
+  "total_debt": 136782308670,
+  "total_equity": 113627226852,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 69.7370338996151,
+  "operating_profit_yoy": 71.62443068140425,
+  "net_income_yoy": 68.8305368865979,
+  "debt_ratio": 120.37811047537012,
+  "operating_margin": 14.6112222179511,
+  "net_margin": 11.5270538516204,
+  "roe": 26.877051743749792,
+  "cached_at": "2025-06-09T16:13:58.282722"
+}

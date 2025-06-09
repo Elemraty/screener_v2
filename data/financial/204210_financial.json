@@ -1,0 +1,21 @@
+{
+  "ticker": "204210",
+  "name": "스타에스엠리츠",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2088292356,
+  "operating_profit": -1481485173,
+  "net_income": -1491300692,
+  "total_assets": 80299411894,
+  "total_debt": 37115790625,
+  "total_equity": 43183621269,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 20.2852188112606,
+  "debt_ratio": 85.94876838558261,
+  "operating_margin": -70.94242186652912,
+  "net_margin": -71.41244796090227,
+  "roe": -13.81357698290627,
+  "cached_at": "2025-06-09T16:01:37.204830"
+}

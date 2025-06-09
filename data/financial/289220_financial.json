@@ -1,0 +1,21 @@
+{
+  "ticker": "289220",
+  "name": "자이언트스텝",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 10064581992,
+  "operating_profit": -4244324527,
+  "net_income": -3792507101,
+  "total_assets": 86608364559,
+  "total_debt": 19317490525,
+  "total_equity": 67290874034,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -12.612045497580516,
+  "debt_ratio": 28.707444809290884,
+  "operating_margin": -42.1708972153406,
+  "net_margin": -37.681714988407236,
+  "roe": -22.543961007751292,
+  "cached_at": "2025-06-09T16:33:27.134472"
+}

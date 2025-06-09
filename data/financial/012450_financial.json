@@ -1,0 +1,23 @@
+{
+  "ticker": "012450",
+  "name": "한화에어로스페이스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 5484220608000,
+  "operating_profit": 560746176000,
+  "net_income": 209348668000,
+  "total_assets": 43825874539000,
+  "total_debt": 33698164412000,
+  "total_equity": 10127710127000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 196.71059661683063,
+  "operating_profit_yoy": 1398.9306373470806,
+  "net_income_yoy": 7901.32454008607,
+  "debt_ratio": 332.73231549313675,
+  "operating_margin": 10.224719537759338,
+  "net_margin": 3.817291151537863,
+  "roe": 8.26835149801084,
+  "cached_at": "2025-06-09T16:05:29.796469"
+}

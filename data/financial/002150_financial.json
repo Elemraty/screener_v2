@@ -1,0 +1,23 @@
+{
+  "ticker": "002150",
+  "name": "도화엔지니어링",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 157508097667,
+  "operating_profit": 3473699381,
+  "net_income": 3790728182,
+  "total_assets": 624056421725,
+  "total_debt": 373646683982,
+  "total_equity": 250409737743,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 27.042139698132807,
+  "operating_profit_yoy": 284.02839081262374,
+  "net_income_yoy": 42.50609721809464,
+  "debt_ratio": 149.2141189674821,
+  "operating_margin": 2.2054100280888513,
+  "net_margin": 2.406687807260723,
+  "roe": 6.055240848325942,
+  "cached_at": "2025-06-09T15:59:14.563806"
+}

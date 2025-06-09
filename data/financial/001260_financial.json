@@ -1,0 +1,23 @@
+{
+  "ticker": "001260",
+  "name": "남광토건",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 81435728372,
+  "operating_profit": 2550137452,
+  "net_income": 2175537414,
+  "total_assets": 367681024917,
+  "total_debt": 245821624299,
+  "total_equity": 121859400618,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -42.90222588476487,
+  "operating_profit_yoy": -50.41136863175297,
+  "net_income_yoy": -55.149343829722895,
+  "debt_ratio": 201.72561415232283,
+  "operating_margin": 3.1314725157868333,
+  "net_margin": 2.6714778113877764,
+  "roe": 7.141139388399877,
+  "cached_at": "2025-06-09T15:58:23.717688"
+}

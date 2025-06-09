@@ -1,0 +1,23 @@
+{
+  "ticker": "004370",
+  "name": "농심",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 893036319476,
+  "operating_profit": 56051767375,
+  "net_income": 52158932810,
+  "total_assets": 3676341664717,
+  "total_debt": 979466382417,
+  "total_equity": 2696875282300,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 2.349617708129026,
+  "operating_profit_yoy": -8.684421604685033,
+  "net_income_yoy": -1.8457653846699618,
+  "debt_ratio": 36.318564260104495,
+  "operating_margin": 6.276538384003135,
+  "net_margin": 5.840628390187411,
+  "roe": 7.736202434324933,
+  "cached_at": "2025-06-09T15:58:38.392744"
+}

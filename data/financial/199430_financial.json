@@ -1,0 +1,21 @@
+{
+  "ticker": "199430",
+  "name": "케이엔알시스템",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2357432317,
+  "operating_profit": -2039457577,
+  "net_income": -2135886723,
+  "total_assets": 46195498230,
+  "total_debt": 20091087099,
+  "total_equity": 26104411131,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 25.120531590840688,
+  "debt_ratio": 76.96433755267154,
+  "operating_margin": -86.5118189096243,
+  "net_margin": -90.60225006663468,
+  "roe": -32.72836475462266,
+  "cached_at": "2025-06-09T16:35:33.037281"
+}

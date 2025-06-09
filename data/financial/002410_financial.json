@@ -1,0 +1,23 @@
+{
+  "ticker": "002410",
+  "name": "범양건영",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 36449611338,
+  "operating_profit": -449882738,
+  "net_income": -8952216500,
+  "total_assets": 168873363507,
+  "total_debt": 158974782968,
+  "total_equity": 9898580539,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 11.938469507424077,
+  "operating_profit_yoy": -208.82504389707242,
+  "net_income_yoy": -1030.4641463448509,
+  "debt_ratio": 1606.0361618683191,
+  "operating_margin": -1.2342593555475896,
+  "net_margin": -24.560526632192097,
+  "roe": -361.75758593784775,
+  "cached_at": "2025-06-09T16:00:29.365256"
+}

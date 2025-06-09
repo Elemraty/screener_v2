@@ -1,0 +1,23 @@
+{
+  "ticker": "049830",
+  "name": "승일",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 35637154872,
+  "operating_profit": 1018802955,
+  "net_income": 1656705156,
+  "total_assets": 178612394800,
+  "total_debt": 29051555275,
+  "total_equity": 149560839525,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -2.6878619996160147,
+  "operating_profit_yoy": 93.92143988878215,
+  "net_income_yoy": 217.09908576007183,
+  "debt_ratio": 19.424573549644897,
+  "operating_margin": 2.858822368562509,
+  "net_margin": 4.648814311777925,
+  "roe": 4.430852785426018,
+  "cached_at": "2025-06-09T16:19:08.299975"
+}

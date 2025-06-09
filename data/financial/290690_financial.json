@@ -1,0 +1,21 @@
+{
+  "ticker": "290690",
+  "name": "소룩스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 5133862212,
+  "operating_profit": -1820021305,
+  "net_income": -4872434179,
+  "total_assets": 128202138431,
+  "total_debt": 39239387020,
+  "total_equity": 88962751411,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -51.091742780448556,
+  "debt_ratio": 44.10765898945449,
+  "operating_margin": -35.45130799860275,
+  "net_margin": -94.90777075417154,
+  "roe": -21.90774948715238,
+  "cached_at": "2025-06-09T16:18:31.612493"
+}

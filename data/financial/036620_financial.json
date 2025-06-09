@@ -1,0 +1,23 @@
+{
+  "ticker": "036620",
+  "name": "감성코퍼레이션",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 46676504959,
+  "operating_profit": 6846694395,
+  "net_income": 5708383029,
+  "total_assets": 160131536961,
+  "total_debt": 40945352139,
+  "total_equity": 119186184822,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 25.538601299736328,
+  "operating_profit_yoy": 48.16745788609127,
+  "net_income_yoy": 11.670140882957213,
+  "debt_ratio": 34.35410924525382,
+  "operating_margin": 14.668395590059799,
+  "net_margin": 12.229671081873343,
+  "roe": 19.157868128844804,
+  "cached_at": "2025-06-09T16:08:30.545903"
+}

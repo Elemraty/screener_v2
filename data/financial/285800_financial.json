@@ -1,0 +1,22 @@
+{
+  "ticker": "285800",
+  "name": "진영",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 7358866636,
+  "operating_profit": -1039333726,
+  "net_income": -1395079697,
+  "total_assets": 67527879794,
+  "total_debt": 27515999621,
+  "total_equity": 40011880173,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -18.95412689710779,
+  "operating_profit_yoy": -3878.663131060894,
+  "debt_ratio": 68.7695741915367,
+  "operating_margin": -14.12355702868047,
+  "net_margin": -18.957806493940108,
+  "roe": -13.946654753219011,
+  "cached_at": "2025-06-09T16:34:49.586436"
+}

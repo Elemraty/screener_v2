@@ -1,0 +1,21 @@
+{
+  "ticker": "203450",
+  "name": "유니온바이오메트릭스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 12841453209,
+  "operating_profit": 821766462,
+  "net_income": 917000642,
+  "total_assets": 62152616443,
+  "total_debt": 21027067359,
+  "total_equity": 41125549084,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 31.778515916821238,
+  "debt_ratio": 51.12896442075866,
+  "operating_margin": 6.399326062443311,
+  "net_margin": 7.140941348891225,
+  "roe": 8.919036097264039,
+  "cached_at": "2025-06-09T16:31:07.837012"
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "246720",
+  "name": "아스타",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 412493817,
+  "operating_profit": -1638286679,
+  "net_income": -1532222567,
+  "total_assets": 8906722491,
+  "total_debt": 6291116911,
+  "total_equity": 2615605580,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 13.16675880499345,
+  "debt_ratio": 240.52238453322155,
+  "operating_margin": -397.16636019298204,
+  "net_margin": -371.4534627800251,
+  "roe": -234.32012513140455,
+  "cached_at": "2025-06-09T16:20:47.790637"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "115480",
+  "name": "씨유메디칼",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 8809836754,
+  "operating_profit": 1145039169,
+  "net_income": 627528588,
+  "total_assets": 102885876367,
+  "total_debt": 42429326219,
+  "total_equity": 60456550148,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -19.947914531157075,
+  "operating_profit_yoy": -41.05102063093351,
+  "net_income_yoy": -55.81313026058612,
+  "debt_ratio": 70.18152063776604,
+  "operating_margin": 12.997280210443273,
+  "net_margin": 7.12304445045566,
+  "roe": 4.151931173471099,
+  "cached_at": "2025-06-09T16:20:26.638035"
+}

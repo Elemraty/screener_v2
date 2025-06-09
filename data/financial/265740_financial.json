@@ -1,0 +1,21 @@
+{
+  "ticker": "265740",
+  "name": "엔에프씨",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 11309599075,
+  "operating_profit": 1407676376,
+  "net_income": 1089389907,
+  "total_assets": 76465697304,
+  "total_debt": 20144825538,
+  "total_equity": 56320871766,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 0.2325640550177921,
+  "debt_ratio": 35.76795760849907,
+  "operating_margin": 12.446739859343776,
+  "net_margin": 9.6324361259464,
+  "roe": 7.737024466000167,
+  "cached_at": "2025-06-09T16:24:25.291395"
+}

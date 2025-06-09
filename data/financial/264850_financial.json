@@ -1,0 +1,23 @@
+{
+  "ticker": "264850",
+  "name": "이랜시스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 18702065484,
+  "operating_profit": 1391728421,
+  "net_income": 1452181013,
+  "total_assets": 65157075281,
+  "total_debt": 13310717951,
+  "total_equity": 51846357330,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 5.203822917805634,
+  "operating_profit_yoy": -18.324141275917725,
+  "net_income_yoy": 11.899395432225447,
+  "debt_ratio": 25.673390834919818,
+  "operating_margin": 7.44157602373199,
+  "net_margin": 7.764816213708429,
+  "roe": 11.203726454739535,
+  "cached_at": "2025-06-09T16:32:09.581736"
+}

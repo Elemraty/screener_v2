@@ -1,0 +1,23 @@
+{
+  "ticker": "002810",
+  "name": "삼영무역",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 115976016245,
+  "operating_profit": 5265807912,
+  "net_income": 18081740735,
+  "total_assets": 750788911544,
+  "total_debt": 129493446709,
+  "total_equity": 621295464835,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -1.5717946605423694,
+  "operating_profit_yoy": 3.8224791005592618,
+  "net_income_yoy": 6.821513925900047,
+  "debt_ratio": 20.8424902543575,
+  "operating_margin": 4.540428342422066,
+  "net_margin": 15.59093105664383,
+  "roe": 11.641315128416101,
+  "cached_at": "2025-06-09T16:01:03.924302"
+}

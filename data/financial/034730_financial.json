@@ -1,0 +1,23 @@
+{
+  "ticker": "034730",
+  "name": "SK",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 31229933000000,
+  "operating_profit": 399781000000,
+  "net_income": 3590712000000,
+  "total_assets": 217739474000000,
+  "total_debt": 137910344000000,
+  "total_equity": 79829130000000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -5.44067028205234,
+  "operating_profit_yoy": -73.9930783692534,
+  "net_income_yoy": 395.0985312691313,
+  "debt_ratio": 172.75691718048287,
+  "operating_margin": 1.2801212221620841,
+  "net_margin": 11.497661554381176,
+  "roe": 17.991988638733755,
+  "cached_at": "2025-06-09T15:57:30.244444"
+}

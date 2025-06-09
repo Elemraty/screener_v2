@@ -1,0 +1,22 @@
+{
+  "ticker": "110020",
+  "name": "전진바이오팜",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2158009761,
+  "operating_profit": -476118366,
+  "net_income": -383410875,
+  "total_assets": 18275558256,
+  "total_debt": 997537493,
+  "total_equity": 17278020763,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -51.05516414724778,
+  "operating_profit_yoy": -497.7180817509599,
+  "debt_ratio": 5.773447703779681,
+  "operating_margin": -22.062845803782256,
+  "net_margin": -17.76687399330072,
+  "roe": -8.876268416601393,
+  "cached_at": "2025-06-09T16:33:31.341665"
+}

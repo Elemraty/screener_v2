@@ -1,0 +1,23 @@
+{
+  "ticker": "228850",
+  "name": "레이언스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 27246622155,
+  "operating_profit": -1730997885,
+  "net_income": 224037974,
+  "total_assets": 270786102782,
+  "total_debt": 27517196310,
+  "total_equity": 243268906472,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -23.730092556073036,
+  "operating_profit_yoy": -142.1732640369024,
+  "net_income_yoy": -94.77511118394118,
+  "debt_ratio": 11.3114317440183,
+  "operating_margin": -6.353073328329422,
+  "net_margin": 0.822259628094439,
+  "roe": 0.3683791360747314,
+  "cached_at": "2025-06-09T16:13:20.488002"
+}

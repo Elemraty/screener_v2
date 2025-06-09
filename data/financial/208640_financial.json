@@ -1,0 +1,21 @@
+{
+  "ticker": "208640",
+  "name": "썸에이지",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1966623086,
+  "operating_profit": -2378207295,
+  "net_income": -2210887612,
+  "total_assets": 22701225127,
+  "total_debt": 2229409956,
+  "total_equity": 20471815171,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -66.45809348423519,
+  "debt_ratio": 10.89014304485389,
+  "operating_margin": -120.92847439501683,
+  "net_margin": -112.42050536978188,
+  "roe": -43.19866301121951,
+  "cached_at": "2025-06-09T16:20:01.790086"
+}

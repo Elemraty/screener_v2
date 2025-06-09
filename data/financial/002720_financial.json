@@ -1,0 +1,23 @@
+{
+  "ticker": "002720",
+  "name": "국제약품",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 41504339155,
+  "operating_profit": 2303394148,
+  "net_income": 1858118312,
+  "total_assets": 164311709631,
+  "total_debt": 73539613234,
+  "total_equity": 90772096397,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 10.578377277390238,
+  "operating_profit_yoy": -32.189947252721026,
+  "net_income_yoy": -32.5369870719333,
+  "debt_ratio": 81.01566026674962,
+  "operating_margin": 5.549767072300226,
+  "net_margin": 4.476925424738762,
+  "roe": 8.188059484154033,
+  "cached_at": "2025-06-09T15:58:11.682579"
+}

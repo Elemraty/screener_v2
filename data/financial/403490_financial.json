@@ -1,0 +1,13 @@
+{
+  "ticker": "403490",
+  "name": "우듬지팜",
+  "market": "KOSDAQ",
+  "bps": 903,
+  "per": 27.15,
+  "eps": 65,
+  "pbr": 1.95,
+  "roe": 7.198228128460686,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:29:58.884759"
+}

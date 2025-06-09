@@ -1,0 +1,23 @@
+{
+  "ticker": "003850",
+  "name": "보령",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 240550282587,
+  "operating_profit": 10913191430,
+  "net_income": 349327127,
+  "total_assets": 1124635605863,
+  "total_debt": 348959990969,
+  "total_equity": 775675614894,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 2.974734679346702,
+  "operating_profit_yoy": -33.23888477625726,
+  "net_income_yoy": -98.50703541282118,
+  "debt_ratio": 44.98787692541903,
+  "operating_margin": 4.5367610100615945,
+  "net_margin": 0.1452200027549993,
+  "roe": 0.18014083222030247,
+  "cached_at": "2025-06-09T16:00:31.121806"
+}

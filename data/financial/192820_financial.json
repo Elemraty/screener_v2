@@ -1,0 +1,23 @@
+{
+  "ticker": "192820",
+  "name": "코스맥스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 588574135736,
+  "operating_profit": 51346295225,
+  "net_income": 10628936391,
+  "total_assets": 2047066936963,
+  "total_debt": 1554055346563,
+  "total_equity": 493011590400,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 11.725831751293804,
+  "operating_profit_yoy": 12.965096852256774,
+  "net_income_yoy": -45.82031691939097,
+  "debt_ratio": 315.2167975000614,
+  "operating_margin": 8.723844985269782,
+  "net_margin": 1.8058789446649286,
+  "roe": 8.623680739332167,
+  "cached_at": "2025-06-09T16:04:03.233067"
+}

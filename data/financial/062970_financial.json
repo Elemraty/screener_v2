@@ -1,0 +1,21 @@
+{
+  "ticker": "062970",
+  "name": "한국첨단소재",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1009010867,
+  "operating_profit": -987658931,
+  "net_income": -8888217296,
+  "total_assets": 25003086794,
+  "total_debt": 10035966986,
+  "total_equity": 14967119808,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -29.518849936213122,
+  "debt_ratio": 67.05342854699222,
+  "operating_margin": -97.88387452520865,
+  "net_margin": -880.8841992382625,
+  "roe": -237.5398182153711,
+  "cached_at": "2025-06-09T16:40:44.461018"
+}

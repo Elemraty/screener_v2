@@ -1,0 +1,23 @@
+{
+  "ticker": "099430",
+  "name": "바이오플러스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 22981906330,
+  "operating_profit": 7100787991,
+  "net_income": 8521318970,
+  "total_assets": 278014228711,
+  "total_debt": 111912694297,
+  "total_equity": 166101534414,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 139.07905484309558,
+  "operating_profit_yoy": 193.66630053244796,
+  "net_income_yoy": 221.54229923565367,
+  "debt_ratio": 67.3760749362273,
+  "operating_margin": 30.897297591587563,
+  "net_margin": 37.07838178278747,
+  "roe": 20.520747144360573,
+  "cached_at": "2025-06-09T16:15:14.711526"
+}

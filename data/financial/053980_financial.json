@@ -1,0 +1,23 @@
+{
+  "ticker": "053980",
+  "name": "오상자이엘",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 28655937605,
+  "operating_profit": 2747263314,
+  "net_income": 3235039718,
+  "total_assets": 152123585941,
+  "total_debt": 51530971121,
+  "total_equity": 100592614820,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 14.333907018779213,
+  "operating_profit_yoy": 89.14632134422664,
+  "net_income_yoy": 33.015629820170524,
+  "debt_ratio": 51.22739001586677,
+  "operating_margin": 9.587064823594,
+  "net_margin": 11.289247494158202,
+  "roe": 12.86392534397785,
+  "cached_at": "2025-06-09T16:25:53.532021"
+}

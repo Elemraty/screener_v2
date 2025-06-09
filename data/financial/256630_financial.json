@@ -1,0 +1,21 @@
+{
+  "ticker": "256630",
+  "name": "포인트엔지니어링",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 8399135089,
+  "operating_profit": 88266420,
+  "net_income": 195837789,
+  "total_assets": 97104563316,
+  "total_debt": 24453436457,
+  "total_equity": 72651126859,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 44.69451525953774,
+  "debt_ratio": 33.658715995498305,
+  "operating_margin": 1.050898920718621,
+  "net_margin": 2.3316423289402817,
+  "roe": 1.0782367595210378,
+  "cached_at": "2025-06-09T16:38:42.735917"
+}

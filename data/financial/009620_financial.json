@@ -1,0 +1,22 @@
+{
+  "ticker": "009620",
+  "name": "삼보산업",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 67167979330,
+  "operating_profit": 3459283353,
+  "net_income": 895709528,
+  "total_assets": 299809994804,
+  "total_debt": 267308012101,
+  "total_equity": 32501982703,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -31.02510066242836,
+  "operating_profit_yoy": 283.17247579098546,
+  "debt_ratio": 822.43601734588,
+  "operating_margin": 5.150197143797269,
+  "net_margin": 1.3335365109010195,
+  "roe": 11.023444768707284,
+  "cached_at": "2025-06-09T16:16:39.441442"
+}

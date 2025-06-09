@@ -1,0 +1,23 @@
+{
+  "ticker": "107590",
+  "name": "미원홀딩스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 128401781844,
+  "operating_profit": 6788831068,
+  "net_income": 0,
+  "total_assets": 527318578791,
+  "total_debt": 220770835152,
+  "total_equity": 306547743639,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 5.0320271357585655,
+  "operating_profit_yoy": -19.672178425729935,
+  "net_income_yoy": -100.0,
+  "debt_ratio": 72.01841792448046,
+  "operating_margin": 5.28717823888768,
+  "net_margin": 0.0,
+  "roe": 0.0,
+  "cached_at": "2025-06-09T16:00:26.397084"
+}

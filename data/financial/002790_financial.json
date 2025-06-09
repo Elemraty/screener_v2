@@ -1,0 +1,23 @@
+{
+  "ticker": "002790",
+  "name": "아모레퍼시픽홀딩스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1164751025012,
+  "operating_profit": 128863381031,
+  "net_income": 140008219943,
+  "total_assets": 8633739353394,
+  "total_debt": 1589074567226,
+  "total_equity": 7044664786168,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 15.691038854444074,
+  "operating_profit_yoy": 55.188544646029605,
+  "net_income_yoy": 43.200625358218694,
+  "debt_ratio": 22.55713529969663,
+  "operating_margin": 11.063598851923944,
+  "net_margin": 12.020441874396079,
+  "roe": 7.949744903002463,
+  "cached_at": "2025-06-09T16:02:02.908535"
+}

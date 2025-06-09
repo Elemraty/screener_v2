@@ -1,0 +1,21 @@
+{
+  "ticker": "223310",
+  "name": "딥마인드",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 4334573563,
+  "operating_profit": -2125031300,
+  "net_income": -2793421482,
+  "total_assets": 34289802080,
+  "total_debt": 13342158657,
+  "total_equity": 20947643423,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -15.548650872156355,
+  "debt_ratio": 63.69288605681839,
+  "operating_margin": -49.02515251187121,
+  "net_margin": -64.44512802469653,
+  "roe": -53.34101646838024,
+  "cached_at": "2025-06-09T16:13:02.702994"
+}

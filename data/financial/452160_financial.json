@@ -1,0 +1,13 @@
+{
+  "ticker": "452160",
+  "name": "제이엔비",
+  "market": "KOSDAQ",
+  "bps": 3962,
+  "per": 24.64,
+  "eps": 209,
+  "pbr": 1.3,
+  "roe": 5.275113579000505,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:33:58.205028"
+}

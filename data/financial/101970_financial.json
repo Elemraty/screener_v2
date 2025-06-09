@@ -1,0 +1,23 @@
+{
+  "ticker": "101970",
+  "name": "우양에이치씨",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 30036868520,
+  "operating_profit": 3358818992,
+  "net_income": -1972873261,
+  "total_assets": 262911522657,
+  "total_debt": 77424932949,
+  "total_equity": 185486589708,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -41.54195841497585,
+  "operating_profit_yoy": -72.82336187180024,
+  "net_income_yoy": -116.91828882024109,
+  "debt_ratio": 41.74152593504752,
+  "operating_margin": 11.182320786081732,
+  "net_margin": -6.568172243675686,
+  "roe": -4.254481715590916,
+  "cached_at": "2025-06-09T16:30:10.709839"
+}

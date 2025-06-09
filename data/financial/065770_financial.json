@@ -1,0 +1,23 @@
+{
+  "ticker": "065770",
+  "name": "CS",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2742226886,
+  "operating_profit": -772437849,
+  "net_income": -641138681,
+  "total_assets": 20405806379,
+  "total_debt": 2450982465,
+  "total_equity": 17954823914,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -80.75770938458442,
+  "operating_profit_yoy": -860.2112573168838,
+  "net_income_yoy": -411.8156372172401,
+  "debt_ratio": 13.650829864663189,
+  "operating_margin": -28.16826911527845,
+  "net_margin": -23.38022007855115,
+  "roe": -14.283374408369037,
+  "cached_at": "2025-06-09T16:06:21.628405"
+}

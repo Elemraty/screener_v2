@@ -1,0 +1,22 @@
+{
+  "ticker": "020150",
+  "name": "롯데에너지머티리얼즈",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 157974854210,
+  "operating_profit": -46022018318,
+  "net_income": -54836099010,
+  "total_assets": 2244518433296,
+  "total_debt": 372163737514,
+  "total_equity": 1872354695782,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -34.64215002768519,
+  "operating_profit_yoy": -1163.897932386947,
+  "debt_ratio": 19.876775396905426,
+  "operating_margin": -29.132496148293168,
+  "net_margin": -34.71191619971681,
+  "roe": -11.714895502125442,
+  "cached_at": "2025-06-09T15:59:52.132768"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "006910",
+  "name": "보성파워텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 17454931365,
+  "operating_profit": 1547101135,
+  "net_income": 1120600889,
+  "total_assets": 108623161147,
+  "total_debt": 17254634002,
+  "total_equity": 91368527145,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 2.702435540150483,
+  "operating_profit_yoy": 72.16257973837679,
+  "net_income_yoy": -3.8050407852654566,
+  "debt_ratio": 18.88465814340779,
+  "operating_margin": 8.863404287582542,
+  "net_margin": 6.419967317929354,
+  "roe": 4.905850730073077,
+  "cached_at": "2025-06-09T16:15:36.483096"
+}

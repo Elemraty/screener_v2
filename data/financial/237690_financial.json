@@ -1,0 +1,23 @@
+{
+  "ticker": "237690",
+  "name": "에스티팜",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 52419752950,
+  "operating_profit": 1025132554,
+  "net_income": 708719288,
+  "total_assets": 742161638667,
+  "total_debt": 247865172042,
+  "total_equity": 494296466625,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 1.3504817433039884,
+  "operating_profit_yoy": -45.45589125011805,
+  "net_income_yoy": -86.93209426224726,
+  "debt_ratio": 50.14504225255648,
+  "operating_margin": 1.9556226351883255,
+  "net_margin": 1.352008065883111,
+  "roe": 0.5735175837602519,
+  "cached_at": "2025-06-09T16:22:58.593989"
+}

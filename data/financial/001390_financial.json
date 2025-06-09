@@ -1,0 +1,23 @@
+{
+  "ticker": "001390",
+  "name": "KG케미칼",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2121689409396,
+  "operating_profit": 106567204927,
+  "net_income": 73446644160,
+  "total_assets": 8291003710990,
+  "total_debt": 4487246700020,
+  "total_equity": 3803757010970,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -6.390182777996167,
+  "operating_profit_yoy": -0.8428774554956275,
+  "net_income_yoy": 10.58985158832546,
+  "debt_ratio": 117.96880523857918,
+  "operating_margin": 5.022752362106451,
+  "net_margin": 3.4617057442403265,
+  "roe": 7.723589487780693,
+  "cached_at": "2025-06-09T15:56:44.647696"
+}

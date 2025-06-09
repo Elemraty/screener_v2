@@ -1,0 +1,23 @@
+{
+  "ticker": "014820",
+  "name": "동원시스템즈",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 336786236984,
+  "operating_profit": 12546516335,
+  "net_income": 10627840645,
+  "total_assets": 1601593300413,
+  "total_debt": 772248231272,
+  "total_equity": 829345069141,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 8.964026610446595,
+  "operating_profit_yoy": -21.893626627406725,
+  "net_income_yoy": -31.491196771996865,
+  "debt_ratio": 93.11543047719107,
+  "operating_margin": 3.725364922081438,
+  "net_margin": 3.1556635865452263,
+  "roe": 5.125895620749448,
+  "cached_at": "2025-06-09T15:59:29.259338"
+}

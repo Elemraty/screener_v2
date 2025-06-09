@@ -1,0 +1,13 @@
+{
+  "ticker": "347850",
+  "name": "디앤디파마텍",
+  "market": "KOSDAQ",
+  "bps": 6634,
+  "per": 0.0,
+  "eps": 0,
+  "pbr": 13.04,
+  "roe": 0.0,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:12:35.454592"
+}

@@ -1,0 +1,13 @@
+{
+  "ticker": "375500",
+  "name": "DL이앤씨",
+  "market": "KOSPI",
+  "bps": 114139,
+  "per": 8.92,
+  "eps": 5413,
+  "pbr": 0.42,
+  "roe": 4.742463137052191,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T15:55:58.532262"
+}

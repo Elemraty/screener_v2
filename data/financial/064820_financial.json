@@ -1,0 +1,23 @@
+{
+  "ticker": "064820",
+  "name": "케이프",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 128218558258,
+  "operating_profit": 4318424510,
+  "net_income": 1261823953,
+  "total_assets": 3847669413655,
+  "total_debt": 3596303617335,
+  "total_equity": 251365796320,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -4.752820939529823,
+  "operating_profit_yoy": -56.9525972382826,
+  "net_income_yoy": -84.80266461778004,
+  "debt_ratio": 1430.7052391315576,
+  "operating_margin": 3.3680183030217146,
+  "net_margin": 0.9841195924703594,
+  "roe": 2.0079485299481896,
+  "cached_at": "2025-06-09T16:35:43.491644"
+}

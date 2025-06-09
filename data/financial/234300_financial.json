@@ -1,0 +1,21 @@
+{
+  "ticker": "234300",
+  "name": "에스트래픽",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 36728698333,
+  "operating_profit": 2410217640,
+  "net_income": 985703575,
+  "total_assets": 184861724241,
+  "total_debt": 87053038006,
+  "total_equity": 97808686235,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 52.19384214770242,
+  "debt_ratio": 89.00338135290158,
+  "operating_margin": 6.562219053198702,
+  "net_margin": 2.683742195443842,
+  "roe": 4.031149432399898,
+  "cached_at": "2025-06-09T16:22:55.007271"
+}

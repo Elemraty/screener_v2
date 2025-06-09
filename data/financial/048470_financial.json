@@ -1,0 +1,23 @@
+{
+  "ticker": "048470",
+  "name": "대동스틸",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 28853864549,
+  "operating_profit": 68189027,
+  "net_income": 310826851,
+  "total_assets": 89869157727,
+  "total_debt": 20114962463,
+  "total_equity": 69754195264,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -10.521298471655205,
+  "operating_profit_yoy": -67.45594142623492,
+  "net_income_yoy": -57.22149323450366,
+  "debt_ratio": 28.836921402175925,
+  "operating_margin": 0.23632545610727645,
+  "net_margin": 1.0772451311405786,
+  "roe": 1.7824123685957975,
+  "cached_at": "2025-06-09T16:10:52.686173"
+}

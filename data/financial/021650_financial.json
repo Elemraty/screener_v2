@@ -1,0 +1,23 @@
+{
+  "ticker": "021650",
+  "name": "한국큐빅",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 60058317716,
+  "operating_profit": 3072719549,
+  "net_income": 2439735266,
+  "total_assets": 175290676472,
+  "total_debt": 79458287018,
+  "total_equity": 95832389454,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 0.3758104713971644,
+  "operating_profit_yoy": 7.309002567742073,
+  "net_income_yoy": 6.6042332868133435,
+  "debt_ratio": 82.91381178191362,
+  "operating_margin": 5.116226470961246,
+  "net_margin": 4.062277064663827,
+  "roe": 10.183343146926685,
+  "cached_at": "2025-06-09T16:40:48.670612"
+}

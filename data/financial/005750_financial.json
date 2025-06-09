@@ -1,0 +1,23 @@
+{
+  "ticker": "005750",
+  "name": "대림바스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 74200824516,
+  "operating_profit": 4036785524,
+  "net_income": 2988696930,
+  "total_assets": 339843292491,
+  "total_debt": 178850666041,
+  "total_equity": 160992626450,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 17.711578787818194,
+  "operating_profit_yoy": 93.22852734174822,
+  "net_income_yoy": 141.71541325824663,
+  "debt_ratio": 111.0924580738772,
+  "operating_margin": 5.440351303818118,
+  "net_margin": 4.027848678899174,
+  "roe": 7.425674071919584,
+  "cached_at": "2025-06-09T15:58:46.787282"
+}

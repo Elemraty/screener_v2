@@ -1,0 +1,23 @@
+{
+  "ticker": "290120",
+  "name": "DH오토리드",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 83260489552,
+  "operating_profit": 4691134566,
+  "net_income": 3639478475,
+  "total_assets": 283476586926,
+  "total_debt": 182526942475,
+  "total_equity": 100949644451,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 30.168104201706925,
+  "operating_profit_yoy": 8.781062581979615,
+  "net_income_yoy": 3.7130431128516994,
+  "debt_ratio": 180.80989137470104,
+  "operating_margin": 5.634286552050803,
+  "net_margin": 4.371195142597593,
+  "roe": 14.420965996632384,
+  "cached_at": "2025-06-09T16:06:27.665864"
+}

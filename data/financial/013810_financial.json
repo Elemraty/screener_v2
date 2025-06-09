@@ -1,0 +1,21 @@
+{
+  "ticker": "013810",
+  "name": "스페코",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 7393660994,
+  "operating_profit": -133626960,
+  "net_income": -31146923,
+  "total_assets": 82726664721,
+  "total_debt": 36842810124,
+  "total_equity": 45883854597,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 318.4888114229613,
+  "debt_ratio": 80.2958043686436,
+  "operating_margin": -1.8073179188015123,
+  "net_margin": -0.42126523011098177,
+  "roe": -0.271528390747158,
+  "cached_at": "2025-06-09T16:19:06.234976"
+}

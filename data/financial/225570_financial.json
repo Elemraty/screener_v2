@@ -1,0 +1,22 @@
+{
+  "ticker": "225570",
+  "name": "넥슨게임즈",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 51305608201,
+  "operating_profit": -4892943326,
+  "net_income": -333596742,
+  "total_assets": 476195988871,
+  "total_debt": 159298893811,
+  "total_equity": 316897095060,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -2.517612403872649,
+  "operating_profit_yoy": -298.18105899629876,
+  "debt_ratio": 50.26833514546386,
+  "operating_margin": -9.536858635085105,
+  "net_margin": -0.6502149642063845,
+  "roe": -0.4210789523795895,
+  "cached_at": "2025-06-09T16:10:17.034175"
+}

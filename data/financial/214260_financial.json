@@ -1,0 +1,21 @@
+{
+  "ticker": "214260",
+  "name": "라파스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 7064419037,
+  "operating_profit": -684938206,
+  "net_income": -1176756356,
+  "total_assets": 87422915991,
+  "total_debt": 53752907349,
+  "total_equity": 33670008642,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 13.158265949830405,
+  "debt_ratio": 159.64625349679469,
+  "operating_margin": -9.695605575102864,
+  "net_margin": -16.657510686111923,
+  "roe": -13.9798759009775,
+  "cached_at": "2025-06-09T16:13:12.215283"
+}

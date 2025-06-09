@@ -1,0 +1,23 @@
+{
+  "ticker": "217190",
+  "name": "제너셈",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 8433468018,
+  "operating_profit": -1315848371,
+  "net_income": -1255515760,
+  "total_assets": 86104245681,
+  "total_debt": 38160301649,
+  "total_equity": 47943944032,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -29.57831509518091,
+  "operating_profit_yoy": -306.93874173965094,
+  "net_income_yoy": -313.56874492920934,
+  "debt_ratio": 79.59358041868657,
+  "operating_margin": -15.602695927600777,
+  "net_margin": -14.887300898281536,
+  "roe": -10.474864221950625,
+  "cached_at": "2025-06-09T16:33:35.497606"
+}

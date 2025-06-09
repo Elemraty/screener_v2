@@ -1,0 +1,23 @@
+{
+  "ticker": "263810",
+  "name": "상신전자",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 34492130161,
+  "operating_profit": 900210425,
+  "net_income": 641925613,
+  "total_assets": 90367925094,
+  "total_debt": 43188414438,
+  "total_equity": 47179510656,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 12.167735404005619,
+  "operating_profit_yoy": 41.76786189963195,
+  "net_income_yoy": -18.188201991043062,
+  "debt_ratio": 91.54061548645494,
+  "operating_margin": 2.6099009275392953,
+  "net_margin": 1.8610784837111063,
+  "roe": 5.442410097726301,
+  "cached_at": "2025-06-09T16:17:08.312383"
+}

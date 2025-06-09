@@ -1,0 +1,23 @@
+{
+  "ticker": "041190",
+  "name": "우리기술투자",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 22702736897,
+  "operating_profit": 15375898747,
+  "net_income": 14838095676,
+  "total_assets": 819315047334,
+  "total_debt": 138342741073,
+  "total_equity": 680972306261,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 85.66153436195161,
+  "operating_profit_yoy": 57.13532599821918,
+  "net_income_yoy": 68.1879351425643,
+  "debt_ratio": 20.315472420985152,
+  "operating_margin": 67.72707104327942,
+  "net_margin": 65.35818013184456,
+  "roe": 8.7158291399374,
+  "cached_at": "2025-06-09T16:30:00.699044"
+}

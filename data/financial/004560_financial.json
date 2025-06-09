@@ -1,0 +1,22 @@
+{
+  "ticker": "004560",
+  "name": "현대비앤지스틸",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 187468792329,
+  "operating_profit": 2474693060,
+  "net_income": 1019655521,
+  "total_assets": 710734619611,
+  "total_debt": 195618870381,
+  "total_equity": 515115749230,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -2.158274600073573,
+  "net_income_yoy": -48.64778383372011,
+  "debt_ratio": 37.97571141503885,
+  "operating_margin": 1.3200560099928609,
+  "net_margin": 0.5439068062115355,
+  "roe": 0.7917874943829155,
+  "cached_at": "2025-06-09T16:05:40.237232"
+}

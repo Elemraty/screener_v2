@@ -1,0 +1,22 @@
+{
+  "ticker": "079950",
+  "name": "인베니아",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2434501835,
+  "operating_profit": -2618560422,
+  "net_income": -3464413569,
+  "total_assets": 69842306148,
+  "total_debt": 48331820482,
+  "total_equity": 21510485666,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -24.33451979037551,
+  "net_income_yoy": -978.3440498248624,
+  "debt_ratio": 224.6895827107914,
+  "operating_margin": -107.56042095979772,
+  "net_margin": -142.30482471581297,
+  "roe": -64.42278659427828,
+  "cached_at": "2025-06-09T16:32:49.447367"
+}

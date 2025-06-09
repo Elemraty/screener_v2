@@ -1,0 +1,21 @@
+{
+  "ticker": "091440",
+  "name": "한울소재과학",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2976696349,
+  "operating_profit": -6737752274,
+  "net_income": -9254592859,
+  "total_assets": 115162425758,
+  "total_debt": 61870370580,
+  "total_equity": 53292055178,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 43.733374802557634,
+  "debt_ratio": 116.09679974500457,
+  "operating_margin": -226.3500029575909,
+  "net_margin": -310.90147512389075,
+  "roe": -69.46320856336932,
+  "cached_at": "2025-06-09T16:41:09.067308"
+}

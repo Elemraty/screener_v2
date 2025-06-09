@@ -1,0 +1,23 @@
+{
+  "ticker": "284740",
+  "name": "쿠쿠홈시스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 271109479598,
+  "operating_profit": 42548253342,
+  "net_income": 31664894008,
+  "total_assets": 1410424978291,
+  "total_debt": 353285705617,
+  "total_equity": 1057139272674,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 10.839192358540316,
+  "operating_profit_yoy": 23.59820717088834,
+  "net_income_yoy": -5.477375771996551,
+  "debt_ratio": 33.41903141327586,
+  "operating_margin": 15.694122317334816,
+  "net_margin": 11.679744306599892,
+  "roe": 11.98135187160521,
+  "cached_at": "2025-06-09T16:04:13.694345"
+}

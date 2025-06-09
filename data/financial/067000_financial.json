@@ -1,0 +1,20 @@
+{
+  "ticker": "067000",
+  "name": "조이시티",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 0,
+  "operating_profit": 2181205263,
+  "net_income": 853292357,
+  "total_assets": 231260999570,
+  "total_debt": 133950044997,
+  "total_equity": 97310954573,
+  "data_source": "f_data_financial",
+  "operating_profit_yoy": -52.239730979569664,
+  "net_income_yoy": -76.41741158177524,
+  "debt_ratio": 137.65155792045422,
+  "roe": 3.507487356358769,
+  "cached_at": "2025-06-09T16:34:17.973799"
+}

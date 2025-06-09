@@ -1,0 +1,21 @@
+{
+  "ticker": "263800",
+  "name": "데이타솔루션",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 15774817437,
+  "operating_profit": -3093871536,
+  "net_income": -2900181221,
+  "total_assets": 58319581422,
+  "total_debt": 27156947070,
+  "total_equity": 31162634352,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -8.682003173225795,
+  "debt_ratio": 87.14586438118985,
+  "operating_margin": -19.61272482775802,
+  "net_margin": -18.384879778054323,
+  "roe": -37.22639348446314,
+  "cached_at": "2025-06-09T16:11:50.322786"
+}

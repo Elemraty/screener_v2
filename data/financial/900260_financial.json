@@ -1,0 +1,23 @@
+{
+  "ticker": "900260",
+  "name": "로스웰",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 618365140,
+  "operating_profit": 777772,
+  "net_income": 4692254,
+  "total_assets": 4291142344,
+  "total_debt": 3016754308,
+  "total_equity": 1274388036,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -11.511482279995345,
+  "operating_profit_yoy": -98.36266216633067,
+  "net_income_yoy": -91.2282283214183,
+  "debt_ratio": 236.7218008000822,
+  "operating_margin": 0.12577875913250866,
+  "net_margin": 0.758816061332306,
+  "roe": 1.4727865822494273,
+  "cached_at": "2025-06-09T16:13:29.435262"
+}

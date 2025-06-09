@@ -1,0 +1,22 @@
+{
+  "ticker": "007610",
+  "name": "선도전기",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 7335976620,
+  "operating_profit": -1170573092,
+  "net_income": -3012243887,
+  "total_assets": 78276740947,
+  "total_debt": 49785002094,
+  "total_equity": 28491738853,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 49.82511190419865,
+  "net_income_yoy": -143.05266602066865,
+  "debt_ratio": 174.73486736229142,
+  "operating_margin": -15.956608814819258,
+  "net_margin": -41.061252550720376,
+  "roe": -42.28936538470104,
+  "cached_at": "2025-06-09T16:01:19.817016"
+}

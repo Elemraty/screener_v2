@@ -1,0 +1,22 @@
+{
+  "ticker": "210120",
+  "name": "캔버스엔",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 520519119,
+  "operating_profit": -463312335,
+  "net_income": -990848309,
+  "total_assets": 41123653663,
+  "total_debt": 24518653366,
+  "total_equity": 16605000297,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 70.26255130406118,
+  "net_income_yoy": -820.3670186982255,
+  "debt_ratio": 147.6582531012044,
+  "operating_margin": -89.00966709735786,
+  "net_margin": -190.35771652414556,
+  "roe": -23.86867308106017,
+  "cached_at": "2025-06-09T16:35:08.364322"
+}

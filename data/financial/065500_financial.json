@@ -1,0 +1,23 @@
+{
+  "ticker": "065500",
+  "name": "오리엔트정공",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 41415010723,
+  "operating_profit": 460896983,
+  "net_income": 198191977,
+  "total_assets": 96805073739,
+  "total_debt": 58472448368,
+  "total_equity": 38332625371,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 3.2913069215636748,
+  "operating_profit_yoy": -14.639049999193432,
+  "net_income_yoy": -78.60470822540432,
+  "debt_ratio": 152.53963902048957,
+  "operating_margin": 1.1128742331679244,
+  "net_margin": 0.4785510701073735,
+  "roe": 2.068128390182628,
+  "cached_at": "2025-06-09T16:25:49.917053"
+}

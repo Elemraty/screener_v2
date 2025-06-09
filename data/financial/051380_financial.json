@@ -1,0 +1,23 @@
+{
+  "ticker": "051380",
+  "name": "피씨디렉트",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 93672511961,
+  "operating_profit": 1499391722,
+  "net_income": 892616366,
+  "total_assets": 120642186346,
+  "total_debt": 82371510259,
+  "total_equity": 38270676087,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 12.417968201287355,
+  "operating_profit_yoy": 80.33836646092082,
+  "net_income_yoy": 389.7172488310094,
+  "debt_ratio": 215.23400859641572,
+  "operating_margin": 1.6006741899099095,
+  "net_margin": 0.9529117425308671,
+  "roe": 9.329507155513346,
+  "cached_at": "2025-06-09T16:39:23.685291"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "156100",
+  "name": "엘앤케이바이오",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 8893168095,
+  "operating_profit": -145230732,
+  "net_income": -733848050,
+  "total_assets": 85330431433,
+  "total_debt": 48025498961,
+  "total_equity": 37304932472,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -2.5515129749274945,
+  "operating_profit_yoy": -108.78442450451224,
+  "net_income_yoy": -141.04766640359153,
+  "debt_ratio": 128.73766491079041,
+  "operating_margin": -1.6330595626732052,
+  "net_margin": -8.251818049099858,
+  "roe": -7.868643649745835,
+  "cached_at": "2025-06-09T16:24:39.760064"
+}

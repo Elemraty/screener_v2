@@ -1,0 +1,21 @@
+{
+  "ticker": "189330",
+  "name": "씨이랩",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 784290866,
+  "operating_profit": -1069785728,
+  "net_income": -841105499,
+  "total_assets": 11125829165,
+  "total_debt": 2369613437,
+  "total_equity": 8756215728,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -65.7474934647046,
+  "debt_ratio": 27.062072367890842,
+  "operating_margin": -136.40165586220152,
+  "net_margin": -107.24407684227704,
+  "roe": -38.42324242014152,
+  "cached_at": "2025-06-09T16:20:28.730744"
+}

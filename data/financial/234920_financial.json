@@ -1,0 +1,21 @@
+{
+  "ticker": "234920",
+  "name": "자이글",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2330592722,
+  "operating_profit": -1344733959,
+  "net_income": -1860688059,
+  "total_assets": 52728928557,
+  "total_debt": 30009166202,
+  "total_equity": 22719762355,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 22.96508735698497,
+  "debt_ratio": 132.0839792824497,
+  "operating_margin": -57.69922587958721,
+  "net_margin": -79.8375469654453,
+  "roe": -32.758935237551256,
+  "cached_at": "2025-06-09T16:33:27.133706"
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "041590",
+  "name": "플래스크",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2311585093,
+  "operating_profit": -2191720837,
+  "net_income": -1679894402,
+  "total_assets": 47796180362,
+  "total_debt": 8611511680,
+  "total_equity": 39184668682,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -40.12009794314834,
+  "debt_ratio": 21.976737253761222,
+  "operating_margin": -94.81462930510428,
+  "net_margin": -72.6728341987971,
+  "roe": -17.14848647192142,
+  "cached_at": "2025-06-09T16:39:15.288116"
+}

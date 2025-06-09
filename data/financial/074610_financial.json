@@ -1,0 +1,21 @@
+{
+  "ticker": "074610",
+  "name": "이엔플러스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 9863526965,
+  "operating_profit": -4134988977,
+  "net_income": 14601883328,
+  "total_assets": 63208348515,
+  "total_debt": 38241086236,
+  "total_equity": 24967262279,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -38.373798018876606,
+  "debt_ratio": 153.16491575515923,
+  "operating_margin": -41.92201219373865,
+  "net_margin": 148.03916874576112,
+  "roe": 233.93647513018144,
+  "cached_at": "2025-06-09T16:02:59.504216"
+}

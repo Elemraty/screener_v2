@@ -1,0 +1,21 @@
+{
+  "ticker": "215600",
+  "name": "신라젠",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1157000348,
+  "operating_profit": -5103764777,
+  "net_income": -4969393406,
+  "total_assets": 144888028400,
+  "total_debt": 18099469041,
+  "total_equity": 126788559359,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 282.8649742327979,
+  "debt_ratio": 14.27531721513738,
+  "operating_margin": -441.12041848754916,
+  "net_margin": -429.50664747768946,
+  "roe": -15.67773443005763,
+  "cached_at": "2025-06-09T16:19:25.619861"
+}

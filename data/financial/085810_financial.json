@@ -1,0 +1,18 @@
+{
+  "ticker": "085810",
+  "name": "알티캐스트",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 0,
+  "operating_profit": -500806710,
+  "net_income": -187310185,
+  "total_assets": 52570382483,
+  "total_debt": 7989718015,
+  "total_equity": 44580664468,
+  "data_source": "f_data_financial",
+  "debt_ratio": 17.921935687466075,
+  "roe": -1.6806405847490338,
+  "cached_at": "2025-06-09T16:21:57.057872"
+}

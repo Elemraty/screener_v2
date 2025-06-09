@@ -1,0 +1,23 @@
+{
+  "ticker": "054800",
+  "name": "아이디스홀딩스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 202867818046,
+  "operating_profit": 18846472731,
+  "net_income": 17045427270,
+  "total_assets": 1171043258914,
+  "total_debt": 326075550390,
+  "total_equity": 844967708524,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 10.323049100972948,
+  "operating_profit_yoy": 74.07804810374952,
+  "net_income_yoy": 11.190706513046212,
+  "debt_ratio": 38.590297250482244,
+  "operating_margin": 9.290025846645912,
+  "net_margin": 8.402233254234032,
+  "roe": 8.069149671897007,
+  "cached_at": "2025-06-09T16:20:56.274619"
+}

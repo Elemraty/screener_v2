@@ -1,0 +1,21 @@
+{
+  "ticker": "045970",
+  "name": "코아시아",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 103960869017,
+  "operating_profit": 1826521151,
+  "net_income": 147522233,
+  "total_assets": 384106567856,
+  "total_debt": 246600291147,
+  "total_equity": 137506276709,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -0.019629638111218206,
+  "debt_ratio": 179.33747974928596,
+  "operating_margin": 1.7569313995454594,
+  "net_margin": 0.14190169281470388,
+  "roe": 0.42913599736889524,
+  "cached_at": "2025-06-09T16:36:14.941058"
+}

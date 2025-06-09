@@ -1,0 +1,21 @@
+{
+  "ticker": "016600",
+  "name": "큐캐피탈",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 0,
+  "operating_profit": 959831204,
+  "net_income": 364868000,
+  "total_assets": 182311942141,
+  "total_debt": 43945695450,
+  "total_equity": 138366246691,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -100.0,
+  "operating_profit_yoy": 139.66270730428008,
+  "net_income_yoy": 89.61199136357779,
+  "debt_ratio": 31.760415925814396,
+  "roe": 1.0547890362736356,
+  "cached_at": "2025-06-09T16:36:46.408317"
+}

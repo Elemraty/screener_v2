@@ -1,0 +1,22 @@
+{
+  "ticker": "005870",
+  "name": "휴니드",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 35164032647,
+  "operating_profit": -3605533737,
+  "net_income": -4427104522,
+  "total_assets": 218926201981,
+  "total_debt": 51575641741,
+  "total_equity": 167350560240,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 19.060266482440035,
+  "net_income_yoy": -36904.83176922726,
+  "debt_ratio": 30.818923860807267,
+  "operating_margin": -10.253470565207214,
+  "net_margin": -12.589865805330765,
+  "roe": -10.581630597832529,
+  "cached_at": "2025-06-09T16:06:02.828133"
+}

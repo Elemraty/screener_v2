@@ -1,0 +1,21 @@
+{
+  "ticker": "217730",
+  "name": "강스템바이오텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 954354847,
+  "operating_profit": -4744777675,
+  "net_income": -4903062772,
+  "total_assets": 50203759791,
+  "total_debt": 11924801157,
+  "total_equity": 38278958634,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -67.27181183336694,
+  "debt_ratio": 31.152365640397008,
+  "operating_margin": -497.1712240908229,
+  "net_margin": -513.7567842205342,
+  "roe": -51.23506957313116,
+  "cached_at": "2025-06-09T16:08:32.952110"
+}

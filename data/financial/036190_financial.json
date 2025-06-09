@@ -1,0 +1,23 @@
+{
+  "ticker": "036190",
+  "name": "금화피에스시",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 86966867486,
+  "operating_profit": 6246185899,
+  "net_income": 3969715637,
+  "total_assets": 456215468790,
+  "total_debt": 99488199884,
+  "total_equity": 356727268906,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 30.14890256507816,
+  "operating_profit_yoy": 15.543766411568448,
+  "net_income_yoy": -49.62404817114484,
+  "debt_ratio": 27.88914909395833,
+  "operating_margin": 7.1822592667322604,
+  "net_margin": 4.564629900736678,
+  "roe": 4.4512612104751055,
+  "cached_at": "2025-06-09T16:09:19.384708"
+}

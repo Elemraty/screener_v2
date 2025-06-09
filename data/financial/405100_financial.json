@@ -1,0 +1,13 @@
+{
+  "ticker": "405100",
+  "name": "큐알티",
+  "market": "KOSDAQ",
+  "bps": 7734,
+  "per": 53.24,
+  "eps": 238,
+  "pbr": 1.64,
+  "roe": 3.0773209206102923,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:36:44.315812"
+}

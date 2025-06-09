@@ -1,0 +1,21 @@
+{
+  "ticker": "065660",
+  "name": "안트로젠",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1602657925,
+  "operating_profit": -1096126731,
+  "net_income": -698767565,
+  "total_assets": 96172347761,
+  "total_debt": 1875714121,
+  "total_equity": 94296633640,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 4.56454032450635,
+  "debt_ratio": 1.9891633970317415,
+  "operating_margin": -68.39430385620187,
+  "net_margin": -43.60054345346341,
+  "roe": -2.964125178286693,
+  "cached_at": "2025-06-09T16:21:45.000452"
+}

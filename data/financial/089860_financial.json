@@ -1,0 +1,23 @@
+{
+  "ticker": "089860",
+  "name": "롯데렌탈",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 685640430602,
+  "operating_profit": 66991361519,
+  "net_income": 29829089856,
+  "total_assets": 7178917330663,
+  "total_debt": 5725933535785,
+  "total_equity": 1452983794878,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 4.380383330804616,
+  "operating_profit_yoy": 17.76228661724526,
+  "net_income_yoy": 83.73363881128266,
+  "debt_ratio": 394.0810321470777,
+  "operating_margin": 9.770625903752618,
+  "net_margin": 4.350544180979778,
+  "roe": 8.211816253189417,
+  "cached_at": "2025-06-09T15:59:46.542100"
+}

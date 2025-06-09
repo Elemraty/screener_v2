@@ -1,0 +1,21 @@
+{
+  "ticker": "289010",
+  "name": "아이스크림에듀",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 24386817969,
+  "operating_profit": -3568637172,
+  "net_income": -3887777465,
+  "total_assets": 70000089404,
+  "total_debt": 35146446754,
+  "total_equity": 34853642650,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -11.410971741445309,
+  "debt_ratio": 100.84009613267784,
+  "operating_margin": -14.633467869963088,
+  "net_margin": -15.942126889789638,
+  "roe": -44.618320145656284,
+  "cached_at": "2025-06-09T16:21:02.292463"
+}

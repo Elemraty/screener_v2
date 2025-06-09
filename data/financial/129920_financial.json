@@ -1,0 +1,21 @@
+{
+  "ticker": "129920",
+  "name": "대성하이텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 18318150595,
+  "operating_profit": -206847826,
+  "net_income": -512728795,
+  "total_assets": 191447660908,
+  "total_debt": 129661583924,
+  "total_equity": 61786076984,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 4.094618741337053,
+  "debt_ratio": 209.85566692893758,
+  "operating_margin": -1.1291960120497089,
+  "net_margin": -2.799020525248608,
+  "roe": -3.31938080569689,
+  "cached_at": "2025-06-09T16:11:05.241011"
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "208710",
+  "name": "포톤",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 26998498780,
+  "operating_profit": -1457099343,
+  "net_income": -2350266505,
+  "total_assets": 85785446485,
+  "total_debt": 34349067216,
+  "total_equity": 51436379269,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -35.07796505287472,
+  "debt_ratio": 66.77971448255052,
+  "operating_margin": -5.396964308546639,
+  "net_margin": -8.70517477342494,
+  "roe": -18.277075784892762,
+  "cached_at": "2025-06-09T16:38:44.908965"
+}

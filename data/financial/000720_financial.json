@@ -1,0 +1,23 @@
+{
+  "ticker": "000720",
+  "name": "현대건설",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 7455579000000,
+  "operating_profit": 213697000000,
+  "net_income": 166742000000,
+  "total_assets": 26768637000000,
+  "total_debt": 16977875000000,
+  "total_equity": 9790762000000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -12.751856058646794,
+  "operating_profit_yoy": -14.832232686229885,
+  "net_income_yoy": -19.975235526461034,
+  "debt_ratio": 173.40708516865183,
+  "operating_margin": 2.8662696753665946,
+  "net_margin": 2.2364728480511036,
+  "roe": 6.812217476024848,
+  "cached_at": "2025-06-09T16:05:35.278107"
+}

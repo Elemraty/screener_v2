@@ -1,0 +1,21 @@
+{
+  "ticker": "086040",
+  "name": "바이오톡스텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 11245954644,
+  "operating_profit": -1420164378,
+  "net_income": -2056523630,
+  "total_assets": 133521882749,
+  "total_debt": 100998713513,
+  "total_equity": 32523169236,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 25.13820107634217,
+  "debt_ratio": 310.54388574531725,
+  "operating_margin": -12.62822430781982,
+  "net_margin": -18.28678573852516,
+  "roe": -25.293028672293445,
+  "cached_at": "2025-06-09T16:15:12.412417"
+}

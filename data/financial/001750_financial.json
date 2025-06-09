@@ -1,0 +1,23 @@
+{
+  "ticker": "001750",
+  "name": "한양증권",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 200298078271,
+  "operating_profit": 29377679903,
+  "net_income": 21079373493,
+  "total_assets": 5322464691644,
+  "total_debt": 4801451808617,
+  "total_equity": 521012883027,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 3.8621773384130087,
+  "operating_profit_yoy": 49.52778115174004,
+  "net_income_yoy": 57.695239209288964,
+  "debt_ratio": 921.561052525486,
+  "operating_margin": 14.666980410691952,
+  "net_margin": 10.524001865100251,
+  "roe": 16.183379858503518,
+  "cached_at": "2025-06-09T16:05:11.925494"
+}

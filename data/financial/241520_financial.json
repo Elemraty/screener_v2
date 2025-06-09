@@ -1,0 +1,23 @@
+{
+  "ticker": "241520",
+  "name": "DSC인베스트먼트",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 6530122701,
+  "operating_profit": -364155349,
+  "net_income": -268202633,
+  "total_assets": 158357403788,
+  "total_debt": 45314561916,
+  "total_equity": 113042841872,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -29.865806853109568,
+  "operating_profit_yoy": -110.86773299690442,
+  "net_income_yoy": -109.03234270906235,
+  "debt_ratio": 40.08618428693638,
+  "operating_margin": -5.576546807370626,
+  "net_margin": -4.1071606963668295,
+  "roe": -0.949030044038311,
+  "cached_at": "2025-06-09T16:06:31.055045"
+}

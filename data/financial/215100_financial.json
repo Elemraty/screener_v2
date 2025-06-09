@@ -1,0 +1,21 @@
+{
+  "ticker": "215100",
+  "name": "로보로보",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 3149460436,
+  "operating_profit": -384231979,
+  "net_income": -163811510,
+  "total_assets": 33146416046,
+  "total_debt": 2207861677,
+  "total_equity": 30938554369,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -2.932550777716203,
+  "debt_ratio": 7.136279383539157,
+  "operating_margin": -12.199930331177528,
+  "net_margin": -5.20125632084619,
+  "roe": -2.1178948188236855,
+  "cached_at": "2025-06-09T16:13:26.309795"
+}

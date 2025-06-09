@@ -1,0 +1,21 @@
+{
+  "ticker": "137310",
+  "name": "에스디바이오센서",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 185325748578,
+  "operating_profit": -14562868423,
+  "net_income": -18799879471,
+  "total_assets": 3844843234206,
+  "total_debt": 966072240599,
+  "total_equity": 2878770993607,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 5.066417210457841,
+  "debt_ratio": 33.5584957172486,
+  "operating_margin": -7.8579844056967465,
+  "net_margin": -10.144235010650718,
+  "roe": -2.612209100723834,
+  "cached_at": "2025-06-09T16:02:13.731366"
+}

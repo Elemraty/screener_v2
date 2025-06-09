@@ -1,0 +1,23 @@
+{
+  "ticker": "058970",
+  "name": "엠로",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 20627279688,
+  "operating_profit": 963412290,
+  "net_income": 1036538509,
+  "total_assets": 108471351942,
+  "total_debt": 18216732879,
+  "total_equity": 90254619063,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 41.03811271100965,
+  "operating_profit_yoy": 2998.628830813551,
+  "net_income_yoy": 67.35639518992222,
+  "debt_ratio": 20.18371255468295,
+  "operating_margin": 4.670573650874908,
+  "net_margin": 5.02508583137606,
+  "roe": 4.593841377919816,
+  "cached_at": "2025-06-09T16:24:48.261537"
+}

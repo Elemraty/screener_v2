@@ -1,0 +1,21 @@
+{
+  "ticker": "227610",
+  "name": "아우딘퓨쳐스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 10423056641,
+  "operating_profit": 38162048,
+  "net_income": -346875903,
+  "total_assets": 54067519313,
+  "total_debt": 33072523003,
+  "total_equity": 20994996310,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 45.62301717335846,
+  "debt_ratio": 157.52573858394737,
+  "operating_margin": 0.36613106226331216,
+  "net_margin": -3.32796716882007,
+  "roe": -6.608734726660212,
+  "cached_at": "2025-06-09T16:20:54.397853"
+}

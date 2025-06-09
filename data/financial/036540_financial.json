@@ -1,0 +1,23 @@
+{
+  "ticker": "036540",
+  "name": "SFA반도체",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 75259068618,
+  "operating_profit": -6014134522,
+  "net_income": -5857036960,
+  "total_assets": 618096804460,
+  "total_debt": 126714310763,
+  "total_equity": 491382493697,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -38.34406334739769,
+  "operating_profit_yoy": -344.1889569760274,
+  "net_income_yoy": -133.3541622678414,
+  "debt_ratio": 25.787306708800973,
+  "operating_margin": -7.991242294701448,
+  "net_margin": -7.782499926658872,
+  "roe": -4.76780270777136,
+  "cached_at": "2025-06-09T16:08:04.119713"
+}

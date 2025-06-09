@@ -1,0 +1,23 @@
+{
+  "ticker": "122900",
+  "name": "아이마켓코리아",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 747504802852,
+  "operating_profit": 9727240401,
+  "net_income": 3761071405,
+  "total_assets": 1317730256464,
+  "total_debt": 906205224414,
+  "total_equity": 411525032050,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -17.136931701062817,
+  "operating_profit_yoy": -20.735507049947945,
+  "net_income_yoy": -50.39726092032818,
+  "debt_ratio": 220.20658619471214,
+  "operating_margin": 1.301294702574094,
+  "net_margin": 0.5031501323670642,
+  "roe": 3.6557401004398997,
+  "cached_at": "2025-06-09T16:02:08.118439"
+}

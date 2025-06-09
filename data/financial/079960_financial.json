@@ -1,0 +1,23 @@
+{
+  "ticker": "079960",
+  "name": "동양이엔피",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 163434975831,
+  "operating_profit": 15900928474,
+  "net_income": 15140001819,
+  "total_assets": 523769976492,
+  "total_debt": 112921741063,
+  "total_equity": 410848235429,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 30.09641246706629,
+  "operating_profit_yoy": 44.710477862047156,
+  "net_income_yoy": -17.049533462442923,
+  "debt_ratio": 27.485025205253528,
+  "operating_margin": 9.72920783519579,
+  "net_margin": 9.263624106173898,
+  "roe": 14.740237891678998,
+  "cached_at": "2025-06-09T16:12:09.255259"
+}

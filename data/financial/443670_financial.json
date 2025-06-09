@@ -1,0 +1,13 @@
+{
+  "ticker": "443670",
+  "name": "에스피소프트",
+  "market": "KOSDAQ",
+  "bps": 2589,
+  "per": 471.43,
+  "eps": 14,
+  "pbr": 2.55,
+  "roe": 0.5407493240633449,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:23:01.880734"
+}

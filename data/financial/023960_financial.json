@@ -1,0 +1,21 @@
+{
+  "ticker": "023960",
+  "name": "에쓰씨엔지니어링",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 36050657363,
+  "operating_profit": -1346230715,
+  "net_income": -1474226508,
+  "total_assets": 107293845018,
+  "total_debt": 62919783590,
+  "total_equity": 44374061428,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 64.12083197690603,
+  "debt_ratio": 141.794060685862,
+  "operating_margin": -3.7342750825444915,
+  "net_margin": -4.089319351810345,
+  "roe": -13.289083401951252,
+  "cached_at": "2025-06-09T16:02:15.766580"
+}

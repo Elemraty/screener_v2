@@ -1,0 +1,23 @@
+{
+  "ticker": "033290",
+  "name": "코웰패션",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 191077050229,
+  "operating_profit": 8346921922,
+  "net_income": 3795721965,
+  "total_assets": 919560445514,
+  "total_debt": 558894504298,
+  "total_equity": 360665941216,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -3.4920891949263955,
+  "operating_profit_yoy": -14.235974781077608,
+  "net_income_yoy": -33.60069218434904,
+  "debt_ratio": 154.9618193538498,
+  "operating_margin": 4.368353976574617,
+  "net_margin": 1.9864876291794034,
+  "roe": 4.209681626385422,
+  "cached_at": "2025-06-09T16:36:21.170517"
+}

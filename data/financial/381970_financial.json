@@ -1,0 +1,13 @@
+{
+  "ticker": "381970",
+  "name": "케이카",
+  "market": "KOSPI",
+  "bps": 4686,
+  "per": 16.55,
+  "eps": 912,
+  "pbr": 3.22,
+  "roe": 19.46222791293214,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:03:52.473587"
+}

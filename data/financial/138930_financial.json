@@ -1,0 +1,20 @@
+{
+  "ticker": "138930",
+  "name": "BNK금융지주",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 0,
+  "operating_profit": 205841068949,
+  "net_income": 171831732721,
+  "total_assets": 153914769364963,
+  "total_debt": 142956574749037,
+  "total_equity": 10958194615926,
+  "data_source": "f_data_financial",
+  "operating_profit_yoy": -33.91461919668336,
+  "net_income_yoy": -32.51855635421871,
+  "debt_ratio": 1304.5632036984657,
+  "roe": 6.272264318842076,
+  "cached_at": "2025-06-09T15:55:43.805874"
+}

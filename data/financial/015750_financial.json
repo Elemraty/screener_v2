@@ -1,0 +1,23 @@
+{
+  "ticker": "015750",
+  "name": "성우하이텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1048933788637,
+  "operating_profit": 58249987510,
+  "net_income": 42783474349,
+  "total_assets": 4676676008839,
+  "total_debt": 2781199639200,
+  "total_equity": 1895476369639,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 1.7607949129912814,
+  "operating_profit_yoy": 35.58858359743204,
+  "net_income_yoy": 40.18663424546078,
+  "debt_ratio": 146.72826756102947,
+  "operating_margin": 5.5532568538659515,
+  "net_margin": 4.078758336557494,
+  "roe": 9.028542910750875,
+  "cached_at": "2025-06-09T16:17:50.801571"
+}

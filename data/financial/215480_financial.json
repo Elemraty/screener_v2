@@ -1,0 +1,23 @@
+{
+  "ticker": "215480",
+  "name": "토박스코리아",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 9266732412,
+  "operating_profit": -222604516,
+  "net_income": -462493706,
+  "total_assets": 42512388310,
+  "total_debt": 9917845297,
+  "total_equity": 32594543013,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -9.2052009850218,
+  "operating_profit_yoy": -162.98428186416564,
+  "net_income_yoy": -283.7087924101441,
+  "debt_ratio": 30.42793173398495,
+  "operating_margin": -2.402189964088498,
+  "net_margin": -4.990903863816025,
+  "roe": -5.67571947016455,
+  "cached_at": "2025-06-09T16:37:26.049730"
+}

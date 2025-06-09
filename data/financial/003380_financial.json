@@ -1,0 +1,22 @@
+{
+  "ticker": "003380",
+  "name": "하림지주",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 3203535000000,
+  "operating_profit": 219888000000,
+  "net_income": 108645000000,
+  "total_assets": 16877784000000,
+  "total_debt": 10905550000000,
+  "total_equity": 5972234000000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 16.78593028355322,
+  "operating_profit_yoy": 25.625160682149286,
+  "debt_ratio": 182.60419802706994,
+  "operating_margin": 6.863917516118913,
+  "net_margin": 3.391409801984371,
+  "roe": 7.276674021814952,
+  "cached_at": "2025-06-09T16:40:11.350453"
+}

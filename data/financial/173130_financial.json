@@ -1,0 +1,23 @@
+{
+  "ticker": "173130",
+  "name": "오파스넷",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 44365798032,
+  "operating_profit": 564692847,
+  "net_income": 469846345,
+  "total_assets": 126133188201,
+  "total_debt": 72288906726,
+  "total_equity": 53844281475,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 33.8436452358249,
+  "operating_profit_yoy": 422.5842082195088,
+  "net_income_yoy": 244.38608457125218,
+  "debt_ratio": 134.25549519044816,
+  "operating_margin": 1.2728112015311894,
+  "net_margin": 1.0590282736740382,
+  "roe": 3.490408504889423,
+  "cached_at": "2025-06-09T16:26:06.173319"
+}

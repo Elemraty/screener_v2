@@ -1,0 +1,23 @@
+{
+  "ticker": "124500",
+  "name": "아이티센글로벌",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1636570361301,
+  "operating_profit": 33837417633,
+  "net_income": 26194558998,
+  "total_assets": 943071324528,
+  "total_debt": 614690344935,
+  "total_equity": 328380979593,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 79.70236321583293,
+  "operating_profit_yoy": 772.1755612581129,
+  "net_income_yoy": 1400.1789783455217,
+  "debt_ratio": 187.1881695757336,
+  "operating_margin": 2.0675809872360618,
+  "net_margin": 1.6005764015655584,
+  "roe": 31.907522817510202,
+  "cached_at": "2025-06-09T16:21:29.584004"
+}

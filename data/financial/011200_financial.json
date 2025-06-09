@@ -1,0 +1,23 @@
+{
+  "ticker": "011200",
+  "name": "HMM",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2854682000000,
+  "operating_profit": 613899000000,
+  "net_income": 739729000000,
+  "total_assets": 34268838000000,
+  "total_debt": 6312522000000,
+  "total_equity": 27956316000000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 22.525639897590644,
+  "operating_profit_yoy": 50.834764533748064,
+  "net_income_yoy": 52.495031788308836,
+  "debt_ratio": 22.579949375303958,
+  "operating_margin": 21.504987245514563,
+  "net_margin": 25.912833723686212,
+  "roe": 10.58406980376098,
+  "cached_at": "2025-06-09T15:56:23.679584"
+}

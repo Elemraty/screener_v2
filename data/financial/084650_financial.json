@@ -1,0 +1,21 @@
+{
+  "ticker": "084650",
+  "name": "랩지노믹스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 21899302035,
+  "operating_profit": -5715653658,
+  "net_income": -5375256878,
+  "total_assets": 288792119500,
+  "total_debt": 77917304684,
+  "total_equity": 210874814816,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 9.97297843051288,
+  "debt_ratio": 36.949554526929724,
+  "operating_margin": -26.09970696264704,
+  "net_margin": -24.54533422758923,
+  "roe": -10.196109730202178,
+  "cached_at": "2025-06-09T16:13:14.266780"
+}

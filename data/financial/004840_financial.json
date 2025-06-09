@@ -1,0 +1,23 @@
+{
+  "ticker": "004840",
+  "name": "DRB동일",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 184693454379,
+  "operating_profit": 4975712929,
+  "net_income": 4574001305,
+  "total_assets": 960859689355,
+  "total_debt": 438795831936,
+  "total_equity": 522063857419,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 2.7304878480076455,
+  "operating_profit_yoy": -39.6583166229455,
+  "net_income_yoy": -1.5440544912527665,
+  "debt_ratio": 84.05022215200574,
+  "operating_margin": 2.6940385871984365,
+  "net_margin": 2.476536767574841,
+  "roe": 3.504553123147141,
+  "cached_at": "2025-06-09T15:55:59.560324"
+}

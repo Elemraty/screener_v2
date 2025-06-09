@@ -1,0 +1,13 @@
+{
+  "ticker": "308430",
+  "name": "셀비온",
+  "market": "KOSDAQ",
+  "bps": 2310,
+  "per": 0.0,
+  "eps": 0,
+  "pbr": 7.73,
+  "roe": 0.0,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:18:25.323426"
+}

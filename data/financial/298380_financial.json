@@ -1,0 +1,21 @@
+{
+  "ticker": "298380",
+  "name": "에이비엘바이오",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2164692513,
+  "operating_profit": -29033843574,
+  "net_income": -28148234078,
+  "total_assets": 210724405337,
+  "total_debt": 67690334648,
+  "total_equity": 143034070689,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -72.72727273070878,
+  "debt_ratio": 47.32462295307219,
+  "operating_margin": -1341.2456226294528,
+  "net_margin": -1300.3340617180766,
+  "roe": -78.71756412275481,
+  "cached_at": "2025-06-09T16:23:10.009949"
+}

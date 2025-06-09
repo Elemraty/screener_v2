@@ -1,0 +1,23 @@
+{
+  "ticker": "131100",
+  "name": "티엔엔터테인먼트",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 34403511478,
+  "operating_profit": 2042260721,
+  "net_income": 1436805661,
+  "total_assets": 119551797444,
+  "total_debt": 51430758489,
+  "total_equity": 68121038955,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 4.452330327381548,
+  "operating_profit_yoy": 21.94184757954163,
+  "net_income_yoy": 64.61359421869986,
+  "debt_ratio": 75.49908116195144,
+  "operating_margin": 5.936198467141832,
+  "net_margin": 4.176334331217305,
+  "roe": 8.43678066595043,
+  "cached_at": "2025-06-09T16:37:50.339421"
+}

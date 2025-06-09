@@ -1,0 +1,22 @@
+{
+  "ticker": "099410",
+  "name": "동방선기",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 8468735511,
+  "operating_profit": 421887912,
+  "net_income": 308782503,
+  "total_assets": 59891231830,
+  "total_debt": 17756963165,
+  "total_equity": 42134268665,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 49.708144032935486,
+  "net_income_yoy": 3457.649668248804,
+  "debt_ratio": 42.14375549313928,
+  "operating_margin": 4.981710805019378,
+  "net_margin": 3.646146494939225,
+  "roe": 2.9314143834327306,
+  "cached_at": "2025-06-09T16:12:02.968571"
+}

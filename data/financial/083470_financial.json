@@ -1,0 +1,23 @@
+{
+  "ticker": "083470",
+  "name": "이엠앤아이",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 6018305918,
+  "operating_profit": -487178127,
+  "net_income": -647264042,
+  "total_assets": 23850217502,
+  "total_debt": 9586663420,
+  "total_equity": 14263554082,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -22.231773425790426,
+  "operating_profit_yoy": -315.7713467765981,
+  "net_income_yoy": -4069.851507161524,
+  "debt_ratio": 67.21090245030838,
+  "operating_margin": -8.09493790508241,
+  "net_margin": -10.754920916600703,
+  "roe": -18.151550119386297,
+  "cached_at": "2025-06-09T16:32:31.072256"
+}

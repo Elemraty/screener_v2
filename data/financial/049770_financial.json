@@ -1,0 +1,23 @@
+{
+  "ticker": "049770",
+  "name": "동원F&B",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1194813542444,
+  "operating_profit": 53991835107,
+  "net_income": 36833848041,
+  "total_assets": 2166298740392,
+  "total_debt": 1060937020736,
+  "total_equity": 1105361719656,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 6.7735275204984235,
+  "operating_profit_yoy": 8.235555487859525,
+  "net_income_yoy": -19.28930316666474,
+  "debt_ratio": 95.98098087440323,
+  "operating_margin": 4.518850279898845,
+  "net_margin": 3.0828113954631022,
+  "roe": 13.329156378769142,
+  "cached_at": "2025-06-09T15:59:27.158769"
+}

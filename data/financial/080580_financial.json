@@ -1,0 +1,23 @@
+{
+  "ticker": "080580",
+  "name": "오킨스전자",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 18881754748,
+  "operating_profit": 1653953596,
+  "net_income": 664608149,
+  "total_assets": 93269256103,
+  "total_debt": 63692225576,
+  "total_equity": 29577030527,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 21.172799416422585,
+  "operating_profit_yoy": 680.3967241536831,
+  "net_income_yoy": 345.58189580181045,
+  "debt_ratio": 215.34354342251243,
+  "operating_margin": 8.759533306485674,
+  "net_margin": 3.51984313889257,
+  "roe": 8.988165980939822,
+  "cached_at": "2025-06-09T16:26:03.276325"
+}

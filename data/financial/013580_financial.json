@@ -1,0 +1,23 @@
+{
+  "ticker": "013580",
+  "name": "계룡건설",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 668585668685,
+  "operating_profit": 31119497784,
+  "net_income": 16528011561,
+  "total_assets": 3037288594961,
+  "total_debt": 2107205597531,
+  "total_equity": 930082997430,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -16.774336674885117,
+  "operating_profit_yoy": -8.66082187646401,
+  "net_income_yoy": -16.184319701386272,
+  "debt_ratio": 226.56102770974402,
+  "operating_margin": 4.65452659869408,
+  "net_margin": 2.4720858276109823,
+  "roe": 7.108187809763261,
+  "cached_at": "2025-06-09T15:58:03.259398"
+}

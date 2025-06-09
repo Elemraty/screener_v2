@@ -1,0 +1,23 @@
+{
+  "ticker": "074600",
+  "name": "원익QnC",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 231372707003,
+  "operating_profit": 19075923571,
+  "net_income": 15360750255,
+  "total_assets": 1565555676838,
+  "total_debt": 977102372504,
+  "total_equity": 588453304334,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 6.941757421448846,
+  "operating_profit_yoy": -41.312807593258746,
+  "net_income_yoy": -31.943151316650788,
+  "debt_ratio": 166.0458638446878,
+  "operating_margin": 8.244673201992082,
+  "net_margin": 6.63896379740279,
+  "roe": 10.441440394245044,
+  "cached_at": "2025-06-09T16:30:22.518462"
+}

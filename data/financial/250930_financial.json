@@ -1,0 +1,21 @@
+{
+  "ticker": "250930",
+  "name": "예선테크",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 10130793016,
+  "operating_profit": -479285938,
+  "net_income": -801187538,
+  "total_assets": 52832436003,
+  "total_debt": 37329796343,
+  "total_equity": 15502639660,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -3.4486386882542464,
+  "debt_ratio": 240.7963879810646,
+  "operating_margin": -4.730981446793385,
+  "net_margin": -7.908438527316172,
+  "roe": -20.67228692845719,
+  "cached_at": "2025-06-09T16:25:06.853635"
+}

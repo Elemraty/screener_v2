@@ -1,0 +1,23 @@
+{
+  "ticker": "142210",
+  "name": "유니트론텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 172561703303,
+  "operating_profit": 9983034075,
+  "net_income": 5737082711,
+  "total_assets": 322445998179,
+  "total_debt": 187284734992,
+  "total_equity": 135161263187,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -2.3699975707066834,
+  "operating_profit_yoy": 19.351896144544245,
+  "net_income_yoy": 7.697647699376842,
+  "debt_ratio": 138.5639128963196,
+  "operating_margin": 5.785196763774899,
+  "net_margin": 3.324655819446968,
+  "roe": 16.978482076074002,
+  "cached_at": "2025-06-09T16:31:11.823537"
+}

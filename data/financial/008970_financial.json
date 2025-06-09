@@ -1,0 +1,23 @@
+{
+  "ticker": "008970",
+  "name": "동양철관",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 43658338586,
+  "operating_profit": -29329771,
+  "net_income": -1206513054,
+  "total_assets": 190035567107,
+  "total_debt": 81601225661,
+  "total_equity": 108434341446,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -36.0415396682928,
+  "operating_profit_yoy": -101.88394062058508,
+  "net_income_yoy": -366.7816050658353,
+  "debt_ratio": 75.25404274404819,
+  "operating_margin": -0.06718022707672443,
+  "net_margin": -2.763534053462343,
+  "roe": -4.4506677051230685,
+  "cached_at": "2025-06-09T15:59:26.058705"
+}

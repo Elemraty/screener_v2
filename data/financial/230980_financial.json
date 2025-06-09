@@ -1,0 +1,21 @@
+{
+  "ticker": "230980",
+  "name": "비유테크놀러지",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 562029855,
+  "operating_profit": -1824181739,
+  "net_income": -117533481,
+  "total_assets": 38096847782,
+  "total_debt": 36959427129,
+  "total_equity": 1137420653,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -58.70346612626669,
+  "debt_ratio": 3249.407071299241,
+  "operating_margin": -324.5702559697652,
+  "net_margin": -20.912319862438626,
+  "roe": -41.333338089122954,
+  "cached_at": "2025-06-09T16:16:13.191164"
+}

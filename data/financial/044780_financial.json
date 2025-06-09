@@ -1,0 +1,22 @@
+{
+  "ticker": "044780",
+  "name": "에이치케이",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 8791865607,
+  "operating_profit": -1215365976,
+  "net_income": -613593236,
+  "total_assets": 76460404367,
+  "total_debt": 18505980803,
+  "total_equity": 57954423564,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -31.52191100327535,
+  "net_income_yoy": -938.0321253650878,
+  "debt_ratio": 31.93195560398172,
+  "operating_margin": -13.823755165596902,
+  "net_margin": -6.979101631301813,
+  "roe": -4.235005359495288,
+  "cached_at": "2025-06-09T16:23:32.050436"
+}

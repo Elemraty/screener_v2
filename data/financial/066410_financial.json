@@ -1,0 +1,22 @@
+{
+  "ticker": "066410",
+  "name": "버킷스튜디오",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 3874888928,
+  "operating_profit": -1754958721,
+  "net_income": 425924920,
+  "total_assets": 191241961677,
+  "total_debt": 61504030452,
+  "total_equity": 129737931225,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -16.483247384293264,
+  "net_income_yoy": -6.205414187202263,
+  "debt_ratio": 47.406359783351014,
+  "operating_margin": -45.29055551292437,
+  "net_margin": 10.99192590843729,
+  "roe": 1.3131854839317059,
+  "cached_at": "2025-06-09T16:15:25.454756"
+}

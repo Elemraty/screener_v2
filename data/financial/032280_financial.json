@@ -1,0 +1,23 @@
+{
+  "ticker": "032280",
+  "name": "삼일",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 24442894775,
+  "operating_profit": 561820183,
+  "net_income": 637602373,
+  "total_assets": 107599481714,
+  "total_debt": 43564590937,
+  "total_equity": 64034890777,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -8.897574189193612,
+  "operating_profit_yoy": -10.185880955236716,
+  "net_income_yoy": 42.431447347239356,
+  "debt_ratio": 68.03258412466519,
+  "operating_margin": 2.2985010088683326,
+  "net_margin": 2.6085387138848,
+  "roe": 3.9828435108630718,
+  "cached_at": "2025-06-09T16:16:51.501721"
+}

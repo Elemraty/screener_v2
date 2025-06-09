@@ -1,0 +1,18 @@
+{
+  "ticker": "192250",
+  "name": "케이사인",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 0,
+  "operating_profit": -939979854,
+  "net_income": -1185426698,
+  "total_assets": 194362447475,
+  "total_debt": 76190372710,
+  "total_equity": 118172074765,
+  "data_source": "f_data_financial",
+  "debt_ratio": 64.47409242963205,
+  "roe": -4.012544250771157,
+  "cached_at": "2025-06-09T16:35:22.490289"
+}

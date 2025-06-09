@@ -1,0 +1,23 @@
+{
+  "ticker": "183300",
+  "name": "코미코",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 134961429013,
+  "operating_profit": 31258249606,
+  "net_income": 20666906274,
+  "total_assets": 856254054640,
+  "total_debt": 489084987766,
+  "total_equity": 367169066874,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 14.35624966609177,
+  "operating_profit_yoy": 12.58048775827232,
+  "net_income_yoy": 3.3238414233720315,
+  "debt_ratio": 133.20430065908505,
+  "operating_margin": 23.16087628487476,
+  "net_margin": 15.313194610594472,
+  "roe": 22.51486646187674,
+  "cached_at": "2025-06-09T16:36:04.458833"
+}

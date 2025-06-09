@@ -1,0 +1,23 @@
+{
+  "ticker": "009780",
+  "name": "엠에스씨",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 48216891754,
+  "operating_profit": 8124721870,
+  "net_income": 6447313227,
+  "total_assets": 265516528198,
+  "total_debt": 91439908741,
+  "total_equity": 174076619457,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 5.766303295614272,
+  "operating_profit_yoy": 68.50711096434938,
+  "net_income_yoy": 57.74807936449338,
+  "debt_ratio": 52.52854118274469,
+  "operating_margin": 16.85036420732364,
+  "net_margin": 13.371482466961677,
+  "roe": 14.814886105006423,
+  "cached_at": "2025-06-09T16:24:52.182519"
+}

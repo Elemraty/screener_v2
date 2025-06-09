@@ -1,0 +1,21 @@
+{
+  "ticker": "015020",
+  "name": "이스타코",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 3051380547,
+  "operating_profit": -552942479,
+  "net_income": -935399976,
+  "total_assets": 78869054851,
+  "total_debt": 40771269671,
+  "total_equity": 38097785180,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 25.37623792084347,
+  "debt_ratio": 107.0174275968239,
+  "operating_margin": -18.12105931997344,
+  "net_margin": -30.654976054024115,
+  "roe": -9.821043103482584,
+  "cached_at": "2025-06-09T16:02:58.203304"
+}

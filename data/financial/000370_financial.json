@@ -1,0 +1,20 @@
+{
+  "ticker": "000370",
+  "name": "한화손해보험",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 0,
+  "operating_profit": 172869560366,
+  "net_income": 127517373809,
+  "total_assets": 21004465794623,
+  "total_debt": 18181535855241,
+  "total_equity": 2822929939382,
+  "data_source": "f_data_financial",
+  "operating_profit_yoy": 10.90205885870259,
+  "net_income_yoy": 17.55482680247582,
+  "debt_ratio": 644.0661385744958,
+  "roe": 18.06879753266796,
+  "cached_at": "2025-06-09T16:05:25.540209"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "003280",
+  "name": "흥아해운",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 45770765927,
+  "operating_profit": 4665185458,
+  "net_income": 3115673454,
+  "total_assets": 445447925481,
+  "total_debt": 209805142234,
+  "total_equity": 235642783247,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 5.175102982808255,
+  "operating_profit_yoy": -17.883301729107725,
+  "net_income_yoy": -30.15417059354969,
+  "debt_ratio": 89.03525045113855,
+  "operating_margin": 10.192500307817713,
+  "net_margin": 6.8071254454627255,
+  "roe": 5.288807764138758,
+  "cached_at": "2025-06-09T16:06:05.428228"
+}

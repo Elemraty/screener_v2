@@ -1,0 +1,23 @@
+{
+  "ticker": "091810",
+  "name": "티웨이항공",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 446606926242,
+  "operating_profit": -35466599384,
+  "net_income": -44775613216,
+  "total_assets": 1509214820551,
+  "total_debt": 1475322397872,
+  "total_equity": 33892422679,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 5.608048323172388,
+  "operating_profit_yoy": -146.59063532218548,
+  "net_income_yoy": -193.33825816997802,
+  "debt_ratio": 4352.956446474748,
+  "operating_margin": -7.941345577068355,
+  "net_margin": -10.025731932275885,
+  "roe": -528.4439373375726,
+  "cached_at": "2025-06-09T16:04:27.057618"
+}

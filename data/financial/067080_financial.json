@@ -1,0 +1,21 @@
+{
+  "ticker": "067080",
+  "name": "대화제약",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 36667866054,
+  "operating_profit": 1128704355,
+  "net_income": -297150699,
+  "total_assets": 202011834863,
+  "total_debt": 127694464716,
+  "total_equity": 74317370147,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 5.689401024183094,
+  "debt_ratio": 171.82317466753724,
+  "operating_margin": 3.0781839154146047,
+  "net_margin": -0.8103844891393254,
+  "roe": -1.5993606792718038,
+  "cached_at": "2025-06-09T16:11:33.534277"
+}

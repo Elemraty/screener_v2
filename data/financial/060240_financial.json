@@ -1,0 +1,21 @@
+{
+  "ticker": "060240",
+  "name": "스타코링크",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 5559659713,
+  "operating_profit": -1683493500,
+  "net_income": -1957852494,
+  "total_assets": 24559837646,
+  "total_debt": 19791120705,
+  "total_equity": 4768716941,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 429.0418471726862,
+  "debt_ratio": 415.01982503599385,
+  "operating_margin": -30.280513321049728,
+  "net_margin": -35.21532962569646,
+  "roe": -164.22467663508988,
+  "cached_at": "2025-06-09T16:18:57.563257"
+}

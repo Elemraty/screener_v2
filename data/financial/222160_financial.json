@@ -1,0 +1,21 @@
+{
+  "ticker": "222160",
+  "name": "NPX",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 952189451,
+  "operating_profit": -1161406500,
+  "net_income": 0,
+  "total_assets": 24337770070,
+  "total_debt": 6435750816,
+  "total_equity": 17902019254,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -71.28839458775357,
+  "debt_ratio": 35.94985975988158,
+  "operating_margin": -121.97220823863128,
+  "net_margin": 0.0,
+  "roe": 0.0,
+  "cached_at": "2025-06-09T16:07:51.303280"
+}

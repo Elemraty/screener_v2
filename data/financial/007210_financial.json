@@ -1,0 +1,23 @@
+{
+  "ticker": "007210",
+  "name": "벽산",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 134838945926,
+  "operating_profit": 1699470916,
+  "net_income": -1092318362,
+  "total_assets": 647540970105,
+  "total_debt": 303840158594,
+  "total_equity": 343700811511,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -10.836294832556625,
+  "operating_profit_yoy": -64.90780524163662,
+  "net_income_yoy": -140.1654154990318,
+  "debt_ratio": 88.40251416871494,
+  "operating_margin": 1.2603709590941734,
+  "net_margin": -0.8100911457728744,
+  "roe": -1.2712432737041015,
+  "cached_at": "2025-06-09T16:00:30.074085"
+}

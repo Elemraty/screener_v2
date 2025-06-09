@@ -1,0 +1,22 @@
+{
+  "ticker": "200710",
+  "name": "에이디테크놀로지",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 32640510178,
+  "operating_profit": -1551685227,
+  "net_income": -1741552880,
+  "total_assets": 237865068703,
+  "total_debt": 108018440804,
+  "total_equity": 129846627899,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 6.706051306475103,
+  "net_income_yoy": -410.4336256198947,
+  "debt_ratio": 83.18925377717251,
+  "operating_margin": -4.753863277682007,
+  "net_margin": -5.335556553812147,
+  "roe": -5.364953740206949,
+  "cached_at": "2025-06-09T16:23:07.340591"
+}

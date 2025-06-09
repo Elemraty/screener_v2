@@ -1,0 +1,13 @@
+{
+  "ticker": "460870",
+  "name": "에스엠씨지",
+  "market": "KOSDAQ",
+  "bps": 1798,
+  "per": 0.0,
+  "eps": 0,
+  "pbr": 3.22,
+  "roe": 0.0,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:22:37.379670"
+}

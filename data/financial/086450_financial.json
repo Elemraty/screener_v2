@@ -1,0 +1,23 @@
+{
+  "ticker": "086450",
+  "name": "동국제약",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 223735796361,
+  "operating_profit": 25317287339,
+  "net_income": 17967171899,
+  "total_assets": 983297888640,
+  "total_debt": 279514143225,
+  "total_equity": 703783745415,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 13.674823456779816,
+  "operating_profit_yoy": 20.480662529316042,
+  "net_income_yoy": -10.094953312128451,
+  "debt_ratio": 39.71591345295691,
+  "operating_margin": 11.315707075389177,
+  "net_margin": 8.030530738143387,
+  "roe": 10.21175724279071,
+  "cached_at": "2025-06-09T16:12:00.865481"
+}

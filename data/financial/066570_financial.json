@@ -1,0 +1,23 @@
+{
+  "ticker": "066570",
+  "name": "LG전자",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 22739812000000,
+  "operating_profit": 1259059000000,
+  "net_income": 875618000000,
+  "total_assets": 65949342000000,
+  "total_debt": 39702715000000,
+  "total_equity": 26246627000000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 7.792315956016016,
+  "operating_profit_yoy": -5.7174907200854275,
+  "net_income_yoy": 49.57218383539881,
+  "debt_ratio": 151.2678752968905,
+  "operating_margin": 5.5368047897669515,
+  "net_margin": 3.850594719076833,
+  "roe": 13.344465176420576,
+  "cached_at": "2025-06-09T15:56:56.689647"
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "290560",
+  "name": "신시웨이",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1984452540,
+  "operating_profit": -321516846,
+  "net_income": -221810887,
+  "total_assets": 23557304294,
+  "total_debt": 1828244098,
+  "total_equity": 21729060196,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 10.05773147741358,
+  "debt_ratio": 8.413820393099895,
+  "operating_margin": -16.201790645998518,
+  "net_margin": -11.177434709524471,
+  "roe": -4.083211791015833,
+  "cached_at": "2025-06-09T16:19:29.809065"
+}

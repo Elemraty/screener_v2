@@ -1,0 +1,23 @@
+{
+  "ticker": "214150",
+  "name": "클래시스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 77113296534,
+  "operating_profit": 38781931592,
+  "net_income": 29723792835,
+  "total_assets": 631904290162,
+  "total_debt": 165152703212,
+  "total_equity": 466751586950,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 53.06408756305827,
+  "operating_profit_yoy": 46.29955637305674,
+  "net_income_yoy": 13.92826842454955,
+  "debt_ratio": 35.383426179907495,
+  "operating_margin": 50.29214588809684,
+  "net_margin": 38.545612975959976,
+  "roe": 25.472901359998257,
+  "cached_at": "2025-06-09T16:36:52.726883"
+}

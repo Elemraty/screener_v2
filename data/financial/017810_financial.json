@@ -1,0 +1,23 @@
+{
+  "ticker": "017810",
+  "name": "풀무원",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 793491352656,
+  "operating_profit": 11263209002,
+  "net_income": -3026797707,
+  "total_assets": 2317673077564,
+  "total_debt": 1742767038186,
+  "total_equity": 574906039378,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 3.1456139001625028,
+  "operating_profit_yoy": -28.06736927481137,
+  "net_income_yoy": -289.3006459018857,
+  "debt_ratio": 303.13945563548566,
+  "operating_margin": 1.4194494954859207,
+  "net_margin": -0.38145314336049213,
+  "roe": -2.1059425364706486,
+  "cached_at": "2025-06-09T16:04:35.968206"
+}

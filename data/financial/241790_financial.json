@@ -1,0 +1,23 @@
+{
+  "ticker": "241790",
+  "name": "티이엠씨씨엔에스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 32760721114,
+  "operating_profit": 2856820733,
+  "net_income": 1873203533,
+  "total_assets": 174329828087,
+  "total_debt": 58648688409,
+  "total_equity": 115681139678,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -57.89200092270842,
+  "operating_profit_yoy": -42.542145566863866,
+  "net_income_yoy": -66.03880886729931,
+  "debt_ratio": 50.69857417747561,
+  "operating_margin": 8.720262057293859,
+  "net_margin": 5.7178336413342965,
+  "roe": 6.477126827118361,
+  "cached_at": "2025-06-09T16:37:54.496675"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "000070",
+  "name": "삼양홀딩스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 865935907513,
+  "operating_profit": 31485530906,
+  "net_income": 38568624363,
+  "total_assets": 5389013445043,
+  "total_debt": 2318968077247,
+  "total_equity": 3070045367796,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -0.5981138560346544,
+  "operating_profit_yoy": -9.343072465016078,
+  "net_income_yoy": -12.745747813566034,
+  "debt_ratio": 75.53530320992611,
+  "operating_margin": 3.6360116993447718,
+  "net_margin": 4.4539814122930315,
+  "roe": 5.02515366939852,
+  "cached_at": "2025-06-09T16:01:02.068457"
+}

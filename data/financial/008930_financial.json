@@ -1,0 +1,23 @@
+{
+  "ticker": "008930",
+  "name": "한미사이언스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 332150251048,
+  "operating_profit": 27066600134,
+  "net_income": 24449889577,
+  "total_assets": 1362987299185,
+  "total_debt": 516026770995,
+  "total_equity": 846960528190,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 3.7475657621625302,
+  "operating_profit_yoy": -27.44185236236534,
+  "net_income_yoy": -21.36353743479178,
+  "debt_ratio": 60.92689727793772,
+  "operating_margin": 8.148902506802118,
+  "net_margin": 7.361093210032431,
+  "roe": 11.5471211529778,
+  "cached_at": "2025-06-09T16:05:03.255481"
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "057880",
+  "name": "푸른소나무",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1450473170,
+  "operating_profit": -720921309,
+  "net_income": -866481050,
+  "total_assets": 12663157694,
+  "total_debt": 9306113982,
+  "total_equity": 3357043712,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 319.3101264826356,
+  "debt_ratio": 277.2115819860972,
+  "operating_margin": -49.70249184271364,
+  "net_margin": -59.737819900522524,
+  "roe": -103.24334436310134,
+  "cached_at": "2025-06-09T16:38:55.354095"
+}

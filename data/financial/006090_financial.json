@@ -1,0 +1,23 @@
+{
+  "ticker": "006090",
+  "name": "사조오양",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 102961703286,
+  "operating_profit": 3745276613,
+  "net_income": 253450057,
+  "total_assets": 416719458756,
+  "total_debt": 188487046491,
+  "total_equity": 228232412265,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 6.263497306007548,
+  "operating_profit_yoy": -50.473142316914064,
+  "net_income_yoy": -96.09184369291333,
+  "debt_ratio": 82.58557346015702,
+  "operating_margin": 3.637543371438433,
+  "net_margin": 0.24615954176280835,
+  "roe": 0.44419643026989497,
+  "cached_at": "2025-06-09T16:00:40.032911"
+}

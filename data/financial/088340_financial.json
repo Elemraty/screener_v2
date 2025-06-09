@@ -1,0 +1,20 @@
+{
+  "ticker": "088340",
+  "name": "유라클",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 11634899301,
+  "operating_profit": -980911463,
+  "net_income": -859285692,
+  "total_assets": 39113452303,
+  "total_debt": 14124729935,
+  "total_equity": 24988722368,
+  "data_source": "f_data_financial",
+  "debt_ratio": 56.524418203500524,
+  "operating_margin": -8.430768824236342,
+  "net_margin": -7.385415806101096,
+  "roe": -13.754775924044555,
+  "cached_at": "2025-06-09T16:31:13.914576"
+}

@@ -1,0 +1,13 @@
+{
+  "ticker": "368770",
+  "name": "파이버프로",
+  "market": "KOSDAQ",
+  "bps": 1181,
+  "per": 30.41,
+  "eps": 219,
+  "pbr": 5.64,
+  "roe": 18.543607112616428,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:38:11.297889"
+}

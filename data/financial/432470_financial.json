@@ -1,0 +1,13 @@
+{
+  "ticker": "432470",
+  "name": "케이엔에스",
+  "market": "KOSDAQ",
+  "bps": 6265,
+  "per": 44.67,
+  "eps": 227,
+  "pbr": 1.62,
+  "roe": 3.6233040702314443,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:35:33.039696"
+}

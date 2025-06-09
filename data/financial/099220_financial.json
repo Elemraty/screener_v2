@@ -1,0 +1,21 @@
+{
+  "ticker": "099220",
+  "name": "SDN",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 14858995436,
+  "operating_profit": -1211513422,
+  "net_income": -524624184,
+  "total_assets": 154339954139,
+  "total_debt": 91350786466,
+  "total_equity": 62989167673,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -7.606796161452223,
+  "debt_ratio": 145.02618440719144,
+  "operating_margin": -8.153400593049351,
+  "net_margin": -3.5306840644755413,
+  "roe": -3.331520027211775,
+  "cached_at": "2025-06-09T16:08:03.960987"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "122690",
+  "name": "서진오토모티브",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 691090059386,
+  "operating_profit": 22250791825,
+  "net_income": 22000214216,
+  "total_assets": 1891756763343,
+  "total_debt": 1438434975463,
+  "total_equity": 453321787880,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 7.009110130728069,
+  "operating_profit_yoy": 5.1067423553904145,
+  "net_income_yoy": 125.79316571682386,
+  "debt_ratio": 317.3099140436135,
+  "operating_margin": 3.219666022221293,
+  "net_margin": 3.183407707462342,
+  "roe": 19.41244811451572,
+  "cached_at": "2025-06-09T16:17:33.411099"
+}

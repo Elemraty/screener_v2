@@ -1,0 +1,21 @@
+{
+  "ticker": "207760",
+  "name": "미스터블루",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 17053580195,
+  "operating_profit": -435712239,
+  "net_income": 6152013776,
+  "total_assets": 94864129798,
+  "total_debt": 29935484826,
+  "total_equity": 64928644972,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 8.542529533458998,
+  "debt_ratio": 46.10520493521689,
+  "operating_margin": -2.554960506930668,
+  "net_margin": 36.074617210313,
+  "roe": 37.90015195082547,
+  "cached_at": "2025-06-09T16:14:54.495188"
+}

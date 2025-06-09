@@ -1,0 +1,23 @@
+{
+  "ticker": "110990",
+  "name": "디아이티",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 21644282904,
+  "operating_profit": 5276376948,
+  "net_income": 6046070002,
+  "total_assets": 244868338013,
+  "total_debt": 32951246564,
+  "total_equity": 211917091449,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 7.201853634860367,
+  "operating_profit_yoy": 57.64070006408757,
+  "net_income_yoy": 27.985747457108822,
+  "debt_ratio": 15.549121752612413,
+  "operating_margin": 24.37769350642193,
+  "net_margin": 27.933796785120784,
+  "roe": 11.412142287645635,
+  "cached_at": "2025-06-09T16:12:31.803603"
+}

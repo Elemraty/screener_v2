@@ -1,0 +1,23 @@
+{
+  "ticker": "012610",
+  "name": "경인양행",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 99436342422,
+  "operating_profit": 5323902465,
+  "net_income": 2725313283,
+  "total_assets": 538714615017,
+  "total_debt": 273550532080,
+  "total_equity": 265164082937,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 10.485252693817548,
+  "operating_profit_yoy": 3.5846363305064077,
+  "net_income_yoy": -23.36222007888884,
+  "debt_ratio": 103.16273948195031,
+  "operating_margin": 5.354081149129337,
+  "net_margin": 2.7407617945499094,
+  "roe": 4.111134890991257,
+  "cached_at": "2025-06-09T15:58:02.225003"
+}

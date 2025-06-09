@@ -1,0 +1,23 @@
+{
+  "ticker": "045660",
+  "name": "에이텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 24568619809,
+  "operating_profit": 3609957427,
+  "net_income": 16574659133,
+  "total_assets": 156744978773,
+  "total_debt": 42941411699,
+  "total_equity": 113803567074,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 19.735546373726965,
+  "operating_profit_yoy": 164.70779670417338,
+  "net_income_yoy": 538.8501295651324,
+  "debt_ratio": 37.73292244089119,
+  "operating_margin": 14.693366803118494,
+  "net_margin": 67.46271976958329,
+  "roe": 58.25708124675016,
+  "cached_at": "2025-06-09T16:23:36.175499"
+}

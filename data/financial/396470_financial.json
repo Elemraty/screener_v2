@@ -1,0 +1,13 @@
+{
+  "ticker": "396470",
+  "name": "워트",
+  "market": "KOSDAQ",
+  "bps": 3925,
+  "per": 37.43,
+  "eps": 210,
+  "pbr": 2.0,
+  "roe": 5.35031847133758,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:30:18.684331"
+}

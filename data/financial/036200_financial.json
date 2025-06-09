@@ -1,0 +1,23 @@
+{
+  "ticker": "036200",
+  "name": "유니셈",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 60512429317,
+  "operating_profit": 4777095541,
+  "net_income": 4129646173,
+  "total_assets": 268199936950,
+  "total_debt": 38128153602,
+  "total_equity": 230071783348,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 9.649883344061806,
+  "operating_profit_yoy": 4.767697406679594,
+  "net_income_yoy": -31.55017649822366,
+  "debt_ratio": 16.572285852336986,
+  "operating_margin": 7.894403835573581,
+  "net_margin": 6.824459403813493,
+  "roe": 7.179752532719087,
+  "cached_at": "2025-06-09T16:31:05.535933"
+}

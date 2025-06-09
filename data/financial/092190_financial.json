@@ -1,0 +1,21 @@
+{
+  "ticker": "092190",
+  "name": "서울바이오시스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 167806757438,
+  "operating_profit": -13149046642,
+  "net_income": -17335196867,
+  "total_assets": 761570036416,
+  "total_debt": 646325056903,
+  "total_equity": 115244979513,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 13.586683607785055,
+  "debt_ratio": 560.8270829967846,
+  "operating_margin": -7.83582666321302,
+  "net_margin": -10.330452200892374,
+  "roe": -60.16816329962394,
+  "cached_at": "2025-06-09T16:17:24.021212"
+}

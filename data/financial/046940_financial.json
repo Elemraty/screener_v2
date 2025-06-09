@@ -1,0 +1,23 @@
+{
+  "ticker": "046940",
+  "name": "우원개발",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 89080078064,
+  "operating_profit": 945122846,
+  "net_income": 957184897,
+  "total_assets": 243935111057,
+  "total_debt": 138802376705,
+  "total_equity": 105132734352,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 35.80673307052731,
+  "operating_profit_yoy": 181.61537407927318,
+  "net_income_yoy": 1.589749174454047,
+  "debt_ratio": 132.02584100996464,
+  "operating_margin": 1.060981160480093,
+  "net_margin": 1.0745218434949126,
+  "roe": 3.641814903416106,
+  "cached_at": "2025-06-09T16:30:11.482838"
+}

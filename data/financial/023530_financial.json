@@ -1,0 +1,23 @@
+{
+  "ticker": "023530",
+  "name": "롯데쇼핑",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 3456770795359,
+  "operating_profit": 148235715781,
+  "net_income": 18117983343,
+  "total_assets": 38720622040886,
+  "total_debt": 21720342830146,
+  "total_equity": 17000279210740,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -1.6091722304078404,
+  "operating_profit_yoy": 29.0452559045691,
+  "net_income_yoy": -75.13359121891352,
+  "debt_ratio": 127.76462410349166,
+  "operating_margin": 4.288271469430912,
+  "net_margin": 0.5241303058717369,
+  "roe": 0.42629848882843957,
+  "cached_at": "2025-06-09T15:59:50.909878"
+}

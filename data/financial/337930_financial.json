@@ -1,0 +1,13 @@
+{
+  "ticker": "337930",
+  "name": "젝시믹스",
+  "market": "KOSDAQ",
+  "bps": 3782,
+  "per": 8.29,
+  "eps": 706,
+  "pbr": 1.55,
+  "roe": 18.66737176097303,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:34:12.811338"
+}

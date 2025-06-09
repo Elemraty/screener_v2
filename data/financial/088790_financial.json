@@ -1,0 +1,23 @@
+{
+  "ticker": "088790",
+  "name": "진도",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 15627053011,
+  "operating_profit": 902725592,
+  "net_income": 978118648,
+  "total_assets": 125145707694,
+  "total_debt": 16586504333,
+  "total_equity": 108559203361,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 1.6805088399644008,
+  "operating_profit_yoy": 42.20591933229845,
+  "net_income_yoy": 46.565817900332604,
+  "debt_ratio": 15.27876386292525,
+  "operating_margin": 5.776684774567314,
+  "net_margin": 6.259136942272449,
+  "roe": 3.6040008316840324,
+  "cached_at": "2025-06-09T16:03:40.919117"
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "024810",
+  "name": "이화전기",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 8555636082,
+  "operating_profit": -806812253,
+  "net_income": 17052112,
+  "total_assets": 264730427629,
+  "total_debt": 37144531099,
+  "total_equity": 227585896530,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 7.168208653162167,
+  "debt_ratio": 16.321104104139277,
+  "operating_margin": -9.43018432840351,
+  "net_margin": 0.1993085240719335,
+  "roe": 0.029970419538281397,
+  "cached_at": "2025-06-09T16:32:45.667104"
+}

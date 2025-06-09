@@ -1,0 +1,13 @@
+{
+  "ticker": "446540",
+  "name": "메가터치",
+  "market": "KOSDAQ",
+  "bps": 2657,
+  "per": 17.26,
+  "eps": 243,
+  "pbr": 1.58,
+  "roe": 9.14565299209635,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:14:04.659815"
+}

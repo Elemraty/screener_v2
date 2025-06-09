@@ -1,0 +1,21 @@
+{
+  "ticker": "285130",
+  "name": "SK케미칼",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 536624128730,
+  "operating_profit": 24281615166,
+  "net_income": 21136882065,
+  "total_assets": 5622200289597,
+  "total_debt": 2560094739428,
+  "total_equity": 3062105550169,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 40.86084469895186,
+  "debt_ratio": 83.60569867641259,
+  "operating_margin": 4.524883221979977,
+  "net_margin": 3.938861660027018,
+  "roe": 2.761091245053057,
+  "cached_at": "2025-06-09T15:57:44.239645"
+}

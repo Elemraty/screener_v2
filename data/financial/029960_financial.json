@@ -1,0 +1,23 @@
+{
+  "ticker": "029960",
+  "name": "코엔텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 19843860422,
+  "operating_profit": 9083213616,
+  "net_income": 7720334246,
+  "total_assets": 242926579327,
+  "total_debt": 53128008589,
+  "total_equity": 189798570738,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -7.715783877808291,
+  "operating_profit_yoy": -2.082010809489032,
+  "net_income_yoy": 1.328345308160972,
+  "debt_ratio": 27.991785387224265,
+  "operating_margin": 45.77342020572694,
+  "net_margin": 38.905404905190785,
+  "roe": 16.270584580233184,
+  "cached_at": "2025-06-09T16:36:17.012547"
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "101730",
+  "name": "위메이드맥스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 47111974288,
+  "operating_profit": -2395456543,
+  "net_income": -686246274,
+  "total_assets": 591761684273,
+  "total_debt": 90198212921,
+  "total_equity": 501563471352,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 172.49542990479637,
+  "debt_ratio": 17.98340949309253,
+  "operating_margin": -5.084602331365579,
+  "net_margin": -1.4566281383261737,
+  "roe": -0.5472856882102474,
+  "cached_at": "2025-06-09T16:30:53.027858"
+}

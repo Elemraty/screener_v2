@@ -1,0 +1,23 @@
+{
+  "ticker": "105630",
+  "name": "한세실업",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 467269123439,
+  "operating_profit": 20281084926,
+  "net_income": 9440045321,
+  "total_assets": 1469645848312,
+  "total_debt": 773099498675,
+  "total_equity": 696546349637,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 13.482493084767322,
+  "operating_profit_yoy": -46.75802181420696,
+  "net_income_yoy": -47.83029712480006,
+  "debt_ratio": 110.99038837514476,
+  "operating_margin": 4.340343478451045,
+  "net_margin": 2.0202587432962194,
+  "roe": 5.421057953096509,
+  "cached_at": "2025-06-09T16:05:05.857024"
+}

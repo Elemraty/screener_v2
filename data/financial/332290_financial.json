@@ -1,0 +1,13 @@
+{
+  "ticker": "332290",
+  "name": "누보",
+  "market": "KOSDAQ",
+  "bps": 796,
+  "per": 12.0,
+  "eps": 92,
+  "pbr": 1.39,
+  "roe": 11.557788944723619,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:10:33.275760"
+}

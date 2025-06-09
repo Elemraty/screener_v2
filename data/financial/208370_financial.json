@@ -1,0 +1,23 @@
+{
+  "ticker": "208370",
+  "name": "셀바스헬스케어",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 7216386844,
+  "operating_profit": 349022235,
+  "net_income": 194033274,
+  "total_assets": 71174384207,
+  "total_debt": 7186402527,
+  "total_equity": 63987981680,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 6.601891175772412,
+  "operating_profit_yoy": 47.048538965921715,
+  "net_income_yoy": -70.80149610711793,
+  "debt_ratio": 11.230862950075158,
+  "operating_margin": 4.836523353652963,
+  "net_margin": 2.688787036982742,
+  "roe": 1.2129357351531955,
+  "cached_at": "2025-06-09T16:18:22.956589"
+}

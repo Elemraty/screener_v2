@@ -1,0 +1,23 @@
+{
+  "ticker": "017370",
+  "name": "우신시스템",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 102472748863,
+  "operating_profit": 9127513420,
+  "net_income": 5356844577,
+  "total_assets": 414842079032,
+  "total_debt": 279710287610,
+  "total_equity": 135131791422,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 78.32076938151941,
+  "operating_profit_yoy": 348.19401013330224,
+  "net_income_yoy": 63.951038306617306,
+  "debt_ratio": 206.99073450191975,
+  "operating_margin": 8.907259267732679,
+  "net_margin": 5.227579660385401,
+  "roe": 15.856652296634572,
+  "cached_at": "2025-06-09T16:02:35.077702"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "046310",
+  "name": "백금T&A",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 35520160011,
+  "operating_profit": 2688191744,
+  "net_income": 2723474297,
+  "total_assets": 131424778914,
+  "total_debt": 32083513683,
+  "total_equity": 99341265231,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 9.178061261818948,
+  "operating_profit_yoy": -5.370551552577729,
+  "net_income_yoy": -15.95591271638812,
+  "debt_ratio": 32.2962603792046,
+  "operating_margin": 7.568073294623424,
+  "net_margin": 7.667404358979761,
+  "roe": 10.96613493160997,
+  "cached_at": "2025-06-09T16:15:21.266524"
+}

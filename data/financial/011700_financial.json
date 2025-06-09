@@ -1,0 +1,23 @@
+{
+  "ticker": "011700",
+  "name": "한신기계",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 8981832254,
+  "operating_profit": -529808561,
+  "net_income": 240174353,
+  "total_assets": 118018866804,
+  "total_debt": 28734749080,
+  "total_equity": 89284117724,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -23.7348349611049,
+  "operating_profit_yoy": -157.65333124150956,
+  "net_income_yoy": -82.4597213885511,
+  "debt_ratio": 32.18349445847294,
+  "operating_margin": -5.898669069042714,
+  "net_margin": 2.6740017649855345,
+  "roe": 1.0760003419306454,
+  "cached_at": "2025-06-09T16:05:11.333321"
+}

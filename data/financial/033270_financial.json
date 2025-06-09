@@ -1,0 +1,23 @@
+{
+  "ticker": "033270",
+  "name": "유나이티드제약",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 71348222169,
+  "operating_profit": 13775913013,
+  "net_income": 12656198405,
+  "total_assets": 488822423711,
+  "total_debt": 76486864413,
+  "total_equity": 412335559298,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -2.494044631552439,
+  "operating_profit_yoy": -18.32482798624223,
+  "net_income_yoy": -34.037240710020534,
+  "debt_ratio": 18.549664875670352,
+  "operating_margin": 19.30799758453614,
+  "net_margin": 17.738631769999415,
+  "roe": 12.277571623021927,
+  "cached_at": "2025-06-09T16:02:39.891681"
+}

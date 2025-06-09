@@ -1,0 +1,21 @@
+{
+  "ticker": "001570",
+  "name": "금양",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 35144529873,
+  "operating_profit": -13503303757,
+  "net_income": -22356302859,
+  "total_assets": 1264369554089,
+  "total_debt": 760921666279,
+  "total_equity": 503447887810,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -6.468229480238774,
+  "debt_ratio": 151.14209130740656,
+  "operating_margin": -38.42220626025217,
+  "net_margin": -63.61246811321089,
+  "roe": -17.762555688732746,
+  "cached_at": "2025-06-09T15:58:14.925676"
+}

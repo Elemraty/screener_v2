@@ -1,0 +1,23 @@
+{
+  "ticker": "067830",
+  "name": "세이브존I&C",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 29393732995,
+  "operating_profit": 1414674215,
+  "net_income": 2423347430,
+  "total_assets": 576613126460,
+  "total_debt": 91403121568,
+  "total_equity": 485210004892,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -3.3424593853572437,
+  "operating_profit_yoy": -49.67549533318564,
+  "net_income_yoy": -31.01305345920461,
+  "debt_ratio": 18.83784766316698,
+  "operating_margin": 4.812842979966655,
+  "net_margin": 8.244435745579583,
+  "roe": 1.9977720208299483,
+  "cached_at": "2025-06-09T16:01:31.964470"
+}

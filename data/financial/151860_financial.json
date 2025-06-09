@@ -1,0 +1,23 @@
+{
+  "ticker": "151860",
+  "name": "KG에코솔루션",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1747752418580,
+  "operating_profit": 75445126906,
+  "net_income": 50491410027,
+  "total_assets": 6345646430327,
+  "total_debt": 3360208983975,
+  "total_equity": 2985437446352,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -5.0122655202801125,
+  "operating_profit_yoy": 6.119146048704693,
+  "net_income_yoy": -35.79503050705042,
+  "debt_ratio": 112.55332072292941,
+  "operating_margin": 4.316694178417848,
+  "net_margin": 2.8889337809083315,
+  "roe": 6.765026691642398,
+  "cached_at": "2025-06-09T16:07:23.930525"
+}

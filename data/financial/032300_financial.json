@@ -1,0 +1,23 @@
+{
+  "ticker": "032300",
+  "name": "한국파마",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 20785995541,
+  "operating_profit": 830705161,
+  "net_income": 514675647,
+  "total_assets": 117092162110,
+  "total_debt": 45681165370,
+  "total_equity": 71410996740,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 2.4913969072296815,
+  "operating_profit_yoy": -50.612534916763984,
+  "net_income_yoy": -60.91079847831381,
+  "debt_ratio": 63.96937090280418,
+  "operating_margin": 3.996465598010204,
+  "net_margin": 2.476069264927973,
+  "roe": 2.8828929464400583,
+  "cached_at": "2025-06-09T16:40:48.644408"
+}

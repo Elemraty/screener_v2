@@ -1,0 +1,23 @@
+{
+  "ticker": "161890",
+  "name": "한국콜마",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 653085689014,
+  "operating_profit": 59939938284,
+  "net_income": 23179056681,
+  "total_assets": 3314646803278,
+  "total_debt": 1807854430885,
+  "total_equity": 1506792372393,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 13.621707841652885,
+  "operating_profit_yoy": 84.82999795050704,
+  "net_income_yoy": 91.99028728589171,
+  "debt_ratio": 119.9803280138637,
+  "operating_margin": 9.177959231428678,
+  "net_margin": 3.5491600981174027,
+  "roe": 6.1532184807090236,
+  "cached_at": "2025-06-09T16:04:56.943076"
+}

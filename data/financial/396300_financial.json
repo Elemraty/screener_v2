@@ -1,0 +1,13 @@
+{
+  "ticker": "396300",
+  "name": "세아메카닉스",
+  "market": "KOSDAQ",
+  "bps": 2737,
+  "per": 25.21,
+  "eps": 96,
+  "pbr": 0.88,
+  "roe": 3.5074899525027403,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:18:01.757670"
+}

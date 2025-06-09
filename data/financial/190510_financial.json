@@ -1,0 +1,23 @@
+{
+  "ticker": "190510",
+  "name": "나무가",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 140498075107,
+  "operating_profit": 9415992017,
+  "net_income": 9333169703,
+  "total_assets": 285656209943,
+  "total_debt": 119027807858,
+  "total_equity": 166628402085,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 20.95512628368814,
+  "operating_profit_yoy": 24.789896803866984,
+  "net_income_yoy": -4.184925873459832,
+  "debt_ratio": 71.43308485745537,
+  "operating_margin": 6.70186549518846,
+  "net_margin": 6.642916421375937,
+  "roe": 22.404751137777797,
+  "cached_at": "2025-06-09T16:09:40.726460"
+}

@@ -1,0 +1,13 @@
+{
+  "ticker": "365340",
+  "name": "성일하이텍",
+  "market": "KOSDAQ",
+  "bps": 16747,
+  "per": 0.0,
+  "eps": 0,
+  "pbr": 1.9,
+  "roe": 0.0,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:17:52.849388"
+}

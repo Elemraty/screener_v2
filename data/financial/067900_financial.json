@@ -1,0 +1,23 @@
+{
+  "ticker": "067900",
+  "name": "와이엔텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 27045978783,
+  "operating_profit": 4427213211,
+  "net_income": 3636697223,
+  "total_assets": 441854478869,
+  "total_debt": 143249394270,
+  "total_equity": 298605084599,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -1.7199749650600893,
+  "operating_profit_yoy": -30.060538936280125,
+  "net_income_yoy": -45.94867058928236,
+  "debt_ratio": 47.97285835315603,
+  "operating_margin": 16.369210545202254,
+  "net_margin": 13.44635094251379,
+  "roe": 4.8715811090541346,
+  "cached_at": "2025-06-09T16:26:27.275829"
+}

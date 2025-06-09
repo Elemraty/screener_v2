@@ -1,0 +1,23 @@
+{
+  "ticker": "010690",
+  "name": "화신",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 473450573289,
+  "operating_profit": 30472845147,
+  "net_income": 29112923421,
+  "total_assets": 1430837527578,
+  "total_debt": 892245220124,
+  "total_equity": 538592307454,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 13.910939070693962,
+  "operating_profit_yoy": 44.647387141187636,
+  "net_income_yoy": -0.8044561024494579,
+  "debt_ratio": 165.66245150098152,
+  "operating_margin": 6.436330815972843,
+  "net_margin": 6.149094554634559,
+  "roe": 21.621492188494706,
+  "cached_at": "2025-06-09T16:05:56.373225"
+}

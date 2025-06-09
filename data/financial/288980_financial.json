@@ -1,0 +1,21 @@
+{
+  "ticker": "288980",
+  "name": "모아데이타",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 6053415928,
+  "operating_profit": -430983625,
+  "net_income": -1867599624,
+  "total_assets": 84017964680,
+  "total_debt": 47650466466,
+  "total_equity": 36367498214,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 29.816106393900732,
+  "debt_ratio": 131.02486782458,
+  "operating_margin": -7.119676396371355,
+  "net_margin": -30.851995736183284,
+  "roe": -20.54141434761713,
+  "cached_at": "2025-06-09T16:14:28.348910"
+}

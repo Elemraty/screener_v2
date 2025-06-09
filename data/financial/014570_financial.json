@@ -1,0 +1,23 @@
+{
+  "ticker": "014570",
+  "name": "고려제약",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 13086466475,
+  "operating_profit": 804717217,
+  "net_income": 801605322,
+  "total_assets": 90893703226,
+  "total_debt": 13731541142,
+  "total_equity": 77162162084,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -32.241692059600105,
+  "operating_profit_yoy": -78.69117079531541,
+  "net_income_yoy": -76.06699014932215,
+  "debt_ratio": 17.795692566327546,
+  "operating_margin": 6.1492322510229025,
+  "net_margin": 6.125452760921851,
+  "roe": 4.155432146275835,
+  "cached_at": "2025-06-09T16:08:41.699670"
+}

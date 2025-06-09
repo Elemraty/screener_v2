@@ -1,0 +1,21 @@
+{
+  "ticker": "121850",
+  "name": "코이즈",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 4129297800,
+  "operating_profit": -1512455794,
+  "net_income": -1559742174,
+  "total_assets": 27150887702,
+  "total_debt": 16432572797,
+  "total_equity": 10718314905,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -19.807236730483503,
+  "debt_ratio": 153.313024879819,
+  "operating_margin": -36.627433216369134,
+  "net_margin": -37.77257658675042,
+  "roe": -58.20848474128686,
+  "cached_at": "2025-06-09T16:36:23.332786"
+}

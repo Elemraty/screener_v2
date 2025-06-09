@@ -1,0 +1,21 @@
+{
+  "ticker": "048530",
+  "name": "인트론바이오",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1186435099,
+  "operating_profit": -1839485624,
+  "net_income": -2033834581,
+  "total_assets": 82624651801,
+  "total_debt": 5790502419,
+  "total_equity": 76834149382,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -37.884433947564055,
+  "debt_ratio": 7.536365620722998,
+  "operating_margin": -155.0430887918295,
+  "net_margin": -171.42400648077927,
+  "roe": -10.588180372184706,
+  "cached_at": "2025-06-09T16:33:10.420312"
+}

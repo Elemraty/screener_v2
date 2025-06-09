@@ -1,0 +1,21 @@
+{
+  "ticker": "052860",
+  "name": "아이앤씨",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 9408718335,
+  "operating_profit": 563446919,
+  "net_income": 494581930,
+  "total_assets": 53240056098,
+  "total_debt": 22197486045,
+  "total_equity": 31042570053,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 96.83376342313505,
+  "debt_ratio": 71.50659886440299,
+  "operating_margin": 5.988561873555119,
+  "net_margin": 5.256634457428468,
+  "roe": 6.372950811167813,
+  "cached_at": "2025-06-09T16:21:10.658049"
+}

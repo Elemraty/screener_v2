@@ -1,0 +1,23 @@
+{
+  "ticker": "079370",
+  "name": "제우스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 81563251710,
+  "operating_profit": -395014713,
+  "net_income": 1322662038,
+  "total_assets": 646131988183,
+  "total_debt": 260922443284,
+  "total_equity": 385209544899,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -7.550507109450876,
+  "operating_profit_yoy": -105.22593795408666,
+  "net_income_yoy": -74.63935477931858,
+  "debt_ratio": 67.73519678813061,
+  "operating_margin": -0.48430476313583454,
+  "net_margin": 1.6216396603494367,
+  "roe": 1.3734467959217316,
+  "cached_at": "2025-06-09T16:33:47.591557"
+}

@@ -1,0 +1,21 @@
+{
+  "ticker": "083660",
+  "name": "CSA 코스믹",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 7644068189,
+  "operating_profit": -922631702,
+  "net_income": -975775679,
+  "total_assets": 30251731239,
+  "total_debt": 15398212632,
+  "total_equity": 14853518607,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -0.6423178467013013,
+  "debt_ratio": 103.6671043367684,
+  "operating_margin": -12.069904129422726,
+  "net_margin": -12.76513572189433,
+  "roe": -26.277293746147052,
+  "cached_at": "2025-06-09T16:06:23.248653"
+}

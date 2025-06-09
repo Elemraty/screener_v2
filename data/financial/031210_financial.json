@@ -1,0 +1,18 @@
+{
+  "ticker": "031210",
+  "name": "서울보증보험",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 0,
+  "operating_profit": 27271305031,
+  "net_income": 19373770655,
+  "total_assets": 9538709010207,
+  "total_debt": 4502838559016,
+  "total_equity": 5035870451191,
+  "data_source": "f_data_financial",
+  "debt_ratio": 89.41529776547496,
+  "roe": 1.5388617195597667,
+  "cached_at": "2025-06-09T16:01:16.737490"
+}

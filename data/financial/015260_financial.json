@@ -1,0 +1,21 @@
+{
+  "ticker": "015260",
+  "name": "에이엔피",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 30548082955,
+  "operating_profit": -2171980739,
+  "net_income": -3875778701,
+  "total_assets": 94617855212,
+  "total_debt": 72629961491,
+  "total_equity": 21987893721,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -0.44940534615691696,
+  "debt_ratio": 330.317957747964,
+  "operating_margin": -7.110039416219727,
+  "net_margin": -12.687469477902628,
+  "roe": -70.50750290462531,
+  "cached_at": "2025-06-09T16:02:18.097686"
+}

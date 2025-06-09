@@ -1,0 +1,23 @@
+{
+  "ticker": "096760",
+  "name": "JW홀딩스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 239529624452,
+  "operating_profit": 41760329032,
+  "net_income": 29444758418,
+  "total_assets": 1255678892645,
+  "total_debt": 731750156141,
+  "total_equity": 523928736504,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 7.4209390831757815,
+  "operating_profit_yoy": 2.243814183807169,
+  "net_income_yoy": 7.896165555429535,
+  "debt_ratio": 139.6659708004799,
+  "operating_margin": 17.434306561261472,
+  "net_margin": 12.292741862458234,
+  "roe": 22.479972077481342,
+  "cached_at": "2025-06-09T15:56:31.317996"
+}

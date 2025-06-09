@@ -1,0 +1,23 @@
+{
+  "ticker": "023770",
+  "name": "플레이위드",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 7527177680,
+  "operating_profit": -2355469600,
+  "net_income": -920666315,
+  "total_assets": 39010702063,
+  "total_debt": 20868650914,
+  "total_equity": 18142051149,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -40.835032813317675,
+  "operating_profit_yoy": -243.74619093614004,
+  "net_income_yoy": -148.15133599909342,
+  "debt_ratio": 115.0291703104932,
+  "operating_margin": -31.29286566807866,
+  "net_margin": -12.231228677466266,
+  "roe": -20.299056759097446,
+  "cached_at": "2025-06-09T16:39:19.461407"
+}

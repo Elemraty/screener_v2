@@ -1,0 +1,21 @@
+{
+  "ticker": "099390",
+  "name": "브레인즈컴퍼니",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 3659672187,
+  "operating_profit": -1937491272,
+  "net_income": -1231973024,
+  "total_assets": 53363391750,
+  "total_debt": 4770086804,
+  "total_equity": 48593304946,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -17.671216028801474,
+  "debt_ratio": 9.816345707090363,
+  "operating_margin": -52.94166179370973,
+  "net_margin": -33.663480253129016,
+  "roe": -10.141092690600464,
+  "cached_at": "2025-06-09T16:15:44.634495"
+}

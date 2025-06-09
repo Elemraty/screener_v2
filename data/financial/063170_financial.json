@@ -1,0 +1,19 @@
+{
+  "ticker": "063170",
+  "name": "서울옥션",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 0,
+  "operating_profit": -2106151448,
+  "net_income": -3443590899,
+  "total_assets": 216793928615,
+  "total_debt": 112615491055,
+  "total_equity": 104178437560,
+  "data_source": "f_data_financial",
+  "operating_profit_yoy": -211.63652858537523,
+  "debt_ratio": 108.0986562023843,
+  "roe": -13.221894970412531,
+  "cached_at": "2025-06-09T16:17:26.033549"
+}

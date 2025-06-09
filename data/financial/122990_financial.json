@@ -1,0 +1,23 @@
+{
+  "ticker": "122990",
+  "name": "와이솔",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 85392736352,
+  "operating_profit": -11508863119,
+  "net_income": -7234994863,
+  "total_assets": 393567270815,
+  "total_debt": 53243750443,
+  "total_equity": 340323520372,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -22.96258183934212,
+  "operating_profit_yoy": -285.32174563043844,
+  "net_income_yoy": -202.02606598192682,
+  "debt_ratio": 15.645039868182032,
+  "operating_margin": -13.477566840766134,
+  "net_margin": -8.47261157339707,
+  "roe": -8.503667163634873,
+  "cached_at": "2025-06-09T16:26:23.551658"
+}

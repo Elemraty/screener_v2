@@ -1,0 +1,23 @@
+{
+  "ticker": "094360",
+  "name": "칩스앤미디어",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 5369889309,
+  "operating_profit": 203111488,
+  "net_income": -685855094,
+  "total_assets": 84981289077,
+  "total_debt": 9124860009,
+  "total_equity": 75856429068,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 9.388691185305742,
+  "operating_profit_yoy": 2065.7715068619937,
+  "net_income_yoy": -186.46979599364136,
+  "debt_ratio": 12.029118851376722,
+  "operating_margin": 3.782414800610185,
+  "net_margin": -12.772238951937027,
+  "roe": -3.6165957318406257,
+  "cached_at": "2025-06-09T16:34:59.996009"
+}

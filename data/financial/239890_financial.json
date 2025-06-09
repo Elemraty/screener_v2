@@ -1,0 +1,23 @@
+{
+  "ticker": "239890",
+  "name": "피엔에이치테크",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 7004442275,
+  "operating_profit": 464868418,
+  "net_income": 561022362,
+  "total_assets": 70324560712,
+  "total_debt": 17068812291,
+  "total_equity": 53255748421,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -33.40521352118137,
+  "operating_profit_yoy": -74.37129289147666,
+  "net_income_yoy": -63.484726513351575,
+  "debt_ratio": 32.05064767105848,
+  "operating_margin": 6.636765637418292,
+  "net_margin": 8.009522242796983,
+  "roe": 4.213797598448739,
+  "cached_at": "2025-06-09T16:39:33.583984"
+}

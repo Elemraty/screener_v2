@@ -1,0 +1,21 @@
+{
+  "ticker": "217820",
+  "name": "원익피앤이",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 154722590348,
+  "operating_profit": 9035153518,
+  "net_income": 9277944375,
+  "total_assets": 443711426338,
+  "total_debt": 354827922593,
+  "total_equity": 88883503745,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 111.62165804466485,
+  "debt_ratio": 399.2055979374691,
+  "operating_margin": 5.839582634751818,
+  "net_margin": 5.996502743479263,
+  "roe": 41.75327922093493,
+  "cached_at": "2025-06-09T16:30:25.344017"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "123860",
+  "name": "아나패스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 22229328317,
+  "operating_profit": 3569592426,
+  "net_income": 3693712035,
+  "total_assets": 119372999959,
+  "total_debt": 42973353600,
+  "total_equity": 76399646359,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -39.7897385896012,
+  "operating_profit_yoy": 107.4041488300352,
+  "net_income_yoy": 11.210736866712034,
+  "debt_ratio": 56.248105387908865,
+  "operating_margin": 16.058030971948597,
+  "net_margin": 16.61639066338866,
+  "roe": 19.338895982022432,
+  "cached_at": "2025-06-09T16:20:35.824991"
+}

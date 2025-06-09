@@ -1,0 +1,13 @@
+{
+  "ticker": "376290",
+  "name": "씨유테크",
+  "market": "KOSDAQ",
+  "bps": 6651,
+  "per": 4.34,
+  "eps": 768,
+  "pbr": 0.5,
+  "roe": 11.547135769057284,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:20:26.897733"
+}

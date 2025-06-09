@@ -1,0 +1,21 @@
+{
+  "ticker": "221800",
+  "name": "유투바이오",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 5624166192,
+  "operating_profit": -710212150,
+  "net_income": -248508244,
+  "total_assets": 44342497894,
+  "total_debt": 10245018368,
+  "total_equity": 34097479526,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 0.7362454184542733,
+  "debt_ratio": 30.046262980194683,
+  "operating_margin": -12.627865638291935,
+  "net_margin": -4.418579314983372,
+  "roe": -2.9152681952401505,
+  "cached_at": "2025-06-09T16:31:46.550382"
+}

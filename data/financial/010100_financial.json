@@ -1,0 +1,23 @@
+{
+  "ticker": "010100",
+  "name": "한국무브넥스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 429982623895,
+  "operating_profit": 17736880508,
+  "net_income": 13171857237,
+  "total_assets": 1033249394704,
+  "total_debt": 603221687775,
+  "total_equity": 430027706929,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 13.60621337490815,
+  "operating_profit_yoy": 45.593773189637375,
+  "net_income_yoy": 2.04179988371449,
+  "debt_ratio": 140.27507485107125,
+  "operating_margin": 4.1250226223865445,
+  "net_margin": 3.0633464016947145,
+  "roe": 12.252100992343498,
+  "cached_at": "2025-06-09T16:04:49.343431"
+}

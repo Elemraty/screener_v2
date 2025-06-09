@@ -1,0 +1,23 @@
+{
+  "ticker": "036640",
+  "name": "HRS",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 18828034963,
+  "operating_profit": 3150328379,
+  "net_income": 3218990421,
+  "total_assets": 138685200530,
+  "total_debt": 17613878542,
+  "total_equity": 121071321988,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -8.016632459281148,
+  "operating_profit_yoy": -23.74861203567947,
+  "net_income_yoy": -17.089197364864106,
+  "debt_ratio": 14.548349066301434,
+  "operating_margin": 16.73211455784357,
+  "net_margin": 17.09679436715416,
+  "roe": 10.63502196273714,
+  "cached_at": "2025-06-09T16:06:56.718910"
+}

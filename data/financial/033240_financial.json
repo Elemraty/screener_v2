@@ -1,0 +1,23 @@
+{
+  "ticker": "033240",
+  "name": "자화전자",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 161203310180,
+  "operating_profit": 5039840852,
+  "net_income": 5130828312,
+  "total_assets": 682663755997,
+  "total_debt": 277800143915,
+  "total_equity": 404863612082,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -12.186926918511343,
+  "operating_profit_yoy": -71.65497850927255,
+  "net_income_yoy": -55.579260265096174,
+  "debt_ratio": 68.61573518213217,
+  "operating_margin": 3.1263879422652687,
+  "net_margin": 3.18283061698355,
+  "roe": 5.069191855118673,
+  "cached_at": "2025-06-09T16:03:22.570056"
+}

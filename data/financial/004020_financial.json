@@ -1,0 +1,23 @@
+{
+  "ticker": "004020",
+  "name": "현대제철",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 5563465036922,
+  "operating_profit": -19028045095,
+  "net_income": -54393174968,
+  "total_assets": 34745200393673,
+  "total_debt": 15439622878862,
+  "total_equity": 19305577514811,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -6.461523911583111,
+  "operating_profit_yoy": -134.0986602281393,
+  "net_income_yoy": -268.80641713926974,
+  "debt_ratio": 79.97493401591801,
+  "operating_margin": -0.34201787858322397,
+  "net_margin": -0.9776852124893222,
+  "roe": -1.1269939980043637,
+  "cached_at": "2025-06-09T16:05:42.928915"
+}

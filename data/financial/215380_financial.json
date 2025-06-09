@@ -1,0 +1,21 @@
+{
+  "ticker": "215380",
+  "name": "우정바이오",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 8312412187,
+  "operating_profit": -1404746898,
+  "net_income": -2080401544,
+  "total_assets": 92436763264,
+  "total_debt": 65144207923,
+  "total_equity": 27292555341,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -18.16187574474003,
+  "debt_ratio": 238.68856217042344,
+  "operating_margin": -16.899389327648123,
+  "net_margin": -25.027651386845264,
+  "roe": -30.490388576766726,
+  "cached_at": "2025-06-09T16:30:13.980670"
+}

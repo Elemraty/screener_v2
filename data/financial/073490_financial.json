@@ -1,0 +1,21 @@
+{
+  "ticker": "073490",
+  "name": "이노와이어리스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 37890811543,
+  "operating_profit": -4753471725,
+  "net_income": -4449562361,
+  "total_assets": 213702803647,
+  "total_debt": 50019841313,
+  "total_equity": 163682962334,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -6.277844857742021,
+  "debt_ratio": 30.558978527608154,
+  "operating_margin": -12.545183202543896,
+  "net_margin": -11.743117077211343,
+  "roe": -10.873611517173142,
+  "cached_at": "2025-06-09T16:32:02.782035"
+}

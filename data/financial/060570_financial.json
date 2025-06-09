@@ -1,0 +1,21 @@
+{
+  "ticker": "060570",
+  "name": "드림어스컴퍼니",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 53847142880,
+  "operating_profit": -403044162,
+  "net_income": 5235005404,
+  "total_assets": 228125403632,
+  "total_debt": 76553720243,
+  "total_equity": 151571683389,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -14.778805097739511,
+  "debt_ratio": 50.506610820260725,
+  "operating_margin": -0.7484968383525867,
+  "net_margin": 9.721974322140674,
+  "roe": 13.81525964995628,
+  "cached_at": "2025-06-09T16:12:25.996328"
+}

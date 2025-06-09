@@ -1,0 +1,13 @@
+{
+  "ticker": "352480",
+  "name": "씨앤씨인터내셔널",
+  "market": "KOSDAQ",
+  "bps": 20585,
+  "per": 11.29,
+  "eps": 3245,
+  "pbr": 1.78,
+  "roe": 15.763905756618898,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:20:16.441553"
+}

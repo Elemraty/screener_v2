@@ -1,0 +1,23 @@
+{
+  "ticker": "101490",
+  "name": "에스앤에스텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 57862195150,
+  "operating_profit": 11875664093,
+  "net_income": 11908337094,
+  "total_assets": 312449564565,
+  "total_debt": 56818619218,
+  "total_equity": 255630945347,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 38.52403175762944,
+  "operating_profit_yoy": 61.151757540206766,
+  "net_income_yoy": 55.49426266582418,
+  "debt_ratio": 22.226815748333188,
+  "operating_margin": 20.52404693982648,
+  "net_margin": 20.58051386251287,
+  "roe": 18.633639331631493,
+  "cached_at": "2025-06-09T16:22:29.623072"
+}

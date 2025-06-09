@@ -1,0 +1,23 @@
+{
+  "ticker": "015230",
+  "name": "대창단조",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 87224128199,
+  "operating_profit": 11263075403,
+  "net_income": 9134024478,
+  "total_assets": 388984055561,
+  "total_debt": 83610635190,
+  "total_equity": 305373420371,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 6.68550579249696,
+  "operating_profit_yoy": 19.07794071112359,
+  "net_income_yoy": -4.206367999366323,
+  "debt_ratio": 27.37980112624764,
+  "operating_margin": 12.912797909889717,
+  "net_margin": 10.47190114318015,
+  "roe": 11.96440013266776,
+  "cached_at": "2025-06-09T15:59:01.993249"
+}

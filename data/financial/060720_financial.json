@@ -1,0 +1,23 @@
+{
+  "ticker": "060720",
+  "name": "KH바텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 61517325192,
+  "operating_profit": 3716398521,
+  "net_income": 5219210516,
+  "total_assets": 382697573750,
+  "total_debt": 121874481170,
+  "total_equity": 260823092580,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 12.036006285464463,
+  "operating_profit_yoy": 16.46967296832804,
+  "net_income_yoy": 44.446655178507164,
+  "debt_ratio": 46.72687527950329,
+  "operating_margin": 6.04122254893374,
+  "net_margin": 8.484131095931867,
+  "roe": 8.004215369694165,
+  "cached_at": "2025-06-09T16:07:28.223552"
+}

@@ -1,0 +1,13 @@
+{
+  "ticker": "373200",
+  "name": "엑스플러스",
+  "market": "KOSDAQ",
+  "bps": 118,
+  "per": 0.0,
+  "eps": 0,
+  "pbr": 5.99,
+  "roe": 0.0,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:24:07.031104"
+}

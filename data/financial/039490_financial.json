@@ -1,0 +1,23 @@
+{
+  "ticker": "039490",
+  "name": "키움증권",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 3659953408737,
+  "operating_profit": 325455512151,
+  "net_income": 235599580315,
+  "total_assets": 60378530889919,
+  "total_debt": 54730763471594,
+  "total_equity": 5647767418325,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 38.459341053800465,
+  "operating_profit_yoy": -3.6196569300888326,
+  "net_income_yoy": -3.7702647859732097,
+  "debt_ratio": 969.0690040459547,
+  "operating_margin": 8.89234030613822,
+  "net_margin": 6.437228948122107,
+  "roe": 16.686209814558794,
+  "cached_at": "2025-06-09T16:04:17.621291"
+}

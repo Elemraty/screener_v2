@@ -1,0 +1,22 @@
+{
+  "ticker": "109080",
+  "name": "옵티시스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 6736629425,
+  "operating_profit": 1582782383,
+  "net_income": 1995427850,
+  "total_assets": 62348975762,
+  "total_debt": 5121283767,
+  "total_equity": 57227691995,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 43.319070123605115,
+  "net_income_yoy": 445.7045060749746,
+  "debt_ratio": 8.948960876226579,
+  "operating_margin": 23.495167733677143,
+  "net_margin": 29.620567261646574,
+  "roe": 13.947288666992483,
+  "cached_at": "2025-06-09T16:26:18.506139"
+}

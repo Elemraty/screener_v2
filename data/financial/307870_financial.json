@@ -1,0 +1,13 @@
+{
+  "ticker": "307870",
+  "name": "비투엔",
+  "market": "KOSDAQ",
+  "bps": 671,
+  "per": 0.0,
+  "eps": 0,
+  "pbr": 1.55,
+  "roe": 0.0,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:16:19.512723"
+}

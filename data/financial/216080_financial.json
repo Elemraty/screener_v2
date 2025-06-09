@@ -1,0 +1,22 @@
+{
+  "ticker": "216080",
+  "name": "제테마",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 15833071688,
+  "operating_profit": -143686931,
+  "net_income": -4088451688,
+  "total_assets": 219239795231,
+  "total_debt": 151699104359,
+  "total_equity": 67540690872,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -8.086487500570726,
+  "operating_profit_yoy": -108.31125774037982,
+  "debt_ratio": 224.6040163351203,
+  "operating_margin": -0.9075114029130643,
+  "net_margin": -25.822226846220037,
+  "roe": -24.213265426900918,
+  "cached_at": "2025-06-09T16:34:11.808883"
+}

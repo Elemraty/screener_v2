@@ -1,0 +1,23 @@
+{
+  "ticker": "040610",
+  "name": "SG&G",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 11482461330,
+  "operating_profit": 986887789,
+  "net_income": 6912162187,
+  "total_assets": 460246567019,
+  "total_debt": 72275963650,
+  "total_equity": 387970603369,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -14.516697548115264,
+  "operating_profit_yoy": -55.17922993386366,
+  "net_income_yoy": 8.109136249873504,
+  "debt_ratio": 18.62923711806539,
+  "operating_margin": 8.594740801970548,
+  "net_margin": 60.19756555975269,
+  "roe": 7.126480333280119,
+  "cached_at": "2025-06-09T16:08:05.978695"
+}

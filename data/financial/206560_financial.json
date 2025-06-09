@@ -1,0 +1,20 @@
+{
+  "ticker": "206560",
+  "name": "덱스터",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 14967951710,
+  "operating_profit": -3573412746,
+  "net_income": -4183287481,
+  "total_assets": 91971229840,
+  "total_debt": 47048599086,
+  "total_equity": 44922630754,
+  "data_source": "f_data_financial",
+  "debt_ratio": 104.73251075530723,
+  "operating_margin": -23.873759183847607,
+  "net_margin": -27.948296213470346,
+  "roe": -37.24882012282873,
+  "cached_at": "2025-06-09T16:11:51.967158"
+}

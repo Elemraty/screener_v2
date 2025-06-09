@@ -1,0 +1,23 @@
+{
+  "ticker": "089470",
+  "name": "HDC현대EP",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 253979423919,
+  "operating_profit": 11650958352,
+  "net_income": 7091404521,
+  "total_assets": 636829037329,
+  "total_debt": 300749839955,
+  "total_equity": 336079197374,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 4.229641516715499,
+  "operating_profit_yoy": -1.1976619192742621,
+  "net_income_yoy": -6.906949295500631,
+  "debt_ratio": 89.48778808832839,
+  "operating_margin": 4.587363091159607,
+  "net_margin": 2.792117728112343,
+  "roe": 8.44015883923747,
+  "cached_at": "2025-06-09T15:56:14.217233"
+}

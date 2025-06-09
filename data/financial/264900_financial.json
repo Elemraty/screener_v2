@@ -1,0 +1,23 @@
+{
+  "ticker": "264900",
+  "name": "크라운제과",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 109526856723,
+  "operating_profit": 6271948023,
+  "net_income": 4989346620,
+  "total_assets": 355806916456,
+  "total_debt": 139277224709,
+  "total_equity": 216529691747,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 0.5332180070589443,
+  "operating_profit_yoy": -20.775852640221625,
+  "net_income_yoy": -23.276558089329914,
+  "debt_ratio": 64.3224601602148,
+  "operating_margin": 5.726401916985652,
+  "net_margin": 4.55536365169171,
+  "roe": 9.216928320074842,
+  "cached_at": "2025-06-09T16:04:14.320955"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "130500",
+  "name": "GH신소재",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 21613471392,
+  "operating_profit": 1949076478,
+  "net_income": 1660319026,
+  "total_assets": 193009672723,
+  "total_debt": 93103569954,
+  "total_equity": 99906102769,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 6.649155521417982,
+  "operating_profit_yoy": 166.16429646737544,
+  "net_income_yoy": 196.97926785963938,
+  "debt_ratio": 93.1910737918297,
+  "operating_margin": 9.017877982902045,
+  "net_margin": 7.681871162142652,
+  "roe": 6.6475179392752075,
+  "cached_at": "2025-06-09T16:06:37.843201"
+}

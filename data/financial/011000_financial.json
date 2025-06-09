@@ -1,0 +1,21 @@
+{
+  "ticker": "011000",
+  "name": "진원생명과학",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 8503754012,
+  "operating_profit": -9065743722,
+  "net_income": -8837292267,
+  "total_assets": 144231963316,
+  "total_debt": 67855240310,
+  "total_equity": 76376723006,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 20.934424516732307,
+  "debt_ratio": 88.84282755188309,
+  "operating_margin": -106.6087249138081,
+  "net_margin": -103.92224721610397,
+  "roe": -46.2826469593662,
+  "cached_at": "2025-06-09T16:03:44.064959"
+}

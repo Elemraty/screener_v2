@@ -1,0 +1,20 @@
+{
+  "ticker": "212710",
+  "name": "아이에스티이",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 10328760606,
+  "operating_profit": 306592438,
+  "net_income": 166797711,
+  "total_assets": 60745940222,
+  "total_debt": 36817599917,
+  "total_equity": 23928340305,
+  "data_source": "f_data_financial",
+  "debt_ratio": 153.86608284447834,
+  "operating_margin": 2.968337148039812,
+  "net_margin": 1.614886019365255,
+  "roe": 2.788287175356603,
+  "cached_at": "2025-06-09T16:21:12.446823"
+}

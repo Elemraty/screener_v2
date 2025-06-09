@@ -1,0 +1,22 @@
+{
+  "ticker": "004150",
+  "name": "한솔홀딩스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 276620202000,
+  "operating_profit": 8324183000,
+  "net_income": 6731895000,
+  "total_assets": 937487117000,
+  "total_debt": 264269700000,
+  "total_equity": 673217417000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 164.66338768276515,
+  "net_income_yoy": 80.62828068011956,
+  "debt_ratio": 39.25473306642036,
+  "operating_margin": 3.009246229962626,
+  "net_margin": 2.4336237741594884,
+  "roe": 3.9998341278802654,
+  "cached_at": "2025-06-09T16:05:10.035141"
+}

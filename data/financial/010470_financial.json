@@ -1,0 +1,21 @@
+{
+  "ticker": "010470",
+  "name": "오리콤",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 45955426702,
+  "operating_profit": -660304051,
+  "net_income": -440231643,
+  "total_assets": 204660502698,
+  "total_debt": 84431795403,
+  "total_equity": 120228707295,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 6.257851157260319,
+  "debt_ratio": 70.22598620796391,
+  "operating_margin": -1.436835861152527,
+  "net_margin": -0.9579535532434539,
+  "roe": -1.4646473472257255,
+  "cached_at": "2025-06-09T16:25:51.494808"
+}

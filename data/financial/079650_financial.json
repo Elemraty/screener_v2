@@ -1,0 +1,21 @@
+{
+  "ticker": "079650",
+  "name": "서산",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 7865186751,
+  "operating_profit": -1987080786,
+  "net_income": -1629128259,
+  "total_assets": 107844931032,
+  "total_debt": 5587197870,
+  "total_equity": 102257733162,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -19.468712154693858,
+  "debt_ratio": 5.463838965751941,
+  "operating_margin": -25.26425435158749,
+  "net_margin": -20.713154189159823,
+  "roe": -6.372635921506621,
+  "cached_at": "2025-06-09T16:17:19.797028"
+}

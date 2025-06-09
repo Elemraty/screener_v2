@@ -1,0 +1,23 @@
+{
+  "ticker": "001060",
+  "name": "JW중외제약",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 185236172427,
+  "operating_profit": 22007109101,
+  "net_income": 17470544683,
+  "total_assets": 611042206663,
+  "total_debt": 279957119172,
+  "total_equity": 331085087491,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 2.570773909609625,
+  "operating_profit_yoy": -16.154150597166726,
+  "net_income_yoy": -13.027899684533962,
+  "debt_ratio": 84.55745358196182,
+  "operating_margin": 11.880567824663304,
+  "net_margin": 9.431497344226864,
+  "roe": 21.107014895045562,
+  "cached_at": "2025-06-09T15:56:28.376500"
+}

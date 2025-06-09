@@ -1,0 +1,22 @@
+{
+  "ticker": "081150",
+  "name": "티플랙스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 50602252516,
+  "operating_profit": 824758352,
+  "net_income": 508300287,
+  "total_assets": 229721948956,
+  "total_debt": 71669456451,
+  "total_equity": 158052492505,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -4.565661699872381,
+  "operating_profit_yoy": 293.17224587966695,
+  "debt_ratio": 45.34535034221794,
+  "operating_margin": 1.6298846612395734,
+  "net_margin": 1.0045013052319751,
+  "roe": 1.2864087846863153,
+  "cached_at": "2025-06-09T16:37:56.680565"
+}

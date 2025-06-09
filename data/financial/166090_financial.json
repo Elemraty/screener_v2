@@ -1,0 +1,23 @@
+{
+  "ticker": "166090",
+  "name": "하나머티리얼즈",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 58634301315,
+  "operating_profit": 8716675300,
+  "net_income": 6135439622,
+  "total_assets": 579300011573,
+  "total_debt": 216173493737,
+  "total_equity": 363126517836,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 1.5355375175886143,
+  "operating_profit_yoy": 33.05373826004379,
+  "net_income_yoy": 12.474159341510326,
+  "debt_ratio": 59.531178010698504,
+  "operating_margin": 14.866170662069567,
+  "net_margin": 10.463908470638524,
+  "roe": 6.758459457671409,
+  "cached_at": "2025-06-09T16:40:08.269872"
+}

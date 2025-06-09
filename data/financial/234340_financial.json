@@ -1,0 +1,23 @@
+{
+  "ticker": "234340",
+  "name": "헥토파이낸셜",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 45989988925,
+  "operating_profit": 3657202920,
+  "net_income": 3231230707,
+  "total_assets": 468784086026,
+  "total_debt": 316452197684,
+  "total_equity": 152331888342,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 24.042246991648653,
+  "operating_profit_yoy": -9.440437361431531,
+  "net_income_yoy": 2.6133182088819984,
+  "debt_ratio": 207.738642990845,
+  "operating_margin": 7.952171778001793,
+  "net_margin": 7.025943651061664,
+  "roe": 8.484712536998348,
+  "cached_at": "2025-06-09T16:41:31.036702"
+}

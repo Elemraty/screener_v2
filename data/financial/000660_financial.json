@@ -1,0 +1,23 @@
+{
+  "ticker": "000660",
+  "name": "SK하이닉스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 17639141000000,
+  "operating_profit": 7440504000000,
+  "net_income": 8108195000000,
+  "total_assets": 123985470000000,
+  "total_debt": 42546717000000,
+  "total_equity": 81438753000000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 41.91240135038961,
+  "operating_profit_yoy": 157.811130795983,
+  "net_income_yoy": 322.95409743881055,
+  "debt_ratio": 52.24382180802793,
+  "operating_margin": 42.181781981333444,
+  "net_margin": 45.967062681793855,
+  "roe": 39.82475026355082,
+  "cached_at": "2025-06-09T15:43:00.817861"
+}

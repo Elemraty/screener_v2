@@ -1,0 +1,23 @@
+{
+  "ticker": "005090",
+  "name": "SGC에너지",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 618477763701,
+  "operating_profit": 17550429496,
+  "net_income": -2308340742,
+  "total_assets": 3457290757977,
+  "total_debt": 2598611891821,
+  "total_equity": 858678866156,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 10.691242294963676,
+  "operating_profit_yoy": -65.70446533644837,
+  "net_income_yoy": -110.1374689116428,
+  "debt_ratio": 302.62907289823744,
+  "operating_margin": 2.8376815669131585,
+  "net_margin": -0.3732293830883718,
+  "roe": -1.075298732963405,
+  "cached_at": "2025-06-09T15:57:25.000747"
+}

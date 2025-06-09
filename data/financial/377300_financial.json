@@ -1,0 +1,13 @@
+{
+  "ticker": "377300",
+  "name": "카카오페이",
+  "market": "KOSPI",
+  "bps": 13824,
+  "per": 0.0,
+  "eps": 0,
+  "pbr": 2.74,
+  "roe": 0.0,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:03:50.378110"
+}

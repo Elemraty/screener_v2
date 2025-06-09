@@ -1,0 +1,23 @@
+{
+  "ticker": "000590",
+  "name": "CS홀딩스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 32837107732,
+  "operating_profit": 5253926828,
+  "net_income": 6922117521,
+  "total_assets": 418653809280,
+  "total_debt": 35514278353,
+  "total_equity": 383139530927,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -16.567052819010097,
+  "operating_profit_yoy": 25.531419584649107,
+  "net_income_yoy": -3.975976034411921,
+  "debt_ratio": 9.26928063702374,
+  "operating_margin": 15.999968300740477,
+  "net_margin": 21.080168136289135,
+  "roe": 7.22673278244304,
+  "cached_at": "2025-06-09T15:55:52.725111"
+}

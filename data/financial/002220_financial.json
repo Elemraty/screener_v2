@@ -1,0 +1,22 @@
+{
+  "ticker": "002220",
+  "name": "한일철강",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 49758060866,
+  "operating_profit": 189114894,
+  "net_income": -140560871,
+  "total_assets": 343176370790,
+  "total_debt": 175132833505,
+  "total_equity": 168043537285,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -0.46603882201690094,
+  "operating_profit_yoy": -50.45435528651434,
+  "debt_ratio": 104.21872589362162,
+  "operating_margin": 0.38006885861025064,
+  "net_margin": -0.28248864315378924,
+  "roe": -0.3345820333729593,
+  "cached_at": "2025-06-09T16:05:15.289876"
+}

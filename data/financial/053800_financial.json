@@ -1,0 +1,23 @@
+{
+  "ticker": "053800",
+  "name": "안랩",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 57186583411,
+  "operating_profit": 1045362154,
+  "net_income": 2737930759,
+  "total_assets": 470532648165,
+  "total_debt": 112507784789,
+  "total_equity": 358024863376,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 15.446775235058618,
+  "operating_profit_yoy": 1860.0813941359568,
+  "net_income_yoy": 168.8021144135968,
+  "debt_ratio": 31.424573066827378,
+  "operating_margin": 1.827984977677337,
+  "net_margin": 4.787715222157075,
+  "roe": 3.058928067936564,
+  "cached_at": "2025-06-09T16:21:43.413298"
+}

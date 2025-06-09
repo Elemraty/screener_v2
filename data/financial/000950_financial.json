@@ -1,0 +1,22 @@
+{
+  "ticker": "000950",
+  "name": "전방",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 12826683307,
+  "operating_profit": -1112226592,
+  "net_income": 33078684698,
+  "total_assets": 253034316166,
+  "total_debt": 22417479872,
+  "total_equity": 230616836294,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -18.256540882216566,
+  "net_income_yoy": 10226.958480030053,
+  "debt_ratio": 9.720660569387595,
+  "operating_margin": -8.671193989743369,
+  "net_margin": 257.8896189005285,
+  "roe": 57.37427540776755,
+  "cached_at": "2025-06-09T16:03:22.747252"
+}

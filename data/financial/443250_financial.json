@@ -1,0 +1,13 @@
+{
+  "ticker": "443250",
+  "name": "레뷰코퍼레이션",
+  "market": "KOSDAQ",
+  "bps": 4166,
+  "per": 18.63,
+  "eps": 593,
+  "pbr": 2.65,
+  "roe": 14.234277484397504,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:13:18.425496"
+}

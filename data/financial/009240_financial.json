@@ -1,0 +1,23 @@
+{
+  "ticker": "009240",
+  "name": "한샘",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 443445641487,
+  "operating_profit": 6439601366,
+  "net_income": 9595420445,
+  "total_assets": 1027591988929,
+  "total_debt": 667221869989,
+  "total_equity": 360370118940,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -8.737009858150302,
+  "operating_profit_yoy": -50.44596394840095,
+  "net_income_yoy": -80.22203967569669,
+  "debt_ratio": 185.14905507470485,
+  "operating_margin": 1.4521737871650235,
+  "net_margin": 2.1638323950651115,
+  "roe": 10.65062827431327,
+  "cached_at": "2025-06-09T16:05:04.273001"
+}

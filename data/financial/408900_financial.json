@@ -1,0 +1,13 @@
+{
+  "ticker": "408900",
+  "name": "스튜디오미르",
+  "market": "KOSDAQ",
+  "bps": 1199,
+  "per": 1053.33,
+  "eps": 3,
+  "pbr": 2.64,
+  "roe": 0.25020850708924103,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:19:03.663986"
+}

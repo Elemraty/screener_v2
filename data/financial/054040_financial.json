@@ -1,0 +1,22 @@
+{
+  "ticker": "054040",
+  "name": "한국컴퓨터",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 67842527571,
+  "operating_profit": 1015256585,
+  "net_income": 1342415570,
+  "total_assets": 184137505146,
+  "total_debt": 36675159872,
+  "total_equity": 147462345274,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -10.718432955671064,
+  "net_income_yoy": 74.08840227658355,
+  "debt_ratio": 24.870864357849342,
+  "operating_margin": 1.4964899176810478,
+  "net_margin": 1.9787228130542553,
+  "roe": 3.641378597378621,
+  "cached_at": "2025-06-09T16:40:46.563890"
+}

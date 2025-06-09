@@ -1,0 +1,23 @@
+{
+  "ticker": "108230",
+  "name": "톱텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 45323872669,
+  "operating_profit": -482535241,
+  "net_income": -338513061,
+  "total_assets": 592598164915,
+  "total_debt": 184162458861,
+  "total_equity": 408435706054,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -80.66763620827236,
+  "operating_profit_yoy": -101.67065196289346,
+  "net_income_yoy": -101.12107748097125,
+  "debt_ratio": 45.08970595157798,
+  "operating_margin": -1.0646381533280536,
+  "net_margin": -0.7468758538621778,
+  "roe": -0.3315215158541938,
+  "cached_at": "2025-06-09T16:37:28.855655"
+}

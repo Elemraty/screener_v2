@@ -1,0 +1,23 @@
+{
+  "ticker": "204320",
+  "name": "HL만도",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2271045425967,
+  "operating_profit": 79183259192,
+  "net_income": 34635043633,
+  "total_assets": 7235268176504,
+  "total_debt": 4664068718761,
+  "total_equity": 2571199457743,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 7.768233491596033,
+  "operating_profit_yoy": 4.715515691113015,
+  "net_income_yoy": -76.23484812898452,
+  "debt_ratio": 181.3966125698829,
+  "operating_margin": 3.4866435645286207,
+  "net_margin": 1.525070491192512,
+  "roe": 5.388153537244856,
+  "cached_at": "2025-06-09T15:56:22.414728"
+}

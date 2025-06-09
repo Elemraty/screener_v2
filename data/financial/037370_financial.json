@@ -1,0 +1,21 @@
+{
+  "ticker": "037370",
+  "name": "EG",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 14917352846,
+  "operating_profit": -1019554474,
+  "net_income": -2667334911,
+  "total_assets": 150116808681,
+  "total_debt": 126006307729,
+  "total_equity": 24110500952,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -4.640292031908356,
+  "debt_ratio": 522.6200317440837,
+  "operating_margin": -6.834687658899129,
+  "net_margin": -17.880752292557254,
+  "roe": -44.251837260623006,
+  "cached_at": "2025-06-09T16:06:35.248654"
+}

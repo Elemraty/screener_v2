@@ -1,0 +1,21 @@
+{
+  "ticker": "187660",
+  "name": "현대ADM",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2212570846,
+  "operating_profit": -2718369968,
+  "net_income": -3656865876,
+  "total_assets": 24586591880,
+  "total_debt": 21525527662,
+  "total_equity": 3061064218,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -24.551218024105424,
+  "debt_ratio": 703.2040535256749,
+  "operating_margin": -122.86024526240186,
+  "net_margin": -165.27678119826405,
+  "roe": -477.85549280495366,
+  "cached_at": "2025-06-09T16:41:33.161457"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "147830",
+  "name": "제룡산업",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 7610579739,
+  "operating_profit": 2518731321,
+  "net_income": 2681454018,
+  "total_assets": 87246718433,
+  "total_debt": 9818868567,
+  "total_equity": 77427849866,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 24.61321453671015,
+  "operating_profit_yoy": 358.76820627273486,
+  "net_income_yoy": 103.85374061079204,
+  "debt_ratio": 12.681313744334835,
+  "operating_margin": 33.09513082285833,
+  "net_margin": 35.23324253813458,
+  "roe": 13.852659076240089,
+  "cached_at": "2025-06-09T16:33:45.527289"
+}

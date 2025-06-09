@@ -1,0 +1,23 @@
+{
+  "ticker": "020760",
+  "name": "일진디스플",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 21815902859,
+  "operating_profit": -725729741,
+  "net_income": -1274280725,
+  "total_assets": 79405568566,
+  "total_debt": 45521414378,
+  "total_equity": 33884154188,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -4.942160273527241,
+  "operating_profit_yoy": -221.95802069763442,
+  "net_income_yoy": -124.6423894915299,
+  "debt_ratio": 134.34425461952745,
+  "operating_margin": -3.326608784841583,
+  "net_margin": -5.841063435402603,
+  "roe": -15.042792190472131,
+  "cached_at": "2025-06-09T16:03:19.444376"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "057540",
+  "name": "옴니시스템",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 27226585918,
+  "operating_profit": -259359304,
+  "net_income": -477718510,
+  "total_assets": 133077614470,
+  "total_debt": 23598740313,
+  "total_equity": 109478874157,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 18.537558079435136,
+  "operating_profit_yoy": -117.46909041049895,
+  "net_income_yoy": -118.68987153665383,
+  "debt_ratio": 21.555519724433626,
+  "operating_margin": -0.9525957634979595,
+  "net_margin": -1.7546030612827275,
+  "roe": -1.7454271928844276,
+  "cached_at": "2025-06-09T16:26:16.269572"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "035610",
+  "name": "솔본",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 24821477230,
+  "operating_profit": -5965712692,
+  "net_income": -9242856887,
+  "total_assets": 338845284668,
+  "total_debt": 53274924845,
+  "total_equity": 285570359823,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -4.133046823735631,
+  "operating_profit_yoy": -1072.0746890695602,
+  "net_income_yoy": -165.54407711502114,
+  "debt_ratio": 18.65562128997577,
+  "operating_margin": -24.034478837503098,
+  "net_margin": -37.2373360431135,
+  "roe": -12.946521330475383,
+  "cached_at": "2025-06-09T16:18:39.462016"
+}

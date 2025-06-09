@@ -1,0 +1,23 @@
+{
+  "ticker": "004710",
+  "name": "한솔테크닉스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 337753353011,
+  "operating_profit": 19300919104,
+  "net_income": 16316928366,
+  "total_assets": 896318872970,
+  "total_debt": 372380643966,
+  "total_equity": 523938229004,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 25.982854753184203,
+  "operating_profit_yoy": 54.469326135723925,
+  "net_income_yoy": 40.67026537459388,
+  "debt_ratio": 71.07338677574472,
+  "operating_margin": 5.7145011091485465,
+  "net_margin": 4.831018913813296,
+  "roe": 12.45713900054079,
+  "cached_at": "2025-06-09T16:05:09.512044"
+}

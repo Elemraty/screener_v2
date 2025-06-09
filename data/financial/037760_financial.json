@@ -1,0 +1,22 @@
+{
+  "ticker": "037760",
+  "name": "쎄니트",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 28711079739,
+  "operating_profit": -1500144873,
+  "net_income": -1901973807,
+  "total_assets": 207669208178,
+  "total_debt": 109224203104,
+  "total_equity": 98445005074,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -6.8384253917274656,
+  "operating_profit_yoy": -734.2581052323853,
+  "debt_ratio": 110.94946160234072,
+  "operating_margin": -5.2249685021851064,
+  "net_margin": -6.624529012109683,
+  "roe": -7.728066266319181,
+  "cached_at": "2025-06-09T16:20:03.900025"
+}

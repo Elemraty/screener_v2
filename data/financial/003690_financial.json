@@ -1,0 +1,20 @@
+{
+  "ticker": "003690",
+  "name": "코리안리",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 0,
+  "operating_profit": 123459081802,
+  "net_income": 95191676645,
+  "total_assets": 13123989328414,
+  "total_debt": 9716561995683,
+  "total_equity": 3407427332731,
+  "data_source": "f_data_financial",
+  "operating_profit_yoy": 62.47076562096012,
+  "net_income_yoy": 64.12479971121033,
+  "debt_ratio": 285.1583041066741,
+  "roe": 11.174609739214054,
+  "cached_at": "2025-06-09T16:04:02.612005"
+}

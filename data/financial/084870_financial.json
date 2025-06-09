@@ -1,0 +1,21 @@
+{
+  "ticker": "084870",
+  "name": "TBH글로벌",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 40447658467,
+  "operating_profit": -2784322871,
+  "net_income": -2677408326,
+  "total_assets": 110138036822,
+  "total_debt": 50773170369,
+  "total_equity": 59364866453,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -0.6030280043984315,
+  "debt_ratio": 85.52730495771912,
+  "operating_margin": -6.883767754495958,
+  "net_margin": -6.619439610291446,
+  "roe": -18.040356095939284,
+  "cached_at": "2025-06-09T15:57:52.281746"
+}

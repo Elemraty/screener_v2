@@ -1,0 +1,22 @@
+{
+  "ticker": "075130",
+  "name": "플랜티넷",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 13244664114,
+  "operating_profit": 3360231987,
+  "net_income": 2565586613,
+  "total_assets": 99576352149,
+  "total_debt": 16935327078,
+  "total_equity": 82641025071,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 75.59365308526989,
+  "net_income_yoy": -43.12690688469837,
+  "debt_ratio": 20.49263917461119,
+  "operating_margin": 25.370458307418573,
+  "net_margin": 19.37071858461174,
+  "roe": 12.417980589160448,
+  "cached_at": "2025-06-09T16:39:17.446897"
+}

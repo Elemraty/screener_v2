@@ -1,0 +1,21 @@
+{
+  "ticker": "140670",
+  "name": "알에스오토메이션",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 13109249433,
+  "operating_profit": -1106122816,
+  "net_income": -1254445533,
+  "total_assets": 61371502551,
+  "total_debt": 35790398739,
+  "total_equity": 25581103812,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -19.067867828355066,
+  "debt_ratio": 139.90951681377743,
+  "operating_margin": -8.437728045783839,
+  "net_margin": -9.569163661209894,
+  "roe": -19.615190059336598,
+  "cached_at": "2025-06-09T16:21:50.785867"
+}

@@ -1,0 +1,13 @@
+{
+  "ticker": "357780",
+  "name": "솔브레인",
+  "market": "KOSDAQ",
+  "bps": 130226,
+  "per": 10.43,
+  "eps": 15296,
+  "pbr": 1.23,
+  "roe": 11.745734338764917,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:18:41.104318"
+}

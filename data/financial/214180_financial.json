@@ -1,0 +1,23 @@
+{
+  "ticker": "214180",
+  "name": "헥토이노베이션",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 89560243663,
+  "operating_profit": 11729139936,
+  "net_income": 9504190899,
+  "total_assets": 679490149397,
+  "total_debt": 376237351199,
+  "total_equity": 303252798198,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 21.316810078694015,
+  "operating_profit_yoy": 19.185046514778502,
+  "net_income_yoy": 20.86636001485356,
+  "debt_ratio": 124.06723150938474,
+  "operating_margin": 13.096368942602215,
+  "net_margin": 10.612064583882395,
+  "roe": 12.536327388207008,
+  "cached_at": "2025-06-09T16:41:30.527847"
+}

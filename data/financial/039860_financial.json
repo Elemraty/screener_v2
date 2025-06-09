@@ -1,0 +1,22 @@
+{
+  "ticker": "039860",
+  "name": "나노엔텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 7963678289,
+  "operating_profit": 81640286,
+  "net_income": 373763051,
+  "total_assets": 79374107049,
+  "total_debt": 5118954667,
+  "total_equity": 74255152382,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 20.92488851920504,
+  "net_income_yoy": -33.51179839392066,
+  "debt_ratio": 6.893736667141866,
+  "operating_margin": 1.0251580116284629,
+  "net_margin": 4.6933469363807445,
+  "roe": 2.0133986074243273,
+  "cached_at": "2025-06-09T16:09:33.754132"
+}

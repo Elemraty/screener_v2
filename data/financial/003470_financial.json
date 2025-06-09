@@ -1,0 +1,23 @@
+{
+  "ticker": "003470",
+  "name": "유안타증권",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 763714664000,
+  "operating_profit": 12908400000,
+  "net_income": 9148940000,
+  "total_assets": 17317836513000,
+  "total_debt": 15726402992000,
+  "total_equity": 1591433521000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 2.427484091625254,
+  "operating_profit_yoy": -69.24258031219195,
+  "net_income_yoy": -73.20231820067194,
+  "debt_ratio": 988.1910104619443,
+  "operating_margin": 1.6902124063444723,
+  "net_margin": 1.197952642690124,
+  "roe": 2.2995468875762106,
+  "cached_at": "2025-06-09T16:02:45.122483"
+}

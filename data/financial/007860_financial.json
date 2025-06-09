@@ -1,0 +1,23 @@
+{
+  "ticker": "007860",
+  "name": "서연",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1166473876699,
+  "operating_profit": 53623426434,
+  "net_income": 25241289893,
+  "total_assets": 3611168600738,
+  "total_debt": 2052086741060,
+  "total_equity": 1559081859678,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 11.440726672050872,
+  "operating_profit_yoy": -12.228360164780295,
+  "net_income_yoy": -61.82294322709376,
+  "debt_ratio": 131.621487885429,
+  "operating_margin": 4.5970533507144395,
+  "net_margin": 2.163896714466528,
+  "roe": 6.475937035971448,
+  "cached_at": "2025-06-09T16:01:14.908036"
+}

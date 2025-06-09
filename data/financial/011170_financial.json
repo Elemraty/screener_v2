@@ -1,0 +1,21 @@
+{
+  "ticker": "011170",
+  "name": "롯데케미칼",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 4901760589377,
+  "operating_profit": -126600377008,
+  "net_income": -246315163684,
+  "total_assets": 34763064430748,
+  "total_debt": 14497164712256,
+  "total_equity": 20265899718492,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -3.62483799926554,
+  "debt_ratio": 71.53476980362136,
+  "operating_margin": -2.582753170001119,
+  "net_margin": -5.025034560394675,
+  "roe": -4.86166747305564,
+  "cached_at": "2025-06-09T15:59:58.608056"
+}

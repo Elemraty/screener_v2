@@ -1,0 +1,13 @@
+{
+  "ticker": "315640",
+  "name": "딥노이드",
+  "market": "KOSDAQ",
+  "bps": 846,
+  "per": 0.0,
+  "eps": 0,
+  "pbr": 7.29,
+  "roe": 0.0,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:13:01.646643"
+}

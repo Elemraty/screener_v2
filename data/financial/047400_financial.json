@@ -1,0 +1,21 @@
+{
+  "ticker": "047400",
+  "name": "유니온머티리얼",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 27524216456,
+  "operating_profit": 1362615401,
+  "net_income": 317501691,
+  "total_assets": 134378460556,
+  "total_debt": 118720614061,
+  "total_equity": 15657846495,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -2.400145204463988,
+  "debt_ratio": 758.2180225033558,
+  "operating_margin": 4.950605599175789,
+  "net_margin": 1.1535358018549076,
+  "roe": 8.110992558303273,
+  "cached_at": "2025-06-09T16:02:42.721952"
+}

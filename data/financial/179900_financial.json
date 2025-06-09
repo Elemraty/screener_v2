@@ -1,0 +1,21 @@
+{
+  "ticker": "179900",
+  "name": "유티아이",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 4706087991,
+  "operating_profit": -9674493225,
+  "net_income": -11007232674,
+  "total_assets": 158455715502,
+  "total_debt": 95019598803,
+  "total_equity": 63436116699,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -15.383976581405278,
+  "debt_ratio": 149.7878554796496,
+  "operating_margin": -205.57399784070464,
+  "net_margin": -233.89347362502386,
+  "roe": -69.40672441365578,
+  "cached_at": "2025-06-09T16:31:48.088399"
+}

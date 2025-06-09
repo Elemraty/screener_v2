@@ -1,0 +1,22 @@
+{
+  "ticker": "282880",
+  "name": "코윈테크",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 26385336663,
+  "operating_profit": -2534758232,
+  "net_income": 239906066,
+  "total_assets": 438180402938,
+  "total_debt": 159530716568,
+  "total_equity": 278649686370,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -50.63510077450021,
+  "net_income_yoy": -91.57329582967103,
+  "debt_ratio": 57.2513533556144,
+  "operating_margin": -9.606692779306002,
+  "net_margin": 0.9092401172065347,
+  "roe": 0.3443837588698306,
+  "cached_at": "2025-06-09T16:36:23.330864"
+}

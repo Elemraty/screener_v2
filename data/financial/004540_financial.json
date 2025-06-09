@@ -1,0 +1,22 @@
+{
+  "ticker": "004540",
+  "name": "깨끗한나라",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 130758852863,
+  "operating_profit": -3862701866,
+  "net_income": -8316214579,
+  "total_assets": 616117989572,
+  "total_debt": 434396970052,
+  "total_equity": 181721019520,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -1.5213136652713843,
+  "operating_profit_yoy": -1954.635671793782,
+  "debt_ratio": 239.04607799330049,
+  "operating_margin": -2.9540652746832134,
+  "net_margin": -6.359962937051114,
+  "roe": -18.305454373889262,
+  "cached_at": "2025-06-09T15:58:22.671629"
+}

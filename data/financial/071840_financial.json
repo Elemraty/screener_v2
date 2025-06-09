@@ -1,0 +1,21 @@
+{
+  "ticker": "071840",
+  "name": "롯데하이마트",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 529015899371,
+  "operating_profit": -11064460376,
+  "net_income": -13796361890,
+  "total_assets": 1938305639534,
+  "total_debt": 1024588441183,
+  "total_equity": 913717198351,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 0.7490068548497542,
+  "debt_ratio": 112.13408733381523,
+  "operating_margin": -2.091517549690973,
+  "net_margin": -2.6079295360316914,
+  "roe": -6.039663876262158,
+  "cached_at": "2025-06-09T15:59:59.654857"
+}

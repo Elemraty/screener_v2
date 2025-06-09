@@ -1,0 +1,23 @@
+{
+  "ticker": "040420",
+  "name": "정상제이엘에스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 26807434900,
+  "operating_profit": 2980310578,
+  "net_income": 2613634886,
+  "total_assets": 106815800336,
+  "total_debt": 27301384486,
+  "total_equity": 79514415850,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -5.3219713547582925,
+  "operating_profit_yoy": -20.367041030362,
+  "net_income_yoy": -15.715712138359406,
+  "debt_ratio": 34.335138093075734,
+  "operating_margin": 11.117477629312456,
+  "net_margin": 9.749664209759958,
+  "roe": 13.147980064045203,
+  "cached_at": "2025-06-09T16:33:33.463469"
+}

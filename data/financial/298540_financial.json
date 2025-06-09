@@ -1,0 +1,23 @@
+{
+  "ticker": "298540",
+  "name": "더네이쳐홀딩스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 128794286310,
+  "operating_profit": 9510458387,
+  "net_income": 8557381578,
+  "total_assets": 690552068730,
+  "total_debt": 291066515397,
+  "total_equity": 399485553333,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 1.2456197712274575,
+  "operating_profit_yoy": 35.16513090983546,
+  "net_income_yoy": 10.375635106855864,
+  "debt_ratio": 72.86033574144672,
+  "operating_margin": 7.384223834362423,
+  "net_margin": 6.644224540677918,
+  "roe": 8.568401542037046,
+  "cached_at": "2025-06-09T16:11:35.149520"
+}

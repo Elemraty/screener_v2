@@ -1,0 +1,23 @@
+{
+  "ticker": "033050",
+  "name": "제이엠아이",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 19831138542,
+  "operating_profit": 984548322,
+  "net_income": 493581636,
+  "total_assets": 88746275097,
+  "total_debt": 32250256819,
+  "total_equity": 56496018278,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 11.440336790968498,
+  "operating_profit_yoy": 137.1917317425675,
+  "net_income_yoy": -3.1601876201479584,
+  "debt_ratio": 57.08412345150792,
+  "operating_margin": 4.964658584351288,
+  "net_margin": 2.488922332697402,
+  "roe": 3.4946295405897985,
+  "cached_at": "2025-06-09T16:34:00.715873"
+}

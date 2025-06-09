@@ -1,0 +1,23 @@
+{
+  "ticker": "259960",
+  "name": "크래프톤",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 874184373846,
+  "operating_profit": 457276029726,
+  "net_income": 371459825860,
+  "total_assets": 8347149116191,
+  "total_debt": 1153098891019,
+  "total_equity": 7194050225172,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 31.276902161757846,
+  "operating_profit_yoy": 47.270460529691086,
+  "net_income_yoy": 6.550361726369225,
+  "debt_ratio": 16.02850765462137,
+  "operating_margin": 52.30887709811153,
+  "net_margin": 42.49216034664993,
+  "roe": 20.653724354620774,
+  "cached_at": "2025-06-09T16:04:15.816543"
+}

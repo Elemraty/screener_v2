@@ -1,0 +1,21 @@
+{
+  "ticker": "180400",
+  "name": "DXVX",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 7528984806,
+  "operating_profit": -6683691298,
+  "net_income": -7474620214,
+  "total_assets": 71435661868,
+  "total_debt": 63478466097,
+  "total_equity": 7957195771,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -27.12613395935246,
+  "debt_ratio": 797.7492061757141,
+  "operating_margin": -88.77280895391941,
+  "net_margin": -99.27792931715474,
+  "roe": -375.74142595517145,
+  "cached_at": "2025-06-09T16:06:31.559696"
+}

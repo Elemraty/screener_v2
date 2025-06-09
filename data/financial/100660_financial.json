@@ -1,0 +1,21 @@
+{
+  "ticker": "100660",
+  "name": "서암기계공업",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 9777003175,
+  "operating_profit": -766066694,
+  "net_income": -420338934,
+  "total_assets": 73974917738,
+  "total_debt": 8957775393,
+  "total_equity": 65017142345,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -6.483566053547419,
+  "debt_ratio": 13.777559378828771,
+  "operating_margin": -7.835393732497177,
+  "net_margin": -4.299261506581233,
+  "roe": -2.5860191256610974,
+  "cached_at": "2025-06-09T16:17:20.809304"
+}

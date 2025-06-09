@@ -1,0 +1,22 @@
+{
+  "ticker": "290520",
+  "name": "신도기연",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 636071641,
+  "operating_profit": -1122009923,
+  "net_income": -975479614,
+  "total_assets": 69751343126,
+  "total_debt": 13297115063,
+  "total_equity": 56454228063,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -67.73956517341881,
+  "net_income_yoy": -248.07913305368342,
+  "debt_ratio": 23.55379839426926,
+  "operating_margin": -176.3967846823091,
+  "net_margin": -153.36002285314902,
+  "roe": -6.911649649421582,
+  "cached_at": "2025-06-09T16:19:22.215020"
+}

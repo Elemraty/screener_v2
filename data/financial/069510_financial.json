@@ -1,0 +1,23 @@
+{
+  "ticker": "069510",
+  "name": "에스텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 119358004396,
+  "operating_profit": 12033466237,
+  "net_income": 10755533903,
+  "total_assets": 383604570297,
+  "total_debt": 176650793213,
+  "total_equity": 206953777084,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 17.91997222380861,
+  "operating_profit_yoy": 38.42530615109085,
+  "net_income_yoy": 18.06615206602522,
+  "debt_ratio": 85.35760772382503,
+  "operating_margin": 10.08182593022917,
+  "net_margin": 9.011154264372442,
+  "roe": 20.788282397251365,
+  "cached_at": "2025-06-09T16:22:54.209912"
+}

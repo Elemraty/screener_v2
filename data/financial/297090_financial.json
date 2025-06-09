@@ -1,0 +1,21 @@
+{
+  "ticker": "297090",
+  "name": "씨에스베어링",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 28348159485,
+  "operating_profit": 1237645359,
+  "net_income": 1016910077,
+  "total_assets": 133962123031,
+  "total_debt": 39622067294,
+  "total_equity": 94340055737,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 81.22226421611809,
+  "debt_ratio": 41.999198521207035,
+  "operating_margin": 4.365875532959667,
+  "net_margin": 3.587217284910799,
+  "roe": 4.311678932371755,
+  "cached_at": "2025-06-09T16:20:21.617919"
+}

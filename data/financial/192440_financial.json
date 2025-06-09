@@ -1,0 +1,23 @@
+{
+  "ticker": "192440",
+  "name": "슈피겐코리아",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 108950133671,
+  "operating_profit": 9249814913,
+  "net_income": 8176816977,
+  "total_assets": 569478001055,
+  "total_debt": 45721021291,
+  "total_equity": 523756979764,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 0.7067214060943794,
+  "operating_profit_yoy": 19.070776216549557,
+  "net_income_yoy": -8.6520075644127,
+  "debt_ratio": 8.729434271520633,
+  "operating_margin": 8.489952789715655,
+  "net_margin": 7.505100454205757,
+  "roe": 6.244741200916805,
+  "cached_at": "2025-06-09T16:18:53.136297"
+}

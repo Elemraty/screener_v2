@@ -1,0 +1,13 @@
+{
+  "ticker": "456040",
+  "name": "OCI",
+  "market": "KOSPI",
+  "bps": 134902,
+  "per": 5.1,
+  "eps": 10850,
+  "pbr": 0.41,
+  "roe": 8.042875568931521,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T15:57:19.251466"
+}

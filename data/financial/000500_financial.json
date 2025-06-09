@@ -1,0 +1,23 @@
+{
+  "ticker": "000500",
+  "name": "가온전선",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 639297449000,
+  "operating_profit": 21884131000,
+  "net_income": 15336972000,
+  "total_assets": 1308659114000,
+  "total_debt": 877805244000,
+  "total_equity": 430853870000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 58.96489882082601,
+  "operating_profit_yoy": 71.25882278076861,
+  "net_income_yoy": 71.79155898412715,
+  "debt_ratio": 203.7361864708329,
+  "operating_margin": 3.4231531870229626,
+  "net_margin": 2.3990353823545445,
+  "roe": 14.238676328937233,
+  "cached_at": "2025-06-09T15:57:56.456433"
+}

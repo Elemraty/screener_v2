@@ -1,0 +1,23 @@
+{
+  "ticker": "230360",
+  "name": "에코마케팅",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 72904146308,
+  "operating_profit": 2381745911,
+  "net_income": 1821487775,
+  "total_assets": 413641537405,
+  "total_debt": 132376805663,
+  "total_equity": 281264731742,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 17.110897306425656,
+  "operating_profit_yoy": -52.99513632642072,
+  "net_income_yoy": -63.087767836161305,
+  "debt_ratio": 47.06484344593452,
+  "operating_margin": 3.2669553538666753,
+  "net_margin": 2.498469383764147,
+  "roe": 2.59042470589,
+  "cached_at": "2025-06-09T16:23:44.539786"
+}

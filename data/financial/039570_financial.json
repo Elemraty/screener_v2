@@ -1,0 +1,23 @@
+{
+  "ticker": "039570",
+  "name": "HDC랩스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 162554681236,
+  "operating_profit": 2968088898,
+  "net_income": 2620520328,
+  "total_assets": 437156900382,
+  "total_debt": 178276861837,
+  "total_equity": 258880038545,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 21.69270014740443,
+  "operating_profit_yoy": 2379.455695913958,
+  "net_income_yoy": 48.621630061022515,
+  "debt_ratio": 68.86466134622847,
+  "operating_margin": 1.825901829114888,
+  "net_margin": 1.612085427546364,
+  "roe": 4.049011028781172,
+  "cached_at": "2025-06-09T15:56:13.468997"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "108320",
+  "name": "LX세미콘",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 476232791196,
+  "operating_profit": 59690551374,
+  "net_income": 45357109827,
+  "total_assets": 1591730135676,
+  "total_debt": 505626258854,
+  "total_equity": 1086103876822,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 3.907999810425178,
+  "operating_profit_yoy": 29.099702255666738,
+  "net_income_yoy": 13.18203992852558,
+  "debt_ratio": 46.55413442897289,
+  "operating_margin": 12.533902007061407,
+  "net_margin": 9.524146733594554,
+  "roe": 16.704519998480226,
+  "cached_at": "2025-06-09T15:57:02.980442"
+}

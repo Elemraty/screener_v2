@@ -1,0 +1,21 @@
+{
+  "ticker": "010420",
+  "name": "한솔PNS",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 72073116225,
+  "operating_profit": 385617209,
+  "net_income": 785268228,
+  "total_assets": 120195565986,
+  "total_debt": 72765636170,
+  "total_equity": 47429929816,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 0.799677845090363,
+  "debt_ratio": 153.4171280714256,
+  "operating_margin": 0.5350361260864158,
+  "net_margin": 1.0895438814502294,
+  "roe": 6.622554416979954,
+  "cached_at": "2025-06-09T16:05:07.410479"
+}

@@ -1,0 +1,13 @@
+{
+  "ticker": "321260",
+  "name": "프로이천",
+  "market": "KOSDAQ",
+  "bps": 1473,
+  "per": 10.88,
+  "eps": 199,
+  "pbr": 1.47,
+  "roe": 13.509843856076035,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:39:07.217811"
+}

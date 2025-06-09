@@ -1,0 +1,23 @@
+{
+  "ticker": "096240",
+  "name": "크레버스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 60208872725,
+  "operating_profit": 2814565411,
+  "net_income": 1186192771,
+  "total_assets": 207732691693,
+  "total_debt": 161793372250,
+  "total_equity": 45939319443,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -1.5699802732073165,
+  "operating_profit_yoy": -44.15922241055641,
+  "net_income_yoy": -44.93665062539718,
+  "debt_ratio": 352.189310185032,
+  "operating_margin": 4.674668838022162,
+  "net_margin": 1.9701295130002783,
+  "roe": 10.328344306204091,
+  "cached_at": "2025-06-09T16:36:48.571279"
+}

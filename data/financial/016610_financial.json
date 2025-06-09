@@ -1,0 +1,23 @@
+{
+  "ticker": "016610",
+  "name": "DB증권",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 437276991167,
+  "operating_profit": 24205759946,
+  "net_income": 20561423968,
+  "total_assets": 11159429255007,
+  "total_debt": 9979793765900,
+  "total_equity": 1179635489107,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 19.64874364773617,
+  "operating_profit_yoy": -6.073537088187364,
+  "net_income_yoy": -5.787186546033773,
+  "debt_ratio": 846.0065722043373,
+  "operating_margin": 5.535566799753157,
+  "net_margin": 4.7021508982500775,
+  "roe": 6.972127969315428,
+  "cached_at": "2025-06-09T15:55:54.305620"
+}

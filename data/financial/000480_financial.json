@@ -1,0 +1,23 @@
+{
+  "ticker": "000480",
+  "name": "CR홀딩스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 203229950000,
+  "operating_profit": 6704051000,
+  "net_income": -2767032000,
+  "total_assets": 1630008108000,
+  "total_debt": 794623023000,
+  "total_equity": 835385085000,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 3.340550311064483,
+  "operating_profit_yoy": -33.786603639043456,
+  "net_income_yoy": -128.31060858911653,
+  "debt_ratio": 95.1205662236596,
+  "operating_margin": 3.298751488154182,
+  "net_margin": -1.3615276685350757,
+  "roe": -1.3249132883429442,
+  "cached_at": "2025-06-09T15:55:51.675435"
+}

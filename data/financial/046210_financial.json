@@ -1,0 +1,23 @@
+{
+  "ticker": "046210",
+  "name": "HLB파나진",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 3539185379,
+  "operating_profit": -732868763,
+  "net_income": -584265902,
+  "total_assets": 106658845933,
+  "total_debt": 28900242497,
+  "total_equity": 77758603436,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 3.870053102067139,
+  "operating_profit_yoy": -549.280339493612,
+  "net_income_yoy": -202.27837635311136,
+  "debt_ratio": 37.166617222988876,
+  "operating_margin": -20.707272564712977,
+  "net_margin": -16.508485412117206,
+  "roe": -3.005537014207751,
+  "cached_at": "2025-06-09T16:06:52.580572"
+}

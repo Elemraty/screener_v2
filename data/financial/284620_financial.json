@@ -1,0 +1,21 @@
+{
+  "ticker": "284620",
+  "name": "카이노스메드",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 368861907,
+  "operating_profit": -1689894701,
+  "net_income": -2167553087,
+  "total_assets": 13362318854,
+  "total_debt": 3879230934,
+  "total_equity": 9483087920,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 165.88553481467846,
+  "debt_ratio": 40.90683295067457,
+  "operating_margin": -458.13749507075016,
+  "net_margin": -587.6326738721763,
+  "roe": -91.4281552711788,
+  "cached_at": "2025-06-09T16:35:02.060872"
+}

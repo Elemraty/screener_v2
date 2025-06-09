@@ -1,0 +1,21 @@
+{
+  "ticker": "038950",
+  "name": "파인디지털",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 16182324184,
+  "operating_profit": -2010897975,
+  "net_income": -1218674623,
+  "total_assets": 105384275171,
+  "total_debt": 11332192458,
+  "total_equity": 94052082713,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 2.9518719674042293,
+  "debt_ratio": 12.048847969247204,
+  "operating_margin": -12.426509023890656,
+  "net_margin": -7.530899820959859,
+  "roe": -5.182977719775909,
+  "cached_at": "2025-06-09T16:38:14.447852"
+}

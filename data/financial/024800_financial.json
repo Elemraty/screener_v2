@@ -1,0 +1,23 @@
+{
+  "ticker": "024800",
+  "name": "유성티엔에스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 22796603611,
+  "operating_profit": 286977441,
+  "net_income": 11025020949,
+  "total_assets": 623294886724,
+  "total_debt": 116819748655,
+  "total_equity": 506475138069,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -56.234152680983044,
+  "operating_profit_yoy": -56.79502840484232,
+  "net_income_yoy": -65.20553488102716,
+  "debt_ratio": 23.065248395092,
+  "operating_margin": 1.2588605122805459,
+  "net_margin": 48.3625593405507,
+  "roe": 8.707255397399583,
+  "cached_at": "2025-06-09T16:31:22.376200"
+}

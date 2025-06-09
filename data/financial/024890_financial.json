@@ -1,0 +1,21 @@
+{
+  "ticker": "024890",
+  "name": "대원화성",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 35323870728,
+  "operating_profit": 399954332,
+  "net_income": -745204406,
+  "total_assets": 150238168928,
+  "total_debt": 109638988021,
+  "total_equity": 40599180907,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 37.989202376026476,
+  "debt_ratio": 270.05221674828505,
+  "operating_margin": 1.132249449896696,
+  "net_margin": -2.109634053805158,
+  "roe": -7.342063454009377,
+  "cached_at": "2025-06-09T15:59:00.405307"
+}

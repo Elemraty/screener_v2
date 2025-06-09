@@ -1,0 +1,21 @@
+{
+  "ticker": "049470",
+  "name": "SGA",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 3994289609,
+  "operating_profit": -1055340463,
+  "net_income": -1255548331,
+  "total_assets": 38424598083,
+  "total_debt": 3436290180,
+  "total_equity": 34988307903,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -19.41792660146803,
+  "debt_ratio": 9.821252829735624,
+  "operating_margin": -26.42123046416287,
+  "net_margin": -31.433582787061248,
+  "roe": -14.353918851758426,
+  "cached_at": "2025-06-09T16:08:08.594169"
+}

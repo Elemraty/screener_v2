@@ -1,0 +1,13 @@
+{
+  "ticker": "475960",
+  "name": "토모큐브",
+  "market": "KOSDAQ",
+  "bps": 3218,
+  "per": 0.0,
+  "eps": 0,
+  "pbr": 7.92,
+  "roe": 0.0,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:37:24.972853"
+}

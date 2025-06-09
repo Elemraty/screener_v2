@@ -1,0 +1,23 @@
+{
+  "ticker": "000120",
+  "name": "CJ대한통운",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 2992585545195,
+  "operating_profit": 85366748157,
+  "net_income": 40977283248,
+  "total_assets": 9917468022880,
+  "total_debt": 5655838404778,
+  "total_equity": 4261629618102,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 2.4357849320707725,
+  "operating_profit_yoy": -21.943502430532867,
+  "net_income_yoy": -26.079935327591418,
+  "debt_ratio": 132.71539086254376,
+  "operating_margin": 2.852608450711387,
+  "net_margin": 1.3692936301785779,
+  "roe": 3.8461609215349912,
+  "cached_at": "2025-06-09T15:55:46.955767"
+}

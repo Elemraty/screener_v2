@@ -1,0 +1,21 @@
+{
+  "ticker": "133820",
+  "name": "화인베스틸",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 36645729828,
+  "operating_profit": -5451728336,
+  "net_income": -6587313394,
+  "total_assets": 155882173502,
+  "total_debt": 128940976957,
+  "total_equity": 26941196545,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 30.10065221273028,
+  "debt_ratio": 478.6015229191076,
+  "operating_margin": -14.876844755413995,
+  "net_margin": -17.97566435412296,
+  "roe": -97.80283341160711,
+  "cached_at": "2025-06-09T16:05:56.935509"
+}

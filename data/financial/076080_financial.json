@@ -1,0 +1,23 @@
+{
+  "ticker": "076080",
+  "name": "웰크론한텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 56904180550,
+  "operating_profit": 945222386,
+  "net_income": -16945754,
+  "total_assets": 147305091895,
+  "total_debt": 90054988230,
+  "total_equity": 57250103665,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -33.75503103612473,
+  "operating_profit_yoy": -58.729088088773636,
+  "net_income_yoy": -101.54218128488411,
+  "debt_ratio": 157.30100465312407,
+  "operating_margin": 1.6610772299400067,
+  "net_margin": -0.029779453523823746,
+  "roe": -0.1183980668343127,
+  "cached_at": "2025-06-09T16:30:40.411518"
+}

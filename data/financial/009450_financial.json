@@ -1,0 +1,23 @@
+{
+  "ticker": "009450",
+  "name": "경동나비엔",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 365181408834,
+  "operating_profit": 39449968348,
+  "net_income": 37705886834,
+  "total_assets": 1368930707408,
+  "total_debt": 647504893617,
+  "total_equity": 721425813791,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 12.973922770762968,
+  "operating_profit_yoy": 21.23328936918527,
+  "net_income_yoy": 20.09758896916052,
+  "debt_ratio": 89.753496650535,
+  "operating_margin": 10.802841380660952,
+  "net_margin": 10.32524819770875,
+  "roe": 20.906314197913385,
+  "cached_at": "2025-06-09T15:57:59.638534"
+}

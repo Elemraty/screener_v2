@@ -1,0 +1,21 @@
+{
+  "ticker": "001360",
+  "name": "삼성제약",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 11357116231,
+  "operating_profit": -4495504588,
+  "net_income": 37248133803,
+  "total_assets": 164336289290,
+  "total_debt": 21232810720,
+  "total_equity": 143103478570,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -6.674972071986451,
+  "debt_ratio": 14.837382663352821,
+  "operating_margin": -39.583152065743796,
+  "net_margin": 327.9717583705691,
+  "roe": 104.11524352926148,
+  "cached_at": "2025-06-09T16:00:52.625157"
+}

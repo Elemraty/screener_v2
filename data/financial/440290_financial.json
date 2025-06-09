@@ -1,0 +1,13 @@
+{
+  "ticker": "440290",
+  "name": "HB인베스트먼트",
+  "market": "KOSDAQ",
+  "bps": 3222,
+  "per": 8.58,
+  "eps": 226,
+  "pbr": 0.6,
+  "roe": 7.014276846679081,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:06:42.093260"
+}

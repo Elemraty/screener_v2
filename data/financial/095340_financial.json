@@ -1,0 +1,23 @@
+{
+  "ticker": "095340",
+  "name": "ISC",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 31683386670,
+  "operating_profit": 6991603462,
+  "net_income": 6834426727,
+  "total_assets": 584018163112,
+  "total_debt": 70959076711,
+  "total_equity": 513059086401,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -9.663456682052097,
+  "operating_profit_yoy": -18.301303076662112,
+  "net_income_yoy": -56.750909431354614,
+  "debt_ratio": 13.830585714554397,
+  "operating_margin": 22.067096345543543,
+  "net_margin": 21.57101069460893,
+  "roe": 5.328373989001575,
+  "cached_at": "2025-06-09T16:07:04.092944"
+}

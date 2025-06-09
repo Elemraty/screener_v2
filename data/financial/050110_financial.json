@@ -1,0 +1,23 @@
+{
+  "ticker": "050110",
+  "name": "캠시스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 161196614998,
+  "operating_profit": 3600620115,
+  "net_income": 1627986618,
+  "total_assets": 279836113798,
+  "total_debt": 202421036783,
+  "total_equity": 77415077015,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 39.97841251199825,
+  "operating_profit_yoy": 53.59941189849904,
+  "net_income_yoy": -24.870332315340892,
+  "debt_ratio": 261.47495370156224,
+  "operating_margin": 2.2336822116548003,
+  "net_margin": 1.0099384642910765,
+  "roe": 8.41172898496018,
+  "cached_at": "2025-06-09T16:35:10.227603"
+}

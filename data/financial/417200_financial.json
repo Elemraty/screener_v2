@@ -1,0 +1,13 @@
+{
+  "ticker": "417200",
+  "name": "LS머트리얼즈",
+  "market": "KOSDAQ",
+  "bps": 2728,
+  "per": 121.67,
+  "eps": 84,
+  "pbr": 3.75,
+  "roe": 3.0791788856304985,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:07:40.800188"
+}

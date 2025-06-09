@@ -1,0 +1,23 @@
+{
+  "ticker": "100120",
+  "name": "뷰웍스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 54397083215,
+  "operating_profit": 2058977794,
+  "net_income": 2122167526,
+  "total_assets": 345673847162,
+  "total_debt": 113303490879,
+  "total_equity": 232370356283,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -10.160090037405823,
+  "operating_profit_yoy": -71.08531345194329,
+  "net_income_yoy": -73.68578690570348,
+  "debt_ratio": 48.759873114369874,
+  "operating_margin": 3.7850885972361046,
+  "net_margin": 3.901252421223225,
+  "roe": 3.6530778881544554,
+  "cached_at": "2025-06-09T16:15:42.311304"
+}

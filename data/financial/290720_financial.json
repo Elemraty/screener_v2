@@ -1,0 +1,21 @@
+{
+  "ticker": "290720",
+  "name": "푸드나무",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 23418101243,
+  "operating_profit": -2134708773,
+  "net_income": -2890442075,
+  "total_assets": 85787026212,
+  "total_debt": 81523927986,
+  "total_equity": 4263098226,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -48.662505179536616,
+  "debt_ratio": 1912.3164342964874,
+  "operating_margin": -9.115635596793291,
+  "net_margin": -12.342768719833739,
+  "roe": -271.2057683655164,
+  "cached_at": "2025-06-09T16:38:52.536058"
+}

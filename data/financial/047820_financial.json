@@ -1,0 +1,22 @@
+{
+  "ticker": "047820",
+  "name": "초록뱀미디어",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 50363951208,
+  "operating_profit": 2383961838,
+  "net_income": 1300131030,
+  "total_assets": 423282111502,
+  "total_debt": 136182684831,
+  "total_equity": 287099426671,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 10.013561796043025,
+  "net_income_yoy": -95.33843047100288,
+  "debt_ratio": 47.43398007097304,
+  "operating_margin": 4.733468643384204,
+  "net_margin": 2.581471466824633,
+  "roe": 1.811401778227691,
+  "cached_at": "2025-06-09T16:34:57.864739"
+}

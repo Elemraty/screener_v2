@@ -1,0 +1,21 @@
+{
+  "ticker": "020710",
+  "name": "시공테크",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 50461769725,
+  "operating_profit": 3339108255,
+  "net_income": 1771933329,
+  "total_assets": 216471880454,
+  "total_debt": 61579096238,
+  "total_equity": 154892784216,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 85.31919519727089,
+  "debt_ratio": 39.755948961526286,
+  "operating_margin": 6.6171049354730105,
+  "net_margin": 3.511437150651775,
+  "roe": 4.575896386571542,
+  "cached_at": "2025-06-09T16:19:10.391138"
+}

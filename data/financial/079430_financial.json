@@ -1,0 +1,23 @@
+{
+  "ticker": "079430",
+  "name": "현대리바트",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 437760415531,
+  "operating_profit": 9511744672,
+  "net_income": 6556415263,
+  "total_assets": 843710098852,
+  "total_debt": 428128212084,
+  "total_equity": 415581886768,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -13.278265604839913,
+  "operating_profit_yoy": 39.903344941391026,
+  "net_income_yoy": 39.96890524698116,
+  "debt_ratio": 103.01897789953584,
+  "operating_margin": 2.1728197284494826,
+  "net_margin": 1.4977177082233712,
+  "roe": 6.310588090342003,
+  "cached_at": "2025-06-09T16:05:38.728399"
+}

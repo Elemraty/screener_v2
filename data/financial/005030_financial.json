@@ -1,0 +1,23 @@
+{
+  "ticker": "005030",
+  "name": "부산주공",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 54873703907,
+  "operating_profit": 249884626,
+  "net_income": -1606572413,
+  "total_assets": 236706906928,
+  "total_debt": 217745246086,
+  "total_equity": 18961660842,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -1.4124630439167785,
+  "operating_profit_yoy": -73.48169227618529,
+  "net_income_yoy": -1438.6786628088685,
+  "debt_ratio": 1148.3447990151537,
+  "operating_margin": 0.45538137251224137,
+  "net_margin": -2.9277637531499976,
+  "roe": -33.890964011790544,
+  "cached_at": "2025-06-09T16:00:35.060502"
+}

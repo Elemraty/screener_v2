@@ -1,0 +1,22 @@
+{
+  "ticker": "065450",
+  "name": "빅텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 14973628885,
+  "operating_profit": 77684058,
+  "net_income": -471765659,
+  "total_assets": 112492365116,
+  "total_debt": 55602286643,
+  "total_equity": 56890078473,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -9.08087463331848,
+  "net_income_yoy": -129.71501009885975,
+  "debt_ratio": 97.73635075822371,
+  "operating_margin": 0.5188058191947102,
+  "net_margin": -3.150643458731614,
+  "roe": -3.3170329285019333,
+  "cached_at": "2025-06-09T16:16:24.143601"
+}

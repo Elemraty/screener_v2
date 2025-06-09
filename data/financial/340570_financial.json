@@ -1,0 +1,13 @@
+{
+  "ticker": "340570",
+  "name": "티앤엘",
+  "market": "KOSDAQ",
+  "bps": 21238,
+  "per": 10.89,
+  "eps": 5749,
+  "pbr": 2.95,
+  "roe": 27.06940389867219,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:37:44.040740"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "003230",
+  "name": "삼양식품",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 529013206877,
+  "operating_profit": 133988454361,
+  "net_income": 98959454226,
+  "total_assets": 1685561218860,
+  "total_debt": 770426366923,
+  "total_equity": 915134851937,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 37.13931116518281,
+  "operating_profit_yoy": 67.2353220157218,
+  "net_income_yoy": 48.85620813972349,
+  "debt_ratio": 84.18719550373304,
+  "operating_margin": 25.32799798175047,
+  "net_margin": 18.706424138293563,
+  "roe": 43.25458877084166,
+  "cached_at": "2025-06-09T16:00:59.964260"
+}

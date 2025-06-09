@@ -1,0 +1,13 @@
+{
+  "ticker": "457550",
+  "name": "우진엔텍",
+  "market": "KOSDAQ",
+  "bps": 5115,
+  "per": 33.39,
+  "eps": 590,
+  "pbr": 3.85,
+  "roe": 11.534701857282501,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:30:18.024664"
+}

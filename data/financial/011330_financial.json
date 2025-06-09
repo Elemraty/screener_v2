@@ -1,0 +1,22 @@
+{
+  "ticker": "011330",
+  "name": "유니켐",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 21659397943,
+  "operating_profit": 1193930598,
+  "net_income": 1091470314,
+  "total_assets": 189184738014,
+  "total_debt": 67388485515,
+  "total_equity": 121796252499,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 33.02244102175613,
+  "operating_profit_yoy": 2655.592413297711,
+  "debt_ratio": 55.32886614516591,
+  "operating_margin": 5.512298177179301,
+  "net_margin": 5.0392458593372265,
+  "roe": 3.5845776585251223,
+  "cached_at": "2025-06-09T16:02:43.050494"
+}

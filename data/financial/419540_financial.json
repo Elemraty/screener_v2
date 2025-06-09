@@ -1,0 +1,13 @@
+{
+  "ticker": "419540",
+  "name": "비스토스",
+  "market": "KOSDAQ",
+  "bps": 848,
+  "per": 42.38,
+  "eps": 37,
+  "pbr": 1.85,
+  "roe": 4.363207547169811,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:16:00.138423"
+}

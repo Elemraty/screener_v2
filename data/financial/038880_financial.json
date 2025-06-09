@@ -1,0 +1,21 @@
+{
+  "ticker": "038880",
+  "name": "아이에이",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 13299932163,
+  "operating_profit": -1693216001,
+  "net_income": -5723157621,
+  "total_assets": 170955784575,
+  "total_debt": 76717283415,
+  "total_equity": 94238501160,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 5.151987083778753,
+  "debt_ratio": 81.4075802041332,
+  "operating_margin": -12.731012310803166,
+  "net_margin": -43.03147979146576,
+  "roe": -24.292226852305767,
+  "cached_at": "2025-06-09T16:21:13.476602"
+}

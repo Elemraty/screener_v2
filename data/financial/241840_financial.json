@@ -1,0 +1,23 @@
+{
+  "ticker": "241840",
+  "name": "에이스토리",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1261742951,
+  "operating_profit": -644799766,
+  "net_income": -1030249939,
+  "total_assets": 67348988825,
+  "total_debt": 12409567661,
+  "total_equity": 54939421164,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -89.16275624589997,
+  "operating_profit_yoy": -136.7990402149377,
+  "net_income_yoy": -168.44265759675034,
+  "debt_ratio": 22.587729171656402,
+  "operating_margin": -51.10389287207517,
+  "net_margin": -81.65291814655836,
+  "roe": -7.500988668406933,
+  "cached_at": "2025-06-09T16:23:15.565239"
+}

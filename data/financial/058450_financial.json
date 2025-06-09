@@ -1,0 +1,21 @@
+{
+  "ticker": "058450",
+  "name": "한주에이알티",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1381563260,
+  "operating_profit": -2697744859,
+  "net_income": -3202767156,
+  "total_assets": 34009328616,
+  "total_debt": 16835603348,
+  "total_equity": 17173725268,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -48.16405215147343,
+  "debt_ratio": 98.03116729350488,
+  "operating_margin": -195.2675593732856,
+  "net_margin": -231.82196926690133,
+  "roe": -74.59691141019363,
+  "cached_at": "2025-06-09T16:41:15.415581"
+}

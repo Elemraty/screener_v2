@@ -1,0 +1,22 @@
+{
+  "ticker": "012700",
+  "name": "리드코프",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 82872027216,
+  "operating_profit": 3634044651,
+  "net_income": -4399951200,
+  "total_assets": 897390627147,
+  "total_debt": 485821074296,
+  "total_equity": 411569552851,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -29.204536416007176,
+  "operating_profit_yoy": -5.519063201417518,
+  "debt_ratio": 118.04106278772306,
+  "operating_margin": 4.38512821887188,
+  "net_margin": -5.309332168901628,
+  "roe": -4.276265014766929,
+  "cached_at": "2025-06-09T16:13:40.199154"
+}

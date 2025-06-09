@@ -1,0 +1,23 @@
+{
+  "ticker": "045520",
+  "name": "크린앤사이언스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 26343532367,
+  "operating_profit": 1132437812,
+  "net_income": 1033278296,
+  "total_assets": 83457551270,
+  "total_debt": 62860081990,
+  "total_equity": 20597469280,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 9.618922416435161,
+  "operating_profit_yoy": -15.022858144183504,
+  "net_income_yoy": -25.168390265379347,
+  "debt_ratio": 305.18352102137476,
+  "operating_margin": 4.298731833771015,
+  "net_margin": 3.922322494967936,
+  "roe": 20.066121365760328,
+  "cached_at": "2025-06-09T16:36:52.726117"
+}

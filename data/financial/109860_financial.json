@@ -1,0 +1,23 @@
+{
+  "ticker": "109860",
+  "name": "동일금속",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 21822404202,
+  "operating_profit": 180994025,
+  "net_income": 1799771740,
+  "total_assets": 180215399784,
+  "total_debt": 26738957751,
+  "total_equity": 153476442033,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -18.434695879023145,
+  "operating_profit_yoy": -85.04094026893665,
+  "net_income_yoy": -29.793263363348498,
+  "debt_ratio": 17.422190270250518,
+  "operating_margin": 0.8293954383972602,
+  "net_margin": 8.247357730799674,
+  "roe": 4.6906788199143135,
+  "cached_at": "2025-06-09T16:12:14.972354"
+}

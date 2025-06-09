@@ -1,0 +1,23 @@
+{
+  "ticker": "036560",
+  "name": "KZ정밀",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 21714968909,
+  "operating_profit": 1908747803,
+  "net_income": 2648476399,
+  "total_assets": 515794878317,
+  "total_debt": 116688710540,
+  "total_equity": 399106167777,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -31.80386069507264,
+  "operating_profit_yoy": -73.58862475205976,
+  "net_income_yoy": -69.6768883544865,
+  "debt_ratio": 29.237511209097537,
+  "operating_margin": 8.790009375555215,
+  "net_margin": 12.19654704595184,
+  "roe": 2.654407887256538,
+  "cached_at": "2025-06-09T16:07:36.642482"
+}

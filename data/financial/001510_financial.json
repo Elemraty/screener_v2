@@ -1,0 +1,18 @@
+{
+  "ticker": "001510",
+  "name": "SK증권",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 0,
+  "operating_profit": 534918763,
+  "net_income": 2662165497,
+  "total_assets": 6752272315580,
+  "total_debt": 6193478737964,
+  "total_equity": 558793577616,
+  "data_source": "f_data_financial",
+  "debt_ratio": 1108.3661276830433,
+  "roe": 1.9056521790087044,
+  "cached_at": "2025-06-09T15:57:43.315296"
+}

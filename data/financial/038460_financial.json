@@ -1,0 +1,23 @@
+{
+  "ticker": "038460",
+  "name": "바이오스마트",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 112287543299,
+  "operating_profit": 5616783187,
+  "net_income": 2835159278,
+  "total_assets": 266997174919,
+  "total_debt": 107849804173,
+  "total_equity": 159147370746,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -5.398543281631818,
+  "operating_profit_yoy": 29.724021998870032,
+  "net_income_yoy": -41.833834625397074,
+  "debt_ratio": 67.76725475730845,
+  "operating_margin": 5.002142732826199,
+  "net_margin": 2.524909882880347,
+  "roe": 7.12587148555518,
+  "cached_at": "2025-06-09T16:15:10.290120"
+}

@@ -1,0 +1,13 @@
+{
+  "ticker": "391710",
+  "name": "코닉오토메이션",
+  "market": "KOSDAQ",
+  "bps": 621,
+  "per": 65.44,
+  "eps": 25,
+  "pbr": 2.63,
+  "roe": 4.025764895330113,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:35:53.967904"
+}

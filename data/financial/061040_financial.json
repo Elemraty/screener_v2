@@ -1,0 +1,23 @@
+{
+  "ticker": "061040",
+  "name": "알에프텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 65112824696,
+  "operating_profit": -5520925736,
+  "net_income": -8325493941,
+  "total_assets": 437008583741,
+  "total_debt": 223747718785,
+  "total_equity": 213260864956,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -14.17742683794515,
+  "operating_profit_yoy": -359.4722514101622,
+  "net_income_yoy": -364.9023526819632,
+  "debt_ratio": 104.91738314536221,
+  "operating_margin": -8.479014329014605,
+  "net_margin": -12.786258283019091,
+  "roe": -15.61560569065068,
+  "cached_at": "2025-06-09T16:21:52.846121"
+}

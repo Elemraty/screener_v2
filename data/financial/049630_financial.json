@@ -1,0 +1,23 @@
+{
+  "ticker": "049630",
+  "name": "재영솔루텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 38410886563,
+  "operating_profit": 1379539444,
+  "net_income": -512272132,
+  "total_assets": 205265475042,
+  "total_debt": 134115639726,
+  "total_equity": 71149835316,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 4.623968299360959,
+  "operating_profit_yoy": -60.46875370348581,
+  "net_income_yoy": -116.42691350501147,
+  "debt_ratio": 188.49747034599307,
+  "operating_margin": 3.5915324207300827,
+  "net_margin": -1.3336639110367623,
+  "roe": -2.8799624326596382,
+  "cached_at": "2025-06-09T16:33:29.284605"
+}

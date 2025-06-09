@@ -1,0 +1,23 @@
+{
+  "ticker": "001440",
+  "name": "대한전선",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 855455851533,
+  "operating_profit": 27104884981,
+  "net_income": 29378883685,
+  "total_assets": 2802824118105,
+  "total_debt": 1270288209846,
+  "total_equity": 1532535908259,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 8.487656051900938,
+  "operating_profit_yoy": -5.778501677500881,
+  "net_income_yoy": 39.538195021488896,
+  "debt_ratio": 82.88798996488637,
+  "operating_margin": 3.16847268417503,
+  "net_margin": 3.434295718750681,
+  "roe": 7.6680444553824945,
+  "cached_at": "2025-06-09T15:59:03.569208"
+}

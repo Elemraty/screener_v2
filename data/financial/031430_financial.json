@@ -1,0 +1,23 @@
+{
+  "ticker": "031430",
+  "name": "신세계인터내셔날",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 304191517894,
+  "operating_profit": 4667581972,
+  "net_income": 4508594997,
+  "total_assets": 1347720978962,
+  "total_debt": 510167464270,
+  "total_equity": 837553514692,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -1.699088677931393,
+  "operating_profit_yoy": -58.27941048990852,
+  "net_income_yoy": -64.2016074496059,
+  "debt_ratio": 60.91162598220458,
+  "operating_margin": 1.5344221312661608,
+  "net_margin": 1.4821567110793294,
+  "roe": 2.153221217707136,
+  "cached_at": "2025-06-09T16:01:42.745084"
+}

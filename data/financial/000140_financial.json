@@ -1,0 +1,23 @@
+{
+  "ticker": "000140",
+  "name": "하이트진로홀딩스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 609642955128,
+  "operating_profit": 64607746227,
+  "net_income": 32149100182,
+  "total_assets": 4125537077376,
+  "total_debt": 2966471533105,
+  "total_equity": 1159065544271,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -1.4109403444355073,
+  "operating_profit_yoy": 25.711203049479114,
+  "net_income_yoy": 39.885941472351426,
+  "debt_ratio": 255.93647811960253,
+  "operating_margin": 10.597636810784605,
+  "net_margin": 5.273430933889822,
+  "roe": 11.094834227764172,
+  "cached_at": "2025-06-09T16:04:42.788034"
+}

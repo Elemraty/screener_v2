@@ -1,0 +1,23 @@
+{
+  "ticker": "248070",
+  "name": "솔루엠",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 397394365231,
+  "operating_profit": 11471344068,
+  "net_income": 2472794433,
+  "total_assets": 1092786263331,
+  "total_debt": 658946403147,
+  "total_equity": 433839860184,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 3.2610068537696213,
+  "operating_profit_yoy": -43.463974499812785,
+  "net_income_yoy": -78.73091089622663,
+  "debt_ratio": 151.88701261048902,
+  "operating_margin": 2.886639839830608,
+  "net_margin": 0.6222520119435004,
+  "roe": 2.279914466090082,
+  "cached_at": "2025-06-09T16:01:34.056639"
+}

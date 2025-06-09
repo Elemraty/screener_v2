@@ -1,0 +1,23 @@
+{
+  "ticker": "041650",
+  "name": "상신브레이크",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 143991365821,
+  "operating_profit": 2802819428,
+  "net_income": -453073165,
+  "total_assets": 571603672580,
+  "total_debt": 342446128261,
+  "total_equity": 229157544319,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 0.24715150762775195,
+  "operating_profit_yoy": -42.338799495852285,
+  "net_income_yoy": -108.5716523059666,
+  "debt_ratio": 149.43698636615517,
+  "operating_margin": 1.9465190930158056,
+  "net_margin": -0.3146530088222296,
+  "roe": -0.7908500963324988,
+  "cached_at": "2025-06-09T16:01:12.562680"
+}

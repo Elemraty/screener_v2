@@ -1,0 +1,13 @@
+{
+  "ticker": "378850",
+  "name": "화승알앤에이",
+  "market": "KOSPI",
+  "bps": 7924,
+  "per": 1.89,
+  "eps": 1707,
+  "pbr": 0.41,
+  "roe": 21.542150429076223,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:05:53.567441"
+}

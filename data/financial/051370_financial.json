@@ -1,0 +1,23 @@
+{
+  "ticker": "051370",
+  "name": "인터플렉스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 131747059713,
+  "operating_profit": 8574867118,
+  "net_income": 8342566167,
+  "total_assets": 360076539673,
+  "total_debt": 70413849928,
+  "total_equity": 289662689745,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -1.0134845210568066,
+  "operating_profit_yoy": -3.3475115120288335,
+  "net_income_yoy": -38.44262446518496,
+  "debt_ratio": 24.308912545826225,
+  "operating_margin": 6.5085832933802354,
+  "net_margin": 6.3322598509398125,
+  "roe": 11.520387626510335,
+  "cached_at": "2025-06-09T16:33:06.204085"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "106190",
+  "name": "하이텍팜",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 15258993618,
+  "operating_profit": 2561335154,
+  "net_income": 2184126431,
+  "total_assets": 141150924744,
+  "total_debt": 20291780352,
+  "total_equity": 120859144392,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -20.50168524561815,
+  "operating_profit_yoy": -32.2002764528939,
+  "net_income_yoy": -33.15617745485587,
+  "debt_ratio": 16.789611124653277,
+  "operating_margin": 16.785741039819076,
+  "net_margin": 14.313699092340757,
+  "roe": 7.22866752693832,
+  "cached_at": "2025-06-09T16:40:21.846503"
+}

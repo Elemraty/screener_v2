@@ -1,0 +1,21 @@
+{
+  "ticker": "027580",
+  "name": "상보",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 12138074163,
+  "operating_profit": -1670670701,
+  "net_income": -2440620172,
+  "total_assets": 102250660852,
+  "total_debt": 53605211789,
+  "total_equity": 48645449063,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -8.20937226779428,
+  "debt_ratio": 110.19573839184152,
+  "operating_margin": -13.763886087404522,
+  "net_margin": -20.1071449986658,
+  "roe": -20.06864131392179,
+  "cached_at": "2025-06-09T16:17:04.069341"
+}

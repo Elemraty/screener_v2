@@ -1,0 +1,23 @@
+{
+  "ticker": "012620",
+  "name": "원일특강",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 89241860325,
+  "operating_profit": 3122068544,
+  "net_income": 2121472469,
+  "total_assets": 262793453858,
+  "total_debt": 101595300656,
+  "total_equity": 161198153202,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -2.3659173548526202,
+  "operating_profit_yoy": -11.205879944724995,
+  "net_income_yoy": -2.4226190426471894,
+  "debt_ratio": 63.02510211062362,
+  "operating_margin": 3.4984350759050584,
+  "net_margin": 2.3772167694331396,
+  "roe": 5.264259985265585,
+  "cached_at": "2025-06-09T16:30:27.640902"
+}

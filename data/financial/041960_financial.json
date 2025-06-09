@@ -1,0 +1,23 @@
+{
+  "ticker": "041960",
+  "name": "코미팜",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 14410368068,
+  "operating_profit": 509129603,
+  "net_income": -126216281,
+  "total_assets": 122770275467,
+  "total_debt": 57274767113,
+  "total_equity": 65495508354,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 11.697393170660032,
+  "operating_profit_yoy": -47.25604484781819,
+  "net_income_yoy": -118.02765987855331,
+  "debt_ratio": 87.4483892901979,
+  "operating_margin": 3.533078409916434,
+  "net_margin": -0.8758713199025001,
+  "roe": -0.7708393089663933,
+  "cached_at": "2025-06-09T16:36:06.563988"
+}

@@ -1,0 +1,13 @@
+{
+  "ticker": "489500",
+  "name": "엘케이켐",
+  "market": "KOSDAQ",
+  "bps": 6556,
+  "per": 12.7,
+  "eps": 1532,
+  "pbr": 2.97,
+  "roe": 23.36790726052471,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:24:43.740946"
+}

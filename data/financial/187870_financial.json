@@ -1,0 +1,23 @@
+{
+  "ticker": "187870",
+  "name": "디바이스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 8637715760,
+  "operating_profit": -778600158,
+  "net_income": -307078154,
+  "total_assets": 209058455986,
+  "total_debt": 67129327282,
+  "total_equity": 141929128704,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 8.443739207453538,
+  "operating_profit_yoy": -244.58144095435347,
+  "net_income_yoy": -129.57529891859093,
+  "debt_ratio": 47.297780163225994,
+  "operating_margin": -9.013959009922317,
+  "net_margin": -3.5550851930325615,
+  "roe": -0.8654408205109925,
+  "cached_at": "2025-06-09T16:12:29.684544"
+}

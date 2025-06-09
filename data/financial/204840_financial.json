@@ -1,0 +1,21 @@
+{
+  "ticker": "204840",
+  "name": "지엘팜텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 7839165466,
+  "operating_profit": 128308057,
+  "net_income": 24073119,
+  "total_assets": 45326061673,
+  "total_debt": 25634069238,
+  "total_equity": 19691992435,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 34.35898484111042,
+  "debt_ratio": 130.17509184311243,
+  "operating_margin": 1.6367565853342074,
+  "net_margin": 0.3070877774478654,
+  "roe": 0.48899305805568166,
+  "cached_at": "2025-06-09T16:34:39.489298"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "105330",
+  "name": "케이엔더블유",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 19595505884,
+  "operating_profit": -1069143556,
+  "net_income": -1403941626,
+  "total_assets": 200956325028,
+  "total_debt": 74222249269,
+  "total_equity": 126734075759,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 9.696488391940239,
+  "operating_profit_yoy": -231.93732733956435,
+  "net_income_yoy": -212.93169310153192,
+  "debt_ratio": 58.56534544832479,
+  "operating_margin": -5.456065091297135,
+  "net_margin": -7.16461026477677,
+  "roe": -4.431141719673761,
+  "cached_at": "2025-06-09T16:35:30.902162"
+}

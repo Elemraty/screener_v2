@@ -1,0 +1,23 @@
+{
+  "ticker": "111770",
+  "name": "영원무역",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 811347715731,
+  "operating_profit": 82321576910,
+  "net_income": 70225516970,
+  "total_assets": 5387219871940,
+  "total_debt": 1513706981551,
+  "total_equity": 3873512890389,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 14.318700204667723,
+  "operating_profit_yoy": 15.876505633555515,
+  "net_income_yoy": -11.379778317544575,
+  "debt_ratio": 39.07840310295146,
+  "operating_margin": 10.146275796910418,
+  "net_margin": 8.655415626175628,
+  "roe": 7.251868673962002,
+  "cached_at": "2025-06-09T16:02:25.423825"
+}

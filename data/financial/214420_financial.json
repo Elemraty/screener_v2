@@ -1,0 +1,23 @@
+{
+  "ticker": "214420",
+  "name": "토니모리",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 48937451762,
+  "operating_profit": 3649946210,
+  "net_income": 1745855372,
+  "total_assets": 222816209257,
+  "total_debt": 107102482228,
+  "total_equity": 115713727029,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 17.101341142103045,
+  "operating_profit_yoy": 58.54291883827043,
+  "net_income_yoy": 6.884692295318118,
+  "debt_ratio": 92.55814757497019,
+  "operating_margin": 7.458390411807645,
+  "net_margin": 3.567524072341787,
+  "roe": 6.035084745174464,
+  "cached_at": "2025-06-09T16:04:25.246372"
+}

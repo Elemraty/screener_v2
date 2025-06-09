@@ -1,0 +1,23 @@
+{
+  "ticker": "024950",
+  "name": "삼천리자전거",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 47296056487,
+  "operating_profit": 1306005346,
+  "net_income": 1974231840,
+  "total_assets": 276910913157,
+  "total_debt": 115240026834,
+  "total_equity": 161670886323,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 11.183841018967765,
+  "operating_profit_yoy": 6.399790005150319,
+  "net_income_yoy": 39.14176318710809,
+  "debt_ratio": 71.28063033177388,
+  "operating_margin": 2.761340887604391,
+  "net_margin": 4.174199683101795,
+  "roe": 4.884569844086114,
+  "cached_at": "2025-06-09T16:16:57.840144"
+}

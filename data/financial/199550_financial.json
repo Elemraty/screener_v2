@@ -1,0 +1,22 @@
+{
+  "ticker": "199550",
+  "name": "레이저옵텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 5266607325,
+  "operating_profit": -2278121192,
+  "net_income": -2725458623,
+  "total_assets": 43258351755,
+  "total_debt": 13325118265,
+  "total_equity": 29933233490,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -35.59858531382463,
+  "operating_profit_yoy": -1206.2782256814266,
+  "debt_ratio": 44.51613377970547,
+  "operating_margin": -43.25595305323053,
+  "net_margin": -51.74979744668927,
+  "roe": -36.42050397142043,
+  "cached_at": "2025-06-09T16:13:22.888136"
+}

@@ -1,0 +1,20 @@
+{
+  "ticker": "027360",
+  "name": "아주IB투자",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 0,
+  "operating_profit": 771511985,
+  "net_income": 592287641,
+  "total_assets": 338823474415,
+  "total_debt": 82917742463,
+  "total_equity": 255905731952,
+  "data_source": "f_data_financial",
+  "operating_profit_yoy": -87.72047805351679,
+  "net_income_yoy": -88.16960463501928,
+  "debt_ratio": 32.40167456606748,
+  "roe": 0.9257903470659185,
+  "cached_at": "2025-06-09T16:21:34.992991"
+}

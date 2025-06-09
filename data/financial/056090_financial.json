@@ -1,0 +1,21 @@
+{
+  "ticker": "056090",
+  "name": "시지메드텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 11757782061,
+  "operating_profit": 593622600,
+  "net_income": 518903496,
+  "total_assets": 106885496471,
+  "total_debt": 19615872652,
+  "total_equity": 87269623819,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 40.81003381616719,
+  "debt_ratio": 22.477320049739127,
+  "operating_margin": 5.04876342255924,
+  "net_margin": 4.413277039052953,
+  "roe": 2.3783922665976993,
+  "cached_at": "2025-06-09T16:19:16.730209"
+}

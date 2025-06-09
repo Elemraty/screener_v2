@@ -1,0 +1,23 @@
+{
+  "ticker": "066590",
+  "name": "우수AMS",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 88161508086,
+  "operating_profit": 701934259,
+  "net_income": -1280194166,
+  "total_assets": 317662346789,
+  "total_debt": 228621938091,
+  "total_equity": 89040408698,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 0.26661430461809577,
+  "operating_profit_yoy": -73.63847746890194,
+  "net_income_yoy": -148.29548486295113,
+  "debt_ratio": 256.76200439108635,
+  "operating_margin": 0.7961913018947855,
+  "net_margin": -1.452101028888019,
+  "roe": -5.75107048460237,
+  "cached_at": "2025-06-09T16:30:09.018716"
+}

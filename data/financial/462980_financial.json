@@ -1,0 +1,13 @@
+{
+  "ticker": "462980",
+  "name": "아이지넷",
+  "market": "KOSDAQ",
+  "bps": 354,
+  "per": 278.18,
+  "eps": 11,
+  "pbr": 8.64,
+  "roe": 3.1073446327683616,
+  "source": "fundamental_data_202506",
+  "data_source": "f_data_fundamental",
+  "cached_at": "2025-06-09T16:21:21.882977"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "246250",
+  "name": "에스엘에스바이오",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 1754824838,
+  "operating_profit": -219554393,
+  "net_income": -198680961,
+  "total_assets": 15775276002,
+  "total_debt": 3452457348,
+  "total_equity": 12322818654,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -14.332697612642386,
+  "operating_profit_yoy": -377.36212008608453,
+  "net_income_yoy": -248.66632072307874,
+  "debt_ratio": 28.01678288821794,
+  "operating_margin": -12.511470560801353,
+  "net_margin": -11.32198249635215,
+  "roe": -6.449205058633495,
+  "cached_at": "2025-06-09T16:22:35.405840"
+}

@@ -1,0 +1,23 @@
+{
+  "ticker": "065350",
+  "name": "신성델타테크",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 259474668074,
+  "operating_profit": 10373643652,
+  "net_income": 6263823178,
+  "total_assets": 827262779118,
+  "total_debt": 506055848670,
+  "total_equity": 321206930448,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 16.460263066986602,
+  "operating_profit_yoy": 65.39094079423577,
+  "net_income_yoy": 1.1291303804221275,
+  "debt_ratio": 157.548234704707,
+  "operating_margin": 3.9979408121032933,
+  "net_margin": 2.414040347173162,
+  "roe": 7.800358689974214,
+  "cached_at": "2025-06-09T16:19:27.703531"
+}

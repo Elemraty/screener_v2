@@ -1,0 +1,23 @@
+{
+  "ticker": "096350",
+  "name": "대창솔루션",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 10329008177,
+  "operating_profit": -1167432936,
+  "net_income": -1786103666,
+  "total_assets": 135989920169,
+  "total_debt": 104939659935,
+  "total_equity": 31050260234,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -38.297251208708126,
+  "operating_profit_yoy": -221.83895889511734,
+  "net_income_yoy": -492.98420756346053,
+  "debt_ratio": 337.96708673021425,
+  "operating_margin": -11.302468891442722,
+  "net_margin": -17.292112034311153,
+  "roe": -23.00919415862697,
+  "cached_at": "2025-06-09T16:11:25.183126"
+}

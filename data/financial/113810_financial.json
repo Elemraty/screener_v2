@@ -1,0 +1,23 @@
+{
+  "ticker": "113810",
+  "name": "디젠스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 20575761675,
+  "operating_profit": 1486897192,
+  "net_income": 1492638161,
+  "total_assets": 61176109412,
+  "total_debt": 38878249896,
+  "total_equity": 22297859516,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 0.6635279148645479,
+  "operating_profit_yoy": -10.699967676738542,
+  "net_income_yoy": -10.755386522099531,
+  "debt_ratio": 174.35866374574033,
+  "operating_margin": 7.226450303449095,
+  "net_margin": 7.254351914532467,
+  "roe": 26.776348822701053,
+  "cached_at": "2025-06-09T16:12:48.612473"
+}

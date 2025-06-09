@@ -1,0 +1,21 @@
+{
+  "ticker": "038290",
+  "name": "마크로젠",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 40960497036,
+  "operating_profit": -3046063002,
+  "net_income": -3175279769,
+  "total_assets": 332813807751,
+  "total_debt": 161362270742,
+  "total_equity": 171451537009,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 29.45807017088018,
+  "debt_ratio": 94.11538301551045,
+  "operating_margin": -7.43658701046237,
+  "net_margin": -7.752053804936157,
+  "roe": -7.407993709227162,
+  "cached_at": "2025-06-09T16:13:54.638461"
+}

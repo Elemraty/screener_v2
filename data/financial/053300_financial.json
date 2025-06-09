@@ -1,0 +1,23 @@
+{
+  "ticker": "053300",
+  "name": "한국정보인증",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 33645408670,
+  "operating_profit": 6275828560,
+  "net_income": 12607066508,
+  "total_assets": 395353957916,
+  "total_debt": 159551632308,
+  "total_equity": 235802325608,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 23.729273750550163,
+  "operating_profit_yoy": 51.72988033408097,
+  "net_income_yoy": -5.4528998984829435,
+  "debt_ratio": 67.66329886552525,
+  "operating_margin": 18.652852820289432,
+  "net_margin": 37.47039196834342,
+  "roe": 21.385822172013867,
+  "cached_at": "2025-06-09T16:40:38.667176"
+}

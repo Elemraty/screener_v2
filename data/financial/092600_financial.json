@@ -1,0 +1,21 @@
+{
+  "ticker": "092600",
+  "name": "앤씨앤",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 26400553628,
+  "operating_profit": -5447812404,
+  "net_income": -6274277173,
+  "total_assets": 97395359073,
+  "total_debt": 80503472233,
+  "total_equity": 16891886840,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 44.88450971426514,
+  "debt_ratio": 476.5806981513026,
+  "operating_margin": -20.635220309251917,
+  "net_margin": -23.76570302808197,
+  "roe": -148.57492789124083,
+  "cached_at": "2025-06-09T16:22:08.544522"
+}

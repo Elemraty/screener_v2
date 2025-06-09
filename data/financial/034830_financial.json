@@ -1,0 +1,22 @@
+{
+  "ticker": "034830",
+  "name": "한국토지신탁",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 37241508835,
+  "operating_profit": -4619277141,
+  "net_income": 8446843469,
+  "total_assets": 1810138792517,
+  "total_debt": 855977173353,
+  "total_equity": 954161619164,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -27.439605514550426,
+  "operating_profit_yoy": -163.43597003047583,
+  "debt_ratio": 89.70987264222329,
+  "operating_margin": -12.403571405943548,
+  "net_margin": 22.68126005963958,
+  "roe": 3.541053548727228,
+  "cached_at": "2025-06-09T16:04:57.827588"
+}

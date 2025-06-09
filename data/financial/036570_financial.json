@@ -1,0 +1,23 @@
+{
+  "ticker": "036570",
+  "name": "엔씨소프트",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 360277552006,
+  "operating_profit": 5219932730,
+  "net_income": 37506771591,
+  "total_assets": 3882072602998,
+  "total_debt": 862827455747,
+  "total_equity": 3019245147251,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -9.45768056046905,
+  "operating_profit_yoy": -79.7072215785054,
+  "net_income_yoy": -34.33866508607895,
+  "debt_ratio": 28.577588558272517,
+  "operating_margin": 1.4488642717082378,
+  "net_margin": 10.410521383351513,
+  "roe": 4.969026330988675,
+  "cached_at": "2025-06-09T16:02:21.752186"
+}

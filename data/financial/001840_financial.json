@@ -1,0 +1,21 @@
+{
+  "ticker": "001840",
+  "name": "이화공영",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 19495664627,
+  "operating_profit": -7342159824,
+  "net_income": -7602551701,
+  "total_assets": 78291150966,
+  "total_debt": 69063693386,
+  "total_equity": 9227457580,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -52.34421040842996,
+  "debt_ratio": 748.4585302856522,
+  "operating_margin": -37.660474595114195,
+  "net_margin": -38.99611450266255,
+  "roe": -329.5621414712589,
+  "cached_at": "2025-06-09T16:32:45.173622"
+}

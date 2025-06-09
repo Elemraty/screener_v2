@@ -1,0 +1,21 @@
+{
+  "ticker": "005250",
+  "name": "녹십자홀딩스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 494577268500,
+  "operating_profit": -4752741076,
+  "net_income": 18160860495,
+  "total_assets": 3988369787176,
+  "total_debt": 2167552672359,
+  "total_equity": 1820817114817,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 5.22945857982704,
+  "debt_ratio": 119.04285470080549,
+  "operating_margin": -0.9609703839431513,
+  "net_margin": 3.6719966022862214,
+  "roe": 3.989606720458632,
+  "cached_at": "2025-06-09T15:58:37.364866"
+}

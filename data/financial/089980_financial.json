@@ -1,0 +1,23 @@
+{
+  "ticker": "089980",
+  "name": "상아프론테크",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 40699174333,
+  "operating_profit": 1082077756,
+  "net_income": 278344981,
+  "total_assets": 380710736344,
+  "total_debt": 182366088561,
+  "total_equity": 198344647783,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -7.043773941874898,
+  "operating_profit_yoy": -46.53541481693277,
+  "net_income_yoy": -78.68288204685078,
+  "debt_ratio": 91.94404315891526,
+  "operating_margin": 2.658721641737636,
+  "net_margin": 0.6839081764229067,
+  "roe": 0.5613360060101541,
+  "cached_at": "2025-06-09T16:17:09.306683"
+}

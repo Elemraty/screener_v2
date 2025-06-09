@@ -1,0 +1,22 @@
+{
+  "ticker": "036170",
+  "name": "에이치엠넥스",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 3818428862,
+  "operating_profit": 30977028,
+  "net_income": 1808045141,
+  "total_assets": 127123246254,
+  "total_debt": 1235559389,
+  "total_equity": 125887686865,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 6.17264200531773,
+  "net_income_yoy": -30.942234691465153,
+  "debt_ratio": 0.9814775533408558,
+  "operating_margin": 0.8112506247864203,
+  "net_margin": 47.35049954689977,
+  "roe": 5.744946741102391,
+  "cached_at": "2025-06-09T16:23:26.497971"
+}

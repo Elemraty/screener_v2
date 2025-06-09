@@ -1,0 +1,23 @@
+{
+  "ticker": "003680",
+  "name": "한성기업",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 81067150510,
+  "operating_profit": 2684113880,
+  "net_income": 1063526156,
+  "total_assets": 248946201909,
+  "total_debt": 180070659262,
+  "total_equity": 68875542647,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -4.299465800416291,
+  "operating_profit_yoy": -28.9395428272869,
+  "net_income_yoy": -56.440065887803506,
+  "debt_ratio": 261.4435434431286,
+  "operating_margin": 3.3109759786967006,
+  "net_margin": 1.3119076584156109,
+  "roe": 6.176509774744106,
+  "cached_at": "2025-06-09T16:05:05.333428"
+}

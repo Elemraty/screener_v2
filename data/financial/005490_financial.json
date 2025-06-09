@@ -1,0 +1,23 @@
+{
+  "ticker": "005490",
+  "name": "POSCO홀딩스",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 17436775980004,
+  "operating_profit": 568441042504,
+  "net_income": 344234614472,
+  "total_assets": 102123872639682,
+  "total_debt": 40450149246086,
+  "total_equity": 61673723393596,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -3.407798883072166,
+  "operating_profit_yoy": -2.500974869878536,
+  "net_income_yoy": -43.36519566505361,
+  "debt_ratio": 65.58733123333074,
+  "operating_margin": 3.2600123047739564,
+  "net_margin": 1.9741872859223428,
+  "roe": 2.2326176888988947,
+  "cached_at": "2025-06-09T15:57:21.856013"
+}

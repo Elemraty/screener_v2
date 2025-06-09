@@ -1,0 +1,23 @@
+{
+  "ticker": "021320",
+  "name": "KCC건설",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 449516103225,
+  "operating_profit": 28886508274,
+  "net_income": 13575342238,
+  "total_assets": 1640022885392,
+  "total_debt": 1121195133343,
+  "total_equity": 518827752049,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 3.46522145112671,
+  "operating_profit_yoy": 64.66458583844093,
+  "net_income_yoy": 1221.7180078710055,
+  "debt_ratio": 216.10161154932018,
+  "operating_margin": 6.426134251199716,
+  "net_margin": 3.0199901940342775,
+  "roe": 10.466165068762855,
+  "cached_at": "2025-06-09T16:07:19.811058"
+}

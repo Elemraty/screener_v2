@@ -1,0 +1,22 @@
+{
+  "ticker": "104540",
+  "name": "코렌텍",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 22627161075,
+  "operating_profit": 1042774251,
+  "net_income": 2704032593,
+  "total_assets": 173358024550,
+  "total_debt": 88685003459,
+  "total_equity": 84673021091,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 5.653811237739004,
+  "operating_profit_yoy": 2015.3745641268365,
+  "debt_ratio": 104.73820623890133,
+  "operating_margin": 4.6085067744186725,
+  "net_margin": 11.950383806599566,
+  "roe": 12.773998414885494,
+  "cached_at": "2025-06-09T16:35:58.218283"
+}

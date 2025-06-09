@@ -1,0 +1,23 @@
+{
+  "ticker": "043610",
+  "name": "KT지니뮤직",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 69318111696,
+  "operating_profit": 4035475904,
+  "net_income": 2308363962,
+  "total_assets": 363038133310,
+  "total_debt": 134405689780,
+  "total_equity": 228632443530,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -6.081144476653155,
+  "operating_profit_yoy": 30.265387418728686,
+  "net_income_yoy": -16.067170710300736,
+  "debt_ratio": 58.78679670515089,
+  "operating_margin": 5.821676045790017,
+  "net_margin": 3.330102199153247,
+  "roe": 4.0385588788007825,
+  "cached_at": "2025-06-09T16:07:32.442903"
+}

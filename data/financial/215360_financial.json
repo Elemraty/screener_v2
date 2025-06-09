@@ -1,0 +1,23 @@
+{
+  "ticker": "215360",
+  "name": "우리산업",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 129721283422,
+  "operating_profit": 3107434592,
+  "net_income": 1753953023,
+  "total_assets": 351879372328,
+  "total_debt": 240086779915,
+  "total_equity": 111792592413,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 6.003155649005953,
+  "operating_profit_yoy": 17.901233777449942,
+  "net_income_yoy": -45.98338636734008,
+  "debt_ratio": 214.76090207125483,
+  "operating_margin": 2.3954701264333904,
+  "net_margin": 1.3520934859194735,
+  "roe": 6.275739689514665,
+  "cached_at": "2025-06-09T16:30:03.887275"
+}

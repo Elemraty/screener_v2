@@ -1,0 +1,23 @@
+{
+  "ticker": "014620",
+  "name": "성광벤드",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 63698885259,
+  "operating_profit": 10745231359,
+  "net_income": 9181808812,
+  "total_assets": 568200241147,
+  "total_debt": 45587737859,
+  "total_equity": 522612503288,
+  "data_source": "f_data_financial",
+  "revenue_yoy": 11.423287580287255,
+  "operating_profit_yoy": 8.636506096293918,
+  "net_income_yoy": -18.862892186036895,
+  "debt_ratio": 8.723047682974707,
+  "operating_margin": 16.868790270520172,
+  "net_margin": 14.414394811882056,
+  "roe": 7.027622763889452,
+  "cached_at": "2025-06-09T16:17:45.797579"
+}

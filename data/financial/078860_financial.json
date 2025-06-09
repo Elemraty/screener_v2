@@ -1,0 +1,21 @@
+{
+  "ticker": "078860",
+  "name": "엔에스이엔엠",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 3807749044,
+  "operating_profit": -2140533728,
+  "net_income": -4628781656,
+  "total_assets": 100607229877,
+  "total_debt": 19408184915,
+  "total_equity": 81199044962,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -4.143947687791982,
+  "debt_ratio": 23.90198668479753,
+  "operating_margin": -56.215199669550486,
+  "net_margin": -121.5621513527455,
+  "roe": -22.802148267464002,
+  "cached_at": "2025-06-09T16:24:14.820685"
+}

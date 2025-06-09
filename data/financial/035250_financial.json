@@ -1,0 +1,23 @@
+{
+  "ticker": "035250",
+  "name": "강원랜드",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 366310886143,
+  "operating_profit": 74262706040,
+  "net_income": 74618789704,
+  "total_assets": 4692449427557,
+  "total_debt": 973894829257,
+  "total_equity": 3718554598300,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -0.55998219289074,
+  "operating_profit_yoy": -2.0330401555946565,
+  "net_income_yoy": -19.620698452095276,
+  "debt_ratio": 26.190144678855393,
+  "operating_margin": 20.273136521257907,
+  "net_margin": 20.3703445697954,
+  "roe": 8.026644518073041,
+  "cached_at": "2025-06-09T15:57:57.525993"
+}

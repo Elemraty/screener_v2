@@ -1,0 +1,23 @@
+{
+  "ticker": "214390",
+  "name": "경보제약",
+  "market": "KOSPI",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 60588282702,
+  "operating_profit": 121220760,
+  "net_income": -694782909,
+  "total_assets": 287708192060,
+  "total_debt": 143622912098,
+  "total_equity": 144085279962,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -3.214254084271617,
+  "operating_profit_yoy": -96.03393220433259,
+  "net_income_yoy": -142.11467360329618,
+  "debt_ratio": 99.6791012488424,
+  "operating_margin": 0.20007294248001278,
+  "net_margin": -1.1467281758376449,
+  "roe": -1.9288102412216905,
+  "cached_at": "2025-06-09T15:58:01.754324"
+}

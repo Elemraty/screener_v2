@@ -1,0 +1,21 @@
+{
+  "ticker": "056730",
+  "name": "CNT85",
+  "market": "KOSDAQ",
+  "quarter": "2025Q1",
+  "year": 2025,
+  "quarter_num": 1,
+  "revenue": 6134858326,
+  "operating_profit": -1016407068,
+  "net_income": -729142318,
+  "total_assets": 88596994421,
+  "total_debt": 18214523266,
+  "total_equity": 70382471155,
+  "data_source": "f_data_financial",
+  "revenue_yoy": -66.05795793258456,
+  "debt_ratio": 25.87934604610147,
+  "operating_margin": -16.567734966142396,
+  "net_margin": -11.885234821313459,
+  "roe": -4.143885862684442,
+  "cached_at": "2025-06-09T16:06:21.111172"
+}
