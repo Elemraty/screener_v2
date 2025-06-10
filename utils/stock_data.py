@@ -37,34 +37,58 @@ class StockDataCollector:
             today = datetime.datetime.now().strftime('%Y%m%d')
             sector_mapping = {}
             
-            # KOSPI와 KOSDAQ 업종 정보 수집
+            # KOSPI와 KOSDAQ 업종 정보 수집 (안정적인 날짜 처리)
+            dates_to_try = []
+            current_date = datetime.datetime.now()
+            for i in range(10):  # 최근 10일 시도
+                check_date = current_date - datetime.timedelta(days=i)
+                if check_date.weekday() < 5:  # 평일만
+                    dates_to_try.append(check_date.strftime('%Y%m%d'))
+            
             for market in ['KOSPI', 'KOSDAQ']:
-                try:
-                    sector_data = stock.get_market_sector_classifications(today, market)
-                    if sector_data is not None and not sector_data.empty:
-                        for ticker, row in sector_data.iterrows():
-                            sector_name = row.get('업종명', '기타')
-                            # 업종명 정규화
-                            normalized_sector = self._normalize_sector_name(sector_name)
-                            sector_mapping[ticker] = normalized_sector
-                        print(f"✅ {market} 업종 정보 {len(sector_data)}개 수집 완료")
-                except Exception as e:
-                    print(f"⚠️ {market} 업종 정보 수집 실패: {e}")
+                success = False
+                for date_str in dates_to_try:
+                    try:
+                        sector_data = stock.get_market_sector_classifications(date_str, market)
+                        if sector_data is not None and not sector_data.empty:
+                            for ticker, row in sector_data.iterrows():
+                                sector_name = row.get('업종명', '기타')
+                                # 업종명 정규화
+                                normalized_sector = self._normalize_sector_name(sector_name)
+                                sector_mapping[ticker] = normalized_sector
+                            print(f"✅ {market} 업종 정보 {len(sector_data)}개 수집 완료 ({date_str})")
+                            success = True
+                            break
+                    except Exception as e:
+                        continue
+                
+                if not success:
+                    print(f"⚠️ {market} 업종 정보 수집 실패 - 종목명 기반 분류로 대체")
             
             # pykrx에서 업종 정보를 가져오지 못한 종목들은 종목명 기반 분류
             if len(sector_mapping) == 0:
                 print("⚠️ pykrx 업종 정보 수집 실패, 종목명 기반 분류 사용")
                 return self._get_sector_mapping_by_name()
             
-            # 누락된 종목들은 종목명 기반으로 보완
-            all_tickers = stock.get_market_ticker_list(market="KOSPI") + stock.get_market_ticker_list(market="KOSDAQ")
-            for ticker in all_tickers:
-                if ticker not in sector_mapping:
+            # 누락된 종목들은 종목명 기반으로 보완 (안전한 처리)
+            try:
+                all_tickers = []
+                for market in ['KOSPI', 'KOSDAQ']:
                     try:
-                        name = stock.get_market_ticker_name(ticker)
-                        sector_mapping[ticker] = self._classify_sector_by_name(name)
+                        market_tickers = stock.get_market_ticker_list(market=market)
+                        all_tickers.extend(market_tickers)
                     except:
-                        sector_mapping[ticker] = '기타'
+                        continue
+                
+                for ticker in all_tickers:
+                    if ticker not in sector_mapping:
+                        try:
+                            name = stock.get_market_ticker_name(ticker)
+                            sector_mapping[ticker] = self._classify_sector_by_name(name)
+                        except:
+                            sector_mapping[ticker] = '기타'
+            except Exception as e:
+                print(f"⚠️ 종목 목록 수집 중 오류: {e}")
             
             print(f"✅ 총 {len(sector_mapping)}개 종목 업종 매핑 완료")
             return sector_mapping
