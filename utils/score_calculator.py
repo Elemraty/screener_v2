@@ -80,19 +80,45 @@ class ScoreCalculator:
         volume_score = 0
         if 'Volume' in stock_data.columns and len(stock_data) >= 20:
             try:
-                recent_volume = latest['Volume']
+                # 최근 5일 평균 거래량
+                recent_5d_volume = stock_data['Volume'].tail(5).mean()
+                # 20일 평균 거래량
                 avg_volume_20 = stock_data['Volume'].tail(20).mean()
+                # 60일 평균 거래량 (장기 평균)
+                avg_volume_60 = stock_data['Volume'].tail(min(60, len(stock_data))).mean()
                 
-                if recent_volume > avg_volume_20 * 1.5:  # 평균 대비 50% 이상
+                # 거래량 증가율 계산
+                volume_ratio_20d = recent_5d_volume / avg_volume_20 if avg_volume_20 > 0 else 0
+                volume_ratio_60d = recent_5d_volume / avg_volume_60 if avg_volume_60 > 0 else 0
+                
+                # 거래량 점수 계산 (더 정교한 기준)
+                if volume_ratio_20d >= 2.0:  # 20일 평균 대비 200% 이상
                     volume_score = 7
-                elif recent_volume > avg_volume_20 * 1.2:  # 20% 이상
+                elif volume_ratio_20d >= 1.5:  # 150% 이상
+                    volume_score = 6
+                elif volume_ratio_20d >= 1.3:  # 130% 이상  
                     volume_score = 5
-                elif recent_volume > avg_volume_20:  # 평균 이상
+                elif volume_ratio_20d >= 1.1:  # 110% 이상
+                    volume_score = 4
+                elif volume_ratio_20d >= 1.0:  # 평균 이상
                     volume_score = 3
+                elif volume_ratio_20d >= 0.8:  # 80% 이상
+                    volume_score = 2
+                elif volume_ratio_20d >= 0.5:  # 50% 이상
+                    volume_score = 1
+                # 50% 미만은 0점
                 
-                details['volume_ratio'] = round(recent_volume / avg_volume_20, 2) if avg_volume_20 > 0 else 0
+                # 장기 거래량 대비 보너스
+                if volume_ratio_60d >= 1.5:
+                    volume_score = min(volume_score + 1, 7)  # 최대 1점 보너스
+                
+                details['recent_5d_volume'] = int(recent_5d_volume)
+                details['avg_volume_20d'] = int(avg_volume_20)
+                details['avg_volume_60d'] = int(avg_volume_60)
+                details['volume_ratio_20d'] = round(volume_ratio_20d, 2)
+                details['volume_ratio_60d'] = round(volume_ratio_60d, 2)
                 details['volume_score'] = volume_score
-                score += volume_score / 7 * 7  # 7점 만점
+                score += volume_score
             except:
                 details['volume_score'] = 0
         
@@ -300,14 +326,32 @@ class ScoreCalculator:
         details['institution_net_buy'] = institution_net
         details['institution_ratio'] = round(institution_ratio, 2)
         
-        # 3. 연속 순매수일 보너스 (최대 2점)
+        # 3. 연속 순매수일 점수 (최대 2점) - 더 정교한 계산
         net_buy_days = investor_data.get('net_buy_days', 0)
-        if net_buy_days >= 10:
-            score += 2
-        elif net_buy_days >= 5:
-            score += 1
+        foreign_buy_days = investor_data.get('foreign_buy_days', 0)
+        institution_buy_days = investor_data.get('institution_buy_days', 0)
+        
+        # 연속 매수일 점수 계산
+        consecutive_score = 0
+        if net_buy_days >= 15:  # 15일 이상 연속 매수
+            consecutive_score = 2.0
+        elif net_buy_days >= 10:  # 10일 이상
+            consecutive_score = 1.5
+        elif net_buy_days >= 5:   # 5일 이상
+            consecutive_score = 1.0
+        elif net_buy_days >= 3:   # 3일 이상
+            consecutive_score = 0.5
+        
+        # 외국인과 기관이 모두 연속 매수 중인 경우 보너스
+        if foreign_buy_days >= 3 and institution_buy_days >= 3:
+            consecutive_score = min(consecutive_score + 0.5, 2.0)
+        
+        score += consecutive_score
         
         details['net_buy_days'] = net_buy_days
+        details['foreign_buy_days'] = foreign_buy_days
+        details['institution_buy_days'] = institution_buy_days
+        details['consecutive_score'] = consecutive_score
         
         # 4. 공매도 점수 (최대 2점) - 공매도 비율이 낮을수록 좋음
         short_ratio = investor_data.get('short_selling_ratio', 0)

@@ -56,8 +56,8 @@ class SEPAScreener:
         kosdaq_etf = '229200'
         
         try:
-            kospi_data = self.stock_collector.get_market_data(kospi_etf)
-            kosdaq_data = self.stock_collector.get_market_data(kosdaq_etf)
+            kospi_data = self.stock_collector.get_market_data(kospi_etf, use_cache=False)
+            kosdaq_data = self.stock_collector.get_market_data(kosdaq_etf, use_cache=False)
             
             if kospi_data is not None and not kospi_data.empty and kosdaq_data is not None and not kosdaq_data.empty:
                 market_data = {
@@ -76,8 +76,8 @@ class SEPAScreener:
     def process_single_stock(self, stock_code, stock_name, market, market_data, sector=None):
         """단일 종목에 대한 처리"""
         try:
-            # 1. 주가 데이터 가져오기
-            stock_data = self.stock_collector.get_stock_price(stock_code, period='1y')
+            # 1. 주가 데이터 가져오기 (캐시 사용하지 않음)
+            stock_data = self.stock_collector.get_stock_price(stock_code, period='1y', use_cache=False)
             if stock_data is None or stock_data.empty:
                 return None
             
@@ -212,12 +212,13 @@ class SEPAScreener:
         except Exception as e:
             return None
     
-    def run_screening(self, markets=None, total_score_threshold=0):
+    def run_screening(self, markets=None, total_score_threshold=0, market_cap_filter='large_cap'):
         """전체 스크리닝 실행
         
         Args:
             markets: 스크리닝할 시장 (None이면 모든 시장)
             total_score_threshold: 최소 총점 기준 (기본값: 0)
+            market_cap_filter: 시가총액 필터 ('all', 'large_cap', 'top_300', 'top_500')
             
         Returns:
             results_df: 스크리닝 결과 데이터프레임
@@ -233,8 +234,8 @@ class SEPAScreener:
             print("❌ 시장 데이터를 가져올 수 없어 스크리닝을 중단합니다.")
             return pd.DataFrame()
         
-        # 전체 종목 리스트 가져오기
-        all_stocks = self.stock_collector.get_all_stocks()
+        # 전체 종목 리스트 가져오기 (시가총액 필터 적용)
+        all_stocks = self.stock_collector.get_all_stocks(market_cap_filter=market_cap_filter)
         if all_stocks.empty:
             print("❌ 종목 정보를 가져올 수 없어 스크리닝을 중단합니다.")
             return pd.DataFrame()

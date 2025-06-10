@@ -198,7 +198,7 @@ class ScreeningInterface:
             collector = StockDataCollector()
             
             # 전체 종목 목록 가져오기
-            stocks_df = collector.get_all_stocks()
+            stocks_df = collector.get_all_stocks(market_cap_filter='all')
             
             # 검색어가 숫자인지 확인 (종목 코드)
             if search_input.isdigit():
@@ -276,6 +276,30 @@ class ScreeningInterface:
                 help="분석할 시장을 선택하세요"
             )
             
+            # 시가총액 필터링 설정
+            market_cap_filter = st.selectbox(
+                "💰 시가총액 필터",
+                options=[
+                    ('all', '전종목 (~2,500개)'),
+                    ('large_cap', '대형주 (KOSPI 1조원+, KOSDAQ 5천억원+)'),
+                    ('top_300', '시가총액 상위 300개'),
+                    ('top_500', '시가총액 상위 500개')
+                ],
+                index=1,  # 기본값: 대형주
+                format_func=lambda x: x[1],
+                help="분석할 종목 범위를 선택하세요. 시가총액 필터링으로 분석 시간을 크게 단축시킬 수 있습니다."
+            )[0]  # 튜플에서 키만 추출
+            
+            # 필터링 효과 안내
+            if market_cap_filter == 'all':
+                st.warning("⚠️ 전종목 분석은 오래 걸릴 수 있음.")
+            elif market_cap_filter == 'large_cap':
+                st.info("ℹ️ 대형주 필터: 약 150-300개 종목")
+            elif market_cap_filter == 'top_300':
+                st.info("ℹ️ 상위 300개 종목 필터")
+            elif market_cap_filter == 'top_500':
+                st.info("ℹ️ 상위 500개 종목 필터")
+            
             # 최소 점수 설정
             min_score = st.slider(
                 "📈 최소 총점",
@@ -288,10 +312,10 @@ class ScreeningInterface:
             
             # 전종목 스크리닝 실행 버튼
             run_full_screening = st.button(
-                "🚀 전종목 스크리닝 실행",
+                "🚀 스크리닝 실행",
                 type="primary",
                 use_container_width=True,
-                help="설정된 조건으로 전종목 스크리닝을 실행합니다"
+                help="설정된 조건으로 스크리닝을 실행합니다"
             )
             
             st.markdown("---")
@@ -331,7 +355,8 @@ class ScreeningInterface:
                             # 전종목 스크리닝 실행
                             results_df = screener.run_screening(
                                 markets=markets,
-                                total_score_threshold=0  # 모든 결과 가져온 후 필터링
+                                total_score_threshold=0,  # 모든 결과 가져온 후 필터링
+                                market_cap_filter=market_cap_filter
                             )
                             
                             if not results_df.empty:

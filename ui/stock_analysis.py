@@ -468,9 +468,9 @@ class StockAnalysis:
                     
                     st.markdown("---")
             
-            # 주가 데이터 가져오기
+            # 주가 데이터 가져오기 (캐시 사용하지 않음)
             with st.spinner(f"📈 {stock_name}({formatted_stock_code}) 주가 데이터를 가져오는 중..."):
-                stock_data = collector.get_stock_price(formatted_stock_code, period='1y')
+                stock_data = collector.get_stock_price(formatted_stock_code, period='1y', use_cache=False)
             
             if stock_data.empty:
                 st.error(f"❌ 종목 {stock_name}({formatted_stock_code})의 주가 데이터를 가져올 수 없습니다.")
@@ -481,20 +481,11 @@ class StockAnalysis:
                 stock_data = collector.calculate_indicators(stock_data)
             
             # 실시간 주가 정보
-            col_header1, col_header2 = st.columns([3, 1])
-            with col_header1:
-                st.subheader("📈 실시간 주가 정보")
-            with col_header2:
-                refresh_price = st.button("🔄 가격 새로고침", key="refresh_realtime_price")
+            st.subheader("📈 실시간 주가 정보")
             
-            # 실시간 가격 데이터 가져오기
-            if refresh_price or 'last_price_refresh' not in st.session_state:
-                st.session_state.last_price_refresh = datetime.datetime.now()
-                with st.spinner("🔄 실시간 가격 정보를 가져오는 중..."):
-                    realtime_data = collector.get_realtime_price(formatted_stock_code)
-                    st.session_state.realtime_data = realtime_data
-            else:
-                realtime_data = st.session_state.get('realtime_data', None)
+            # 실시간 가격 데이터 가져오기 (자동)
+            with st.spinner("📊 최신 가격 정보를 가져오는 중..."):
+                realtime_data = collector.get_realtime_price(formatted_stock_code)
             
             if realtime_data:
                 # 실시간 데이터 사용

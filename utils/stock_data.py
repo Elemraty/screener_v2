@@ -97,30 +97,41 @@ class StockDataCollector:
         else:
             return '기타'
     
-    def get_all_stocks(self, market=None):
-        """모든 종목 정보 가져오기"""
-        cache_path = os.path.join(self.cache_dir, 'all_stocks_with_sector.csv')
+    def get_all_stocks(self, market=None, market_cap_filter='large_cap'):
+        """모든 종목 정보 가져오기
         
-        # 캐시 사용 여부 결정 (2시간 단위로 갱신)
+        Args:
+            market: 시장 필터 ('KOSPI', 'KOSDAQ' 등)
+            market_cap_filter: 시가총액 필터
+                - 'all': 전종목
+                - 'large_cap': 대형주 (KOSPI 1조원+, KOSDAQ 5천억원+)
+                - 'top_300': 시가총액 상위 300개
+                - 'top_500': 시가총액 상위 500개
+        """
+        # 시가총액 필터링된 캐시 파일명
+        filter_suffix = '' if market_cap_filter == 'all' else f'_{market_cap_filter}'
+        cache_path = os.path.join(self.cache_dir, f'stocks_with_marketcap{filter_suffix}.csv')
+        
+        # 캐시 사용 여부 결정 (6시간 단위로 갱신 - 성능 개선)
         use_cache = False
         if os.path.exists(cache_path):
             file_mtime = datetime.datetime.fromtimestamp(os.path.getmtime(cache_path))
             time_diff = datetime.datetime.now() - file_mtime
-            if time_diff.total_seconds() < 7200:
+            if time_diff.total_seconds() < 21600:  # 6시간
                 use_cache = True
         
         # 캐시 파일 우선 사용
         if use_cache:
             try:
-                print("📊 CSV 파일에서 종목 정보를 가져오는 중...")
+                print(f"📊 캐시에서 필터링된 종목 정보를 가져오는 중... ({market_cap_filter})")
                 stocks_df = pd.read_csv(cache_path, encoding='utf-8-sig')
                 stocks_df['Code'] = stocks_df['Code'].astype(str).str.zfill(6)
                 if market:
                     stocks_df = stocks_df[stocks_df['Market'].str.upper() == market.upper()]
-                # print(f"✅ CSV 파일에서 {len(stocks_df)}개 종목 정보를 가져왔습니다.")
+                print(f"✅ 캐시에서 {len(stocks_df)}개 필터링된 종목 정보를 가져왔습니다.")
                 return stocks_df
             except Exception as e:
-                print(f"❌ CSV 파일 로드 오류: {e}")
+                print(f"❌ 캐시 파일 로드 오류: {e}")
         
         # pykrx API 사용
         try:
@@ -164,6 +175,10 @@ class StockDataCollector:
             if all_stocks:
                 result_df = pd.DataFrame(all_stocks)
                 
+                # 시가총액 정보 추가 (전종목이 아닌 경우에만)
+                if market_cap_filter != 'all':
+                    result_df = self._add_market_cap_and_filter(result_df, market_cap_filter)
+                
                 # 시장 필터링
                 if market:
                     result_df = result_df[result_df['Market'].isin(market)]
@@ -171,7 +186,7 @@ class StockDataCollector:
                 # 캐시 저장
                 try:
                     result_df.to_csv(cache_path, index=False, encoding='utf-8-sig')
-                    # print(f"✅ 종목 정보 캐시 저장 완료: {len(result_df)}개 종목")
+                    print(f"✅ 필터링된 종목 정보 캐시 저장 완료: {len(result_df)}개 종목")
                 except Exception as e:
                     print(f"❌ 캐시 저장 실패: {e}")
                 
@@ -204,14 +219,99 @@ class StockDataCollector:
         
         return result_df
     
-    def get_stock_price(self, code, period='1y', start_date=None, end_date=None):
-        """주가 데이터 가져오기 - FinanceDataReader 우선 사용"""
+    def _add_market_cap_and_filter(self, stocks_df, market_cap_filter):
+        """시가총액 정보 추가 및 필터링"""
+        print(f"📊 시가총액 정보 수집 중... ({market_cap_filter})")
+        
+        try:
+            # 시가총액 정보 수집
+            today = datetime.datetime.now().strftime('%Y%m%d')
+            
+            # KOSPI와 KOSDAQ 분리하여 시가총액 정보 수집
+            kospi_codes = stocks_df[stocks_df['Market'] == 'KOSPI']['Code'].tolist()
+            kosdaq_codes = stocks_df[stocks_df['Market'] == 'KOSDAQ']['Code'].tolist()
+            
+            market_cap_data = []
+            
+            # KOSPI 시가총액 수집
+            if kospi_codes:
+                try:
+                    kospi_market_cap = stock.get_market_cap(today, market="KOSPI")
+                    if not kospi_market_cap.empty:
+                        for code in kospi_codes:
+                            if code in kospi_market_cap.index:
+                                market_cap = kospi_market_cap.loc[code, '시가총액']
+                                market_cap_data.append({
+                                    'Code': code,
+                                    'MarketCap': market_cap
+                                })
+                except Exception as e:
+                    print(f"⚠️ KOSPI 시가총액 수집 실패: {e}")
+            
+            # KOSDAQ 시가총액 수집
+            if kosdaq_codes:
+                try:
+                    kosdaq_market_cap = stock.get_market_cap(today, market="KOSDAQ")
+                    if not kosdaq_market_cap.empty:
+                        for code in kosdaq_codes:
+                            if code in kosdaq_market_cap.index:
+                                market_cap = kosdaq_market_cap.loc[code, '시가총액']
+                                market_cap_data.append({
+                                    'Code': code,
+                                    'MarketCap': market_cap
+                                })
+                except Exception as e:
+                    print(f"⚠️ KOSDAQ 시가총액 수집 실패: {e}")
+            
+            if market_cap_data:
+                # 시가총액 정보를 DataFrame으로 변환
+                market_cap_df = pd.DataFrame(market_cap_data)
+                
+                # 원본 종목 정보와 시가총액 정보 병합
+                stocks_df = stocks_df.merge(market_cap_df, on='Code', how='left')
+                
+                # 시가총액이 있는 종목만 유지
+                stocks_df = stocks_df.dropna(subset=['MarketCap'])
+                
+                # 필터링 적용
+                if market_cap_filter == 'large_cap':
+                    # 대형주 필터링: KOSPI 1조원+, KOSDAQ 5천억원+
+                    kospi_filter = (stocks_df['Market'] == 'KOSPI') & (stocks_df['MarketCap'] >= 1_000_000_000_000)
+                    kosdaq_filter = (stocks_df['Market'] == 'KOSDAQ') & (stocks_df['MarketCap'] >= 500_000_000_000)
+                    stocks_df = stocks_df[kospi_filter | kosdaq_filter]
+                elif market_cap_filter == 'top_300':
+                    # 상위 300개 종목
+                    stocks_df = stocks_df.nlargest(300, 'MarketCap')
+                elif market_cap_filter == 'top_500':
+                    # 상위 500개 종목
+                    stocks_df = stocks_df.nlargest(500, 'MarketCap')
+                
+                print(f"✅ 시가총액 필터링 완료: {len(stocks_df)}개 종목 선별")
+                return stocks_df
+            else:
+                print("⚠️ 시가총액 정보 수집 실패, 기본 종목 사용")
+                return stocks_df[:50]  # 최소한 50개 종목은 유지
+                
+        except Exception as e:
+            print(f"❌ 시가총액 필터링 오류: {e}")
+            return stocks_df[:50]  # 오류 시 기본 50개 종목 반환
+
+    def get_stock_price(self, code, period='1y', start_date=None, end_date=None, use_cache=True):
+        """주가 데이터 가져오기 - FinanceDataReader 우선 사용
+        
+        Args:
+            code: 종목 코드
+            period: 기간 ('1w', '1m', '3m', '6m', '1y')
+            start_date: 시작 날짜
+            end_date: 종료 날짜
+            use_cache: 캐시 사용 여부 (True: 캐시 사용, False: 실시간 수집)
+        """
         try:
             # 캐시 파일 경로
             cache_file = os.path.join(self.cache_dir, f'{code}_price_{period}.csv')
             
-            # 캐시 확인 (1시간 이내)
-            if os.path.exists(cache_file):
+            # 캐시 확인 (use_cache가 True인 경우에만)
+            if use_cache and os.path.exists(cache_file):
                 file_time = os.path.getmtime(cache_file)
                 current_time = time.time()
                 if current_time - file_time < 3600:  # 1시간
@@ -222,6 +322,9 @@ class StockDataCollector:
                             return self._normalize_price_data(cached_df)
                     except Exception as e:
                         print(f"⚠️ {code} 캐시 로드 실패: {str(e)}")
+            
+            if not use_cache:
+                print(f"📊 {code} 실시간 주가 데이터 수집 중...")
             
             # 날짜 설정
             if start_date is None or end_date is None:
@@ -408,12 +511,15 @@ class StockDataCollector:
             if stock_data is not None and not stock_data.empty:
                 normalized_data = self._normalize_price_data(stock_data)
                 
-                # 캐시 저장
-                try:
-                    normalized_data.to_csv(cache_file)
-                    print(f"✅ {code} 주가 데이터 캐시 저장 완료")
-                except Exception as e:
-                    print(f"⚠️ {code} 주가 데이터 캐시 저장 실패: {str(e)}")
+                # 캐시 저장 (use_cache가 True인 경우에만)
+                if use_cache:
+                    try:
+                        normalized_data.to_csv(cache_file)
+                        print(f"✅ {code} 주가 데이터 캐시 저장 완료")
+                    except Exception as e:
+                        print(f"⚠️ {code} 주가 데이터 캐시 저장 실패: {str(e)}")
+                else:
+                    print(f"✅ {code} 실시간 주가 데이터 수집 완료 (캐시 미사용)")
                 
                 return normalized_data
             else:
@@ -506,26 +612,26 @@ class StockDataCollector:
         
         return df
     
-    def get_market_data(self, market_etf, period='1y', start_date=None, end_date=None):
+    def get_market_data(self, market_etf, period='1y', start_date=None, end_date=None, use_cache=True):
         """시장 데이터 가져오기"""
-        market_data = self.get_stock_price(market_etf, period, start_date, end_date)
+        market_data = self.get_stock_price(market_etf, period, start_date, end_date, use_cache=use_cache)
         
         if not market_data.empty:
             market_data = self.calculate_indicators(market_data)
         
         return market_data
     
-    def get_investor_data(self, code, period='3m'):
-        """투자자별 거래 정보 가져오기 - 개선된 버전"""
+    def get_investor_data(self, code, period='1m'):
+        """투자자별 거래 정보 가져오기 - 최근 1개월 중심 개선된 버전"""
         try:
-            # 기간 설정
+            # 기간 설정 (최근 1개월을 기본으로)
             end_date = datetime.datetime.now()
             if period == '1w':
-                start_date = end_date - datetime.timedelta(days=7)
+                start_date = end_date - datetime.timedelta(days=10)  # 주말 포함하여 10일
             elif period == '1m':
-                start_date = end_date - datetime.timedelta(days=30)
+                start_date = end_date - datetime.timedelta(days=35)  # 충분한 데이터 확보
             else:  # 3m
-                start_date = end_date - datetime.timedelta(days=90)
+                start_date = end_date - datetime.timedelta(days=100)  # 더 넉넉하게
             
             start_date_str = start_date.strftime('%Y%m%d')
             end_date_str = end_date.strftime('%Y%m%d')
@@ -597,7 +703,16 @@ class StockDataCollector:
             
             # 데이터 처리 및 분석
             if investor_data is not None and not investor_data.empty:
-                return self._process_investor_data(investor_data, code, success_method)
+                # 연속 매수일 계산을 위해 일자별 상세 데이터도 수집 시도
+                daily_data = None
+                try:
+                    daily_data = stock.get_market_trading_volume_by_date(start_date_str, end_date_str, formatted_code)
+                    if daily_data.empty:
+                        daily_data = stock.get_market_trading_value_by_date(start_date_str, end_date_str, formatted_code)
+                except:
+                    pass
+                
+                return self._process_investor_data(investor_data, code, success_method, daily_data)
             else:
                 print(f"⚠️ {code} 모든 투자자 정보 수집 방법 실패")
                 return self._get_default_investor_data()
@@ -606,7 +721,7 @@ class StockDataCollector:
             print(f"⚠️ {code} 투자자 데이터 수집 중 전체 오류: {str(e)}")
             return self._get_default_investor_data()
     
-    def _process_investor_data(self, investor_data, code, method):
+    def _process_investor_data(self, investor_data, code, method, daily_data=None):
         """투자자 데이터 처리 및 분석"""
         try:
             # 컬럼명 확인 및 정규화
@@ -748,6 +863,65 @@ class StockDataCollector:
             foreign_ratio = (foreign_net_buy / total_trading_value * 100) if total_trading_value > 0 else 0
             institution_ratio = (institution_net_buy / total_trading_value * 100) if total_trading_value > 0 else 0
             
+            # 연속 매수일 계산 (일자별 데이터가 있는 경우)
+            net_buy_days = 0
+            foreign_buy_days = 0
+            institution_buy_days = 0
+            
+            if daily_data is not None and not daily_data.empty:
+                try:
+                    # 최근 일자부터 역순으로 확인
+                    daily_data_sorted = daily_data.sort_index(ascending=False)
+                    
+                    # 외국인 연속 매수일 계산
+                    for date_idx in daily_data_sorted.index:
+                        if '외국인' in daily_data_sorted.columns or '외국인합계' in daily_data_sorted.columns:
+                            foreign_col = '외국인' if '외국인' in daily_data_sorted.columns else '외국인합계'
+                            
+                            if '순매수' in daily_data_sorted.columns:
+                                daily_foreign_net = daily_data_sorted.loc[date_idx, foreign_col] if foreign_col in daily_data_sorted.index else 0
+                            elif len(daily_data_sorted.columns) >= 3:  # 매도, 매수, 순매수 순서
+                                daily_foreign_net = daily_data_sorted.iloc[daily_data_sorted.index.get_loc(date_idx), 2] if foreign_col in daily_data_sorted.index else 0
+                            else:
+                                daily_foreign_net = 0
+                            
+                            if daily_foreign_net > 0:
+                                foreign_buy_days += 1
+                            else:
+                                break  # 연속 매수가 끊어지면 중단
+                    
+                    # 기관 연속 매수일 계산
+                    for date_idx in daily_data_sorted.index:
+                        institution_found = False
+                        daily_institution_net = 0
+                        
+                        # 다양한 기관 컬럼 확인
+                        for inst_col in ['기관합계', '금융투자', '보험', '투신', '사모', '은행']:
+                            if inst_col in daily_data_sorted.columns:
+                                if '순매수' in daily_data_sorted.columns:
+                                    daily_institution_net += daily_data_sorted.loc[date_idx, inst_col] if inst_col in daily_data_sorted.index else 0
+                                elif len(daily_data_sorted.columns) >= 3:
+                                    daily_institution_net += daily_data_sorted.iloc[daily_data_sorted.index.get_loc(date_idx), 2] if inst_col in daily_data_sorted.index else 0
+                                institution_found = True
+                                
+                                if inst_col == '기관합계':  # 기관합계가 있으면 다른 기관은 제외
+                                    break
+                        
+                        if institution_found and daily_institution_net > 0:
+                            institution_buy_days += 1
+                        else:
+                            break  # 연속 매수가 끊어지면 중단
+                    
+                    # 외국인 또는 기관 중 더 긴 연속 매수일을 사용
+                    net_buy_days = max(foreign_buy_days, institution_buy_days)
+                    
+                except Exception as e:
+                    print(f"⚠️ 연속 매수일 계산 오류: {str(e)}")
+                    net_buy_days = 1 if (foreign_net_buy > 0 or institution_net_buy > 0) else 0
+            else:
+                # 일자별 데이터가 없으면 현재 순매수 상태만 확인
+                net_buy_days = 1 if (foreign_net_buy > 0 or institution_net_buy > 0) else 0
+            
             # 공매도 정보 가져오기
             short_data = self.get_short_selling_data(code)
             
@@ -757,13 +931,16 @@ class StockDataCollector:
                 'individual_net_buy': int(individual_net_buy),
                 'foreign_ratio': round(foreign_ratio, 2),
                 'institution_ratio': round(institution_ratio, 2),
-                'net_buy_days': 1 if foreign_net_buy > 0 else 0,
+                'net_buy_days': net_buy_days,  # 연속 매수일
+                'foreign_buy_days': foreign_buy_days,  # 외국인 연속 매수일
+                'institution_buy_days': institution_buy_days,  # 기관 연속 매수일
                 'total_volume': int(total_trading_value),
                 'short_selling_volume': short_data.get('volume', 0) if short_data else 0,
                 'short_selling_ratio': short_data.get('ratio', 0) if short_data else 0,
                 'short_selling_balance': short_data.get('balance', 0) if short_data else 0,
                 'short_selling_days': short_data.get('days', 0) if short_data else 0,
-                'data_source': method
+                'data_source': method,
+                'daily_data_available': daily_data is not None and not daily_data.empty
             }
             
         except Exception as e:
@@ -779,12 +956,15 @@ class StockDataCollector:
             'foreign_ratio': 0,
             'institution_ratio': 0,
             'net_buy_days': 0,
+            'foreign_buy_days': 0,
+            'institution_buy_days': 0,
             'total_volume': 0,
             'short_selling_volume': 0,
             'short_selling_ratio': 0,
             'short_selling_balance': 0,
             'short_selling_days': 0,
-            'data_source': 'default'
+            'data_source': 'default',
+            'daily_data_available': False
         }
     
     def get_market_investor_trends(self, period='1w'):
@@ -1184,11 +1364,27 @@ class StockDataCollector:
             return df_copy
     
     def get_realtime_price(self, code):
-        """실시간 주가 데이터 가져오기"""
+        """실시간 주가 데이터 가져오기 - FinanceDataReader 직접 사용"""
         try:
-            # 최근 주가 데이터로 대체
-            stock_data = self.get_stock_price(code, period='1w')
+            import FinanceDataReader as fdr
+            
+            # 종목 코드 정규화
+            formatted_code = str(code).zfill(6)
+            
+            # 한국 주식의 경우 KRX: 접두사 추가
+            fdr_code = f"KRX:{formatted_code}"
+            
+            # 최근 5일 데이터 가져오기 (캐시 없이 직접)
+            end_date = datetime.datetime.now()
+            start_date = end_date - datetime.timedelta(days=7)
+            
+            stock_data = fdr.DataReader(fdr_code, start_date, end_date)
+            
             if not stock_data.empty:
+                # 컬럼명 정규화
+                if 'Adj Close' in stock_data.columns:
+                    stock_data['Close'] = stock_data['Adj Close']
+                
                 latest_data = stock_data.iloc[-1]
                 prev_data = stock_data.iloc[-2] if len(stock_data) > 1 else latest_data
                 
@@ -1206,13 +1402,56 @@ class StockDataCollector:
                     'low': float(latest_data['Low']),
                     'open': float(latest_data['Open']),
                     'last_update': datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
-                    'note': '캐시 데이터 사용'
+                    'note': 'FinanceDataReader 실시간 데이터'
                 }
             
             return None
             
         except Exception as e:
-            return None
+            print(f"⚠️ FinanceDataReader 실시간 데이터 수집 실패: {e}")
+            # 대안으로 기존 방식 사용 (캐시 아님)
+            try:
+                from pykrx import stock
+                
+                formatted_code = str(code).zfill(6)
+                today = datetime.datetime.now().strftime('%Y%m%d')
+                
+                # pykrx로 일별 주가 데이터 가져오기
+                price_data = stock.get_market_ohlcv_by_date(today, today, formatted_code)
+                
+                if not price_data.empty:
+                    latest_data = price_data.iloc[-1]
+                    
+                    # 전일 데이터와 비교를 위해 전일 데이터도 가져오기
+                    yesterday = (datetime.datetime.now() - datetime.timedelta(days=1)).strftime('%Y%m%d')
+                    prev_data_df = stock.get_market_ohlcv_by_date(yesterday, yesterday, formatted_code)
+                    
+                    if not prev_data_df.empty:
+                        prev_price = float(prev_data_df.iloc[-1]['종가'])
+                    else:
+                        prev_price = float(latest_data['종가'])
+                    
+                    current_price = float(latest_data['종가'])
+                    price_change = current_price - prev_price
+                    price_change_pct = (price_change / prev_price * 100) if prev_price > 0 else 0.0
+                    
+                    return {
+                        'current_price': current_price,
+                        'price_change': price_change,
+                        'price_change_pct': price_change_pct,
+                        'volume': int(latest_data['거래량']),
+                        'high': float(latest_data['고가']),
+                        'low': float(latest_data['저가']),
+                        'open': float(latest_data['시가']),
+                        'last_update': datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
+                        'note': 'pykrx 실시간 데이터'
+                    }
+                
+                return None
+                
+            except Exception as e2:
+                print(f"⚠️ pykrx 실시간 데이터 수집도 실패: {e2}")
+                return None
 
     def get_short_selling_data(self, code, period='1m'):
         """공매도 정보 가져오기 - 개선된 버전"""
