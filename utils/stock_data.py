@@ -29,9 +29,146 @@ class StockDataCollector:
                 os.makedirs(cache_path)
     
     def _get_sector_mapping(self):
-        """업종 매핑 정보 가져오기"""
+        """업종 매핑 정보 가져오기 - pykrx API 우선 활용"""
+        print("📊 업종 매핑 정보 수집 중...")
+        
         try:
-            # KOSPI 종목 업종 정보
+            # 현재 날짜 기준으로 pykrx 업종 정보 가져오기
+            today = datetime.datetime.now().strftime('%Y%m%d')
+            sector_mapping = {}
+            
+            # KOSPI와 KOSDAQ 업종 정보 수집
+            for market in ['KOSPI', 'KOSDAQ']:
+                try:
+                    sector_data = stock.get_market_sector_classifications(today, market)
+                    if sector_data is not None and not sector_data.empty:
+                        for ticker, row in sector_data.iterrows():
+                            sector_name = row.get('업종명', '기타')
+                            # 업종명 정규화
+                            normalized_sector = self._normalize_sector_name(sector_name)
+                            sector_mapping[ticker] = normalized_sector
+                        print(f"✅ {market} 업종 정보 {len(sector_data)}개 수집 완료")
+                except Exception as e:
+                    print(f"⚠️ {market} 업종 정보 수집 실패: {e}")
+            
+            # pykrx에서 업종 정보를 가져오지 못한 종목들은 종목명 기반 분류
+            if len(sector_mapping) == 0:
+                print("⚠️ pykrx 업종 정보 수집 실패, 종목명 기반 분류 사용")
+                return self._get_sector_mapping_by_name()
+            
+            # 누락된 종목들은 종목명 기반으로 보완
+            all_tickers = stock.get_market_ticker_list(market="KOSPI") + stock.get_market_ticker_list(market="KOSDAQ")
+            for ticker in all_tickers:
+                if ticker not in sector_mapping:
+                    try:
+                        name = stock.get_market_ticker_name(ticker)
+                        sector_mapping[ticker] = self._classify_sector_by_name(name)
+                    except:
+                        sector_mapping[ticker] = '기타'
+            
+            print(f"✅ 총 {len(sector_mapping)}개 종목 업종 매핑 완료")
+            return sector_mapping
+            
+        except Exception as e:
+            print(f"❌ pykrx 업종 정보 수집 중 오류: {e}")
+            print("📊 종목명 기반 업종 분류로 대체")
+            return self._get_sector_mapping_by_name()
+    
+    def _normalize_sector_name(self, sector_name):
+        """pykrx 업종명을 표준 업종명으로 정규화"""
+        if not sector_name or sector_name == '기타':
+            return '기타'
+        
+        # pykrx 업종명 -> 표준 업종명 매핑
+        sector_normalization = {
+            # 제조업
+            '전기전자': '전기전자',
+            '전자부품': '전기전자',
+            '반도체': '전기전자',
+            '컴퓨터서비스': '전기전자',
+            '소프트웨어': '전기전자',
+            '정보기기': '전기전자',
+            '통신장비': '전기전자',
+            
+            # 화학
+            '화학': '화학',
+            '석유화학': '화학',
+            '정유': '화학',
+            '화학공업': '화학',
+            
+            # 철강금속
+            '철강': '철강금속',
+            '금속': '철강금속',
+            '비철금속': '철강금속',
+            '철강금속': '철강금속',
+            
+            # 의료정밀
+            '의료정밀': '의료정밀',
+            '제약': '의료정밀',
+            '바이오': '의료정밀',
+            '의약품': '의료정밀',
+            '의료기기': '의료정밀',
+            
+            # 운수장비
+            '자동차': '운수장비',
+            '운수장비': '운수장비',
+            '자동차부품': '운수장비',
+            '조선': '운수장비',
+            
+            # 건설업
+            '건설': '건설업',
+            '건설업': '건설업',
+            '건축': '건설업',
+            
+            # 금융업
+            '금융': '금융업',
+            '은행': '금융업',
+            '보험': '금융업',
+            '증권': '금융업',
+            '기타금융': '금융업',
+            '금융업': '금융업',
+            
+            # 통신업
+            '통신': '통신업',
+            '통신업': '통신업',
+            '인터넷': '통신업',
+            
+            # 서비스업
+            '서비스': '서비스업',
+            '유통': '서비스업',
+            '게임': '서비스업',
+            '엔터테인먼트': '서비스업',
+            '미디어': '서비스업',
+            '방송': '서비스업',
+            '일반서비스': '서비스업',
+            '교육': '서비스업',
+            '관광': '서비스업',
+            '음식료': '서비스업',
+            '섬유': '서비스업',
+            
+            # 기타
+            '기타': '기타',
+            '에너지': '기타',
+            '전력': '기타',
+            '가스': '기타',
+            '운송': '기타'
+        }
+        
+        # 정확한 매칭 우선
+        if sector_name in sector_normalization:
+            return sector_normalization[sector_name]
+        
+        # 부분 매칭
+        sector_name_upper = sector_name.upper()
+        for key, value in sector_normalization.items():
+            if key.upper() in sector_name_upper or sector_name_upper in key.upper():
+                return value
+        
+        return '기타'
+    
+    def _get_sector_mapping_by_name(self):
+        """종목명 기반 업종 매핑 (pykrx 업종 정보 실패 시 대안)"""
+        try:
             kospi_stocks = stock.get_market_ticker_list(market="KOSPI")
             kosdaq_stocks = stock.get_market_ticker_list(market="KOSDAQ")
             
@@ -40,60 +177,101 @@ class StockDataCollector:
             # 종목별 업종 분류
             for ticker in kospi_stocks + kosdaq_stocks:
                 try:
-                    sector_mapping[ticker] = self._classify_sector_by_name(stock.get_market_ticker_name(ticker))
+                    name = stock.get_market_ticker_name(ticker)
+                    sector_mapping[ticker] = self._classify_sector_by_name(name)
                 except:
                     sector_mapping[ticker] = '기타'
             
             return sector_mapping
             
         except Exception as e:
+            print(f"❌ 종목명 기반 업종 매핑 실패: {e}")
             return {}
     
     def _classify_sector_by_name(self, name):
-        """종목명 기반 업종 분류"""
+        """종목명 기반 업종 분류 - 키워드 대폭 확장"""
         if not name:
             return '기타'
         
         name = str(name).upper()
         
-        # 업종 분류 키워드
+        # 전기전자 (IT, 반도체, 전자 관련)
         if any(keyword in name for keyword in [
             '전자', '반도체', '디스플레이', '삼성전자', 'SK하이닉스', 'LG전자', 
-            '메모리', '시스템', '소프트웨어', 'IT', '컴퓨터', '테크', '배터리'
+            '메모리', '시스템', '소프트웨어', 'IT', '컴퓨터', '테크', '배터리',
+            '에스디', 'SD', '메모리', '플래시', 'NAND', 'DRAM', '칩', 'CPU',
+            '모바일', '스마트', '인공지능', 'AI', '로봇', '자동화', '센서',
+            '웨이퍼', '파운드리', 'OLED', 'LCD', '액정', '패널', 'LED',
+            '솔루션', '플랫폼', '클라우드', '데이터', '네트워크', '보안',
+            '게임', '콘텐츠', '미디어', '엔터', '영상', '음성'
         ]):
             return '전기전자'
+        
+        # 화학 (화학, 석유화학, 정유 관련)
         elif any(keyword in name for keyword in [
-            '자동차', '현대차', '기아', '모비스', '부품', '타이어'
-        ]):
-            return '운수장비'
-        elif any(keyword in name for keyword in [
-            '화학', '석유', '정유', 'LG화학', '케미칼', '플라스틱'
+            '화학', '석유', '정유', 'LG화학', '케미칼', '플라스틱', '화섬',
+            '폴리', '수지', '원유', '가스', '에틸렌', '프로필렌', '벤젠',
+            '아크릴', '염료', '도료', '페인트', '접착', '코팅', '첨가제'
         ]):
             return '화학'
+        
+        # 철강금속
         elif any(keyword in name for keyword in [
-            '철강', '금속', 'POSCO', '포스코', '스틸', '알루미늄'
+            '철강', '금속', 'POSCO', '포스코', '스틸', '알루미늄', '구리',
+            '아연', '니켈', '주석', '합금', '압연', '선재', '파이프',
+            '강관', '철근', '봉강', '판재', '도금', '비철', '제련'
         ]):
             return '철강금속'
+        
+        # 의료정밀 (바이오, 제약, 의료기기)
         elif any(keyword in name for keyword in [
-            '바이오', '제약', '의료', '셀트리온', '헬스케어', '병원'
+            '바이오', '제약', '의료', '셀트리온', '헬스케어', '병원', '의약',
+            '항체', '백신', '치료제', '진단', '의료기기', 'CRO', 'CMO',
+            '신약', '임상', '유전자', '세포', '면역', '암', '당뇨',
+            '정밀의료', '디지털헬스'
         ]):
             return '의료정밀'
+        
+        # 운수장비 (자동차, 조선, 항공)
         elif any(keyword in name for keyword in [
-            '건설', '건축', '부동산', '시공', '물산'
+            '자동차', '현대차', '기아', '모비스', '부품', '타이어', '조선',
+            '중공업', '엔진', '변속기', '브레이크', '에어백', '시트',
+            '램프', '미러', '배터리', '전기차', '수소차', '자율주행'
+        ]):
+            return '운수장비'
+        
+        # 건설업
+        elif any(keyword in name for keyword in [
+            '건설', '건축', '부동산', '시공', '물산', '개발', '주택',
+            '아파트', '토목', '플랜트', '인프라', '도로', '교량'
         ]):
             return '건설업'
+        
+        # 금융업
         elif any(keyword in name for keyword in [
-            '금융', '은행', '보험', '증권', 'KB', '신한', '하나'
+            '금융', '은행', '보험', '증권', 'KB', '신한', '하나', '우리',
+            '농협', '수협', '산업은행', '기업은행', '삼성생명', '교보생명',
+            '미래에셋', '대신증권', '키움증권', '카드', '캐피탈', '리츠'
         ]):
             return '금융업'
+        
+        # 통신업
         elif any(keyword in name for keyword in [
-            '통신', '텔레콤', 'KT', 'SK텔레콤', '네트웍스'
+            '통신', '텔레콤', 'KT', 'SK텔레콤', '네트웍스', 'LG유플러스',
+            '인터넷', '케이블', '위성', '5G', '데이터센터'
         ]):
             return '통신업'
+        
+        # 서비스업 (유통, 게임, 미디어, 엔터테인먼트 등)
         elif any(keyword in name for keyword in [
-            '게임', '엔터', '미디어', '방송', 'NAVER', '카카오', '콘텐츠'
+            'NAVER', '카카오', '쿠팡', '배달', '이커머스', '온라인',
+            '마트', '백화점', '편의점', '유통', '리테일', '할인점',
+            '음식료', '식품', '음료', '주류', '제과', '급식', '외식',
+            '물류', '택배', '운송', '항공', '여행', '호텔', '관광',
+            '교육', '학원', '출판', '방송', '광고', '마케팅'
         ]):
             return '서비스업'
+        
         else:
             return '기타'
     
@@ -143,11 +321,13 @@ class StockDataCollector:
                 kospi_tickers = stock.get_market_ticker_list(market="KOSPI")
                 for ticker in kospi_tickers:
                     name = stock.get_market_ticker_name(ticker)
+                    # 업종 매핑에서 가져오기 (실제 업종 정보 적용)
+                    sector = self.sector_mapping.get(ticker, '기타')
                     kospi_stocks.append({
                         'Code': ticker,
                         'Name': name,
                         'Market': 'KOSPI',
-                        'Sector': '기타'  # 업종 정보는 별도 API 필요
+                        'Sector': sector
                     })
                 # print(f"✅ KOSPI 종목 {len(kospi_stocks)}개 수집")
             except Exception as e:
@@ -159,11 +339,13 @@ class StockDataCollector:
                 kosdaq_tickers = stock.get_market_ticker_list(market="KOSDAQ")
                 for ticker in kosdaq_tickers:
                     name = stock.get_market_ticker_name(ticker)
+                    # 업종 매핑에서 가져오기 (실제 업종 정보 적용)
+                    sector = self.sector_mapping.get(ticker, '기타')
                     kosdaq_stocks.append({
                         'Code': ticker,
                         'Name': name,
                         'Market': 'KOSDAQ',
-                        'Sector': '기타'  # 업종 정보는 별도 API 필요
+                        'Sector': sector
                     })
                 # print(f"✅ KOSDAQ 종목 {len(kosdaq_stocks)}개 수집")
             except Exception as e:
